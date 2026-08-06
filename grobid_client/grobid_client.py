@@ -702,7 +702,7 @@ class GrobidClient(ApiClient):
             try:
                 with open(pdf_file, "rb") as f:
                     resp = requests.post(
-                        f"{typed_area_server.rstrip('/')}/process",
+                        f"{typed_area_server.rstrip('/')}",
                         files={"file": (os.path.basename(pdf_file), f, "application/pdf")},
                         timeout=self.config["timeout"]
                     )
