@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Glyceraldehyde 3-phosphate dehydrogenase is required for band 3 (anion exchanger 1) membrane residency in the mammalian kidney</title>
+				<funder>
+					<orgName type="full">Cambridge Institute for Medical Research</orgName>
+				</funder>
+				<funder ref="#_aeHDvbp">
+					<orgName type="full">Wellcome Trust</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Yoshida Scholarship Foundation (S. Horita)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">British Heart Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">NHS Blood and Transplant/Wellcome Trust</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Kidney Research UK/GSK</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">NIHR Biomedical Research Award to Cambridge University Hospitals</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Action Medical Research</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Ya</forename><surname>Su</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Medical Genetics</orgName>
+								<address>
+									<addrLine>2 Haematology</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Katherine</forename><forename type="middle">G</forename><surname>Blake-Palmer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Medical Genetics</orgName>
+								<address>
+									<addrLine>2 Haematology</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Andrew</forename><forename type="middle">C</forename><surname>Fry</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Medical Genetics</orgName>
+								<address>
+									<addrLine>2 Haematology</addrLine>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Renal Medicine</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alison</forename><surname>Best</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Medical Genetics</orgName>
+								<address>
+									<addrLine>2 Haematology</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alice</forename><forename type="middle">C N</forename><surname>Brown</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Biochemistry</orgName>
+								<orgName type="institution">University of Bristol</orgName>
+								<address>
+									<settlement>Bristol</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Thomas</forename><forename type="middle">F</forename><surname>Hiemstra</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Medical Genetics</orgName>
+								<address>
+									<addrLine>2 Haematology</addrLine>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Renal Medicine</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shoko</forename><surname>Horita</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Medical Genetics</orgName>
+								<address>
+									<addrLine>2 Haematology</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Aiwu</forename><surname>Zhou</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ashley</forename><forename type="middle">M</forename><surname>Toye</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Biochemistry</orgName>
+								<orgName type="institution">University of Bristol</orgName>
+								<address>
+									<settlement>Bristol</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Fiona</forename><forename type="middle">E</forename><surname>Karet</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Medical Genetics</orgName>
+								<address>
+									<addrLine>2 Haematology</addrLine>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Renal Medicine</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Hills Rd</orgName>
+								<orgName type="institution" key="instit1">Cam- bridge Institute for Medical Research</orgName>
+								<orgName type="institution" key="instit2">Addenbrooke&apos;s Hospital</orgName>
+								<address>
+									<postBox>Box 139</postBox>
+									<postCode>CB2 0XY</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Glyceraldehyde 3-phosphate dehydrogenase is required for band 3 (anion exchanger 1) membrane residency in the mammalian kidney</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1A2687F7407760BF0E439F3FECAB45D4</idno>
+					<idno type="DOI">10.1152/ajprenal.00228.2010.0363-6127/11</idno>
+					<note type="submission">Submitted 22 April 2010; accepted in final form 25 October 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Su Y, Blake-Palmer KG, Fry AC, Best A, Brown AC, Hiemstra TF, Horita S, Zhou A, Toye AM, Karet FE. Glyceraldehyde 3-phosphate dehydrogenase is required for band 3 (anion exchanger 1) membrane residency in the mammalian kidney. Am J Physiol Renal Physiol 300: F157-F166, 2011. First published October 27, 2010; doi:10.1152/ajprenal.00228.2010.-The mammalian kidney isoform of the essential chloride-bicarbonate exchanger AE1 differs from its erythrocyte counterpart, being shorter at its N terminus. It has previously been reported that the glycolytic enzyme GAPDH interacts only with erythrocyte AE1, by binding to the portion not found in the kidney isoform. (Chu H, Low PS. Biochem J 400:143-151, 2006). We have identified GAPDH as a candidate binding partner for the C terminus of both AE1 and AE2. We show that full-length AE1 and GAPDH coimmunoprecipitated from both human and rat kidney as well as from Madin-Darby canine kidney (MDCK) cells stably expressing kidney AE1, while in human liver, AE2 coprecipitated with GAPDH. ELISA and glutathione S-transferase (GST) pull-down assays using GST-tagged C-terminal AE1 fusion protein confirmed that the interaction is direct; fluorescence titration revealed saturable binding kinetics with Kd 2.3 Ϯ 0.2 M. Further GST precipitation assays demonstrated that the D 902 EY residues in the D 902 EYDE motif located within the C terminus of AE1 are important for GAPDH binding. In vitro GAPDH activity was unaffected by C-terminal AE1 binding, unlike in erythrocytes. Also, differently from red cell Nterminal binding, GAPDH-AE1 C-terminal binding was not disrupted by phosphorylation of AE1 in kidney AE1-expressing MDCK cells. Importantly, small interfering RNA knockdown of GAPDH in these cells resulted in significant intracellular retention of AE1, with a concomitant reduction in AE1 at the cell membrane. These results indicate differences between kidney and erythrocyte AE1/GAPDH behavior and show that in the kidney, GAPDH is required for kidney AE1 to achieve stable basolateral residency.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GAPDH</head><p>ANION EXCHANGER 1 (AE1), also known as band 3, is a Na ϩindependent Cl Ϫ /HCO 3 Ϫ -transporting member of the SLC4 gene family of anion exchangers. It plays critical roles in the regulation of intracellular and systemic pH, intracellular Cl Ϫ levels and cell volume (reviewed in Ref. 2). AE1 is a polytopic plasma membrane protein that in mammals is expressed in erythrocytes (eAE1) and kidney (kAE1). kAE1 is normally located at the basolateral side of the acid secreting ␣-intercalated cell (␣-IC) of the collecting duct (reviewed in Ref. <ref type="bibr" target="#b35">36)</ref>. Under the control of separate promoters, both AE1 isoforms are encoded by SLC4A1. The kAE1 promoter lies in intron 3, with an initiation codon in exon 5, resulting in humans in the absence of the first 65 amino acids that are present in human eAE1 <ref type="bibr" target="#b20">(21)</ref>. Mutations in SLC4A1 affecting eAE1 and/or kAE1 are associated with hereditary spherocytosis (HS; a dominantly inherited disorder) and distal renal tubular acidosis (dRTA), respectively (reviewed in Ref. <ref type="bibr" target="#b43">44)</ref>. Notably, however, in most cases single mutations resulting in HS do not also produce dRTA, and vice versa. This suggests that for disease-causing mutations affecting the shared portion of AE1, the mechanisms involved in these two conditions must be different.</p><p>AE1 is composed of a large cytosolic N-terminal domain, a central transmembrane region that is predicted to span the lipid bilayer 12-14 times and is responsible for catalyzing one-forone exchange of Cl Ϫ for HCO 3 Ϫ , and a short cytosolic Cterminal tail. In humans, eAE1 is better characterized than kAE1. eAE1's N-terminal domain plays a cytoskeletal scaffolding role through binding to several proteins including ankyrin, protein 4.2, and protein 4.1, thereby contributing to maintenance of red cell shape and flexibility <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b35">36,</ref><ref type="bibr" target="#b38">39)</ref>. The N terminus of eAE1 has also been reported to interact with various glycolytic enzymes, including GAPDH, aldolase, and phosphofructokinase-1, but the physiological significance of these associations remains unclear <ref type="bibr" target="#b6">(7,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b27">28)</ref>. Some, including GAPDH, have been shown to bind to eAE1 within the initial N-terminal portion that is missing from kAE1 and are reported not to interact with the N terminus of kAE1 <ref type="bibr" target="#b6">(7,</ref><ref type="bibr" target="#b40">41,</ref><ref type="bibr" target="#b41">42)</ref>.</p><p>Functions of the C-terminal tail of AE1 (AE1C) are less well understood than those of the other two domains. To date, the only reported binding partner for the AE1C domain is carbonic anhydrase II (CAII), but this remains controversial (reviewed in Ref. 2). We have demonstrated that kAE1, lacking the last 11 residues, corresponding to the R901X mutation in dRTA patients <ref type="bibr" target="#b18">(19)</ref>, loses its normal basolateral targeting in Madin-Darby canine kidney (MDCK) cells without loss of anion exchange function <ref type="bibr" target="#b11">(12,</ref><ref type="bibr" target="#b36">37,</ref><ref type="bibr" target="#b37">38)</ref>. This suggests that some basolateral targeting information is contained in the 11 residues at the extreme end of the AE1C domain, and this targeting is known to be dependent on the Y 904 residue within this region <ref type="bibr" target="#b11">(12,</ref><ref type="bibr" target="#b35">36)</ref>.</p><p>However, the molecular basis of kAE1 targeting remains to be elucidated. To further explore the function of the C-terminal domain, we sought binding partners for AE1C. Parallel yeast two-hybrid assays were conducted using either AE1C wildtype (AE1C-WT) or AE1C lacking the last 11 residues (AE1C-⌬11) as bait to screen a human kidney cDNA library. We report here the identification of a new C-terminal binding partner, GAPDH, for kAE1. We demonstrate that this partnership contributes to the stable basolateral residency of kAE1 and that its characteristics differ from those of the N-terminal eAE1/GAPDH interaction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plasmid construction, protein expression, and purification.</head><p>To express the C terminus of AE1 in bacterial cells, the coding sequence for the final 36 residues of human AE1 (AE1C-WT) 876LIFRN-VELQCLDADDAKATFDEEEGRDEYDEVAMPV911 (residues at the start and end of this domain are numbered; underscored amino acids were mutated separately, as detailed below) was cloned into the vector pGEX-4T1. Site-directed mutagenesis of this construct was performed using a QuikChange Site-Directed Mutagenesis Kit (Stratagene). Base substitutions were separately introduced into codons 902-903 (GATGAA¡GCTGCA), codon 904 (TAC¡GCC), or codons 905-906 (GACGAA¡GCCGCA), which resulted in the amino acid changes D 902 E¡AA (AA1), Y 904 ¡A (YA), or D 905 E¡AA (AA2), respectively. All inserts in constructs were amplified in-house by PCR and sequence-verified before use.</p><p>The resulting glutathione S-transferase (GST)-tagged AE1C-WT (GST_AE1C-WT) and mutant fusion proteins (GST_AE1C-AA1, GST_AE1C-YA, GST_AE1C-AA2, GST_AE1C-⌬11) were separately expressed in Escherichia coli BL21 cells and purified using glutathione Sepharose beads (Amersham Biosciences). To remove the GST tag from GST_AE1C-WT, purified fusion protein was incubated with thrombin (Sigma) at room temperature for 8 h, and AE1C-WT was then HPLC purified as previously reported <ref type="bibr" target="#b30">(31)</ref>.</p><p>To express intact kAE1 in MDCK cells, cDNA encoding kAE1 was subcloned from pHM6-kAE1 (12) into the vector pEGFP-C2 to create an N-terminal green fluorescent protein (GFP)-tagged kAE1 construct. This tag does not affect kAE1 trafficking or activity <ref type="bibr" target="#b4">(5)</ref>. The construct was subsequently cloned into the ⌬pMEP vector (15) containing a metallothionine promoter for stable expression in mammalian cell lines and sequence-verified. MDCK cells were transfected with the ⌬pMEP-GFP-AE1 vector using a Cell Line Nucleofection Kit L (Amaxa/Lonza) and, following selection in hygromycin B, were FACS sorted for GFP fluorescence. Cell lines expressing eGFP-kAE1 were maintained in media containing 200 g/ml hygromycin B.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Peptide synthesis.</head><p>Two peptides, corresponding to the coding sequence of the last 27 residues of human AE1 but differing in the phosphorylation state of Y 904 (nonphosphorylated: AE1C-Y 904 and phosphorylated: AE1C-pY 904 ) were synthesized and HPLC-purified to Ͼ95% by the University of Bristol Peptide Synthesis Facility.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yeast two-hybrid assay.</head><p>Using Matchmaker Two-Hybrid System 3 (Clontech), AE1C-WT or AE1C-⌬11 was employed as bait to screen the Pre-Transformed Human Kidney Matchmaker cDNA Library (Clontech). Human kidney cDNA library clones were supplied in the pACT2 vector, containing a GAL4 activation domain, and were transformed into yeast strain Y187 (Clontech).</p><p>Positive colonies were selected by blue growth on SD/-Ade/-His/-Leu/-Trp/X-␤-Gal plates. Library inserts were recovered from yeast by PCR and retransformed into Y187 in the pGADT7 vector (Clontech). They were then mated back to the original AE1 bait strains and to the control strain provided by the manufacturer to confirm specificity. Appropriate colonies were sequenced and identified through BLAST searches (<ref type="url" target="http://ncbi.nlm.gov/blast">http://ncbi.nlm.gov/blast</ref>).</p><p>Coimmunoprecipitation. Immunoprecipitation assays, using human or rat kidney or human liver samples obtained from the Cambridge Human Tissue Bank (Protocols 99/078 and 03/279), were carried out essentially as previously described <ref type="bibr" target="#b29">(30,</ref><ref type="bibr" target="#b30">31)</ref>. Briefly, 80 -120 g of each membrane sample were prepared and solubilized in buffer containing 10 mM Tris•HCl (pH 7.4), 1 mM EDTA, 1 mM DTT, 10% glycerol, 1.5% n-nonyl-␤-D-glucopyranoside (n-NDG), and Protease Inhibitor Cocktail (Roche). All steps were carried out at 4°C unless otherwise stated. Twenty microliters of specific rabbit polyclonal antiserum directed against the C terminus of AE1 (residues 900 -911; gift of E. Martinez-Anso, Pamplona, Spain) or 40 g of purified goat polyclonal ␣-AE2 antibody (sc-46710) raised against an epitope within the first 50 amino acids of AE2, which is absent from AE1 (Santa Cruz Biotechnology; personal communication) were added to the recovered kidney and liver supernatants, respectively, before overnight incubation. Fifty microliters of ␣-rabbit IgG-agarose beads (for ␣-AE1) or protein G-Sepharose beads (for ␣-AE2) were added, and incubated for 1-4 h. The beads were then washed three times with buffer A [20 mM Tris•HCl (pH 7.4), 5 mM NaN3, and 0.3% n-NDG]; three times with buffer A containing 500 mM NaCl; and finally three times with buffer A. Bound proteins were eluted from beads by incubating in SDS sample buffer [0.175 M Tris•HCl (pH 6.8), 5.14% SDS, 18% glycerol, 0.3 M DTT, 0.006% bromophenol blue] for 5 min at 95°C (kidney) or 1 h at room temperature (liver), and supernatants were subjected to SDS-PAGE. Western blotting was performed with an ␣-GAPDH mouse monoclonal antibody (Abcam) or the relevant precipitating antibody, according to standard methods.</p><p>Immunoprecipitation assays using MDCK cells stably expressing kAE1 <ref type="bibr" target="#b37">(38)</ref> were carried out similarly, except cells were treated with or without 200 M pervanadate for 30 min to maximize the phosphorylation state of AE1 (43), then lysed in buffer containing 150 mM NaCl, 20 mM Tris•HCl (pH 7.4), 10% glycerol, 1% NP-40, 10 mM sodium orthovanadate, 2 mM PMSF, Protease Inhibitor Cocktail set V (Calbiochem), and 1% Phosphatase Inhibitor Cocktail 2 (Sigma). Supernatants were precleared and transferred to either protein Gagarose beads preloaded with the mouse monoclonal ␣-AE1 Nterminal antibody Bric170 (IBGRL, Bristol) or protein A-agarose beads preloaded with ␣-rbAE1Ct, a rabbit polyclonal ␣-AE1 Cterminal antibody raised against residues 881-900 (40), for 4 h followed by three washes with cell lysis buffer. Proteins immunoprecipitated with Bric170 or ␣-rbAE1Ct were probed on blots with the ␣-GAPDH antibody, ␣-rbAE1Ct, or ␣ϪAE-PhosY 904 (a rabbit polyclonal antibody specific to AE1 pY 904 ) <ref type="bibr" target="#b42">(43)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ELISA analysis.</head><p>Full-length rabbit muscle-type GAPDH (Sigma), which shares 95% identity with human liver-type GAPDH identified by yeast two-hybrid assay, was first dissolved in 0.05 M Na2CO3/ NaHCO3 (pH 9.6) to a final concentration of 1 mg/ml, which was then immobilized onto a 96-well plate at 37°C for 1 h. Uncoated GAPDH was removed by three washes with TBST (TBSϩ0.5% Tween 20), and nonspecific sites were blocked with blocking buffer (TBSTϩ5% BSA) for 1 h at 37°C. Recombinant GST_AE1C-WT protein dissolved in blocking buffer (range 0.01-2 g/ml) was applied and incubated at 37°C for 1 h. GST replaced the GST fusion protein in parallel wells to evaluate nonspecific binding. After washing the wells six times with TBST, goat polyclonal ␣-GST antibody (Amersham Biosciences) diluted 1:1,000 in blocking buffer was added and incubated for 1 h at 37°C followed by six washes with TBST. For detection, horseradish peroxidase-conjugated ␣-goat IgG antibody (DAKO) was applied and incubated for 1 h at 37°C. Following six washes in TBST, bound proteins were visualized using ABTS (22% mg/vol in 50 mM sodium citrate, pH 4.0) containing 0.05% H2O2. Å405 values were measured using a microplate reader (Anthos HTII).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GST pull-down assay.</head><p>One hundred micrograms purified GSTtagged WT or mutant AE1C fusion protein was first immobilized onto glutathione Sepharose beads, followed by incubation overnight with GAPDH in PBST (PBSϩ2% Triton X-100) at 4°C. GST replaced GST fusion proteins as a negative control. Beads were collected and washed three times with PBST, then three times with PBST containing 500 mM NaCl; and finally three times with PBST. Bound proteins were eluted from beads by boiling in SDS sample buffer for 3 min at 95°C, and supernatants were subjected to SDS-PAGE. Western blotting was performed using the ␣-GAPDH antibody, and data obtained from three separate assays were quantified densitometrically using ImageJ software.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Binding affinity study.</head><p>Fluorescence titration was performed in a LS55 Luminescence spectrometer (PerkinElmer Instruments) at 25°C with excitation wavelength of 295 nm (2.5-nm bandwidth) and emission of 340 nm (5-nm slit width). Then, 0.5 ml of 2.8 M GAPDH in PBS was titrated with either HPLC-purified AE1C-WT or synthetic AE1 C-terminal peptides (AE1C-Y 904 or AE1C-pY 904 ) over the range 0.16 -7.28 M. After each addition, the solution was allowed to equilibrate for 1 min before recording Trp fluorescence emission. Quenching of Trp fluorescence was analyzed using the F-F 0/F0 ratio (where F 0 and F are fluorescence intensities at 340 nm in the absence and presence of the AE1 peptides, respectively) plotted against peptide concentration using Origin (OriginLab software).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GAPDH activity assay.</head><p>GAPDH activity was measured as described (23) at 340 nm and 37°C. Reaction mixtures contained 2.2 mM glyceradehyde-3-phosphate, 0.25 mM NAD ϩ , 20 mM sodium phosphate (pH 7.0), 100 mM sodium pyrophosphate (pH 8.5), 3 M DTT, and 6.6 nM GAPDH. To investigate the potential effects of AE1 on GAPDH activity, HPLC-purified AE1C-WT (25 M) was preincubated with the 6.6 nM GAPDH for 15 min at room temperature before inclusion in the reaction mixture. Assays were performed in quadruplicate.</p><p>Cell culture, GAPDH knockdown, and biotinylation. MDCK cells were cultured in DMEM (Sigma) supplemented with 10% FBS, penicillin (100 U/ml)/streptomycin (100 g/ml), and L-glutamine (2 mM) at 37°C with a 5% CO 2 atmosphere in a humidified incubator.</p><p>For RNAi experiments, all media were supplemented with 1 mM pyruvate as described elsewhere <ref type="bibr" target="#b45">(46)</ref>. Endogenous GAPDH expression in MDCK cells, stably expressing eGFP-kAE1 and grown in six-well plates, was depleted with a small interfering RNA (siRNA) oligonucleotide based on the canine GAPDH sequence (NM_001003142, sense strand: 5=-CCAAATATGACGACATCAA-3=) (Thermo Scientific Dharmacon). Three micrograms oligonucleotide, or a decoy siRNA (Silencer Negative Control siRNA, Ambion), were transfected into ϳ5 ϫ 10 5 cells using a Amaxa Nucleofector Kit L according to the manufacturer's instructions. Twenty-four hours later, transfection was repeated, cells were immediately seeded onto Transwell filters (Sigma), and kAE1 expression was induced with 2 M CdCl2 and 100 M ZnCl2. Cells were examined 2-3 days later.</p><p>GAPDH knockdown was evaluated by Western blotting of cell lysates. To examine levels of kAE1 at the plasma membrane, biotinylation assays were performed using a Cell Surface Protein Isolation Kit (Pierce) according to the manufacturer's instructions. Biotinylated surface proteins were separated by SDS-PAGE followed by Western blot analysis using antibodies against AE1 (Bric170) and GP135 (gift of F. Buss, Cambridge, UK), an apical membrane protein employed as a loading control.</p><p>ATP measurement. ATP levels in GAPDH-depleted or control cells were measured as described <ref type="bibr" target="#b15">(16)</ref>. Cells were first lysed in buffer containing 50 mM Tris•HCl (pH 7.4), 150 mM NaCl, 1% NP-40, 0.5% sodium deoxycholate, 5 mM EDTA, and Protease Inhibitor Cocktail (Roche), treated with equal volumes of trichloroacetic acid (40 g/l), and pH corrected to 7.0 with 1 M Tris. ATP content was calculated from a luciferin-luciferase assay (ATP Bioluminescence Assay Kit, Roche) using a GLOMAX 96 microplate luminometer (Promega). ATP levels were measured in triplicate using two separate knockdown preparations.</p><p>Immunofluorescence. Cells were fixed in 4% paraformaldehyde for 15 min and permeabilized with PBS containing 0.1% Triton X-100 for 5 min. All steps were then carried out at room temperature using a buffer containing PBS and 1% BSA. Following 15 min in the buffer, cells were incubated with rat monoclonal ␣-ZO-1 (Santa Cruz Biotechnology), or mouse monoclonal ␣-E-cadherin (BD Transduction Laboratories), ␣-tubulin (Sigma) antibodies, or Alexa Fluor 594 phalloidin (Molecular Probes) for 1 h. Goat ␣-rat (Santa Cruz Biotechnology) or goat ␣-mouse (Molecular Probes) Alexa Fluor 568 secondary antibody was applied for 1 h. Following mounting in Vectashield medium (Vector Laboratories), bound antibody was visualized using a LSM510 Confocal laser scanning microscope. Replacement of the primary antibody with an appropriate serum (rat or mouse) (Sigma), or omitting the primary antibody, was used as a negative control.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis.</head><p>Data were analyzed using STATA 11 IC (College Station, TX) and are presented as means Ϯ SE. Differences were compared using the independent or paired Student's t-test as appropriate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GAPDH identified as a potential binding partner for AE1C-WT.</head><p>Parallel yeast two-hybrid assays using AE1C-WT or AE1C-⌬11 as bait to screen a human kidney cDNA library yielded 2 clones of the 40 sequenced, which were both 100% identical to the full coding sequence for the human liver-type glycolytic enzyme GAPDH, with no other matches. Subse- quent specific mating tests showed that they interacted with AE1C-WT but not AE1C-⌬11 (Fig. <ref type="figure" target="#fig_0">1A</ref>), implicating the final 11 residues of AE1 (RDEY 904 DEVAMPV) as the binding moiety.</p><p>GAPDH coimmunoprecipitates with intact AE1 in both human and rat kidneys and with AE2 in the liver. For in vivo verification, we first performed coimmunoprecipitation assays from human kidney membrane, as well as from rat kidney where immunocolocalization of the two proteins has previously been demonstrated <ref type="bibr" target="#b13">(14)</ref>. We initially confirmed that eAE1 was undetectable in kidney membranes by Western blotting, (Supplementary Fig. <ref type="figure" target="#fig_0">S1A</ref>; all supplementary material for this article is available online at the journal web site) and also ascertained from the supplier that the AE2 epitope sequence is not present in AE1 (see Coimmunoprecipitation).</p><p>As shown in Fig. <ref type="figure" target="#fig_0">1B</ref>, ␣-AE1 antiserum was able to coprecipitate GAPDH and AE1, indicating their potential association in human kidney (top left). GAPDH and AE1 similarly coimmunoprecipitated from rat kidney membrane (top right). Specificity of these assays was confirmed by the absence of GAPDH when the precipitating antibody was omitted (Ϫ lanes). In addition, with the use of an ␣-AE2 antibody, GAPDH coimmunoprecipitated from human liver membrane with AE2 (bottom). Probing with the precipitating antibody confirmed the presence of AE1 or AE2 in the precipitated complex (Supplementary Fig. <ref type="figure" target="#fig_0">S1</ref>, <ref type="figure">B</ref> and <ref type="figure">C</ref>). AE1 is not expressed in the liver, whereas AE2 expression is ubiquitous. Importantly, both kAE1 and AE2 lack the N-terminal D 6 DYED and E 19 EYED motifs found in eAE1 that have been identified as sites for AE1/GAPDH binding in red blood cells <ref type="bibr" target="#b9">(10)</ref>. Hence, the association between GAPDH and kAE1 or AE2 indicates the presence of previously unrecognized binding site(s). Examination of the protein sequences shows only one similar motif in each of kAE1 and AE2, within their C termini: D 902 EYDE in AE1 and D 1232 EYNE in AE2. The C termini of AE1 and AE2 share 86% sequence similarity, including this motif (Fig. <ref type="figure" target="#fig_0">1C</ref>). In addition, these findings suggest that association between GAPDH and the anion exchange protein family is a more general phenomenon than previously reported.</p><p>Direct binding of GAPDH to AE1C-WT confirmed by GST pull-down analysis, ELISA, and fluorescence titration. Since coimmunoprecipitation suggests, but does not prove, a direct interaction between two proteins, we next performed a GST pull-down assay to confirm that GAPDH and AE1C-WT interact directly in vitro. GST-tagged AE1C-WT fusion protein was first expressed and purified (Supplementary Fig. <ref type="figure">S2</ref>, lane 2). Fusion protein immobilized on glutathione beads was incubated with GAPDH. Western blot analysis of washed and eluted proteins using ␣-GAPDH antibody clearly displayed the 36-kDa GAPDH band only in the GST_AE1C-WT sample and not with GST alone (Fig. <ref type="figure">2A</ref>), demonstrating a specific and direct interaction between GAPDH and AE1C-WT proteins.</p><p>This direct interaction was further confirmed by ELISA, which as shown in Fig. <ref type="figure">2B</ref>, demonstrated AE1C-WT binding to GAPDH in a specific, concentration-dependent, and saturable manner. The binding affinity of the AE1C-WT/GAPDH interaction was calculated in vitro using fluorescence titration (Fig. <ref type="figure">2C</ref>). The GAPDH monomer contains three Trp residues, whereas no Trp residues are present in AE1C-WT. GAPDH fluorescence was measured in the presence of increasing concentrations of AE1C-WT when the proteins were excited at 295 nm. The observed fluorescence change was dependent upon the amount of AE1C-WT, as there was no change detectable when buffer alone was added (data not shown). The quenching of GAPDH Trp fluorescence yielded a K d value of 2.3 Ϯ 0.2 M.</p><p>The D 902 EYDE motif in the AE1C domain is dominant in GAPDH binding. By analogy with the N-terminal motif in human eAE1 described above, D 902 EYDE (which is missing from AE1C-⌬11) is the likeliest candidate motif for kAE1's GAPDH binding. To investigate this, we expressed, purified, and confirmed the purity and specificity of various GST-tagged AE1C variants: AE1C-⌬11 to mimic the known disease-causing truncation; AE1C-AA1, AE1C-YA, and AE1C-AA2 mutants to disrupt the putative acidic motif, where AA1 and AA2 represent D 902 E¡AA and D 905 E¡AA, respectively, and AE1C-YA is Y 904 ¡A (Supplementary Fig. <ref type="figure">S2</ref>, lanes 3-6). We performed parallel GST pull-down analyses using each of the purified fusion proteins incubated with GAPDH.</p><p>Fig. <ref type="figure">2</ref>. GST pull-down, ELISA, and fluorescence titration analyses for binding of AE1C-WT to GAPDH. A: direct interaction between AE1C-WT and GAPDH was first confirmed by GST pull-down assay. Immobilized GST_AE1C-WT, but not GST alone, was able to pull down GAPDH, indicating binding. This direct interaction was further confirmed by ELISA (B) and fluorescence titration (C). B: ELISA plates coated with GAPDH were incubated with increasing concentrations of GST_AE1C-WT fusion protein () or GST alone (grey symbols). Specific binding of AE1C-WT to GAPDH is shown. C: GAPDH was titrated with increasing concentrations of AE1C-WT. The GAPDH tryptophan residues were excited at 295 nm, and fluorescence change due to binding of AE1C-WT was monitored at 340 nm, yielding saturable binding with Kd ϭ 2.3 Ϯ 0.2 M.</p><p>GST_AE1C-WT and GST alone replaced the mutant AE1C fusion proteins as positive and negative controls, respectively.</p><p>Supernatants eluted from beads were analyzed by Western blotting using ␣-GAPDH antibody (Fig. <ref type="figure" target="#fig_1">3A</ref>, representative of 3 replicate experiments). Blotting for GST confirmed equivalent protein loading in all lanes. Densitometric analysis (Fig. <ref type="figure" target="#fig_1">3B</ref>), correcting for GST band intensity, demonstrated that the DEYDE motif is indeed important for GAPDH binding, with a major reduction in the amount of GAPDH pulled down by AE1C-⌬11 compared with WT (67 Ϯ 8% reduction, P ϭ 0.001 vs. WT). A small amount of binding was preserved by the proximal portion of the C terminus, probably reflecting the presence of a second acidic patch (LDADD). Looking at the DEYDE motif in more detail, we found the first DE pair plus the Y in the D 902 EYDE motif to be more important than the second, since the amount of GAPDH associated with AE1-AA2 was comparable to WT levels, whereas AE1C-AA1 or AE1C-YA both reduced binding by similar amounts as the truncation (72 Ϯ 2.3 and 60 Ϯ 5.3% reductions, respectively, P Ͻ 0.001 for either vs. WT).</p><p>Phosphorylation of Y 904 of AE1 does not affect GAPDH binding. The C-terminal Y 904 within the DEYDE motif can be phosphorylated in both eAE1 and kAE1 <ref type="bibr" target="#b42">(43,</ref><ref type="bibr" target="#b44">45)</ref>, and phosphorylation of the C terminus has been implicated in acute internalization of kAE1 in an in vivo cell culture system <ref type="bibr" target="#b42">(43)</ref>. In red cell studies, Campanella et al. <ref type="bibr" target="#b6">(7)</ref> have shown that phosphorylation of Y 8 and Y 21 , located within the two binding motifs at the N terminus of eAE1 and not found in kAE1, displaced GAPDH from erythrocyte membranes. We therefore asked whether phosphorylation of Y 904 would affect the GAPDH/kAE1 interaction. MDCK cells stably expressing kAE1 and treated with pervanadate were used as the model system <ref type="bibr" target="#b30">(31,</ref><ref type="bibr" target="#b42">43)</ref>. After pervanadate treatment, very little kAE1 was immunoprecipitated using Bric155 (which only recognizes the unphosphorylated C terminus) compared with untreated cells or when the N-terminal antibody Bric170 was used (recognizing both phosphorylated and unphosphorylated C terminus; Supplementary Fig. <ref type="figure" target="#fig_1">S3</ref>). This confirmed that the majority of kAE1 is phosphorylated under these conditions. Figure <ref type="figure" target="#fig_2">4A</ref> shows that Y 904 -phosphorylated AE1 was immunoprecipitable using Bric170, as detected by pY 904 -specific antibody (␣AE1PhosY 904 ; middle), compared with the phosphorylation-independent ␣-C-terminal AE1 antibody (␣-rbAE1Ct; top). Second, at steady state (i.e., without pervanadate), the ␣AE1PhosY 904 antibody immunoblot revealed that no immunoprecipitable AE1 detected by ␣-rbAE1Ct (top, Ϫ lane) was phosphorylated at Y 904 (middle, Ϫ lane). Third, GAPDH coimmunoprecipitated with kAE1 regardless of whether Y 904 was phosphorylated (bottom). These experiments were repeated using ␣-rbAE1Ct as the immunoprecipitating antibody and then probed with a monoclonal GAPDH antibody, and results were similar (data not shown).</p><p>In addition, repeating the in vitro fluorescence titration assays using synthetic AE1 C-terminal peptide with or without Y 904 phosphorylation (AE1C-pY 904 and AE1C-Y 904 ) displayed very similar binding kinetics to GAPDH (Fig. <ref type="figure" target="#fig_2">4B</ref>), indicating maintenance of the interaction. Taken together, these results suggest that phosphorylation of Y 904 does not diminish the capacity of GAPDH to bind to the AE1C domain. This implies a major difference between the GAPDH/AE1 interactions in red blood cells and the kidney.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AE1C binding does not affect GAPDH enzymatic activity.</head><p>In an in vitro assay of GAPDH function, specific GAPDH enzymatic activity in the absence of AE1C-WT was 111 Ϯ 15 mol NADH produced•min Ϫ1 •mg GAPDH Ϫ1 . Figure <ref type="figure" target="#fig_2">4C</ref> shows that addition of an excess of AE1C-WT (25 M) had no significant effect (120 Ϯ 15; P ϭ 0.69). This result again differentiates the kidney/GAPDH interaction from that in erythrocytes, where catalytic activity of GAPDH was potently inhibited by addition of either erythrocyte membrane or the isolated N terminus of eAE1 <ref type="bibr" target="#b9">(10,</ref><ref type="bibr" target="#b40">41)</ref>.</p><p>siRNA knockdown of GAPDH leads to loss of basolateral AE1 in polarized cells. As displayed in Fig. <ref type="figure">5B</ref>, bottom, polarized MDCK cells stably expressing eGFP-tagged WT kAE1 demonstrate normal basolateral localization of the fusion protein, consistent with the GFP tag having no effect on kAE1 trafficking <ref type="bibr" target="#b4">(5)</ref>. Using a specific canine siRNA, ϳ90% knockdown of GAPDH expression was achieved in these stable cells, whereas use of a decoy oligo bearing no homology to the canine genome had no effect (Fig. <ref type="figure">5A</ref>). All media in these experiments were supplemented with pyruvate, as is routinely used to avoid energy losses following GAPDH depletion <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b45">46)</ref>. No significant viability difference was observed between control and knockdown cells. Amounts of ATP were the same in knockdown and control cells, respectively: 2.74 Ϯ 0.38 and 2.64 Ϯ 0.13 nmol/mg protein (P ϭ 0.76), similar to those reported for cultured proximal renal tubular cells (1). Total levels of kAE1 were similar in knockdown and control cells (Fig. <ref type="figure">5A</ref>). Immunolocalization demonstrated that following GAPDH knockdown, overall polarization was preserved in cell monolayers, as evidenced by preserved junctional ZO-1 staining (Fig. <ref type="figure">5B</ref>). However, marked intracellular retention of kAE1 was observed in the knockdown cells (Fig. <ref type="figure">5B</ref>, top), which we confirmed by surface biotinylation: Fig. <ref type="figure">5C</ref> shows that minimal AE1 remained in the biotinylated (surface membrane) fraction of GAPDH-depleted cells compared with control cells. As a nonradioactive alternative to pulse-chase analysis, we performed a time course series at 4, 8, and 16 h after induction of AE1 expression, which in Fig. <ref type="figure">5C</ref> also demonstrates that surface AE1 was low in knockdown cells at all time points. Since our preliminary studies indicated that plasma membrane expression of eGFP-kAE1 reaches steady state at 12-16 h (Supplementary Fig. <ref type="figure" target="#fig_2">S4</ref>), these data imply that GAPDH is more likely to be involved in AE1 translocation to the membrane rather than simply in its retention, since in the latter case, levels of AE1 in knockdown and control cells would have been more similar to each other at the early time points. Taken together, these data indicate a requirement of GAPDH for kAE1 to achieve normal membrane residency in renal epithelial cells.</p><p>To exclude the possibility that GAPDH knockdown exerted general effects on membrane targeting or cytoskeletal integrity, we also stained cells with ␣-E-cadherin, ␣-tubulin, and phalloidin. All three showed normal appearances in the GAPDHdepleted cells (Fig. <ref type="figure">5</ref>, <ref type="figure">D</ref> and <ref type="figure">E</ref>). The former indicates that more than one basolateral targeting pathway is present, and the latter two confirm preservation of actin filament and microtubule structures in these cells.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Although earlier work has shown that the distal portion of the cytoplasmic C-terminal tail of AE1 contains targeting information for both delivery of the protein to its proper functional location in polarized renal epithelia (which in health is chiefly on the basolateral membrane of ␣-IC) and for regulation of this localization <ref type="bibr" target="#b10">(11,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b36">37,</ref><ref type="bibr" target="#b37">38,</ref><ref type="bibr" target="#b42">43)</ref>, little has to date been reported concerning interacting proteins for this domain of the molecule. Our data introduce GAPDH not only as a novel binding partner for the C-terminal tail of AE1 but as a component of AE1's ability to achieve basolateral residency in polarized cells.</p><p>In erythrocytes, the potential for an association of GAPDH with AE1 was in fact first proposed over 40 years ago <ref type="bibr" target="#b31">(32)</ref>. Only recently, however, were molecular studies employed that suggested docking motifs for GAPDH on human eAE1, involving tyrosine-containing sequences D 6 DYED and E 19 EYED located separately in two tandem binding regions within the first 23 residues in the N terminus <ref type="bibr" target="#b9">(10)</ref>. However, this presents challenges for three reasons. First, although in murine studies, colocalization and association of GAPDH with AE1 have been observed in both rat and mouse erythrocyte membranes <ref type="bibr" target="#b7">(8,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b13">14)</ref>, and in vitro evidence also suggests association of GAPDH with rat erythrocyte membrane preparations (4), neither of the two putative N-terminal GAPDH-binding motifs is conserved in the N terminus of either rat or mouse eAE1. Indeed, the absence of sequence conservation in this region of eAE1 is a common feature of many of the mammalian AE1 polypeptides. Second, a potential interaction between GAPDH and AE1 in the kidney was suggested by Ercolani et al. <ref type="bibr" target="#b13">(14)</ref> through observation that GAPDH colocalizes with kAE1 at the rat kidney ␣-IC surface in a manner very similar to that observed in erythrocytes, which is supported by our successful coimmunoprecipitation of the two proteins from rat as well as human kidney despite the absence of the N-terminal region and earlier experimental evidence that the isolated N terminus of kAE1 did not interact with GAPDH <ref type="bibr" target="#b6">(7,</ref><ref type="bibr" target="#b9">10)</ref>. Third, Tsai et al. <ref type="bibr" target="#b40">(41)</ref> reported that peptides composed of varying numbers of Nterminal residues of human eAE1, and therefore containing both D 6 DYED and E 19 EYED motifs, showed only 1-3% of the binding affinity for GAPDH displayed by whole erythrocyte ghosts containing intact eAE1. These observations, taken together with the several methods to confirm specificity that we report here, indicate that additional docking site(s) for GAPDH must exist within the AE1 polypeptide. The D 902 EYDE motif located in the last 11 residues forms an ideal candidate and is highly conserved across many mammalian AE1 orthologs and paralogs including those of the mouse and rat (Fig. <ref type="figure" target="#fig_0">1E</ref>), with complete conservation of the D 902 EY residues that we have shown to be important. In contrast, the eAE1 D 6 DYED and E 19 EYED motifs are not found outside human eAE1.</p><p>A further suggestion of the biological importance of the C-terminal interaction between GAPDH and anion exchanger is provided by the ability of AE2 and GAPDH also to coimmunoprecipitate. AE2, which shares a C-terminal DEYNE motif highly similar to that in AE1C, is also a polarized epithelial membrane resident with a much more widespread tissue expression pattern. Thus the link between the anion exchanger and GAPDH, previously attributed to a part of the Fig. <ref type="figure">5</ref>. Knockdown of GAPDH decreases kAE1 protein on the surface of polarized MDCK cells. Cells were transfected with 2 rounds of small interfering (si) RNA against GAPDH (KD) or scrambled sequence (C) over 2-3 days. A: Western blot analysis of cell lysates: densitometry confirmed ϳ90% knockdown of GAPDH protein compared with control cells. Levels of kAE1 were similar; ␤-actin was a loading control. B: localization of full-length enhanced green fluorescent protein (eGFP)-tagged kAE1 in polarized MDCK cells by confocal microscopy (left low power, right high power). GAPDH-depleted cells retained polarization, as shown by the tight junctional marker ZO-1 (top, XZ sections, red stain), but AE1 was significantly intracellular (top, XY sections, green) compared with GAPDH-replete cells (bottom, XY sections). C: cell surface proteins were isolated following biotinylation at various times post-AE1 induction. At all time points, membrane levels of AE1 were severely depleted in knockdown cells (KD lanes) compared with control cells (C lanes). GP135, an apical membrane protein detected on the same blot, was used as a loading control. D: basolateral localization of E-cadherin was preserved in both KD (top) and control cells (bottom). E: preservation of cytoskeletal integrity: F-actin stained by phalloidin demonstrated no significant differences between KD (1-3) and control cells (4 -6). 1 and 4, Cross sections through microvilli; 2 and 5, below terminal web; 3 and 6, basal. Similarly, there were no differences in tubulin staining between KD (7) and control (8) cells. Bars ϭ 10 m.</p><p>AE1 protein known not to be present outside the red blood cell, is also true for other tissues.</p><p>In erythrocytes, which are end-differentiated, the functional significance of the AE1/GAPDH interaction is not clear. One hypothesis <ref type="bibr" target="#b6">(7,</ref><ref type="bibr" target="#b7">8)</ref> is that linkage of glycolytic enzymes to the erythrocyte membrane, partly through AE1, might function to assist in efficient deposition of ATP synthesized by glycolysis in a "membrane pool." This compartmentalized energy could then be used to fuel neighboring ion pumps. Although this could also be happening in the kidney and in AE2-expressing epithelia, our demonstrations that the kAE1/GAPDH interaction neither regulates GAPDH glycolytic activity (unlike in red blood cells where in fact, binding actually diminishes GAPDH's glycolytic activity), nor is it altered by phosphorylation, imply a different role for the AE1/GAPDH interaction in the kidney. This is logical given that kAE1 membrane residency can be altered by endocytic recycling, whereas mature erythrocytes lack cellular machinery for endocytosis such that eAE1 remains in the membrane once inserted.</p><p>Defective trafficking of kAE1 has been observed in in vitro investigation of a variety of C-terminal mutants including both naturally occurring dRTA-causing mutations and specifically engineered ones. These abnormalities include nonpolarized and/or apical membrane localization or intracellular retention, depending on the sequence alteration and the degree of polarization of the cellular system under study, and reveal that more than one targeting motif is present, even within the final 11 residues. For example, the kAE1⌬11 mutant was shown to either locate to both apical and basolateral membranes or accumulate uniquely in the apical membrane, depending on whether transfection of AE1 was transient or stable <ref type="bibr" target="#b11">(12,</ref><ref type="bibr" target="#b36">37)</ref>, while replacement of Y 904 by phenylalanine or alanine demonstrated prominent intracellular retention <ref type="bibr" target="#b11">(12,</ref><ref type="bibr" target="#b36">37)</ref>, as did deletion of the last four amino acids of kAE1 (our unpublished observations). All these studies confirm that the C terminus of kAE1 is critical for correct movement to its final destination, whereas the marked intracellular retention of WT kAE1 at all time points that we observed following reduction in GAPDH levels in this study delineates the first functional protein interaction described to date.</p><p>While phosphorylation of AE1 and GAPDH binding can be seen as a means of spatial-temporal regulation of activity in red blood cells, our results suggest that in the kidney, movement of the whole complex presents an alternative mechanism. Indeed, since GAPDH remains bound to the kAE1 C terminus in the presence of phosphorylated Y 904 , there is potential for GAPDH localization to be regulated in tandem with kAE1 upon phosphorylation of kAE1. In support of this, similar kAE1:GAPDH band intensity ratios pre-and post-pervanadate treatment were observed on blots in all coimmunoprecipitation assays (Fig. <ref type="figure" target="#fig_2">4</ref> and data not shown).</p><p>Our finding of the involvement of GAPDH in the normal cellular behavior of kAE1 adds to the expanding repertoire of possible functions for GAPDH emerging from other mammalian studies, in addition to its essential role in the glucose metabolic pathway. These include participation in intracellular membrane transport, and fusion, microtubule bundling, and kinase activity (reviewed in Ref. <ref type="bibr" target="#b28">29</ref>). In the renal epithelial cell system we have employed, we have not found evidence of the latter two properties. First, cellular morphology was well preserved following GAPDH knockdown (Fig. <ref type="figure">5E</ref>), and sec-ond, since kAE1 phosphorylation leads to its internalization (43), the GAPDH knockdown would have been predicted to lead to membrane retention of kAE1, the opposite of our observation.</p><p>There is, however, other supportive evidence for GAPDH's involvement in cargo transport, in vertebrate photoreceptors <ref type="bibr" target="#b8">(9)</ref>, and in nuclear translocation in conjunction with Siah, an ubiquitin-E3-ligase (3). In addition, GAPDH has been implicated in the endoplasmic reticulum to Golgi transport through direct interaction with both Rab-2 and microtubules <ref type="bibr" target="#b32">(33)</ref><ref type="bibr" target="#b33">(34)</ref><ref type="bibr" target="#b34">(35)</ref>, although the latter is not borne out by our or others' studies <ref type="bibr" target="#b12">(13,</ref><ref type="bibr" target="#b24">25)</ref>. Our results support a role for GAPDH in forward cargo transport, since knockdown of GAPDH resulted in less surface appearance of kAE1. However, since E-cadherin was normally located in knockdown cells, distinct pathways are required for basolateral membrane targeting of different membrane residents.</p><p>The specific pull-down assays employing the R901X (AE1C-⌬11) tail construct suggested preservation of some GAPDH binding (Fig. <ref type="figure" target="#fig_1">3</ref>), whereas the original specific yeast two-hybrid test was positive only for the full-length construct. This difference could possibly result from differing detection limits between the very disparate techniques and systems. Although we cannot rule out the existence of an additional, low-affinity binding site in the C terminus of kAE1 or elsewhere on the molecule, it should be noted that the C-terminal tail of human AE1 contains a high percentage of acidic amino acids, with a pI value of ϳ3.8. The residual in vitro binding of R901X may therefore be explained by the presence of more proximal acidic residues, with the main binding being acid/ tyrosine dependent, as shown by the results with DE902-3AA and Y904A substitutions. To minimize possible nonspecific electrostatic interactions as pointed out previously (20, 27), we have as described been careful to perform our assays with high-ionic-strength buffers incorporating detergents.</p><p>Our data concerning direct binding of the C terminus of AE1 to GAPDH do disagree to some degree with those of Chu and Low <ref type="bibr" target="#b9">(10)</ref>, who reported, as we have here, that the C terminus of AE1 did not inhibit GAPDH activity, but they did not achieve GST pull-down. We cannot address the difference between our findings and theirs as, unfortunately, supporting data and experimental methods for this latter point were not included in their report.</p><p>In summary, our data demonstrate for the first time that nonerythrocytic anion exchange and GAPDH are partnered, and in the kidney at least, that this is functionally important via AE1's C terminus.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. C-terminal domains of chloride-bicarbonate exchangers (AE1 and AE2) interact with GAPDH. A: following yeast two-hybrid screening of a human kidney cDNA library using either AE1C-wild-type (WT) or AE1C-⌬11 as bait, positive clones were verified by mating analysis on -Ade/-His/-Leu/-Trp/X-␤-Gal drop-out plates. Two clones (one shown) corresponding to GAPDH displayed mating with AE1C-WT-containing cells, but not with cells harboring AE1C-⌬11. B: solubilized membrane protein fractions of fresh frozen human (top left) or rat (top right) kidney were immunoprecipitated using ␣-AE1 antibody (ϩ lanes). Detection of GAPDH (ϳ36 kDa) by ␣-GAPDH antibody indicates coimmunoprecipitation in both species. Similarly, samples prepared from human liver membrane were immunoprecipitated using specific ␣-AE2 antibody followed by detection of GAPDH (bottom). Ϫ Lanes indicate omission of ␣-AE1 or ␣-AE2 antibody. IP, immunoprecipitation; IB, immunoblot; hkm/rkm, human/rat kidney membrane; hlm, human liver membrane protein (inputs). Numbers in brackets indicate amounts (g) of samples loaded. C: comparative sequence analysis of the C termini of AEs 1-3 from human (Hs), mouse (Mm), rat (Rn), horse (Ec), cow (Bt), and dog (Cf) reveals high homology, especially around Y904 of AE1. Residues at the start and end of this domain are numbered. The motif containing key residues for AE1/GAPDH binding (see Fig. 3) are shaded, and conserved amino acids within it are highlighted.</figDesc><graphic coords="3,308.18,199.58,252.00,346.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Investigation of the putative GAPDH binding site on AE1C. GSTtagged WT or mutated AE1C proteins (⌬11; AA1, D 902 E¡AA; YA, Y 904 ¡A; AA2, D 905 E¡AA) or GST alone was employed in bead-bound pull-down assays against GAPDH. A: bound proteins were analyzed by Western blotting using ␣-GAPDH antibody (with GST blotting providing loading control). B: bands were densitometrically quantified and expressed relative to WT (100%) Ϯ SE. The acidic patch centered on Y 904 is important for binding. Blots are representative of 3 separate assays. *P ϭ 0.001; ϩP Ͻ 0.001 vs. WT.</figDesc><graphic coords="5,44.18,70.72,252.00,274.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Phosphorylation of Y 904 of AE1 does not affect GAPDH binding, and enzyme activity is unaltered by AE1C. The effects of phosphorylation of Y 904 (pY 904 ) of AE1 on GAPDH binding were assayed by both ex vivo immunoprecipitation from Madin-Darby canine kidney (MDCK) cells (A) and in vitro fluorescence titration (B). A: clear lysates of MDCK cells stably expressing kAE1 and treated with (ϩ) and without (Ϫ) pervanadate were immunoprecipitated using ␣-AE1 Bric170 antibody (top, detected by the ␣-AE1 antibody ␣-rbAE1Ct). GAPDH coimmunoprecipitated with both pY 904 (bottom, ϩ lane) and nonphosphorylated (Ϫ lane) AE1. Detection with pY 904 -specific antibody (␣AE1PhosY 904 ; middle) shows that pervanadate treatment was efficient in phosphorylating AE1 at Y 904 , and that without it, immunoprecipitable AE1 was not significantly Y 904 -phosphorylated. B: GAPDH was titrated with increasing concentration of synthetic AE1 C-terminal peptides with () or without (grey diamond) Y 904 phosphorylation. Both peptides displayed very similar binding curves to GAPDH, with Kd 2.6 Ϯ 0.1 M for phospho-and Kd 3.2 Ϯ 0.2 M for non-phospho-peptide. C: GAPDH enzyme activity was assayed with and without AE1C-WT (25 M) at 37°C. AE1C-WT binding did not affect catalytic activity of GAPDH. NS, not significant. Data are means of 4 independent experiments.</figDesc><graphic coords="6,61.66,70.49,480.00,169.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><graphic coords="4,61.66,539.53,480.00,141.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><graphic coords="7,74.18,70.12,456.00,432.00" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>AJP-Renal Physiol• VOL 300 • JANUARY 2011 • www.ajprenal.org</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p>We thank <rs type="person">Prof. Dave Anstee</rs> and <rs type="person">Drs. Folma Buss</rs> and <rs type="person">Rosey Mushens</rs> for the provision of antisera, and <rs type="person">Drs. Annabel Smith</rs> and <rs type="person">John Bason</rs> for advice and assistance.</p></div>
+<div><head>GRANTS</head><p>This work was supported by the <rs type="funder">Wellcome Trust</rs> (<rs type="person">Y. Su</rs>, <rs type="person">K. G. Blake-Palmer</rs>, <rs type="person">A. Best</rs>, <rs type="person">F. E. Karet</rs>); an <rs type="funder">NIHR Biomedical Research Award to Cambridge University Hospitals</rs> (<rs type="affiliation">Cambridge Human Tissue Bank</rs>); the <rs type="funder">Yoshida Scholarship Foundation (S. Horita)</rs>; <rs type="funder">Kidney Research UK/GSK</rs> (<rs type="person">A. C. Fry</rs>, <rs type="person">A. C. N. Brown</rs>); <rs type="funder">Action Medical Research</rs> (T. F. Hiemstra); the <rs type="funder">British Heart Foundation</rs> (<rs type="person">A. Zhou</rs>); and a <rs type="funder">NHS Blood and Transplant/Wellcome Trust</rs> Fellowship (A. M. Toye). The <rs type="funder">Cambridge Institute for Medical Research</rs> is in receipt of a <rs type="funder">Wellcome Trust</rs> <rs type="grantName">Strategic Award</rs> (<rs type="grantNumber">079895</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_aeHDvbp">
+					<idno type="grant-number">079895</idno>
+					<orgName type="grant-name">Strategic Award</orgName>
+				</org>
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCLOSURES</head><p>No conflicts of interest, financial or otherwise, are declared by the authors.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Acute phosphate depletion and in vitro rat proximal tubule injury: protection by glycine and acidosis</title>
+		<author>
+			<persName><forename type="first">Arp</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jfm</forename><surname>Wetzels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bunnachak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chaimovitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Hammond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Schrier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kidney Int</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1494" to="1500" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Molecular physiology and genetics of Na ϩ -independent SLC4 anion exchangers</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Alper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Exp Biol</title>
+		<imprint>
+			<biblScope unit="volume">212</biblScope>
+			<biblScope unit="page" from="1672" to="1683" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Mutant huntingtin: nuclear translocation and cytotoxicity mediated by GAPDH</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Bae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Hara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Cascio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Wellington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Hayden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Ha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Snyder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="3405" to="3409" />
+			<date type="published" when="2006">2006</date>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Glyceraldehyde-3-phosphate dehydrogenase of rat erythrocytes has no membrane component</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Ballas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Kliman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochim Biophys Acta</title>
+		<imprint>
+			<biblScope unit="volume">831</biblScope>
+			<biblScope unit="page" from="142" to="149" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">An N-terminal GFP tag does not alter the functional expression to the plasma membrane of red cell and kidney anion exchanger (AE1) in mammalian cells</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Beckmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Toye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Smythe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Anstee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Tanner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Membr Biol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="187" to="200" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Association between ankyrin and the cytoplasmic domain of band 3 isolated from the human erythrocyte membrane</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Stenbuck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">255</biblScope>
+			<biblScope unit="page" from="6424" to="6432" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Assembly and regulation of a glycolytic enzyme complex on the human erythrocyte membrane</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Campanella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Low</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="2402" to="2407" />
+			<date type="published" when="2005">2005</date>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Characterization of glycolytic enzyme interactions with murine erythrocyte membranes in wild-type and membrane protein knockout mice</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Campanella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Wandersee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mohandas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Gilligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Low</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="3900" to="3906" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Interaction of glyceraldehyde-3-phosphate dehydrogenase in the lightinduced rod alpha-transducin translocation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Sezate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Matsumoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ramsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Mcginnis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurochem</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="1280" to="1292" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Mapping of glycolytic enzyme-binding sites on human erythrocyte band 3</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Low</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem J</title>
+		<imprint>
+			<biblScope unit="volume">400</biblScope>
+			<biblScope unit="page" from="143" to="151" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Unraveling trafficking of the kidney anion exchanger 1 in polarized MDCK epithelial cells</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cordat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Cell Biol</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="949" to="959" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Non-polarized targeting of AE1 causes autosomal dominant distal renal tubular acidosis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Devonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Poon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ihrke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Karet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Genet</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="125" to="127" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The formin mDia regulates GSK3beta through novel PKCs to promote microtubule stabilization but not MTOC reorientation in migrating fibroblasts</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Eng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Huckaba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Gundersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Biol Cell</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="5004" to="5016" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Colocalization of GAPDH and band 3 (AE1) proteins in rat erythrocytes and kidney intercalated cell membranes</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ercolani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stuart-Tilley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Alper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Renal Fluid Electrolyte Physiol</title>
+		<imprint>
+			<biblScope unit="volume">262</biblScope>
+			<biblScope unit="page" from="892" to="F896" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">TGN38-green fluorescent protein hybrid proteins expressed in stably transfected eukaryotic cells provide a tool for the real-time, in vivo study of membrane traffic pathways and suggest a possible role for ratTGN38</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Girotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Banting</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Sci</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="2915" to="2926" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">ATP synthase from bovine heart mitochondria: reconstitution into unilamellar phospholipid vesicles of the pure enzyme in a functional state</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Groth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem J</title>
+		<imprint>
+			<biblScope unit="volume">318</biblScope>
+			<biblScope unit="page" from="351" to="357" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The interaction of phosphofructokinase with erythrocyte membranes</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Higashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Richards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Uyeda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">254</biblScope>
+			<biblScope unit="page" from="9542" to="9550" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Association of phosphofructokinase and aldolase with the membrane of the intact erythrocyte</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Madden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Steck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">259</biblScope>
+			<biblScope unit="page" from="9374" to="9378" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Mutations in the chloride-bicarbonate exchanger gene AE1 cause autosomal dominant but not autosomal recessive distal renal tubular acidosis</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Karet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Gainza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Z</forename><surname>Gyory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Unwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Wrong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Tanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nayir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Alpay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Hulton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bakkaloglu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ozen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pietro</forename><forename type="middle">A</forename><surname>Di</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Lifton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="6337" to="6342" />
+			<date type="published" when="1998">1998</date>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Quantitative characterization of the interactions of aldolase and glyceraldehyde-3-phosphate dehydrogenase with erythrocyte membranes</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Kelley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Winzor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochim Biophys Acta</title>
+		<imprint>
+			<biblScope unit="volume">778</biblScope>
+			<biblScope unit="page" from="67" to="73" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Anion exchanger 1 in human kidney and oncocytoma differs from ery-throid AE1 in its NH2 terminus</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kollert-Jons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hubner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Appelhans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Drenckhahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Renal Fluid Electrolyte Physiol</title>
+		<imprint>
+			<biblScope unit="volume">265</biblScope>
+			<biblScope unit="page" from="813" to="F821" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Modulation of caspase-independent cell death leads to resensitization of imatinib mesylate-resistant cells</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Lavallard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Pradelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beneteau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jacquel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Auberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Ricci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="3013" to="3020" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Aging of human glyceraldehyde-3-phosphate dehydrogenase is dependent on its subcellular localization</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Mazzola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Sirover</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochim Biophys Acta</title>
+		<imprint>
+			<biblScope unit="volume">1722</biblScope>
+			<biblScope unit="page" from="168" to="174" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The aldolase-binding site of the human erythrocyte membrane is at the NH2 terminus of band 3</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Murthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Kaul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kohler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Steck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">256</biblScope>
+			<biblScope unit="page" from="11203" to="11208" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Adenomatous polyposis coli protein nucleates actin assembly and synergizes with the formin mDia1</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Okada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bartolini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Deaconescu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Moseley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Dogic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Grigorieff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Gundersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Goode</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Biol</title>
+		<imprint>
+			<biblScope unit="volume">189</biblScope>
+			<biblScope unit="page" from="1087" to="1096" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Interactions between protein 4.1 and band 3. An alternative binding site for an element of the membrane skeleton</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Pasternack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Leto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">T</forename><surname>Marchesi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">260</biblScope>
+			<biblScope unit="page" from="3676" to="3683" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Glyceraldehyde-3-phosphate dehydrogenase release from erythrocytes during haemolysis. No evidence for substantial binding of the enzyme to the membrane in the intact cell</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Rich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pryor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem J</title>
+		<imprint>
+			<biblScope unit="volume">221</biblScope>
+			<biblScope unit="page" from="197" to="202" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Association of glyceraldehyde-3phosphate dehydrogenase with the plasma membrane of the intact human red blood cell</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Rogalski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Steck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Waseem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">264</biblScope>
+			<biblScope unit="page" from="6438" to="6446" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">New insights into an old protein: the functional diversity of mammalian glyceraldehyde-3-phosphate dehydrogenase</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Sirover</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochim Biophys Acta</title>
+		<imprint>
+			<biblScope unit="volume">1432</biblScope>
+			<biblScope unit="page" from="159" to="184" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Molecular cloning and characterization of Atp6n1b: a novel fourth murine vacuolar H ϩ -ATPase a-subunit gene</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Finberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Lifton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Devonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Karet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">276</biblScope>
+			<biblScope unit="page" from="42382" to="42388" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The a-subunit of the V-type H ϩ -ATPase interacts with phosphofructokinase-1 in humans</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Al-Lamki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Karet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">278</biblScope>
+			<date type="published" when="2003">20013-20018, 2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The isolation and functional identification of a protein from the human erythrocyte &apos;ghost&apos;</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Tanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem J</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="1109" to="1117" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">A GAPDH mutant defective in Src-dependent tyrosine phosphorylation impedes Rab2-mediated events</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Tisdale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Artalejo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Traffic</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="733" to="741" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Rab2 utilizes glyceraldehyde-3phosphate dehydrogenase and protein kinase C to associate with microtubules and to recruit dynein</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Tisdale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Azizi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Artalejo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">284</biblScope>
+			<biblScope unit="page" from="5876" to="5884" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Glyceraldehyde-3-phosphate dehydrogenase interacts with Rab2 and plays an essential role in endoplasmic reticulum to Golgi transport exclusive of its glycolytic activity</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Tisdale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Artalejo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">279</biblScope>
+			<biblScope unit="page" from="54046" to="54052" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Defective kidney anion-exchanger 1 (AE1, Band 3) trafficking in dominant distal renal tubular acidosis (dRTA)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Toye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Soc Symp</title>
+		<imprint>
+			<biblScope unit="page" from="47" to="63" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Regions of human kidney anion exchanger 1 (kAE1) required for basolateral targeting of kAE1 in polarised kidney cells: mis-targeting explains dominant renal tubular acidosis (dRTA)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Toye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Banting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Tanner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Sci</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="1399" to="1410" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Band 3 Walton, a C-terminal deletion associated with distal renal tubular acidosis, is expressed in the red cell membrane but retained internally in kidney cells</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Toye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Bruce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Unwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Wrong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Tanner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="342" to="347" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Protein-4.2 association with band 3 (AE1, SLCA4) in Xenopus oocytes: effects of three natural protein-4.2 mutations associated with hemolytic anemia</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Toye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Sessions</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ramauge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Leclerc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Basu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Delaunay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Tanner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="4088" to="4095" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Band 3 Courcouronnes (Ser667Phe): a trafficking mutant differentially rescued by wild-type band 3 and glycophorin A</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Toye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khanfar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bader-Meunier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cynober</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Thibault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tchernia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dechaux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Delaunay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Bruce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="5380" to="5389" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Effect of red cell membrane binding on the catalytic activity of glyceraldehyde-3-phosphate dehydrogenase</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Murthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Steck</surname></persName>
+		</author>
+		<ptr target="www.ajprenal.org" />
+	</analytic>
+	<monogr>
+		<title level="j">KIDNEY AJP-Renal Physiol</title>
+		<imprint>
+			<biblScope unit="volume">257</biblScope>
+			<biblScope unit="page" from="1438" to="1442" />
+			<date type="published" when="1982">1982. JANUARY 2011</date>
+		</imprint>
+	</monogr>
+	<note>F165 AE1 AND GAPDH IN THE J Biol Chem</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Partial characterization of the cytoplasmic domain of human kidney band 3</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Moriyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Lombardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Low</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">270</biblScope>
+			<biblScope unit="page" from="17892" to="17897" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Human kidney anion exchanger 1 localisation in MDCK cells is controlled by the phosphorylation status of two critical tyrosines</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Mawby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Toye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Sci</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="3422" to="3432" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Toye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Glycophorin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood Cells Mol Dis</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="35" to="43" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Three regions of erythrocyte band 3 protein are phosphorylated on tyrosines: characterization of the phosphorylation sites by solid phase sequencing combined with capillary electrophoresis</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yannoukakos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vasseur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Driancourt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wajcman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bursaux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochim Biophys Acta</title>
+		<imprint>
+			<biblScope unit="volume">1066</biblScope>
+			<biblScope unit="page" from="70" to="76" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main">S phase activation of the histone H2B promoter by OCA-S, a coactivator complex that contains GAPDH as a key component</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Roeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Luo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="255" to="266" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<monogr>
+		<ptr target="www.ajprenal.org" />
+		<title level="m">F166 AE1 AND GAPDH IN THE KIDNEY AJP-Renal Physiol</title>
+		<imprint>
+			<date type="published" when="2011">JANUARY 2011</date>
+			<biblScope unit="volume">300</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,2493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Non-linear relationships of cerebrospinal fluid biomarker levels with cognitive function: an observational study</title>
+				<funder>
+					<orgName type="full">NIHR Comprehensive Biomedical Research Centre</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Merck &amp; Co., Inc.</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Takayama Foundation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-02-17">17 February 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Jonathan</forename><forename type="middle">H</forename><surname>Williams</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">OPTIMA</orgName>
+								<orgName type="institution" key="instit2">University of Oxford</orgName>
+								<orgName type="institution" key="instit3">John Radcliffe Hospital</orgName>
+								<address>
+									<postCode>OX3 9DU</postCode>
+									<settlement>Headington Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">OPTIMA</orgName>
+								<orgName type="institution" key="instit2">University of Oxford</orgName>
+								<orgName type="institution" key="instit3">John Radcliffe Hospital</orgName>
+								<address>
+									<postCode>OX3 9DU</postCode>
+									<settlement>Headington Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gordon</forename><forename type="middle">K</forename><surname>Wilcock</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">OPTIMA</orgName>
+								<orgName type="institution" key="instit2">University of Oxford</orgName>
+								<orgName type="institution" key="instit3">John Radcliffe Hospital</orgName>
+								<address>
+									<postCode>OX3 9DU</postCode>
+									<settlement>Headington Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">OPTIMA</orgName>
+								<orgName type="institution" key="instit2">University of Oxford</orgName>
+								<orgName type="institution" key="instit3">John Radcliffe Hospital</orgName>
+								<address>
+									<postCode>OX3 9DU</postCode>
+									<settlement>Headington Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jeffrey</forename><surname>Seeburger</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Clinical Neuroscience and Ophthalmology</orgName>
+								<orgName type="institution">Merck Research Laboratories</orgName>
+								<address>
+									<addrLine>351 N. Sumneytown Pike</addrLine>
+									<postCode>19454</postCode>
+									<region>North Wales PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Aimee</forename><surname>Dallob</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Clinical Development Laboratory</orgName>
+								<orgName type="institution">Merck Research Laboratories</orgName>
+								<address>
+									<addrLine>126 East Lincoln Avenue</addrLine>
+									<postCode>07065</postCode>
+									<settlement>Rahway</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Omar</forename><surname>Laterza</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Clinical Development Laboratory</orgName>
+								<orgName type="institution">Merck Research Laboratories</orgName>
+								<address>
+									<addrLine>126 East Lincoln Avenue</addrLine>
+									<postCode>07065</postCode>
+									<settlement>Rahway</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">William</forename><surname>Potter</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Clinical Neuroscience and Ophthalmology</orgName>
+								<orgName type="institution">Merck Research Laboratories</orgName>
+								<address>
+									<addrLine>351 N. Sumneytown Pike</addrLine>
+									<postCode>19454</postCode>
+									<region>North Wales PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><surname>Smith</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">OPTIMA</orgName>
+								<orgName type="institution" key="instit2">University of Oxford</orgName>
+								<orgName type="institution" key="instit3">John Radcliffe Hospital</orgName>
+								<address>
+									<postCode>OX3 9DU</postCode>
+									<settlement>Headington Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">OPTIMA</orgName>
+								<orgName type="institution" key="instit2">University of Oxford</orgName>
+								<orgName type="institution" key="instit3">John Radcliffe Hospital</orgName>
+								<address>
+									<postCode>OX3 9DU</postCode>
+									<settlement>Headington Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Non-linear relationships of cerebrospinal fluid biomarker levels with cognitive function: an observational study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-02-17">17 February 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1E55FBA93FCF48925B353010CDDBFEAD</idno>
+					<note type="submission">Received: 1 May 2010 Revised: 11 January 2011 Accepted: 17 February 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Introduction: Levels of cerebrospinal fluid (CSF) β-amyloid (Aβ) and Tau proteins change in Alzheimer's disease (AD). We tested if the relationships of these biomarkers with cognitive impairment are linear or non-linear.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods:</head><p>We assessed cognitive function and assayed CSF Aβ and Tau biomarkers in 95 non-demented volunteers and 97 AD patients. We then tested non-linearities in their inter-relations. Results: CSF biomarkers related to cognitive function in the non-demented range of cognition, but these relations were weak or absent in the patient range; Aβ 1-40 's relationship was biphasic.</p><p>Conclusions: Major biomarker changes precede clinical AD and index cognitive impairment in AD poorly, if at all.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The incidence and prevalence of Alzheimer's disease (AD) double every five years from age 65, to affect over one quarter of people aged over 85 <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. AD pathology can develop long before clinical symptoms <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref>. This means that, ideally, disease-modifying treatments should begin before diagnosis <ref type="bibr" target="#b5">[6]</ref>. Consequently, there is much interest in finding biomarkers that can predict the onset of AD <ref type="bibr" target="#b6">[7]</ref>. There is also much interest in finding biomarkers to assess treatment effects <ref type="bibr" target="#b7">[8]</ref>. Leading candidates for these roles are β-amyloid (Aβ) and Tau proteins in the cerebrospinal fluid (CSF) <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref>. To date, nearly all studies of CSF biomarkers have related them to diagnostic categories -AD and mild cognitive impairment (MCI). However, the boundaries of diagnostic categories, particularly MCI, are uncertain <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref>. We, therefore, related CSF biomarkers directly to cognitive test scores.</p><p>The form of the relationship between biomarker levels and cognitive scores is important. To predict the onset of AD, a biomarker should relate to cognitive decline pre-clinically. Conversely, to monitor disease progression and treatment response, a biomarker should relate to cognitive level in the range of clinical dementia. These relationships may be such that alterations in biomarker expression may precede, coincide with, or lag behind changes in cognitive status. The simplest assumption would be that the relation of CSF amyloid and Tau biomarkers with cognitive function is linear from cognitive normality through MCI to AD. If so, then these biomarkers might be useful for both the prediction of AD and monitoring its progression. However, most studies that related CSF Aβ and Tau levels to cognitive scores <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b19">20]</ref> did not test this assumption of a linear relationship and one study <ref type="bibr" target="#b20">[21]</ref> found no relationship in AD patients. Moreover, recent studies that used diagnostic categories have provided evidence of biphasic changes in levels of putative biomarkers between controls, MCI and AD patients in CSF <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b21">22]</ref> and blood <ref type="bibr" target="#b22">[23,</ref><ref type="bibr" target="#b23">24]</ref>. These findings support Combrinck's hypothesis <ref type="bibr" target="#b24">[25]</ref> that biomarkers may relate non-linearly to cognitive function. Here, we test this hypothesis further by analysing the forms of the relations between CSF biomarkers and cognitive scores.</p><p>We have previously reported a biphasic relation between CSF PGE 2 levels and cognitive scores, using an analysis of covariance with polynomial trends <ref type="bibr" target="#b24">[25]</ref>. The present study uses change-point analyses with highly robust linear regression to test for non-linearity in cross-sectional relations between cognitive scores and CSF Aβ and Tau moieties.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Participants were volunteers in the Oxford Project To Investigate Memory and Ageing (OPTIMA), a naturalistic longitudinal study of memory and ageing. All OPTI-MA's protocols received prior ethical approval from the local research ethics committee (COREC #1656). OPTIMA is a convenience sample of patients with dementia and non-demented volunteers of similar age. We have described OPTIMA's recruitment and assessment protocol previously <ref type="bibr" target="#b25">[26]</ref>. Briefly, at their initial assessment all participants underwent a physical examination, blood tests, CT scan and cognitive assessment using the Cambridge Cognitive examination (CAM-COG) <ref type="bibr" target="#b26">[27]</ref>. We also obtained a detailed history from participants and an informant. We invited participants who could give valid consent to undergo a lumbar puncture (LP).</p><p>Clinical diagnoses of Alzheimer's disease or Other Dementia Syndromes used the National Institute of Neurological and Communicative Disorders and Stroke (NINCDS) criteria <ref type="bibr" target="#b27">[28]</ref>. OPTIMA has a high rate of autopsy acceptance (over 80%). Details of OPTIMA's neuropathological examinations are available elsewhere <ref type="bibr" target="#b28">[29]</ref>. We supplanted clinical diagnoses whenever possible by neuropathological diagnoses using Consortium to Establish a Registry for Alzheimer's Disease (CERAD) criteria <ref type="bibr" target="#b29">[30]</ref>. The present analysis did not include consideration of Braak staging <ref type="bibr" target="#b2">[3]</ref> in the determination of neuropathological diagnosis or its relationship to the variables studied.</p><p>The present report includes data from all non-demented controls and AD patients aged over 60 who underwent lumbar puncture and whose CAMCOG data were complete. It excludes patients with clinical or neuropathological diagnoses of non-Alzheimer dementias.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lumbar punctures</head><p>All LPs used standard clinical techniques <ref type="bibr" target="#b30">[31]</ref>. Most took place in the late morning. LP has a low risk of adverse effects in our cohort <ref type="bibr" target="#b30">[31]</ref>. We collected the CSF samples into polystyrene tubes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CSF assays</head><p>We centrifuged CSF samples for 10 minutes at 4°C at 1,000 g to remove cells and stored the supernatant in aliquots of 0.5 ml in polypropylene tubes at -70°C. We assayed levels of CSF Aβ and Tau moieties using commercial kits. No sample underwent any freeze-thaw cycles between collection and these assays.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ab 1-40 assay</head><p>Aβ 1-40 was measured in the CSF with a human Aβ 1-40 Colorimetric solid phase sandwich Enzyme Linked Immuno-Sorbent Assay (ELISA) kit (catalogue # KHB3482, BioSource International, Camarillo, CA, USA) following the manufacturer's recommendations. This assay employs a mouse monoclonal antibody specific for the N-terminal half of Aβ 1-40 as capture and a rabbit anti-Aβ 1-40 neo-epitope (secondary antibody). The detection antibody consisted of a secondary anti-rabbit IgG:horse radish peroxidase (HRP) conjugate. HRP catalyzes the formation of a chromophore, tetramethylbenzidine (TMB), which was measured at 450 nm. A total of 100 μL of the sample (CSF diluted 1:20 in assay buffer) was used in this assay. The standards were provided in the BioSource assay kit and they ranged from 15.6 to 1000 pg/mL.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ab 1-42 assay</head><p>Aβ 1-42 was measured with Innotest™ Aβ 1-42 ELISA kit (Innogenetics Inc., Cat. #80040, Ghent, Belgium) following the manufacturer's recommendations with some modifications. Aβ 1-42 present in human CSF samples was first captured with a mouse monoclonal antibody specific for the C-terminal half of Aβ The detection system employs an N-terminal specific biotinylated mouse monoclonal antibody and a secondary conjugate made of HRP labeled strepavidin. The HRP is used to convert tetramethyl benzidine to a chromophore which is quantitatively measured at 450 nm. A total of 100 μL of the sample (CSF Diluted 1:3 with Sample Diluent) was used in each reaction. Aβ 1-42 standard was purchased from American Peptide (Sunnyvale, CA, USA) and the concentration was determined by amino-acid analysis. Standard concentrations in the assay ranged from 5.45 to 350 pg/mL.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tau assay</head><p>Total Tau (t-Tau) expression was measured with a human Tau (hTAU AG Innotest™) ELISA kit (Innogenetics Inc., catalogue number 80226, Ghent, Belgium) following the manufacturer's recommendations. The analyte was first captured with a monoclonal antibody specific for all isoforms of Tau, and then subsequently bound by two biotinylated Tau-specific antibodies. The final detection was performed by peroxidase-labeled streptavidin. A total of 25 μL of the sample was tested undiluted. The standards were supplied with the kit and ranged from 37.5 to 1200 pg/mL.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Phospho-Tau assay</head><p>Phosphorylated Tau-181 (pTau-181) was measured with the Phospho-TAU ( 181P ) Innotest™ ELISA kit (Innogenetics Inc., catalogue number 80062, Ghent, Belgium), following the manufacturer's recommendations.</p><p>The analyte was first captured with an antibody specific for all isoforms of Tau and then detected with a second detection antibody which specifically detects Tau molecules phosphorylated at threonine 181 (phospho-tau-181). A 75 μL sample was tested undiluted. The standards were supplied with the kit and ranged from 15.6 to 500 pg/mL.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assay validation</head><p>All assays were analytically validated (inter-and intraassay precision, freeze/thaw stability, linearity, spike recovery, and sensitivity). In addition, quality control samples (low, medium, and high) were run on all plates and were used as part of the run acceptance criteria. All analytes were found to be stable (&lt;20% change) after three freeze-thaw cycles. All sample analyses were performed in duplicate.</p><p>For the Aβ 1-40 assay, the intra-and inter-assay percent coefficient of variation (% CV) ranged from 4.1% to 7.6% and 9.4% to 12.5%, respectively. The spike recovery was determined to be 105 to 114% and the lower limit of reliable quantitation was 17.8 pg/mL.</p><p>For the Aβ 1-42 assay, the intra-and inter-assay % CV ranged from 3.7 to 4.7% and 5.9 to 7.6%, respectively. The spike recovery was determined to be 70 to 109% and the lower limit of reliable quantitation was 24.5 pg/mL.</p><p>For the t-Tau assay, the intra-and inter-assay % CV ranged from 3.8 to 9.0% and 6.2 to 7.2%, respectively. The spike recovery was determined to be 105 to 116% and the lower limit of detection was 37.5 pg/mL.</p><p>For the p-Tau assay, the intra-and inter-assay % CV ranged from 1.3 to 2.2% and from 4.9 to 5.3%, respectively. The spike recovery was determined to be 84 to 89% and the lower limit of detection was 15.6 pg/mL.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistics</head><p>All statistical analyses used the open-source statistical programming language 'R' <ref type="bibr" target="#b31">[32]</ref>. We used the Wilcoxon-Mann-Whitney signed rank test and Pearson's χ 2 to compare the demographic characteristics of the patient and non-demented groups.</p><p>We first performed omnibus tests for non-linearity using multivariate analysis of variance (MANOVA) <ref type="bibr" target="#b32">[33]</ref>. The first MANOVA tested the dependence of all four biomarkers on age, gender, storage time, CAMCOG score and assay group. A second MANOVA included all the above variables and a second CAMCOG term representing an inflection in the relationship with cognitive function, corresponding with our previous work <ref type="bibr" target="#b24">[25]</ref>. That study showed an inflection in the relation between CSF PGE 2 levels and CAMCOG learning sub-scale scores at a score of 11, the lowest limit of the non-demented range. In the present study, we first ascertained the total CAMCOG score that corresponded best with a CAMCOG learning sub-scale score of 11, then programmed an inflection at that total score (89).</p><p>The strategy of pre-defining an inflection point for all CSF biomarkers may be sub-optimal if different biomarkers show different inflection points. Therefore, having obtained evidence of a significant inflection in our MANOVA (see Results), we tested for change-points in the relations between each individual biomarker level and CAMCOG score. These change-point analyses were of two kinds. First, we tested for changes in the overall level of each biomarker in relation to CAMCOG. These analyses used the "Fstats" and "breakpoints" procedures for testing structural changes in linear regression models <ref type="bibr" target="#b33">[34]</ref>. Second, we tested for change-points in the slope of the relation between each biomarker and CAMCOG. These analyses used the "linearSegmentation" procedure for piecewise linear segmentation of a time series <ref type="bibr" target="#b34">[35]</ref>. This procedure requires data in a continuous equallyspaced series with one observation at each point. We converted the CAMCOG scores to a series of this kind by ranking them and randomly splitting ties. Since the order of the random splits may affect the result of the change-point analysis, we repeated the analysis 1,000 times with a different random seed to split ties in each repetition. Each analysis progressively increased the window size and tolerance angle in each repetition, until the procedure generated a single change-point for each biomarker. We recorded the change-points for each biomarker in each of the 1000 repetitions. Finally, we extracted the median of these 1000 estimates. Hence, for each biomarker we derived two change-points: 1) CAMCOG scores at which the biomarker changed its level, and 2) change in the slope of the relation between each biomarker and CAMCOG. These two changepoints were very similar for each biomarker, so we used their mean in further analyses.</p><p>We assessed the validity of the change-point for each biomarker in three ways. First, we visually compared the change-point and model-free robust Lowess fits (Figures <ref type="figure">1</ref>, <ref type="figure">2</ref>, <ref type="figure">3</ref>, <ref type="figure">4</ref>). Second, we compared the variances and medians of each biomarker on each side of its change-point using simple variance ratios and Wilcoxon-Mann-Whitney (WMW) tests. Third, we compared the relationship of the biomarker with CAMCOG on each side of its changepoint using Spearman's ρ and robust linear modelling (rlm) <ref type="bibr" target="#b35">[36]</ref>. The rlms used highly robust M-estimation (via the 'MM' option) with a breakdown point of 0.5 and 95% relative efficiency at the normal.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>A total of 192 participants fulfilled the inclusion criteria; 97 received a diagnosis of AD and 25 of the nondemented volunteers received a designation of MCI.</p><p>We obtained post mortem neuropathological confirmation of the diagnosis in 90% of the AD patients (88/97) and a third of the non-demented goup (30/95). All participants were white West Europeans. Table <ref type="table" target="#tab_0">1</ref> shows their demographic and clinical characteristics. The age and gender distributions of the non-demented participants and AD patients did not differ (age: WMW P = 0.11; gender: Fisher exact P = 0.15). Compared with non-demented participants, AD patients had lower • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • cognitive impairment (CAMCOG score) CSF -Aβ 1-42 100 80 60 40 20 0 200 600 1,000 1,400 • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • type of fit diagnostic category linear regression change-point model robust Lowess line Figure 2 The dependence of CSF Ab 1-42 levels on CAMCOG score. All details as for Figure 1.</p><formula xml:id="formula_0">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</formula><p>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 50 100 150 200 cognitive impairment (CAMCOG score) P -τ 1 0 0 8 0 6 0 4 0 2 0 0 • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • type of fit diagnostic category linear regression change-point model robust Lowess line Figure 4 The dependence of CSF phospho-Tau levels on CAMCOG score. All details as for Figure 1.</p><formula xml:id="formula_1">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</formula><p>MMSE and CAMCOG scores and shorter follow-up (all WMW P-values &lt; 0.001). We have provided further clinical details in Additional file 1. The role of the diagnostic procedures in the present study was to ensure that the study group did not include participants with non-Alzheimer dementias. Therefore, neither clinical nor neuropathological diagnostic categorisations played any part in the design or interpretation of our changepoint analyses, which concern only the forms of the relations between CSF biomarkers and CAMCOG scores.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Multivariate inflection model</head><p>The inflection point in the total CAMCOG score corresponding to our previous finding [an inflection at a CAMCOG learning sub-scale score of 11 -see 25] was 89. Biomarker levels showed different levels and their relations with CAMCOG scores showed different slopes above and below total scores of 89 (levels: F = 11.5, 4/167 df, P &lt; 0.0001. Slopes: F = 3.31, 4/167 df, P = 0.012) (see Table <ref type="table">2</ref> and Figures <ref type="figure">1</ref>, <ref type="figure">2</ref>, 3, 4).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CSF Ab 1-40</head><p>CSF Aβ 1-40 levels showed biphasic dependence on CAMCOG scores, with the change-point at a CAMCOG of 90 (Figure <ref type="figure">1</ref>). The change-point model fitted the data better than the simpler linear model (F = 3.27, 2/187df, P = 0.04). There was a positive relation of Aβ 1-40 with CAMCOG scores above the change point (rlm: t = 2.65, 187 df, P = 0.009) but a negative relation below it (rlm: t = -3.25, 187 df, P = 0.001; Table <ref type="table">2</ref>). Congruent with this, the Spearman's ρs on each side of the change-point were opposite in sign and both differed from zero (Table <ref type="table">2</ref>; Figure <ref type="figure">1</ref>). The median and variance of Aβ 1-40 levels were greater above the change-point than below it (median: WMW P &lt; 0.001; variance: F = 1.95; 96/96 df; P &lt; 0.0001; see Table <ref type="table">2</ref>). In summary, the levels and variability of CSF Aβ 1 to 0 and the sign of its relation with CAMCOG differed above and below the changepoint.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CSF Ab 1-42</head><p>CSF Aβ 1-42 levels showed monotonic but non-linear dependence on CAMCOG scores with the change-point at a CAMCOG of 90 (Figure <ref type="figure">1b</ref>). The change-point model fitted better than the simpler linear model (F = 11.2, 2/178 df, P &lt; 0.001). There was a marked negative relation of Aβ 1-42 with CAMCOG scores above the change point (rlm: t = -4.29, 178 df, P &lt; 0.001), but no relation below it (rlm: t = -1.17, 178 df, P = 0.24) (Table <ref type="table">2</ref>; Figure <ref type="figure">2</ref>). Congruent with this, Spearman's ρs showed a negative relation only with CAMCOG scores above the change point (see Table <ref type="table">2</ref>). The median and variance of Aβ 1-42 levels above the change-point were greater than below it (median: WMW P &lt; 0.001; variance: F = 2.11; 92/100 df; P &lt; 0.001). In summary, the levels and variability of CSF Aβ 1-42 and the slope of its relation with CAMCOG differed above and below the change-point.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CSF Tau</head><p>CSF Tau levels showed monotonic but non-linear dependence on CAMCOG scores with the change point at a CAMCOG of 94. The change-point model fitted better than the simple linear model (F = 5.39, 2/187 df, P = 0.005). Tau levels related to CAMCOG scores more strongly above the change-point (rlm: t = 2.01, 187 df, The values for Age, MMSE, CAMCOG and Follow-up are medians and inter-quartile ranges.</p><p>Table <ref type="table">2</ref> Parameters of the CSF biomarkers and their relations to cognitive impairment, above and below their change-points</p><p>CSF Biomarker Ab 1-40 Ab 1-42 Tau Phospho-Tau Cf change-point Above Below Above Below Above Below Above Below Median 5,052 3,937** 682 350** 259 568** 50 80** Variance 3,857,482 1,854,983** 36,846 71,482** 176,946 73,418** 1,700 1,000** Spearman's ρ 0.21* -0.23* -0.24* -0.12 0.34** 0.28** 0.32** 0.16 Robust slope 93** -15** -0.048** -0.002 0.049* 0.004** 0.041** 0.004**</p><p>The values in the first row are the raw biomarker levels (pg/mL); the second row shows the variance of the median-standardised levels; the third row shows Spearman's ρs for the rank correlations of biomarker levels with CAMCOG scores; the fourth row shows the slopes from the robust regressions of medianstandardised biomarker levels. For each biomarker, the "Above" and "Below" columns shows values for CAMCOG scores above and below the change-point, respectively. Note that the correlations and slopes take cognitive impairment as the x-axis, which is the reverse of CAMCOG scores. Key:-( * ) : 0.10 &gt;P &gt; 0.05; *: P &lt; 0.01; **: P &lt; 0.01. For medians and variances, probabilities refer to the comparison of values above and below the change-point; for Spearman's ρ and slopes they refer to comparison of values with zero. P = 0.046) than below it (t = 4.46, 187 df, P &lt; 0.001) (Table <ref type="table">2</ref>; Figure <ref type="figure">3</ref>). Spearman's ρs showed positive relations with cognitive impairment both above and below the change point (see Table <ref type="table">2</ref>). The median and variance of CSF Tau levels in the CAMCOG range below the change-point were much greater than above it (median: WMW P &lt; 0.001; variance: F = 7.06; 119/73 df; P &lt; 0.001). In summary, the levels and variability of CSF Tau and the slope of its relation with CAMCOG differed above and below the change-point.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CSF phospho-Tau</head><p>CSF phospho-Tau levels showed monotonic but nonlinear dependence on CAMCOG scores, with the change point at a CAMCOG of 93. The change-point model fitted better than the simple linear model (F = 10.2, 2/187 df, P &lt; 0.001). phospho-Tau levels related directly to CAMCOG scores above the change-point (t = 2.39, 187 df, P = 0.018), and below it (t = 2.48, 187 df, P = 0.014) (Table <ref type="table">2</ref>; Figure <ref type="figure">4</ref>). The Spearman's ρs showed a positive relation with cognitive impairment only in the CAMCOG range above the change point (see Table <ref type="table">2</ref>). The median and variance of CSF phospho-Tau levels in the CAMCOG range below the change-point were greater than above it (median: WMW P &lt; 0.001; variance: F = 2.82; 113/79 df; P &lt; 0.001). In summary, the levels and variability of CSF phospho-Tau and the slope of its relation with CAM-COG differed above and below the change-point.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>CSF β-amyloid and Tau peptides showed distinctive non-linear relationships with cognitive scores. These relationships were strongest in the "normal" CAMCOG range and every biomarker's change-point was near the lower boundary of this range. These non-linearities are inconsistent with a simple linear relationship between central amyloid and Tau levels and cognitive impairment which underlies the view that modulating central amyloid and Tau may prevent cognitive decline in dementia <ref type="bibr" target="#b36">[37,</ref><ref type="bibr" target="#b37">38]</ref>. Instead, they suggest that most changes in central amyloid and Tau precede the development of clinical dementia <ref type="bibr" target="#b38">[39]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reliability of our findings</head><p>The findings of our change-point analyses are consistent with published data. First, our re-analysis of data shown in Figure <ref type="figure">2</ref> in Maruyama <ref type="bibr" target="#b18">[19]</ref> shows a change-point in the relationship between MMSE scores and CSF Aβ 1-42 . This resembles our present finding (see our Figure <ref type="figure">2</ref>) in that there is no relation between MMSE and Aβ 1-42 across MMSE scores below 20 (t = 0.21, NS), but a significant relation across MMSE scores above 20 (t = 2.08, 76 df, P = 0.041). Second, our findings that relations between CSF biomarkers and CAMCOG were weak or absent below the change-points parallel the observations of Vemuri <ref type="bibr" target="#b39">[40]</ref> in AD patients; the stronger relations that we found above the change-points may also parallel Vemuri's report <ref type="bibr" target="#b39">[40]</ref> that biomarker levels differed in their Controls and people with MCI. Third, our finding of an inverted-U relation between Aβ 1-40 and CAMCOG scores parallels the report that Aβ 1-40 levels were high in MCI patients who progressed to AD <ref type="bibr" target="#b20">[21]</ref> The change-points that we defined are near the bottom of the range of CAMCOG scores in our nondemented volunteers. Hence, our findings are consistent with many previous reports of higher levels of CSF Tau moieties and lower levels of CSF amyloid moieties in AD <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b40">41,</ref><ref type="bibr" target="#b41">42]</ref>. However, we prefer our change-point categories to the diagnostic classification because they derive from a model-free method, whereas the definition of Alzheimer's disease can vary <ref type="bibr" target="#b42">[43,</ref><ref type="bibr" target="#b43">44]</ref>. Moreover, our results indicate that neither the diagnostic classification, nor the diagnostically agnostic linear regression fully describes the relations between cognitive function and CSF biomarkers. Figures <ref type="figure">1</ref>, <ref type="figure">2</ref>, 3, 4 each show the four models that assume that the relations between CSF biomarker levels and cognitive function are either (a) simply linear (green dotted lines) or (b) simply categorical (blue dot-dash lines). In each case these simple relations fit the data quite well, but the non-linear relations based on the change-point analyses (c -black solid lines) fit better and more closely resemble the model-free robust Lowess fits (d -red dashed lines). These improvements in fit are not large, but their theoretical importance outweighs their actual size, as we discuss below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CSF Ab 1-40</head><p>CSF Aβ 1-40 showed biphasic dependence on cognitive scores (Figure <ref type="figure">1</ref>), with maximal levels near the lower limit of our non-demented participants' CAMCOG scores. This is consistent with the findings that MCI patients who progressed to AD had high CSF Aβ 1-40 <ref type="bibr" target="#b20">[21]</ref> and CSF BACE activity is higher in MCI than in either controls or AD patients <ref type="bibr" target="#b21">[22]</ref>. It also fits with findings of biphasic changes in plasma amyloid levels <ref type="bibr" target="#b23">[24]</ref>. Zhong et al. <ref type="bibr" target="#b21">[22]</ref> interpreted their findings as supporting the amyloid cascade hypothesis. However, the biphasic relationship of Aβ 1-40 admits at least two other overlapping interpretations. First, it is consistent with Combrinck's hypothesis <ref type="bibr" target="#b24">[25]</ref> that a pathogenic mechanism may 'burn out' early in AD. Second, it is consistent with the hypothesis that Aβ may be protective <ref type="bibr" target="#b44">[45,</ref><ref type="bibr" target="#b45">46]</ref>, and AD occurs only when pathogenic mechanisms overwhelm the amyloid response. Further studies are necessary to explore these three possibilities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CSF Ab 1-42</head><p>CSF Aβ 1-42 showed an overall inverse relationship with the degree of cognitive impairment (Figure <ref type="figure">2</ref>). This fits with many reports of low Aβ 1-42 in AD patients <ref type="bibr" target="#b39">[40]</ref><ref type="bibr" target="#b40">[41]</ref><ref type="bibr" target="#b41">[42]</ref>. Our findings extend those reports by showing that Aβ 1-42 depends on cognitive level only in the range of nondemented volunteers' CAMCOG scores, not in the patients' range. The absence of any relation between CSF Aβ 1-42 and CAMCOG scores below the change-point (in the patient range) mirrors the recent report of Vemuri et al. <ref type="bibr" target="#b39">[40]</ref>. Together, these results indicate that low Aβ 1-42 may provide an early marker of likely progression to AD, rather than an index of the severity of pathology in established AD. The contrast between the monotonic relation of Aβ 1-42 with cognitive level and the biphasic relation of Aβ 1-40 is striking (compare Figures <ref type="figure">1</ref> and <ref type="figure">2</ref>). This contrast fits with observations that a low ratio of Aβ 1-42 /Aβ 1-40 associates with imminent risk of mild cognitive impairment and Alzheimer's disease <ref type="bibr" target="#b46">[47]</ref><ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b48">[49]</ref>. Together, these findings highlight a need for further studies to explain why the ratio of Aβ 1-42 /Aβ 1-40 may vary <ref type="bibr" target="#b49">[50]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CSF Tau and phospho-Tau</head><p>We found high CSF Tau moieties in AD patients <ref type="bibr" target="#b50">[51]</ref>. Our results extend earlier reports by showing that, like Aβ 1-42 , Tau and phospho-Tau levels relate to CAMCOG mainly above the change-point (in the non-demented range of scores). Again, paralleling Vemuri et al.'s report <ref type="bibr" target="#b39">[40]</ref>, we found no simple relation between CSF phospho-Tau and CAMCOG scores below the change-point, in the patient range (Figures <ref type="figure">3</ref>, <ref type="figure">4</ref>). Together, these results reinforce the view that phospho-Tau may provide an early marker of likely progression to AD, but not an index of the severity of pathology in established AD. The findings that Aβ 1-42 and phospho-Tau show opposite relations with cognitive scores within the non-demented range fits with reports that the ratio of Aβ 1-42 /Tau may be a sensitive indicator of progression to AD <ref type="bibr" target="#b40">[41,</ref><ref type="bibr" target="#b51">52,</ref><ref type="bibr" target="#b52">53]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Heteroscedasticity and measurement technicalities</head><p>The variances of the CSF biomarkers differed above and below their change-points. The simplest explanation of this is that the variance related to the mean, as often occurs in biological variables. It may also represent individual differences <ref type="bibr" target="#b53">[54]</ref>, or variations in pathogenic processes or cognitive profiles <ref type="bibr" target="#b54">[55]</ref>. For example, the heteroscedasticity may possibly relate to ApoE status. We did not test relations of ApoE alleles with changepoints, since we had no a priori hypothesis about this. Further studies should address this potentially important possibility. Whatever its explanation, the heteroscedasticity in every biomarker indicates a need for caution when interpreting biomarker levels in patient and control groups, or in individuals <ref type="bibr" target="#b55">[56]</ref>. For now, we note that our use of highly robust linear modelling with a breakdown point of 0.5 <ref type="bibr" target="#b35">[36]</ref> guards against potential bias in our analyses due to heteroscedasticity.</p><p>We collected CSF samples in polystyrene tubes and stored them in polypropylene tubes. Both kinds of tube can adsorb large amounts of biomarker molecules <ref type="bibr" target="#b56">[57,</ref><ref type="bibr" target="#b57">58]</ref>. If such adsorption saturates asymptotically, and so depends non-linearly on initial biomarker concentration, then this might possibly contribute to both the heteroscedasticity and the non-linear relations between biomarker levels and cognitive function that we found. However, we think this unlikely, as follows. If adsorption of biomarkers tends to cause floor effects in their apparent levels, then cognitive function might relate to biomarker levels only when they exceed this artefactual floor. Such floor effects could possibly explain our finding that CAMCOG scores did not relate to Aβ 1-42 in the patient range of CAMCOG scores (because Aβ 1-42 levels are lowest in this range and so most susceptible to adsorption-mediated floor effects). However, it cannot simultaneously explain the inverted-U biphasic relation of CAMCOG with Aβ 1-40 ; nor can it explain the direct relationships of the CAMCOG scores with tau and p-tau in the non-demented range of CAMCOG scores (where lower Tau/p-Tau levels are potentially more susceptible to adsorption-mediated floor effects). Even for Aβ 1-42 , this account appears tenuous, in view of Bjerke's observation that detergent treatment released similar percentages of Aβ 1-42 from adsorption in both control and patient samples <ref type="bibr" target="#b56">[57]</ref>. In summary, we think it unlikely that measurement technicalities can account for the non-linear dependence of CSF biomarkers on cognitive function that we observed.</p><p>We related CSF biomarker levels to raw CAMCOG scores. Hence, apparent non-linearities in the relationships may in part reflect non-linearities in the metric properties of the CAMCOG (for example <ref type="bibr" target="#b58">[59]</ref>). In particular, the narrow range of CAMCOG scores above the change-points may contribute to the differences in the slopes of their relations with biomarkers, since CAM-COG scores here may relate less strongly to true cognitive ability. However, this cannot account for (a) the inverted-U relation of Aβ 1-40 with CAMCOG scores; nor for (b) the differences in Spearman's rank correlation coefficients (which is independent of the metric) for biomarkers and CAMCOG scores above and below the change-points; nor for (c) the differences in variance of biomarkers above and below the change-points. Therefore, while the slopes of the relationships that we found on each side of the change-points may vary under non-linear transformations of the CAMCOG scores, it seems unlikely that our use of raw CAMCOG scores can account for the existence of the change-points.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Use of CAMCOG scores as metric for dementia</head><p>The main limitation of our change-point analyses is that they used only cross-sectional data. Their use of CAM-COG scores as the metric for dementia removes time from the analysis of progression. The absolute cognitive level is clinically meaningful regardless of age or the duration of symptoms. Therefore, using it as the metric for progression of pathological mechanisms may be preferable to using time. We know that individuals' CAM-COG scores can decline over time through the normal and patient ranges <ref type="bibr" target="#b58">[59]</ref>. Hence, it is tempting to view the cross-sectional dependence of CSF biomarkers on CAMCOG scores as a model of an individual's likely progression over time. However, the heteroscedasticity that we observed (see above) means that individuals might show important variations from this model. Consequently, it would be inappropriate at this stage to conclude that the non-linear cross-sectional relationships that we observed can indicate which non-demented people will progress to AD, or which AD patients will decline faster. Conversely, the cognitive stability of many non-demented participants implies that the crosssectional relations of CSF biomarkers with their cognitive function may index long-term adaptations to factors that pre-dispose to AD <ref type="bibr" target="#b59">[60]</ref>. Alternatively, these crosssectional relationships may reflect Vemuri et al.'s <ref type="bibr" target="#b39">[40]</ref> observation that levels of biomarkers differed between controls and MCI groups, since we did not distinguish these. MCI may be stable, remit, or progress to AD <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b17">18]</ref>. Hence, the cross-sectional relations of biomarkers with CAMCOG scores in the non-demented range may reflect a mix of long-term adaptations and of vulnerabilities to progression. Further longitudinal studies relating CSF biomarker levels to cognitive function are necessary to define more precisely the links between CSF biomarkers and the putative primary pathogenic processes of AD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Generalizabilty</head><p>The generalizabilty of our study may be comparable with other reports of CSF biomarkers. Participants in all such studies are partly self-selected, both for entry to the cohort and for consenting to LP. OPTIMA is a convenience cohort from a relatively small geographical area in and around Oxford. Our study group was relatively homogeneous and most non-demented volunteers were cognitively stable, with few converting to AD, despite our long follow-up. Together, these two considerations indicate that our study group is unlikely to be representative of the general population. Even so, the consistency of our results with previous reports, both with regard to differences in CSF biomarkers between patients and non-demented controls and to non-linearity [cf. <ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref>], even in a Japanese sample <ref type="bibr" target="#b18">[19]</ref>, implies that our findings may reflect general phenomena. Two further aspects of our study may improve its generalizability. First, we confirmed the diagnosis of AD and excluded non-Alzheimer dementias via neuropathological examination in most patients (though people who consent to autopsy are non-representative of the general population <ref type="bibr" target="#b60">[61]</ref>). Second, we related CSF biomarker levels directly to cognitive scores. Neuropathological designations and cognitive test scores may provide a firmer basis for generalization than clinical diagnoses, whose boundaries are uncertain <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b42">43,</ref><ref type="bibr" target="#b43">44]</ref>. Overall, then, our study compares favourably with other reports in this field.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>The change-points in relation between cognitive function and all biomarkers were in the "normal" range of CAMCOG scores. This is consistent with increasing evidence that many non-demented older people have some AD pathology <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref>, which implies that diseasemodifying treatments may be maximally effective for prophylaxis before clinical dementia occurs <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b61">62]</ref>. Hence our results could help explain recent reports that anti-amyloid treatments, such as tarenflurbil and anti-amyloid immunotherapy, had no effect in established AD <ref type="bibr" target="#b62">[63]</ref><ref type="bibr" target="#b63">[64]</ref><ref type="bibr" target="#b64">[65]</ref>, assuming that these treatments had anti-amyloid effects at the doses tested. The biphasic relationship we observed for Aβ 1-40 is also consistent with the possibility that it may contribute to neuronal protection or maintenance <ref type="bibr" target="#b44">[45,</ref><ref type="bibr" target="#b59">60,</ref><ref type="bibr">66,</ref><ref type="bibr">67]</ref>. If this were ultimately to prove to be the case, then BACE inhibition at critical stages might be detrimental. Whereas the field focuses most on Aβ 1-42 , this possibility suggests that more attention should be given to understanding the physiological role(s) of Aβ 1-40 . </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 Figure 2</head><label>12</label><figDesc>Figure 1 The dependence of CSF Ab 1-40 levels (y-axis) on CAMCOG score (x-axis), which decreases from left to right, as cognitive impairment increases. The Figure represents the fits of four different models to the data. (1) The horizontal blue dot-dash lines represent the means for each diagnostic category. (2) The straight green dotted line represents a robust linear regression of CSF Aβ 1-40 levels on CAMCOG score that does not include the change point. (3) The solid black lines represent the robust regression model that takes into account the change point (vertical dashed line). (4) The curvilinear dashed red line is the model-free robust locally-fitted Lowess line. Closed circles represent cognitively healthy participants and open squares represent patients with AD.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 3 Figure 4</head><label>34</label><figDesc>Figure<ref type="bibr" target="#b2">3</ref> The dependence of CSF Tau levels on CAMCOG score. All details as for Figure1.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc>. Additional factors that strengthen our change-point results are (a) the strong resemblance between the change-point-based robust regression models and the model-free Lowess fits (see Figures 1, 2, 3, 4); (b) the similarity of the change-points (in absolute CAMCOG scores) over all four biomarkers, despite the different forms of each biomarker's relation with cognitive function; (c) the significant differences between the variability and overall levels of the biomarkers on each side of the change-points. Overall, therefore, the change-points we describe are unlikely to be artefactual and relations between CSF biomarkers and cognition are probably non-linear.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>•</head><figDesc>effects of Abeta42 immunisation in Alzheimer's disease: follow-up of a randomised, placebo-controlled phase I trial. Lancet 2008, 372:216-223. 66. Davis JN, Chisholm JC: Alois Alzheimer and the amyloid debate. Nature 1999, 400:810. 67. Lee HG, Zhu X, Nunomura A, Perry G, Smith MA: Amyloid-beta vaccination: testing the amyloid hypothesis?: heads we win, tails you lose! Am J Pathol 2006, 169:738-739. doi:10.1186/alzrt64 Cite this article as: Williams et al.: Non-linear relationships of cerebrospinal fluid biomarker levels with cognitive function: an observational study. Alzheimer's Research &amp; Therapy 2011 3:5. No space constraints or color figure charges • Immediate publication on acceptance • Inclusion in PubMed, CAS, Scopus and Google Scholar • Research which is freely available for redistribution Submit your manuscript at www.biomedcentral.com/submit</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Demographic and clinical characteristics of the participants</figDesc><table><row><cell></cell><cell>Gender</cell><cell>Age</cell><cell>MMSE</cell><cell>CAMCOG</cell><cell>Follow-up (years)</cell></row><row><cell>Non-demented</cell><cell>48F: 47M</cell><cell>72.0 (66.0-78.8)</cell><cell>29 (28-30)</cell><cell>99 (81-106)</cell><cell>8.3 (4.7 12.9)</cell></row><row><cell>Alzheimer</cell><cell>60F: 37M</cell><cell>74.6 (69.7 79.8)</cell><cell>15 (9 23)</cell><cell>57 (10 96)</cell><cell>3.6 (1.4 6.2)</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We are grateful to the participants and nursing staff at OPTIMA for undertaking the lumbar punctures. <rs type="person">Daniel Holder</rs> gave valuable advice on earlier drafts of the manuscript. <rs type="person">Mary Flynn</rs>, <rs type="person">Karen Snyder</rs> and <rs type="person">Derek Chappell</rs> validated and ran the biomarker assays. <rs type="person">Dr C Joachim</rs>, <rs type="person">Dr J Morris</rs> and <rs type="person">Prof M Esiri</rs> performed the post-mortem studies and provided CERAD diagnoses. JHW received support from the <rs type="funder">Takayama Foundation</rs> and both JHW and GKW were partly supported by the <rs type="funder">NIHR Comprehensive Biomedical Research Centre</rs>, <rs type="person">Oxford. OPTIMA</rs> received grant support from <rs type="funder">Merck &amp; Co., Inc.</rs> during the course of the study. The views expressed in this paper are those of the authors and not necessarily those of the Department of Health.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Competing interests JS, AD, OL, and WP are employees of and own stock in Merck Sharp &amp; Dohme Corp. and GKW is co-Editor-in-Chief of Alzheimer's Research &amp; Therapy. The other authors declare that they have no competing interests.</p></div>
+			</div>
+
+
+			<div type="contribution">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Authors' contributions JHW conceived and performed the modelling and analysis. JS, AD, OL and WP were responsible for the biomarker studies. All authors contributed to the interpretation of the results and drafting of the final report.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional material</head><p><ref type="url" target="http://www.biomedcentral.com/content/supplementary/alzrt64-S1.DOCX">Additional file 1:</ref> Supplementary methods. A document outlining additional diagnostic considerations. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc>Abbreviations % CV: coefficient of variation; AD: Alzheimer's disease; Aβ: beta amyloid; BACE: beta amyloid precursor protein cleaving enzyme; CAMCOG: Cambridge Cognitive examination; CERAD: Consortium to Establish a Registry for Alzheimer's Disease; COREC: Central Oxford Research Ethics Committee; CSF: Cerebrospinal fluid; CT: computerised tomography; ELISA: enzyme-linked immunosorbent assay; HRP: horse radish peroxidise; IgG: immunoglobulin-G; LP: lumbar puncture; MANOVA: multivariate analysis of variance; MCI: Mild Cognitive Impairment; MMSE: Mini Mental State Examination; NINCDS: National Institute of Neurological and Communicative Disorders and Stroke; NS: non-significant; OPTIMA: Oxford Project To Investigate Memory and Ageing; PGE 2 : prostaglandin E 2 ; p-tau: phosphorylated tau; rlm, robust linear model; TMB: tetramethylbenzidine; WMW: Wilcoxon-Mann-Whitney.</figDesc></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Alzheimer&apos;s Disease International: Global prevalence of dementia: a Delphi consensus study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Ferri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Prince</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brayne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brodaty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fratiglioni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ganguli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hasegawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hendrie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jorm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mathers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Menezes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rimmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Scazufca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="2112" to="2117" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Worldwide variation in the doubling time of Alzheimer&apos;s disease incidence rates</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ziegler-Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brookmeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Arrighi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Alzheimers Dement</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="316" to="323" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Frequency of stages of Alzheimer-related lesions in different age categories</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Braak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Braak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurobiol Aging</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="351" to="357" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Recent clinical-pathologic research on the causes of dementia in late life: update from the Honolulu-Asia Aging Study</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Small</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Petrovitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Masaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hardman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Markesbery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Geriatr Psychiatry Neurol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="224" to="227" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Neuropathology of nondemented aging: presumptive evidence for preclinical Alzheimer disease</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Mckeel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">D</forename><surname>Buckles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Roe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Xiong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grundman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Parisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dickson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Schmitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Markesbery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kurlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hulette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">F</forename><surname>Kurland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Higdon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kukull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Morris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurobiol Aging</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1026" to="1036" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Biomarkers for Alzheimer disease in cerebrospinal fluid, urine, and blood</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lonneborg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Diagn Ther</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="307" to="320" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Disease-modifying therapies for Alzheimer disease: challenges to early intervention</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Cummings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Doody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurology</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="1622" to="1634" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Back to the future: the &apos;old-fashioned&apos; way to new medications for neurodegeneration</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Lansbury</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Med</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="51" to="57" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Assessment of amyloid beta protein in cerebrospinal fluid as an aid in the diagnosis of Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Southwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Yamagata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Echols</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Higson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Neynaber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Parson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Munroe</forename><forename type="middle">Wa</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurochem</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="259" to="265" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">CSF phosphorylated tau protein and mild cognitive impairment: a prospective study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Arai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ishiguro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moriyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Itoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Okamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Matsui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Morikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Horikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kohno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Imahori</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp Neurol</title>
+		<imprint>
+			<biblScope unit="volume">166</biblScope>
+			<biblScope unit="page" from="201" to="203" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">CSF tau protein phosphorylated at threonine 231 correlates with cognitive decline in MCI subjects</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Buerger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Teipel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zinkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blennow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Arai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Engel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hofmann-Kiefer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mcculloch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Ptok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Andreasen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Debernardis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kerkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Moeller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hampel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurology</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="627" to="629" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Value of CSF beta-amyloid1-42 and tau as predictors of Alzheimer&apos;s disease in patients with mild cognitive impairment</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hampel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Teipel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fuchsberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Andreasen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wiltfang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Otto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dodel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Farlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Moller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blennow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Buerger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="705" to="710" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Diagnosing prodromal Alzheimer&apos;s disease: role of CSF biochemical markers</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Parnetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lanari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Silvestrelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Saggese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Reboldi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mech Ageing Dev</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="129" to="132" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Association between CSF biomarkers and incipient Alzheimer&apos;s disease in patients with mild cognitive impairment: a follow-up study</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Hansson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zetterberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Buchhave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Londos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blennow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Minthon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Neurol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="228" to="234" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Do CSF total tau, phosphorylated tau, and beta-amyloid 42 help to predict progression of mild cognitive impairment to Alzheimer&apos;s disease? A systematic review and metaanalysis of the literature</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Diniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pinto</forename><surname>Jύnior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Forlenza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">V</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World J Biol Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="172" to="182" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hachinski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Shifts in thinking about dementia</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">300</biblScope>
+			<biblScope unit="page" from="2172" to="2173" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Mild cognitive impairment and the 7 uses of epidemiology</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ganguli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Alzheimer Dis Assoc Disord</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="52" to="57" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Two-year progression from mild cognitive impairment to dementia: to what extent do different definitions agree?</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Stephan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">G</forename><surname>Mckeith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brayne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="1424" to="1433" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Cerebrospinal fluid amyloid beta(1-42) levels in the mild cognitive impairment stage of Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Maruyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Arai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sugita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tanji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Higuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Okamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Matsui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Higuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Matsushita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sasaki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp Neurol</title>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="page" from="433" to="436" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Increased levels of CSF phosphorylated tau in apolipoprotein E ε4 carriers with mild cognitive impairment</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Buerger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Teipel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zinkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sunderland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Andreasen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blennow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ewers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Debernardis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kerkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hampel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurosci Lett</title>
+		<imprint>
+			<biblScope unit="volume">391</biblScope>
+			<biblScope unit="page" from="48" to="50" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Rapid progression from mild cognitive impairment to Alzheimer&apos;s disease in subjects with elevated levels of tau in cerebrospinal fluid and the APOE epsilon4/ epsilon4 genotype</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Blom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Giedraitis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zetterberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fukumoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blennow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Hyman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Irizarry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">O</forename><surname>Wahlund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lannfelt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ingelsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dement Geriatr Cogn Disord</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="458" to="464" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Levels of beta-secretase (BACE1) in cerebrospinal fluid as a predictor of risk in mild cognitive impairment</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ewers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Teipel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wallin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blennow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mcallister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hampel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Gen Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="718" to="726" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Biomarkers for early diagnosis of Alzheimer disease</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Jellinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Janetzky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Attems</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kienzl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Mol Med</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1094" to="1117" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>ALZheimer ASsociated gene&apos;-a new blood biomarker?</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Conversion from cognitive health to mild cognitive impairment and Alzheimer&apos;s disease: Prediction by plasma amyloid beta 42, medial temporal lobe atrophy and homocysteine</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Blasko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jellinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kemmler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Krampla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jungwirth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Wichart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Tragl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fischer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurobiol Aging</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Levels of CSF prostaglandin E2, cognitive decline, and survival in Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Combrinck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Berardinis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Warden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Puopolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Minghetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurol Neurosurg Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="85" to="88" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Accurate prediction of histologically confirmed Alzheimer&apos;s disease and the differential diagnosis of dementia: the use of NINCDS-ADRDA and DSM-III-R criteria</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Jobst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Barnetson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Shepstone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">SPECT, X-ray CT, and APO E4 medial temporal lobe dementias. The Oxford Project to Investigate Memory and Aging</title>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="247" to="152" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">CAMDEX. A standardised instrument for the diagnosis of mental disorder in the elderly with special reference to the early detection of dementia</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tym</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Q</forename><surname>Mountjoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Huppert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hendrie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Goddard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">149</biblScope>
+			<biblScope unit="page" from="698" to="709" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Clinical diagnosis of Alzheimer&apos;s disease: report of the NINCDS-ADRDA Work Group under the auspices of Department of Health and Human Services Task Force on Alzheimer&apos;s Disease</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mckhann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Drachman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Folstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Katzman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Stadlan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurology</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="939" to="944" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Neuropathological assessment of the lesions of significance in vascular dementia</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Esiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Wilcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Morris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurol Neurosurg Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="749" to="753" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The Consortium to Establish a Registry for Alzheimer&apos;s Disease (CERAD). Part II. Standardization of the neuropathologic assessment of Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Mirra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Heyman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mckeel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Sumi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Crain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Brownlee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Vogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Van Belle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Berg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="479" to="486" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">High acceptability and low morbidity of diagnostic lumbar puncture in elderly subjects of mixed cognitive status</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Hindley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Jobst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Barnetson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Haigh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Neurol Scand</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="405" to="411" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">R: A language and environment for statistical computing</title>
+		<author>
+			<orgName type="collaboration">R Development Core Team</orgName>
+		</author>
+		<ptr target="http://www.R-project.org" />
+	</analytic>
+	<monogr>
+		<title level="m">R Foundation for Statistical Computing</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ø</forename><surname>Langsrud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B-H</forename><surname>Mevik</surname></persName>
+		</author>
+		<ptr target="http://CRAN.R-project.org/package=ffmanova" />
+		<title level="m">ffmanova: Fifty-fifty MANOVA</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">strucchange: An R package for testing for structural change in linear regression models</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zeileis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Leisch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hornik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kleiber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1" to="38" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<monogr>
+		<title level="m">Constantine W: ifultools: Insightful Research Tools</title>
+		<imprint>
+			<publisher>Insightful Corporation</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Venables</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Ripley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Modern Applied Statistics</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Springer</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>with S. 4 edition</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Has the amyloid cascade hypothesis for Alzheimer&apos;s disease been proved?</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hardy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Alzheimer Res</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="71" to="73" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Developing pharmacological therapies for Alzheimer disease</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Iqbal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Grundke-Iqbal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Mol Life Sci</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="2234" to="2244" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Hypothetical model of dynamic biomarkers of the Alzheimer&apos;s pathological cascade</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Jack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Knopman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Jagust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Aisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Weiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Q</forename><surname>Trojanowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Neurol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="119" to="128" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vemuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Wiste</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Weigand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Q</forename><surname>Trojanowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Weiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Knopman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Jack</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">MRI and CSF biomarkers in normal, MCI, and AD subjects: diagnostic discrimination and cognitive correlations</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="287" to="293" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Cerebrospinal fluid protein biomarkers for Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blennow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NeuroRx</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="213" to="225" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Cerebrospinal fluid tau in dementia disorders: a large scale multicenter study by a Japanese study group</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shoji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Matsubara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Murakami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Manabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Abe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kanai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ikeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tomidokoro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shizuka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Amari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ishiguro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kawarabayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Harigaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Okamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nishimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Takeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Urakami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Adachi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nakashima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Arai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kanemaru</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yamanouchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ichise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hamamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yamamoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurobiol Aging</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="363" to="370" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Application of the National Institute on Aging (NIA)-Reagan Institute criteria for the neuropathological diagnosis of Alzheimer disease</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Newell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Hyman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Growdon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Hedley-Whyte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neuropathol Exp Neurol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="1147" to="1155" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Diagnostic criteria in dementia: a comparison of current criteria, research challenges, and implications for DSM-V</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reisberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Geriatr Psychiatry Neurol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="137" to="146" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Alzheimer&apos; s disease, oxidative stress and gammahydroxybutyrate</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mamelak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurobiol Aging</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1340" to="1360" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Amyloid beta: the alternate hypothesis</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nunomura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Alzheimer Res</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="75" to="80" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Evolution of Abeta42 and Abeta40 Levels and Abeta42/Abeta40 Ratio in Plasma during Progression of Alzheimer&apos;s Disease: A Multicenter Assessment</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blennow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hansson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Minthon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wallin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zetterberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lewczuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vanderstichele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vanmechelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kornhuber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wiltfang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nutr Health Aging</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="205" to="208" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Association of low plasma Abeta42/Abeta40 ratios with increased imminent risk for mild cognitive impairment and Alzheimer disease</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Graff-Radford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Crook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lucas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">F</forename><surname>Boeve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Knopman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Ivnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Younkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Younkin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Neurol</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="354" to="362" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Prediction of Alzheimer&apos;s disease using the CSF Abeta42/ Abeta40 ratio in patients with mild cognitive impairment</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Hansson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zetterberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Buchhave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Andreasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Londos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Minthon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blennow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dement Geriatr Cogn Disord</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="316" to="320" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b49">
+	<analytic>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">I</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bassit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Secretase Substrate Concentration Modulates the Aβ42/Aβ40 Ratio: IMPLICATIONS FOR ALZHEIMER DISEASE</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">282</biblScope>
+			<biblScope unit="page" from="23639" to="23644" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b50">
+	<analytic>
+		<title level="a" type="main">CSF biomarkers for mild cognitive impairment and early Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Andreasen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blennow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Neurol Neurosurg</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="165" to="173" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Decreased beta-amyloid1-42 and increased tau levels in cerebrospinal fluid of patients with Alzheimer disease</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sunderland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Linker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mirza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Putnam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Kimmel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bergeson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Manetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zimmermann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Bartko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Cohen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">289</biblScope>
+			<biblScope unit="page" from="2094" to="2103" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Measurement of thirteen biological markers in CSF of patients with Alzheimer&apos;s disease and other dementias</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Blasko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lederer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Oberbauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Walch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kemmler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hinterhuber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Marksteiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Humpel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dement Geriatr Cogn Disord</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="9" to="15" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b53">
+	<analytic>
+		<title level="a" type="main">CSF biomarker levels in early and late onset Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Bouwman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Schoonenboom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Verwey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Van Elk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Blankenstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Scheltens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Van Der Flier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurobiol Aging</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1895" to="1901" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b54">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Van Der Vlies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Verwey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Bouwman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Blankenstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Scheltens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Van Der Flier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">CSF biomarkers in relationship to cognitive profiles in Alzheimer disease</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="1056" to="1061" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Cerebrospinal fluid tau and beta-amyloid: how well do these biomarkers reflect autopsyconfirmed dementia diagnoses?</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chittams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ewbank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Peskind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Galasko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Mckeel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Farlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Weitlauf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Quinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Knopman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Arai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Doody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Decarli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Leight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Q</forename><surname>Trojanowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Neurol</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="1696" to="1702" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Confounding factors influencing amyloid beta concentration in cerebrospinal fluid</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bjerke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Portelius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Minthon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wallin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Anckarsater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Anckarsater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Andreasen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zetterberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Anderasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blennow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Alzheimers Dis</title>
+		<imprint>
+			<biblScope unit="page">986310</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Nonspecific binding of Ab42 to polypropylene tubes and the effect of Tween-20</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Pica-Mendez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dallob</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Laterza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chimica Acta</title>
+		<imprint>
+			<biblScope unit="volume">411</biblScope>
+			<biblScope unit="page">1833</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b58">
+	<analytic>
+		<title level="a" type="main">APOE alleles predict the rate of cognitive decline in Alzheimer disease: a nonlinear model</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Oulhaj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>De Jager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurology</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="1888" to="1893" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b59">
+	<analytic>
+		<title level="a" type="main">A plasticity-based theory of the pathogenesis of Alzheimer&apos;s disease</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Mesulam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann N Y Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">924</biblScope>
+			<biblScope unit="page" from="42" to="52" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Evaluation of selection bias in an incident-based dementia autopsy case series</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tsuang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Simpson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Barnhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Edland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bowen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mccormick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Teri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nochlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Leverenz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Alzheimer Dis Assoc Disord</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="67" to="73" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Alzheimer&apos;s disease: progress in the development of anti-amyloid disease-modifying therapies</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Christensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CNS Spectr</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="119" to="123" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of tarenflurbil in mild to moderate Alzheimer&apos;s disease: a randomised phase II trial</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Wilcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Hendrix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Zavitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Swabb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Laughlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Neurol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="483" to="493" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Clinical effects of Abeta immunization (AN1792) in patients with AD in an interrupted trial</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gilman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Griffith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Eisner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kirby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Rovira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Forette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Orgogozo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurology</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="1553" to="1562" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b64">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yadegarfar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bullock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Love</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Neal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zotova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Nicoll</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="Long" to="term" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Blood meal identification and parasite detection in laboratory-fed and field-captured Lutzomyia longipalpis by PCR using FTA databasing paper</title>
+				<funder ref="#_FhFqSV4">
+					<orgName type="full">Wellcome Trust</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Mauricio</forename><forename type="middle">R V</forename><surname>Sant'anna</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Liverpool School of Tropical Medicine</orgName>
+								<address>
+									<addrLine>Pembroke Place</addrLine>
+									<postCode>L3 5QA</postCode>
+									<settlement>Liverpool</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nathaniel</forename><forename type="middle">G</forename><surname>Jones</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Liverpool School of Tropical Medicine</orgName>
+								<address>
+									<addrLine>Pembroke Place</addrLine>
+									<postCode>L3 5QA</postCode>
+									<settlement>Liverpool</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jonathan</forename><forename type="middle">A</forename><surname>Hindley</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Liverpool School of Tropical Medicine</orgName>
+								<address>
+									<addrLine>Pembroke Place</addrLine>
+									<postCode>L3 5QA</postCode>
+									<settlement>Liverpool</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Antonio</forename><forename type="middle">F</forename><surname>Mendes- Sousa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rod</forename><forename type="middle">J</forename><surname>Dillon</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Liverpool School of Tropical Medicine</orgName>
+								<address>
+									<addrLine>Pembroke Place</addrLine>
+									<postCode>L3 5QA</postCode>
+									<settlement>Liverpool</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Departamento de Parasitologia e Microbiologia, CCS</orgName>
+								<orgName type="institution">Universidade Federal do Piaui</orgName>
+								<address>
+									<settlement>Teresina</settlement>
+									<region>PI</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Reginaldo</forename><forename type="middle">R</forename><surname>Cavalcante</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Departamento de Parasitologia e Microbiologia, CCS</orgName>
+								<orgName type="institution">Universidade Federal do Piaui</orgName>
+								<address>
+									<settlement>Teresina</settlement>
+									<region>PI</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Bruce</forename><surname>Alexander</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Liverpool School of Tropical Medicine</orgName>
+								<address>
+									<addrLine>Pembroke Place</addrLine>
+									<postCode>L3 5QA</postCode>
+									<settlement>Liverpool</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Paul</forename><forename type="middle">A</forename><surname>Bates</surname></persName>
+							<email>pbates@liverpool.ac.uk.</email>
+							<affiliation key="aff0">
+								<orgName type="department">Liverpool School of Tropical Medicine</orgName>
+								<address>
+									<addrLine>Pembroke Place</addrLine>
+									<postCode>L3 5QA</postCode>
+									<settlement>Liverpool</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Acta</forename><surname>Tropica</surname></persName>
+						</author>
+						<title level="a" type="main">Blood meal identification and parasite detection in laboratory-fed and field-captured Lutzomyia longipalpis by PCR using FTA databasing paper</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B4D2335431767098D9BB2F33B58CB984</idno>
+					<note type="submission">Sponsored Document Sponsored Document Sponsored Document Sponsored Document Sponsored Document Sponsored Document</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>FTA</term>
+					<term>Cytochrome b</term>
+					<term>Multiplex PCR</term>
+					<term>Leishmania infantum</term>
+					<term>Lutzomyia longipalpis</term>
+					<term>Blood meal</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The phlebotomine sand fly Lutzomyia longipalpis takes blood from a variety of wild and domestic animals and transmits Leishmania (Leishmania) infantum chagasi, etiological agent of American visceral leishmaniasis. Blood meal identification in sand flies has depended largely on serological methods but a new protocol described here uses filter-based technology to stabilise and store blood meal DNA, allowing subsequent PCR identification of blood meal sources, as well as parasite detection, in blood-fed sand flies. This technique revealed that 53.6% of field-collected sand flies captured in the back yards of houses in Teresina (Brazil) had fed on chickens. The potential applications of this technique in epidemiological studies and strategic planning for leishmaniasis control programmes are discussed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">Introduction</head><p>Zoonotic visceral leishmaniasis (ZVL) represents a serious threat to public health in both the Old and New World. It is the most severe form of leishmaniasis, with fulminating disease usually being fatal if untreated and most prevalent in malnourished children <ref type="bibr" target="#b13">(Cerf et al., 1987)</ref>. About 90% of cases occur in economically deprived rural and suburban areas in three geographical regions: the Indian subcontinent, East Africa and South and Central America, with Brazil contributing most cases in the New World <ref type="bibr" target="#b15">(Dantas-Torres and Brandão-Filho, 2006)</ref>.</p><p>During the last 20 years ZVL due to Leishmania (Leishmania) infantum chagasi has become increasingly urbanised and is now present in several Brazilian cities <ref type="bibr" target="#b38">(Michalsky et al., 2007)</ref>. Although more common in socio-economically disadvantaged populations occupying the "vilas" or "favelas", the juxtaposition of these areas with wealthy neighbourhoods means that ZVL is a potential threat to the whole population <ref type="bibr" target="#b4">(Alexander et al., 2002)</ref>. The sand fly Lutzomyia longipalpis <ref type="bibr">(Lutz and Neiva, 1912)</ref> is the urban vector of Le. infantum in Brazil.</p><p>Originally associated with open Savannah, it is able to colonize urban areas and other habitats affected by human activities, taking blood meals from a wide variety of hosts, including livestock, dogs and chickens <ref type="bibr" target="#b35">(Lainson and Rangel, 2005)</ref>. Widely differing observations have been made regarding the degree to which Lu. longipalpis bites humans in different habitats, indicating that this species has no strong innate host preference. The absence of a common term to distinguish Lu. longipalpis from other biting insects in urban ZVL foci suggests that this fly does not constitute a substantial biting nuisance for the inhabitants <ref type="bibr" target="#b4">(Alexander et al., 2002)</ref>.</p><p>Identification of the blood meals of haematophagous insects to date has largely depended on serological techniques such as the precipitin test, latex agglutination test and the enzyme-linked immunosorbent assay (ELISA) <ref type="bibr" target="#b8">(Boorman et al., 1977;</ref><ref type="bibr">Washino and Tempelis, 1983;</ref><ref type="bibr" target="#b6">Beier et al., 1988;</ref><ref type="bibr" target="#b22">Gomes et al., 2001;</ref><ref type="bibr" target="#b44">Mwangangi et al., 2003)</ref>. Although these methods have yielded important information on the identity of the vertebrate hosts of many blood-feeding arthropods, they are time-consuming and lack sensitivity. PCR-based identification of vertebrate host blood meals is a potentially convenient alternative, which has already been performed on several vectors including ticks <ref type="bibr" target="#b50">(Pichon et al., 2003;</ref><ref type="bibr" target="#b18">Estrada-Peña et al., 2005)</ref>, triatomine bugs <ref type="bibr" target="#b9">(Bosseno et al., 2006;</ref><ref type="bibr" target="#b51">Pizarro et al., 2007)</ref> and mosquitoes. PCR based on primers designed from multiple alignments of the mitochondrial cytochrome b gene have identified avian and mammalian hosts of various species of mosquito <ref type="bibr" target="#b47">(Ngo and Kramer, 2003;</ref><ref type="bibr" target="#b30">Kent and Norris, 2005;</ref><ref type="bibr" target="#b40">Molaei et al., 2006;</ref><ref type="bibr" target="#b29">Kent et al., 2006)</ref>. PCR-RFLP cytochrome b analysis was also used to identify the origin of blood meals in the tick Ixodes ricinus <ref type="bibr" target="#b31">(Kirstein and Gray, 1996)</ref> and tsetse flies <ref type="bibr" target="#b60">(Steuber et al., 2005)</ref>.</p><p>Until recently sand fly host identification by blood meal analysis has been limited to serological studies using ELISA <ref type="bibr" target="#b23">(Gomez et al., 1998;</ref><ref type="bibr" target="#b2">Agrela et al., 2002;</ref><ref type="bibr" target="#b7">Bongiorno et al., 2003;</ref><ref type="bibr" target="#b61">Svobodová et al., 2003;</ref><ref type="bibr" target="#b37">Marassá et al., 2006;</ref><ref type="bibr" target="#b54">Rossi et al., 2008)</ref>, counter immunoelectrophoresis <ref type="bibr" target="#b43">(Morsy et al., 1993)</ref>, agarose gel diffusion <ref type="bibr" target="#b59">(Srinivasan and Panicker, 1992)</ref>, precipitin test <ref type="bibr" target="#b62">(Tesh et al., 1971</ref><ref type="bibr" target="#b63">(Tesh et al., , 1972;;</ref><ref type="bibr" target="#b28">Javadian et al., 1977;</ref><ref type="bibr" target="#b42">Morrison et al., 1993;</ref><ref type="bibr" target="#b46">Nery et al., 2004;</ref><ref type="bibr" target="#b1">Afonso et al., 2005)</ref> and a more laborious histological technique <ref type="bibr" target="#b25">(Guzman et al., 1994)</ref>. The first PCR-based method using the prepronociceptin gene has been recently described <ref type="bibr">(Haouas et al., 2007)</ref>. One of the major constraints in developing a successful PCRbased method for sand flies is that they are diminutive insects, only able to ingest very small quantities of blood <ref type="bibr" target="#b53">(Rogers et al., 2002)</ref>. Template stability and the lack of uniformity in DNA template concentration are also a concern, particularly as template degradation during blood digestion has been observed for mosquitoes <ref type="bibr" target="#b43">(Mukabana et al., 2002;</ref><ref type="bibr" target="#b47">Ngo and Kramer, 2003;</ref><ref type="bibr" target="#b30">Kent and Norris, 2005)</ref>. However, preservation of specimens under field conditions coupled with the need for a rapid and sensitive method to identify sand fly hosts is important for the study of vector-vertebrate host associations, as well as to improve current control interventions targeting Lu. longipalpis.</p><p>The FTA filter methodology has been shown to be a useful tool in the storage and PCR detection of DNA in a wide variety of organisms, including trypanosome identification in wild tsetse populations <ref type="bibr" target="#b0">(Adams et al., 2006)</ref>, diagnosis and surveillance of Trypanosoma vivax in ruminants <ref type="bibr" target="#b24">(Gonzales et al., 2006)</ref>, PCR detection of Cyclospora cayetanensis and Cryptosporidium parvum from food samples and human faecal specimens <ref type="bibr" target="#b48">(Orlandi and Lampel, 2000)</ref>, as well as archiving and processing DNA from fresh water protozoans <ref type="bibr" target="#b27">(Hide et al., 2003)</ref> and extraction and storage of insect DNA in forensic entomology <ref type="bibr" target="#b26">(Harvey, 2005)</ref>. In the present study, we adapted a multiplex PCR protocol <ref type="bibr" target="#b30">(Kent and Norris, 2005;</ref><ref type="bibr" target="#b47">Ngo and Kramer, 2003)</ref> and combined this with a FTA-based technology to store and analyse sand fly samples from the field, in order to identify putative hosts of this important disease vector in urban habitats.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">Laboratory-reared insects</head><p>A laboratory colony of Lu. longipalpis established from sand flies caught in Jacobina (Bahia, Brazil) and kept at the Liverpool School of Tropical Medicine was used in the blood-feeding time course experiments and maintained using standard methods <ref type="bibr" target="#b39">(Modi, 1997)</ref>. Insects were reared under controlled conditions of temperature (28 ± 1 °C) and humidity (80-95%) and the adult female insects were fed on hamsters twice a week. All procedures involving animals were approved by a local Animal Welfare Committee and performed in accordance with UK Government (Home Office) and EC regulations. Insects were provided with 70% sucrose for 96 h post-emergence until they were blood-fed for DNA degradation experiments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Study area, sand fly capture and handling</head><p>Field specimens of Lu. longipalpis were collected by hanging CDC light traps <ref type="bibr" target="#b3">(Alexander, 2000)</ref> from 18:00 to 08:00 h for a total of 65 trap-nights during May-June 2007 in houses of two neighbourhoods (Satélite and Ininga) of Teresina (5°5′20″S and 42°48′07″W), capital of the Brazilian state of Piauí. Active transmission of both canine and human ZVL occurs in this city <ref type="bibr" target="#b64">(Werneck et al., 2007)</ref>. Twenty-four traps were set up in Ininga, a relatively high-income neighbourhood near the University of Piauí, whereas 41 were placed in Satélite, a lower income neighbourhood. Live insects were collected in the morning following capture and transported to the lab within 2 h. They were then identified according to Young and <ref type="bibr" target="#b65">Duncan (1994)</ref>, and were either immediately frozen at -20 °C for subsequent whole DNA extraction or homogenised in 0.15 M saline using a cordless motorized pestle and spotted onto Whatman ® FTA cards for DNA storage/extraction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">Genomic DNA isolation</head><p>Whole genomic DNA was extracted from laboratory-fed single sand flies using the FastDNA SPIN Kit for Soil (Q BIOgene). The manufacturer's protocol was modified and optimized for sand fly genomic DNA extraction. Briefly, 20 human blood-fed and 30 chicken blood-fed sand flies were homogenised individually in 1.5 mL microcentrifuge tubes with 244.5 μL sodium phosphate buffer and 30.5 μL MT buffer (both provided with the kit) using a cordless pestle pellet motor on ice. After centrifugation at 14,000 × g for 8 min, the supernatant liquid was transferred to a clean tube, followed by the addition of 65 μL of protein precipitation solution (PPS). After another centrifugation step (14,000 × g for 7 min), the supernatant was transferred to another tube and mixed with 0.5 mL of binding matrix. Tubes were then placed in a rotator for 2 min to agitate the mixture gently and allow DNA binding with the matrix, and subsequently placed in a rack for 3 min for silica matrix settling. A 250 μL fraction of the supernatant was discarded and the remainder used to resuspend the matrix. The mixture was then applied to a SPIN filter cartridge and centrifuged at 14,000 × g for 1 min. Filters were then washed with 250 μL salt/ethanol wash solution (SEWS-M) and centrifuged at 14,000 × g for 1 min. After an extra centrifugation step to dry the matrix of residual ethanol, genomic DNA was eluted with 50 μL of RNase-free water after centrifugation at full speed for 1 min. DNA yield was quantified using a Nanodrop ND-1000 Spectrophotometer and approximately 10 ng DNA template for each sample was used in a multiplexed PCR reaction and visualised in 1.5% agarose/ethidium bromide gels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4">Template preparation on FTA filter paper</head><p>Forty seven human blood-fed, 49 chicken blood-fed and 58 wild-caught blood-engorged sand flies were homogenised individually in 50 μL of 0.15 M saline using a cordless motorized pestle and the whole volume spotted onto a Whatman ® FTA card. The homogenates were allowed to air-dry and the FTA cards kept in sealed plastic bags at room temperature until required. For PCR, discs of diameter 2 mm were punched out and placed in a 1.5 mL microcentrifuge tube. FTA disks were washed three times with 0.5 mL of FTA purification buffer for 5 min, twice with 0.2 mL of 10 mM Tris (pH 8.0) containing 0.1 mM EDTA for 5 min at room temperature and then air-dried on a heating block at 56 °C for 10 min. These washed filters were used directly in a multiplexed PCR reaction and visualised in 1.5% agarose/ ethidium bromide gels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5">PCR primers and reaction conditions</head><p>PCR primers based upon alignment of cytochrome b sequences of mammalian and avian species were obtained from previously published primer sequences (Table <ref type="table">1</ref>). The multiplexed PCR was optimized for sand fly templates. An initial denaturation of 3 min at 94 °C was followed by 35 cycles at 94 °C for 1 min, 52 °C for 1 min and 72 °C for 1 min. The final extension step was 72 °C for 10 min. Field-captured engorged and unfed sand flies were also screened for Leishmania infection in a separate PCR reaction using previously published primer sequences, targeting either the kDNA or the small subunit of the rRNA gene <ref type="bibr" target="#b33">(Lachaud et al., 2002)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6">Blood sample source and blood feeding</head><p>Chicken blood in Alsevers anticoagulant was purchased from TCS Biosciences and human blood obtained from the National Blood Service (Speke, Liverpool, UK). For time-course experiments, sand flies were fed on chicken and human blood through chick-skin feeders at 35 °C and each group sampled at 24, 48, 72, 96, and 120 h intervals from the day of the feed (day 0). Sand flies were either frozen at -20 °C for genomic DNA extraction or homogenised in 50 μL of 0.15 M saline and spotted onto Whatman ® FTA cards for DNA extraction as above.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.7">Parasite preparation and sand fly infection with Le. infantum</head><p>Frozen aliquots of Le. infantum amastigotes obtained from spleen homogenates of infected female BALB/c mice were rapidly thawed from liquid nitrogen and gently mixed with 5 mL complete M199 medium (Sigma). Parasites were centrifuged at 1500 × g for 10 min and washed with 5 mL M199 medium twice, before being re-suspended in 10 mL of complete M199 medium containing 10% FBS and transferred to a culture flask and cultured at 26 °C for 48 h. In preparation for infection, 2 mL of heat-inactivated rabbit blood was used to re-suspend cultured parasites to a final concentration of 1 × 10 6 parasites/mL. Rabbit blood seeded with parasites was offered to 5-day-old Lu. longipalpis through a chick-skin membrane and infected female sand flies collected daily from 0 to 5 days post-feeding.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.8">Parasite detection in lab-infected Lu. longipalpis with Le. infantum using FTA extraction</head><p>Infected sand flies were homogenised in 50 μL of 0.15 M saline and spotted onto Whatman ® FTA cards. Discs were extracted as described above and part of the parasite small subunit ribosomal RNA (SSU rRNA) was amplified by PCR using the genus-specific primers R221 and R332 as described in <ref type="bibr" target="#b33">Lachaud et al. (2002)</ref>. To determine the sensitivity of parasite detection, 5 × 10 4 of cultured Le. infantum parasites were serially diluted and spotted onto Whatman ® FTA cards for DNA extraction and the parasite SSU rRNA detected as above.</p><p>Published as: Acta Trop. 2008 September ; 107(3): 230-237.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document 3 Results</head><p>To optimise PCR conditions initial experiments were performed on DNA isolated from sand flies using a genomic DNA extraction kit. Time-course analysis on chicken and human-fed sand flies in the laboratory showed that host DNA could be detected for up to 48 h after the blood meal (Fig. <ref type="figure" target="#fig_0">1</ref>). Prominent non-specific low-molecular weight products were observed in all lanes, including control reactions lacking DNA, and are often seen in multiplex PCR reactions. However, with human DNA two specific bands were detected, corresponding to the predicted human-specific 334 bp and universal mammalian 623 bp bands (Fig. <ref type="figure" target="#fig_0">1A</ref>). The lack of products in samples taken after 48 h is presumably due to digestion of the DNA by sand fly gut enzymes. Using flies fed on chicken blood the predicted 210 bp band was observed (Fig. <ref type="figure" target="#fig_0">1B</ref>). Next the same procedure was repeated, except that sand fly samples were homogenised and spotted onto FTA cards, then discs punched out and used in the multiplex PCR (Fig. <ref type="figure" target="#fig_1">2</ref>). As before, specific bands were detected in sand flies up to 48 h after feeding on either human or chicken blood. Although the results were broadly similar, in comparison to directly extracted genomic DNA (Fig. <ref type="figure" target="#fig_0">1</ref>), the human-specific bands were consistently weaker, whereas the chicken-specific bands were consistently stronger. In both sets of experiments the absence of specific bands after 48 h corresponds to the end of blood meal digestion, indicating likely template degradation by digestive enzymes.</p><p>In addition to blood meal identification, it would also be useful to detect the presence of Leishmania parasites in sand fly homogenates. Therefore, a sensitivity test was performed by preparing parasite serial dilutions, which were then spotted onto FTA paper and processed for PCR using primers targeting the parasite small subunit ribosomal RNA <ref type="bibr" target="#b33">(Lachaud et al., 2002)</ref> (Fig. <ref type="figure" target="#fig_2">3A</ref>). The predicted 603 bp product was detected, and this showed that the equivalent of as few as 49 parasites/original 50 μl sample could be detected. Given that the assay uses a 2 mm disc from a spot of approximately 15 mm diameter this represents a theoretical sensitivity of approximately a single parasite (∼77 fg DNA). To assess whether Leishmania infection could be detected in samples of lab-reared Lu. longipalpis, flies were experimentally infected with Le. infantum, homogenised individually in 0.15 M saline and spotted onto FTA filter paper. A time course analysis of individual sand flies homogenised at various time points postinfection was able to detect the presence of parasite DNA as early as 24 h (Fig. <ref type="figure" target="#fig_2">3B</ref>). As expected, the band intensity increased with time as the infection matured. Nevertheless, the results show that sand flies sampled 24-48 h after feeding could be analysed for both blood meal identification and the presence of parasites.</p><p>Finally the FTA method was tested on wild-caught sand flies collected in Teresina, Brazil. A total of 2089 sand flies (1701 males and 392 females) were recovered from 65 CDC traps set up in 61 houses from two distinct neighbourhoods during May-June 2007. Of these, 1739 were identified according to Young and <ref type="bibr" target="#b65">Duncan (1994)</ref>, 1732 as Lu. longipalpis (99.5%), four as Lu. lenti (0.23%) and one each (0.06%) as Lu. whitmani, Lu. termitophyla and Lu. aragaoi. All 58 blood-engorged female sand flies were Lu. longipalpis and positive blood meal identifications were obtained for 43 of these (74%). An example of the results obtained using the FTA extraction diagnostic assay on wild-caught sand flies is shown in Fig. <ref type="figure" target="#fig_3">4</ref>. Sand flies that had fed on dogs (e.g. lane 2) and chickens (e.g. lanes 5-11 and 13) were detected. Some flies did not yield any PCR products (e.g. lanes 4 and 16), whereas others amplified the 623 bp universal band (e.g. lanes 3, 12, 14 and 15). In the example shown, two of these (lanes 3 and 15) also included the 210 bp chicken-specific band and were therefore included as chickenfed sand flies in the overall analysis. Others (e.g. lanes 12 and 14) did not reveal any specific bands and were recorded as unidentified. In total, 41 (70.7%) of the 58 blood-engorged sand flies collected had fed on chickens, 2 (3.4%) had fed on dogs, and 15 (25.9%) could not be identified. These negative results could be due to loss of DNA during blood meal digestion, the presence of a small blood meal or feeding on a host not covered by the multiplex PCR Published as: Acta Trop. 2008 September ; 107(3): 230-237.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head><p>Sponsored Document Sponsored Document i.e., non-chicken, dog or human blood meals. Fifteen (53.6%) of 28 engorged sand flies collected outside henhouses were positive for chicken blood, compared to 26/30 (86.7%) of specimens collected inside these shelters. None of the blood-fed sand flies collected seemed to have fed on human hosts. The absence of two specific bands in the PCR reactions suggests that none of the engorged sand flies contained blood from more than one host species. Finally, 205/392 field-collected female sand flies (52.3%) were screened for Le. infantum infection using two different set of primers to amplify fragments of the parasite small subunit ribosomal RNA (SSU rRNA) or kDNA <ref type="bibr" target="#b33">(Lachaud et al., 2002)</ref>. Parasite DNA could not be detected in any of the wild-caught sand flies analysed, indicating that the infection rate in this sample was less than 0.49% (1 in 205).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">Discussion</head><p>We have adapted a PCR methodology first developed for mosquitoes <ref type="bibr" target="#b30">(Kent and Norris, 2005;</ref><ref type="bibr" target="#b47">Ngo and Kramer, 2003)</ref> to identify blood meals from wild-collected sand flies in an urban area of Le. infantum transmission. This methodology was further developed for host identification by DNA immobilisation using FTA cards for long-term storage and subsequent PCR. Our results compare favourably with those recently described by <ref type="bibr">Haouas et al. (2007)</ref>, where genomic DNA was extracted from sand flies using a QiaAmp blood DNA mini Kit. In our study successful amplification was obtained when blood-engorged sand flies were homogenised in saline and spotted onto FTA databasing filter paper. FTA paper has a matrix designed to lyse cells upon contact and sequester DNA within the paper matrix <ref type="bibr" target="#b57">(Smith and Burgoyne, 2004)</ref>. FTA filters also eliminate laborious isolation and purification steps, preserving DNA integrity and eliminating potential sources of target DNA losses through degradative processes associated with conventional methodologies <ref type="bibr" target="#b48">(Orlandi and Lampel, 2000)</ref>. Moreover, the easy handling and long-term stability of DNA blood samples stored on FTA filter papers makes this methodology robust and ideal in field conditions, where samples are often collected far away from where they are processed. It also provides a convenient and safe way to send samples between laboratories without a cold chain or transport of liquids. As shown in Figs. <ref type="figure" target="#fig_0">1</ref> and <ref type="figure" target="#fig_1">2</ref>, FTA extractions were as effective as the genomic DNA extractions currently used from frozen/dried field samples. This method will be extremely useful for entomologically based projects involving blood-feeding behaviour and vectorial capacity of sand flies in urban and rural endemic areas of VL.</p><p>The time-course experiments showed that host DNA was detectable in chicken and human-fed control sand flies up to 48 h after the blood meal (Figs. <ref type="figure" target="#fig_0">1</ref> and <ref type="figure" target="#fig_1">2</ref>). Similar results were obtained by <ref type="bibr">Haouas et al. (2007)</ref> in their study of Phlebotomus species caught in central Tunisia and for Anopheles species captured in the wild <ref type="bibr" target="#b30">(Kent and Norris, 2005)</ref>. Boayke <ref type="bibr">et al. (1999)</ref> and <ref type="bibr" target="#b47">Ngo and Kramer (2003)</ref> detected human blood meals in black flies and avian blood meals in Culex pipiens, respectively, up to 72 h post-blood feeding. Although sand flies recently fed on chickens contain nearly double their normal DNA content compared to human-fed sand flies due to the nucleated avian erythrocytes (unpublished data), chicken blood meals could not be identified after 48 h (Figs. <ref type="figure" target="#fig_0">1B</ref> and <ref type="figure" target="#fig_1">2B</ref>). This represents one of the major constraints of any methodology based on blood identification within the insect's midgut. Due to blood digestion process inherent to any blood-sucking insect, only recently engorged sand flies may be used for the analysis.</p><p>The origin of blood meals in 15/58 of field-caught sand flies could not be identified (including four collected inside a henhouse). For those field specimens where vertebrate host DNA identification failed (Fig. <ref type="figure" target="#fig_3">4</ref>), host DNA might have been insufficient for amplification, the process of digestion may have denatured the DNA or the sand fly may have fed on an animal not included in the screening. In some of our field specimens that were captured inside a henhouse, sand flies might have fed on different hosts and used the shelter as a resting site Published as: Acta Trop. 2008 September ; 107(3): 230-237.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head><p>Sponsored Document Sponsored Document <ref type="bibr" target="#b10">(Brazil et al., 1991)</ref>. It is also worthwhile mentioning that the control band of 623 bp (common to all species in this study), derived from PCR reactions in which universal forward and reverse primers for the cytochrome b gene were used <ref type="bibr" target="#b30">(Kent and Norris, 2005)</ref>, could not be visualised in some of the PCR reactions. This was probably due to partial DNA template degradation in the midgut where one of the universal primers would anneal, probably accounting for reactions which only host-specific cytochrome b bands could be visualised. Sand flies ingest minuscule amounts of blood <ref type="bibr" target="#b53">(Rogers et al., 2002)</ref> and there may be insufficient host DNA, especially in partially fed sand flies. <ref type="bibr" target="#b43">Mukabana et al. (2002)</ref> showed that blood meals of Anopheles gambiae contained 2-82 ng of human DNA. More recently, <ref type="bibr" target="#b30">Kent and Norris (2005)</ref> showed that at least 50 ng was necessary for visible amplification from mosquito abdomens. In our PCR amplifications, as little as 10 ng was sufficient for band visualisation using genomic DNA extractions (data not shown). Sand flies seem to concentrate their blood meals through prediuresis <ref type="bibr" target="#b55">(Sádlová et al., 1998;</ref><ref type="bibr" target="#b56">Sádlová and Volf, 1999)</ref>, including Lu. longipalpis (R. Dillon, unpublished observation) excreting fluid to concentrate proteins of the blood meals in a similar way to mosquitoes. This phenomenon is helpful, as it will increase the concentration of host DNA in the midgut and the probability of obtaining a good-quality template for PCR amplification.</p><p>Recently, PCR-based approaches have allowed diagnosis of infectious diseases, including Leishmania detection in human patients <ref type="bibr" target="#b17">(Dweik et al., 2007;</ref><ref type="bibr" target="#b32">Kumar et al., 2007;</ref><ref type="bibr" target="#b19">Foulet et al., 2007)</ref>, infected dogs <ref type="bibr" target="#b58">(Solano-Gallego et al., 2007;</ref><ref type="bibr" target="#b21">Gomes et al., 2007;</ref><ref type="bibr" target="#b16">de Andrade et al., 2006)</ref> and phlebotomine sand flies <ref type="bibr" target="#b49">(Paiva et al., 2006;</ref><ref type="bibr" target="#b10">Cabrera et al., 2002;</ref><ref type="bibr" target="#b45">Myskova et al., 2008;</ref><ref type="bibr" target="#b52">Ranasinghe et al., 2008)</ref>. Laboratory infections of Lu. longipalpis with Le. infantum followed by whole sand fly homogenisation in Whatman filter paper (Fig. <ref type="figure" target="#fig_2">3</ref>) showed that FTA technology can be also used for parasite DNA storage and parasite detection by PCR. Parasite DNA was successfully amplified using previously described genus-specific primers <ref type="bibr" target="#b33">(Lachaud et al., 2002)</ref>. This simple methodology could be very useful in epidemiological studies in endemic areas for leishmaniasis as specimens suspected to contain parasites could be easily stored and amplified for parasite detection/identification. In addition, safe parasite storage can be guaranteed as the reagents on the FTA paper are designed to kill pathogens upon contact and the papers protect DNA within the samples for several years at ambient conditions <ref type="bibr" target="#b57">(Smith and Burgoyne, 2004)</ref>.</p><p>Previous studies of Lu. longipalpis, for example in an endemic area of visceral leishmaniasis transmission in Colombia, have suggested this sand fly is an opportunistic feeder and is not highly anthropophilic nor strongly attracted to dogs <ref type="bibr" target="#b42">(Morrison et al., 1993)</ref>. In the same study it was reported that Lu. longipalpis preferred cows and pigs over chickens. This may be true in a rural environment where large domestic mammalian species occur in abundance, reflected in a reduced Lu. longipalpis vectorial capacity <ref type="bibr" target="#b42">(Morrison et al., 1993)</ref>. In the current study, 30/58 of the engorged sand flies were collected inside henhouses and the remaining 28 outside these structures. Fifteen of the latter insects had clearly fed on an avian host, most probably chickens (53.6%). This result is similar to previous studies on blood meal preference of Phlebotomus papatasi in an Iranian village where a precipitin test showed that over 57% of the sand flies fed on birds, mainly chickens and pigeons <ref type="bibr" target="#b28">(Javadian et al., 1977)</ref>. Furthermore Lu. longipalpis populations are maintained artificially high in Lapinha cave near Belo Horizonte, Brazil by the constant presence of live chickens <ref type="bibr" target="#b36">(Lane, 1986)</ref>. Henhouses seem to form a suitable man-made refuge for sand flies. A high proportion of residents in low-income neighbourhoods where VL is present keep chickens for a wide variety of reasons and this may be an important factor in the urbanisation of the disease, with both positive and negative effects of Le. infantum transmission <ref type="bibr" target="#b4">(Alexander et al., 2002)</ref>. Regarding positive effects, Lu. longipalpis readily feeds on chickens <ref type="bibr" target="#b34">(Lainson, 1989)</ref> and large numbers can be collected from chicken houses <ref type="bibr" target="#b20">(Genaro et al., 1990)</ref>, suggesting that chickens may promote Le. infantum transmission by sustaining a large vector population near human dwellings. Various epidemiological studies have suggested that proximity to chickens is a risk factor for acquiring human <ref type="bibr" target="#b14">(Corredor et al., 1989;</ref><ref type="bibr" target="#b12">Castellon and Domingos, 1991;</ref><ref type="bibr" target="#b5">Arias et al., 1996;</ref><ref type="bibr" target="#b11">Caldas et al., 2002)</ref> or canine VL <ref type="bibr" target="#b41">(Moreira et al., 2003)</ref>, although results have been mixed. <ref type="bibr" target="#b11">Caldas et al. (2002)</ref> found that in some analyses chicken rearing was a VL risk factor but in others it appeared to exert a protective effect. This contradiction is unlikely to be resolved by epidemiological approaches alone.</p><p>Understanding the role of chicken rearing in the Le. infantum transmission cycle is important because domestic chickens are frequently kept by the urban poor, who are already at increased risk of VL. Therefore, the outcome of studies aiming to comprehend the vector/chicken host interactions could ultimately lead to a better applicability of control methods by health authorities in endemic areas under intense Leishmania transmission, perhaps suggesting removal of chicken coops from near human dwellings, banning chicken rearing from urban environments or even focal treatment of chicken coops <ref type="bibr" target="#b4">(Alexander et al., 2002)</ref>. Moreover, blood meal identification in field-caught sand flies can confirm a strong association between sand flies and chicken hosts in urban areas and also help to improve understanding the role of domestic chickens in transmission of Le. infantum in urban foci. Any attempt to determine the relative importance of blood meal sources may be biased by differences in the post-feeding accessibilities of insects that bit particular host species. The greater sensitivity of the method reported here means that information can be obtained from specimens that have ingested relatively small amounts of blood and may have moved some distance from the animals on which they fed.</p><p>Published as: Acta Trop. 2008 September ; 107(3): 230-237. Sponsored Document Sponsored Document Sponsored Document Published as: Acta Trop. 2008 September ; 107(3): 230-237. Sponsored Document Sponsored Document Sponsored Document Published as: Acta Trop. 2008 September ; 107(3): 230-237. Sponsored Document Sponsored Document Sponsored Document Published as: Acta Trop. 2008 September ; 107(3): 230-237. Published as: Acta Trop. 2008 September ; 107(3): 230-237. Sponsored Document Sponsored Document Sponsored Document Published as: Acta Trop. 2008 September ; 107(3): 230-237. Sponsored Document Sponsored Document Sponsored Document  Published as: Acta Trop. 2008 September ; 107(3): 230-237. Sponsored Document Sponsored Document Sponsored Document Sponsored Document Sponsored Document Sponsored Document</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Time course analysis of genomic DNA extracts for sand flies fed on human and chicken blood at 24, 48, and 72 h after the blood feed. Genomic DNA extractions were followed by multiplex PCR reactions using primer sequences for human, dog, chicken, universal forward and reverse for the cytochrome b gene. (A) Sand flies fed on human blood. (B) Sand flies fed on chicken blood. External lanes correspond to 100 base pair (bp) DNA ladder. C-and C+ are negative (no DNA) and positive control reactions, respectively.</figDesc><graphic coords="13,168.24,61.00,335.52,219.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Time course analysis of FTA extractions for sand flies fed on human and chicken blood at 24, 48 and 72 h after the blood feed. FTA extractions were followed by multiplex PCR reactions using primer sequences for human, dog, chicken, universal forward and reverse for the cytochrome b gene. (A) Sand flies fed on human blood. (B) Sand flies fed on chicken blood. External lanes correspond to 100 bp DNA ladder. C-and C+ are negative (no DNA) and positive control reactions, respectively.</figDesc><graphic coords="14,161.92,61.00,348.15,255.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Detection of Leishmania infantum DNA using the FTA method. (A) Serial dilutions of cultured L. infantum were spotted onto FTA paper, then extraction and PCR performed using primers specific for the parasite small subunit ribosomal RNA. Numbers above bands represent the number of parasites spotted onto the FTA paper. (B) Detection of L. infantum in lab-infected Lu. longipalpis submitted to whole fly FTA extractions from 24 h to 120 h post-infection. Negative control (C-) represents FTA extraction from an uninfected sand fly, and positive control (C+) represents genomic Leishmania DNA extracted from an infected sand fly amplified using the same set of primers.</figDesc><graphic coords="15,167.52,61.00,336.96,238.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Agarose gel showing host-specific cytochrome b PCR products amplified from FTA extractions of blood-engorged wild caught sand flies. Lanes 2-12, sand flies captured in different houses, each lane representing a single sand fly captured in a single house; lanes 13-16, sand flies captured in a chicken house; lane 17, dog positive control; lane 18, human positive control; lane 19, chicken positive control; lanes 20 and 21, negative controls. Outside lanes contain a 100 bp ladder.</figDesc><graphic coords="16,166.92,61.00,338.16,109.44" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Published as: Acta Trop. 2008 September ; 107(3): 230-237. Sponsored Document Sponsored Document Sponsored Document</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Published as: Acta Trop. 2008 September ; 107(3): 230-237.Sponsored Document</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We are grateful for the assistance of <rs type="person">Michelle Bates</rs> and <rs type="person">Davina Moor</rs> in the rearing and experimental infection of sand flies, and to <rs type="person">Kelsilândia Aguiar Martins</rs>, <rs type="institution">Alexandre Alves do Nascimento</rs>, <rs type="person">Emanuelle Karine Frota</rs>, <rs type="person">Luciana Ramos Dias</rs> and <rs type="person">Kleber Portela Fortes</rs> for help with collection of wild-caught sand flies in Teresina. This work was supported by The <rs type="funder">Wellcome Trust</rs>, grant <rs type="grantNumber">076393</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_FhFqSV4">
+					<idno type="grant-number">076393</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" /><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Primer sequences, genes targeted and length of amplification products for the PCR blood meal identification and parasite detection assays</figDesc><table><row><cell>Primer</cell><cell>5′-3′ sequences</cell><cell>Target</cell><cell>Product size</cell></row><row><cell>Human741F Dog368F UNFOR403 UNREV1025 Galliforme forward Galliforme reverse R221</cell><cell>ggcttacttctcttcattctctcct a ggaattgtactattattcgcaaccat a tgaggacaaatatcattctgagg a ggttgtcctccaattcatgtta a atttcggctccctattagcag b gtccgatgtgaaggaagatacagatgaagaagaa b ggttcctttcctgatttacg c</cell><cell>Mitochondrial cytochrome b gene Mitochondrial cytochrome b gene Mitochondrial cytochrome b gene Mitochondrial cytochrome b gene Mitochondrial cytochrome b gene Mitochondrial cytochrome b gene small subunit ribosomal RNA (SSU</cell><cell>334 bp 680 bp 623 bp -210 bp -603 bp</cell></row><row><cell>R332</cell><cell>ggccggtaaaggccgaatag c</cell><cell>rRNA) small subunit ribosomal RNA (SSU</cell><cell>-</cell></row><row><cell>KI3A K13B</cell><cell>ccagtttcccgccccg c ggggttggtgtaaaatagggc c</cell><cell>rRNA) kDNA d minicircle (10,000 copies) kDNA d minicircle (10,000 copies)</cell><cell>120 bp -</cell></row><row><cell>a See Kent and Norris (2005).</cell><cell></cell><cell></cell><cell></cell></row><row><cell>b See Ngo and Kramer (2003).</cell><cell></cell><cell></cell><cell></cell></row><row><cell>c See Lachaud et al. (2002).</cell><cell></cell><cell></cell><cell></cell></row><row><cell>d Kinetoplast DNA.</cell><cell></cell><cell></cell><cell></cell></row></table><note><p>Published as: Acta Trop. 2008 September ; 107(3): 230-237.</p></note></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Trypanosome identification in wild tsetse populations in Tanzania using generic primers to amplify the ribosomal RNA ITS-1 region</title>
+		<author>
+			<persName><surname>Adams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Trop</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="103" to="109" />
+			<date type="published" when="2006">2006. 2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 17109808</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Studies on the feeding habits of Lutzomyia (N.) intermedia (Diptera, Psychodidae), vector of cutaneous leishmaniasis in Brazil</title>
+		<author>
+			<persName><surname>Afonso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cad Saude Publica</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1816" to="1820" />
+			<date type="published" when="2005">2005. 2005</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16410867</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Feeding behavior of Lutzomyia pseudolongipalpis (Diptera: Psychodidae), a putative vector of visceral leishmaniasis in Venezuela</title>
+		<author>
+			<persName><surname>Agrela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="440" to="445" />
+			<date type="published" when="2002">2002. 2002</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 12061437</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Sampling methods for phlebotomine sandflies</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Alexander ; Alexander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med. Vet. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="109" to="122" />
+			<date type="published" when="2000">2000. 2000</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 10872855</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Role of the domestic chicken (Gallus gallus) in the epidemiology of urban visceral leishmaniasis in Brazil</title>
+		<author>
+			<persName><surname>Alexander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Emerg. Infect. Dis</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1480" to="1485" />
+			<date type="published" when="2002">2002. 2002</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 12498667</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The re-emergence of visceral leishmaniasis in Brazil</title>
+		<author>
+			<persName><surname>Arias</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Emerg. Infect. Dis</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="145" to="146" />
+			<date type="published" when="1996">1996. 1996</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 8903218</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Bloodmeal identification by direct enzyme-linked immunosorbent assay (ELISA), tested on Anopheles (Diptera: Culicidae) in Kenya</title>
+		<author>
+			<persName><surname>Beier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med. Vet. Entomol</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Boayke</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Tang</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Truc</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Merriweather</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Unnasch</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="282" to="287" />
+			<date type="published" when="1988">1988. 1988. 1999. 1999</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 3357176] Boayke et al Identification of bloodmeals in haematophagous Diptera by cytochrome B heteroduplex analysis J. Med. Entomol. PubMed: 10514054</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Host preferences of phlebotomine sand flies at a hypoendemic focus of canine leishmaniasis in central Italy</title>
+		<author>
+			<persName><surname>Bongiorno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Trop</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="109" to="116" />
+			<date type="published" when="2003">2003. 2003</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 14516922</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A latex agglutination test for the identification of blood-meals of Culicoides (Diptera: Ceratopogonidae)</title>
+		<author>
+			<persName><surname>Boorman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Entomol. Res</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="305" to="311" />
+			<date type="published" when="1977">1977. 1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Identification in triatomine vectors of feeding sources and Trypanosoma cruzi variants by heteroduplex assay and a multiplex miniexon polymerase chain reaction</title>
+		<author>
+			<persName><surname>Bosseno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Trop. Med. Hyg</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="303" to="305" />
+			<date type="published" when="2006">2006. 2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16474087</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Definition of appropriate temperature and storage conditions in the detection of Leishmania DNA with PCR in phlebotomine flies</title>
+		<author>
+			<persName><surname>Brazil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parassitologia</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="296" to="302" />
+			<date type="published" when="1991">1991. 1991. 2002. 2002</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1 PubMed: 1841199] Cabrera et al Chicken house as a resting site of sandflies in Rio de Janeiro, Brazil Biomedica PubMed: 12404930</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Risk factors associated with asymptomatic infection by Leishmania chagasi in north-east Brazil</title>
+		<author>
+			<persName><surname>Caldas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. R. Soc. Trop. Med. Hyg</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="21" to="28" />
+			<date type="published" when="2002">2002. 2002</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 11925984</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">On the focus of kala-azar in the state of Roraima Brazil</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Castellon And Domingos ; Castellon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Domingos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem. Inst. Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page">375</biblScope>
+			<date type="published" when="1991">1991. 1991</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 1842427</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Malnutrition as a risk factor for severe visceral leishmaniasis</title>
+		<author>
+			<persName><surname>Cerf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Infect. Dis</title>
+		<imprint>
+			<biblScope unit="volume">156</biblScope>
+			<biblScope unit="page" from="1030" to="1033" />
+			<date type="published" when="1987">1987. 1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Epidemiology of visceral leishmaniasis in Colombia</title>
+		<author>
+			<persName><surname>Corredor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Trop. Med. Hyg</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="480" to="486" />
+			<date type="published" when="1989">1989. 1989</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 2729506</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Dantas-Torres F. Brandão-Filho S.P. Visceral leishmaniasis in Brazil: revisiting paradigms of epidemiology and control</title>
+		<author>
+			<persName><forename type="first">Dantas-Torres</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brandão-Filho</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Inst. Med. Trop. São Paulo</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="151" to="156" />
+			<date type="published" when="2006">2006. 2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Use of PCR-RFLP to identify Leishmania species in naturally-infected dogs</title>
+		<author>
+			<persName><surname>De Andrade</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="231" to="238" />
+			<date type="published" when="2006">2006. 2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16682124</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Evaluation of PCR-RFLP (based on ITS-1 and HaeIII) for the detection of Leishmania species, using Greek canine isolates and Jordanian clinical material</title>
+		<author>
+			<persName><surname>Dweik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Trop. Med. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="399" to="407" />
+			<date type="published" when="2007">2007. 2007</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 17550645</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Hosts and pathogen detection for immature stages of Ixodes ricinus (Acari: Ixodidae) in north-central Spain</title>
+		<author>
+			<persName><surname>Estrada-Peña</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp. Appl. Acarol</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Estrada-Peña</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Osácar</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Pichon</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gray</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="257" to="268" />
+			<date type="published" when="2005">2005. 2005</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16323055</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Detection and identification of Leishmania species from clinical specimens using real-time PCR assay and sequencing of the cytochrome b gene</title>
+		<author>
+			<persName><surname>Foulet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="2110" to="2115" />
+			<date type="published" when="2007">2007. 2007</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 17475750</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Ocorrência de calazar em área urbana da grande Belo Horizonte</title>
+		<author>
+			<persName><forename type="first">Genaro</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MG. Rev. Soc. Bras. Med. Trop</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">121</biblScope>
+			<date type="published" when="1990">1990. 1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">PCR identification of Leishmania in diagnosis and control of canine leishmaniasis</title>
+		<author>
+			<persName><surname>Gomes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="234" to="241" />
+			<date type="published" when="2007">2007. 2007</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 17196339</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Comparison between precipitin and ELISA tests in the bloodmeal detection of Aedes aegypti (Linnaeus) and Aedes fluviatilis (Lutz) mosquitoes experimentally fed on feline, canine and human hosts</title>
+		<author>
+			<persName><surname>Gomes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem. Inst. Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="693" to="695" />
+			<date type="published" when="2001">2001. 2001</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 11500773</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Man-vector contact of phlebotomine sand flies (Diptera: Psychodidae) in north-central Venezuela as assessed by blood meal identification using dot-ELISA</title>
+		<author>
+			<persName><surname>Gomez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Mosq. Contr. Assoc</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="28" to="32" />
+			<date type="published" when="1998">1998. 1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Sensitivity of different Trypanosoma vivax specific primers for the diagnosis of livestock trypanosomosis using different DNA extraction methods</title>
+		<author>
+			<persName><surname>Gonzales</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="119" to="126" />
+			<date type="published" when="2006">2006. 2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16359805</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Development of a molecular tool for the identification of Leishmania reservoir hosts by blood meal analysis in the insect vectors</title>
+		<author>
+			<persName><surname>Guzman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haouas N. Pesson B. Boudabous R. Dedet J.-P. Babba H. Ravel C</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">18165521</biblScope>
+			<date type="published" when="1994">1994. 1994. 2007. 2007</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 7815403] Haouas et al J. Med. Entomol. Histologic detection of multiple blood meals in Phlebotomus duboscqi (Diptera: Psychodidae) Am. J. Trop. Med. Hyg.</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">An alternative for the extraction and storage of DNA from insects in forensic entomology</title>
+		<author>
+			<persName><forename type="first">;</forename><surname>Harvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Harvey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Forensic Sci</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="627" to="629" />
+			<date type="published" when="2005">2005. 2005</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 15932097</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">A rapid and simple method of detection of Blepharisma japonicum using PCR and immobilisation on FTA paper</title>
+		<author>
+			<persName><surname>Hide</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Ecol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<date type="published" when="2003">2003. 2003</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 14516472</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Studies on the epidemiology of sandfly fever in Iran. III. Host-feeding patterns of Phlebotomus papatasi in an endemic area of the disease</title>
+		<author>
+			<persName><surname>Javadian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Trop. Med. Hyg</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="294" to="298" />
+			<date type="published" when="1977">1977. 1977</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 403821</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Feeding and indoor resting behaviour of the mosquito Anopheles longipalpis in an area of hyperendemic malaria transmission in southern Zambia</title>
+		<author>
+			<persName><surname>Kent</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med. Vet. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="459" to="463" />
+			<date type="published" when="2006">2006. 2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 17199758</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Identification of mammalian blood meals in mosquitoes by a multiplexed polymerase chain reaction targeting cytochrome b</title>
+		<author>
+			<persName><forename type="first">Norris</forename><forename type="middle">;</forename><surname>Kent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Kent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Norris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Trop. Med. Hyg</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="336" to="342" />
+			<date type="published" when="2005">2005. 2005</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16103600</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A molecular marker for the identification of the zoonotic reservoirs of Lyme borreliosis by analysis of the blood meal in its European vector Ixodes ricinus</title>
+		<author>
+			<persName><forename type="first">Gray</forename><surname>Kirstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kirstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Environ. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="4060" to="4065" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 8899988</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Cutaneous leishmaniasis caused by Leishmania tropica in Bikaner, India: parasite identification and characterization using molecular and immunologic tools</title>
+		<author>
+			<persName><surname>Kumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Trop. Med. Hyg</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="896" to="901" />
+			<date type="published" when="2007">2007. 2007</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 17488912</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Comparison of six PCR methods using peripheral blood for detection of canine visceral leishmaniasis</title>
+		<author>
+			<persName><surname>Lachaud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="210" to="215" />
+			<date type="published" when="2002">2002. 2002</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 11773118</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Demographic changes and their influence on the epidemiology of the American leishmaniases</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lainson ; Lainson</surname></persName>
+		</author>
+		<editor>Service, M.W.</editor>
+		<imprint>
+			<date type="published" when="1989">1989. 1989</date>
+			<publisher>CRC Press</publisher>
+			<biblScope unit="page" from="85" to="106" />
+			<pubPlace>Boca Raton, FL</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Demography and Vector-Borne Diseases</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Lutzomyia longipalpis and the eco-epidemiology of American visceral leishmaniasis, with particular reference to Brazil: a review</title>
+		<author>
+			<persName><forename type="first">Lainson</forename><surname>Rangel ; Lainson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rangel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem. Inst. Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="811" to="827" />
+			<date type="published" when="2005">2005. 2005</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16444411</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Lane R.P. Chicken house reservoirs of sandflies</title>
+		<author>
+			<persName><surname>Lane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol. Today</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="248" to="249" />
+			<date type="published" when="1986">1986. 1986</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 15462850</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Blood meal identification of Lutzomyia (Lutzomyia) longipalpis (Lutz &amp; Neiva, 1912) and Lutzomyia (Lutzomyia) almerioi (Galati &amp; Nunes, 1999) by enzyme-linked immunosorbent assay biotin-avidin</title>
+		<author>
+			<persName><surname>Marassá</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Soc. Bras. Med. Trop</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="183" to="186" />
+			<date type="published" when="2006">2006. 2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16699647</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Infectivity of seropositive dogs, showing different clinical forms of leishmaniasis, to Lutzomyia longipalpis phlebotomine sand flies</title>
+		<author>
+			<persName><surname>Michalsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="page" from="67" to="76" />
+			<date type="published" when="2007">2007. 2007</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 17449184</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Care and maintenance of phlebotomine sandfly colonies</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Modi ; Modi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Molecular Biology of Insect Disease Vectors</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Crampton</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Beard</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Louis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chapman and Hall</publisher>
+			<date type="published" when="1997">1997. 1997</date>
+			<biblScope unit="page" from="21" to="30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Molecular identification of blood-meal sources in Culiseta melanura and Culiseta morsitans from an endemic focus of eastern equine encephalitis virus in New York</title>
+		<author>
+			<persName><surname>Molaei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Trop. Med. Hyg</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="1140" to="1147" />
+			<date type="published" when="2006">2006. 2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 17172382</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Peridomestic risk factors for canine leishmaniasis in urban dwellings: new findings from a prospective study study in Brazil</title>
+		<author>
+			<persName><surname>Moreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Trop. Med. Hyg</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="393" to="397" />
+			<date type="published" when="2003">2003. 2003</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 14640499</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Host preferences of the sand fly Lutzomyia longipalpis at an endemic focus of American visceral leishmaniasis in Colombia</title>
+		<author>
+			<persName><surname>Morrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Trop. Med. Hyg</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="68" to="75" />
+			<date type="published" when="1993">1993. 1993</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 8352394</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Counter immunoelectrophoresis, a modified technique for the identification of blood meals of sandflies collected from Qualyobia Governorate</title>
+		<author>
+			<persName><surname>Morsy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Egypt. Soc. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="233" to="239" />
+			<date type="published" when="1993">1993. 1993. 2002. 2002</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 8482858] Mukabana et al Extent of digestion affects the success of amplifying human DNA from blood meals of Anopheles gambiae (Diptera: Culicidae) Bull. Entomol. Res PubMed: 12088540</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Bloodmeal analysis for anopheline mosquitoes sampled along the Kenyan coast</title>
+		<author>
+			<persName><surname>Mwangangi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Mosq. Control Assoc</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="371" to="375" />
+			<date type="published" when="2003">2003. 2003</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 14710739</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Leishmania in sand flies: comparison of quantitative polymerase chain reaction with other techniques to determine the intensity of infection</title>
+		<author>
+			<persName><surname>Myskova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="133" to="138" />
+			<date type="published" when="2008">2008. 2008</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 18283954</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Feeding preference of the sand flies Lutzomyia umbratilis and L. spathotrichia (Diptera: Psychodidae, Phlebotominae) in an urban forest patch in the city of Manaus</title>
+		<author>
+			<persName><forename type="first">Nery</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem. Inst. Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="571" to="574" />
+			<date type="published" when="2004">2004. 2004</date>
+			<pubPlace>Amazonas, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+	<note>PubMed: 15558165</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Identification of mosquito bloodmeals using polymerase chain reaction (PCR) with order-specific primers</title>
+		<author>
+			<persName><forename type="first">Kramer ;</forename><surname>Ngo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ngo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Kramer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="215" to="222" />
+			<date type="published" when="2003">2003. 2003</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 12693851</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Extraction-free, filter-based template preparation for rapid and sensitive PCR detection of pathogenic parasitic protozoa</title>
+		<author>
+			<persName><forename type="first">Lampel</forename><forename type="middle">;</forename><surname>Orlandi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Orlandi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Lampel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="2271" to="2277" />
+			<date type="published" when="2000">2000. 2000</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 10834988</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Detection and identification of Leishmania species in field-captured phlebotomine sandflies based on mini-exon gene PCR</title>
+		<author>
+			<persName><surname>Paiva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Trop</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="252" to="259" />
+			<date type="published" when="2006">2006. 2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 17055444</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Detection and identification of pathogens and host DNA in unfed host-seeking Ixodes ricinus L. (Acari: Ixodidae)</title>
+		<author>
+			<persName><surname>Pichon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="723" to="731" />
+			<date type="published" when="2003">2003. 2003</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 14596289</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b51">
+	<analytic>
+		<title level="a" type="main">A method for the identification of guinea pig blood meal in the Chagas disease vector</title>
+		<author>
+			<persName><surname>Pizarro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Triatoma infestans. Kinetoplastid Biol. Dis</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2007">2007. 2007</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 17222347</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b52">
+	<analytic>
+		<title level="a" type="main">A real time PCR assay to estimate Leishmania chagasi load in its natural sand fly vector Lutzomyia longipalpis</title>
+		<author>
+			<persName><surname>Ranasinghe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. R. Soc. Trop. Med. Hyg</title>
+		<imprint>
+			<date type="published" when="2008">2008. 2008</date>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The role of promastigote secretory gel in the origin and transmission of the infective stage of Leishmania mexicana by the sandfly Lutzomyia longipalpis</title>
+		<author>
+			<persName><surname>Rogers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="495" to="507" />
+			<date type="published" when="2002">2002. 2002</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 12049412</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Seasonal phenology, host-blood feeding preferences and natural Leishmania infection of Phlebotomus perniciosus (Diptera, Psychodidae) in a high-endemic focus of canine leishmaniasis in Rome province</title>
+		<author>
+			<persName><surname>Rossi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Trop</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="158" to="165" />
+			<date type="published" when="2008">2008. 2008</date>
+			<pubPlace>Italy</pubPlace>
+		</imprint>
+	</monogr>
+	<note>PubMed: 18035329</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Prediuresis in female Phlebotomus sandflies (Diptera: Psychodidae)</title>
+		<author>
+			<persName><surname>Sádlová</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="639" to="642" />
+			<date type="published" when="1998">1998. 1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Sádlová J. Volf P. Occurrence of Leishmania major in sandfly urine</title>
+		<author>
+			<persName><forename type="first">Volf</forename><surname>Sádlová</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="455" to="460" />
+			<date type="published" when="1999">1999. 1999</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 10363278</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Collecting, archiving and processing DNA from wildlife samples using FTA databasing paper</title>
+		<author>
+			<persName><forename type="first">Burgoyne ;</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Burgoyne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Ecol</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">15072582</biblScope>
+			<date type="published" when="2004">2004. 2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Detection of Leishmania infantum DNA by fret-based real-time PCR in urine from dogs with natural clinical leishmaniosis</title>
+		<author>
+			<persName><surname>Solano-Gallego</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="page">17532143</biblScope>
+			<date type="published" when="2007">2007. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Identification of bloodmeals of phlebotomine sandflies using the agarose gel diffusion method</title>
+		<author>
+			<persName><forename type="first">Panicker ;</forename><surname>Srinivasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Srinivasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Panicker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Southeast Asian J. Trop. Med. Publ. Health</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="486" to="488" />
+			<date type="published" when="1992">1992. 1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b60">
+	<analytic>
+		<title level="a" type="main">PCR-RFLP analysis: a promising technique for host species identification of blood meals from tsetse flies (Diptera: Glossinidae)</title>
+		<author>
+			<persName><surname>Steuber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol. Res</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="247" to="254" />
+			<date type="published" when="2005">2005. 2005</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 15999278</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Distribution and feeding preference of the sand flies Phlebotomus sergenti and P. papatasi in a cutaneous leishmaniasis focus in Sanliurfa</title>
+		<author>
+			<persName><surname>Svobodová</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Turkey. Am. J. Trop. Med. Hyg</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="6" to="9" />
+			<date type="published" when="2003">2003. 2003</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 12556140</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Natural host preferences of Panamanian phlebotomine sandflies as determined by precipitin test</title>
+		<author>
+			<persName><surname>Tesh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Trop. Med. Hyg</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="150" to="156" />
+			<date type="published" when="1971">1971. 1971</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 5567741</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b63">
+	<analytic>
+		<title level="a" type="main">PubMed: 5007366] Washino and Tempelis, 1983. Washino R.K. Tempelis C.H. Mosquito host blood meal identification: methodology and data analysis</title>
+		<author>
+			<persName><surname>Tesh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page">6131641</biblScope>
+			<date type="published" when="1972">1972. 1972. 1983</date>
+		</imprint>
+	</monogr>
+	<note>Further studies on the natural host preferences of Panamanian phlebotomine sandflies Am. J. Epidemiol.</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Multilevel modelling of the incidence of visceral leishmaniasis in Teresina</title>
+		<author>
+			<persName><surname>Werneck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Epidemiol. Infect</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="195" to="201" />
+			<date type="published" when="2007">2007. 2007</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16824254</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Guide to the identification and geographic distribution of Lutzomyia sand flies in Mexico, the West Indies</title>
+		<author>
+			<persName><forename type="first">Young</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Duncan ;</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Central and South America</title>
+		<meeting><address><addrLine>Gainesville, FL; Diptera</addrLine></address></meeting>
+		<imprint>
+			<publisher>Psychodidae</publisher>
+			<date type="published" when="1994">1994. 1994</date>
+		</imprint>
+	</monogr>
+	<note>Associated Publishers</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Hodgkin&apos;s Disease in Patients with HIV Infection</title>
+				<funder ref="#_gp9SG7H">
+					<orgName type="full">Rome</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Ministero della Salute</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Michele</forename><surname>Spina</surname></persName>
+							<email>mspina@cro.it</email>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Medical Oncology</orgName>
+								<orgName type="institution">National Cancer Institute</orgName>
+								<address>
+									<addrLine>via Franco Gallini 2</addrLine>
+									<postCode>33081</postCode>
+									<settlement>Aviano</settlement>
+									<region>PN</region>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Antonino</forename><surname>Carbone</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Pathology</orgName>
+								<orgName type="institution">National Cancer Institute</orgName>
+								<address>
+									<addrLine>via Franco Gallini 2</addrLine>
+									<postCode>33081</postCode>
+									<settlement>Aviano</settlement>
+									<region>PN</region>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Annunziata</forename><surname>Gloghini</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Pathology, and Laboratory Medicine</orgName>
+								<orgName type="institution" key="instit1">Fondazione IRCCS</orgName>
+								<orgName type="institution" key="instit2">National Cancer Institute</orgName>
+								<address>
+									<addrLine>via Giacomo Venezian 1</addrLine>
+									<postCode>20133</postCode>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Diego</forename><surname>Serraino</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Unit of Epidemiology and Biostatistics</orgName>
+								<orgName type="institution">National Cancer Institute</orgName>
+								<address>
+									<addrLine>via Franco Gallini 2</addrLine>
+									<postCode>33081</postCode>
+									<settlement>Aviano</settlement>
+									<region>PN</region>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Massimiliano</forename><surname>Berretta</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Medical Oncology</orgName>
+								<orgName type="institution">National Cancer Institute</orgName>
+								<address>
+									<addrLine>via Franco Gallini 2</addrLine>
+									<postCode>33081</postCode>
+									<settlement>Aviano</settlement>
+									<region>PN</region>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Umberto</forename><surname>Tirelli</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Medical Oncology</orgName>
+								<orgName type="institution">National Cancer Institute</orgName>
+								<address>
+									<addrLine>via Franco Gallini 2</addrLine>
+									<postCode>33081</postCode>
+									<settlement>Aviano</settlement>
+									<region>PN</region>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Hodgkin&apos;s Disease in Patients with HIV Infection</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BF989B54B446BA9A739C144C4BD0F16D</idno>
+					<idno type="DOI">10.1155/2011/402682</idno>
+					<note type="submission">Received 29 June 2010; Revised 17 August 2010; Accepted 26 August 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:03+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Hodgkin lymphoma (HL) represents one of the most common non-AIDS-defining cancers with an increasing incidence overtime. Clinically, patients present advanced stages of disease with extranodal involvement in the majority of cases. In the last years, significant improvements in the treatment of patients with HL and HIV infection have been achieved. In the lack of randomized trials, several phase II studies have showed that in the era of highly active antiretroviral therapy (HAART) the same regimens employed in HIV-negative patients with HL can be used in HIV setting with similar results. Moreover, in the last years the feasibility of high dose chemotherapy and peripheral stem cell rescue has allowed to save those patients who failed the upfront treatment. Finally, in the near future, a better integration of diagnostic tools (including PET scan), chemotherapy (including new drugs), radiotherapy, HAART, and supportive care will significantly improve the outcome of these patients.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The availability of highly active antiretroviral therapy (HAART) has led to improvements in immune status among HIV-infected persons, reducing AIDS-related morbidity and prolonging survival. However, despite the impact of HAART on HIV-related mortality, malignancies remain an important cause of death in the current era <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. The use of HAART was also associated with reduced incidence of the two major AIDS-associated malignancies-Kaposi's sarcoma (KS) and high-grade non-Hodgkin lymphoma (NHL) <ref type="bibr" target="#b2">[3]</ref>. However, among non-AIDS-defining cancers, an increased risk of Hodgkin lymphoma (HL), anal cancer, lung cancer, and hepatocarcinoma has been recently observed <ref type="bibr" target="#b3">[4]</ref>.</p><p>Although HL is included in the World Health Organization's categorisation of HIV-associated lymphomas <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>, the relation between HIV infection, AIDS, and HL is unclear.</p><p>HIV-associated HL (HIV-HL) displays several peculiarities when compared with HL of the general population. First, HIV-HL exhibits an unusually aggressive clinical behavior, which mandates the use of specific therapeutic strategies and is associated with a poor prognosis. Second, the pathologic spectrum of HIV-HL differs markedly from that of HL in the general population <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8]</ref>. In particular, the aggressive histological subtypes of classic HL (cHL), namely, mixed cellularity (MC) and lymphocyte depletion (LD), predominate among HIV-HL and the tumor tissue are characterized by an unusually large proportion of neoplastic cells, termed Reed-Sternberg (RS) cells <ref type="bibr" target="#b6">[7]</ref>. Finally, despite the great improvement in chemotherapy and supportive care, optimal staging and treatment is still a matter of controversy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Epidemiology</head><p>In HIV-negative population of the western countries, HL is one of the commonest malignancies diagnosed in young adults with 6 cases per 100.000 inhabitants under 45 years of age occur each year <ref type="bibr" target="#b8">[9]</ref>, even if an increase in incidence rate in the last decade has been observed <ref type="bibr" target="#b9">[10]</ref>. The epidemiology of HL is characterized by a peculiar age distribution pattern-a bimodal incidence curve with a first peak around the age of 30 and the second peak around the age of 50 years-that has been taken as suggestive of an infectious etiology.</p><p>In immune suppressed patients, HL occurs more frequently than in the general population of the same age and gender. Given the relative high frequency of HL in the population groups at high risk for HIV infection, epidemiological studies conducted during the first years of the HIV epidemic in North America and in Europe had difficulties in including HL in the spectrum of HIVassociated cancers. However, with the spread of the epidemic and longer survival of infected people, the impact of HL could be better recognized. All studies <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref> strongly support the evidence that HIV-infected persons have, overall, a 10-fold higher risk of developing HL than HIV-negative persons. HL in HIV-infected individuals is more frequent in patients with moderate immune suppression and this is in sharp contrast with KS and diffuse large B-cell NHL that typically arise in a more pronounced immunosuppression setting <ref type="bibr" target="#b3">[4]</ref>. Thus, the epidemiological pattern of HL in HAART era substantially differs from those observed for KS or NHL-two neoplasms which drastically decreased after the introduction of HAART-and pose several new questions with regard of the relationship between degree of immunodeficiency, persistent viral infections and cancer. Of some interest is the recent observation of Powles et al. who have investigated the occurrence of cancers in a prospective cohort of 11,112 HIV-positive individuals, with 71,687 patient-years of followup <ref type="bibr" target="#b22">[23]</ref>.</p><p>Standardized incidence ratios (SIRs) were calculated using general population incidence data. The incidence of HL in the HIV cohort was higher than in the general population (SIR 13.85; 95% CI, 9.64 to 19.26). There was a significant increase in the SIRs across the three study periods (1983 to 1995: 4.5; 1996 to 2001: 11.1, and 2002 to 2007: 32.4). Multivariate analysis demonstrated that HAART was associated with an increased risk of disease (SIR 2.67; 95% CI, 1.19 to 6.02). Further multivariate modeling by class of antiretroviral agents showed that of the three classes of antiretroviral therapy, only the Non-Nucleoside Reverse Transcriptase Inhibitors were associated with a significant increase in the incidence of HIV-HL (HR 2.20; 95% CI, 1.03 to 4.69). As the overall effect of HAART is to increase the CD4 count level, it paradoxically could increase HL incidence. A potential mechanism emphasizes the role of the RS cells producing several growth factors that increased the influx of CD4 cell and inflammatory cells, which, in turn, provide proliferation signals for the RS neoplastic cells. One can imagine that in the case of severe immune suppression, leading to an unfavorable milieu, the progression of the RS neoplastic cells can be compromised <ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref>. In addition, HIV-HL is EBV-associated in almost all cases, in contrast to what was observed in the general population, in which this association is only observed in 20% to 50% according to histological type and age at diagnosis <ref type="bibr" target="#b26">[27]</ref>. Usurpation of physiologically relevant pathways by EBV-encoded latent membrane protein 1 (LMP1) may lead to the simultaneous or sequential activation of signaling pathways involved in the promotion of cell activation, growth, and survival, contributing thus to most of the features of HIV-HL.</p><p>Whether this change affects its categorization as HL or whether it delays HL development is unknown.</p><p>In summary, the use of HAART has improved the immunity of HIV-infected persons, diminishing the risks of developing other cancers or other opportunistic infections and paradoxically increasing the risk of HL.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Pathological Features</head><p>In the pre HAART era, HIV-HL displayed different pathological features in comparison with those of HL in HIV-negative patients <ref type="bibr" target="#b6">[7]</ref>. In fact, HIV-HL was characterized by the high incidence of unfavorable histological subtypes (i.e., MC and LD) <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8]</ref>. Among HIV-infected persons, MC was the most frequent HL subtype whereas nodular sclerosis (NS) was less frequent than in HIV-uninfected persons. For each HL subtype, incidence decreased with declining CD4 counts, but NS subtype decreased more precipitously than MC subtype, thereby increasing the proportion of MC subtype of HL seen in persons with HIV/AIDS. Thus, the greater proportion of MC and LD subtypes appeared specifically related to severe immune compromise in HIV, while in HAART era HIV-infected patients with modest immune compromise are more at risk for the development of the NS subtype <ref type="bibr" target="#b3">[4]</ref>. CHL is a monoclonal lymphoid neoplasm, derived from B cells, composed of mononuclear Hodgkin cells and multinucleated Reed Stenberg (HRS) cells residing in a cellular microenvironment. HRS cells consistently express CD30 and CD40 and express CD15 in the majority of cases. CD20 is positive in a minority of neoplastic cells in 30-40% of cases, while the plasma cell-specific transcription factor Interferon Regulatory Factor 4 (IRF4) is consistently positive in HRS cells <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b7">8]</ref>.</p><p>On the other hand, HIV-HL may exhibit special features related to the cellular background (presence of fibrohistiocytoid stromal cell proliferation) and the high number of the neoplastic cell. Both these features may pose relevant difficulties in diagnosing and classifying the disease precisely. In these cases, a large cell lymphoma of the anaplastic cell type must be excluded on immunohistologic ground <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b27">28]</ref>.</p><p>A high frequency of EBV association has been shown in HL (80-100%) tissues from HIV-HL <ref type="bibr" target="#b28">[29,</ref><ref type="bibr" target="#b29">30]</ref>. The EBV genomes in such cases have been reported to be episomal and clonal, even when detected in multiple independent lesions. The elevated frequency of EBV association with HIV-HL indicates that EBV probably does represent a relevant factor involved in the pathogenesis of HIV-HL. An etiologic role of EBV in the pathogenesis of HIV-HL is further supported by data showing that LMP-1 is expressed in virtually all HIV-HL cases <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref>. On these bases, HL in HIV-infected persons appears to be an EBV-related lymphoma expressing LMP1.</p><p>Finally, RS cells of classical HL-of HIV-negative patients represent transformed B-cells that originate from preapoptotic germinal center (GC) B-cells <ref type="bibr" target="#b31">[32]</ref>. Most HIV-related HL cases express LMP1 and display the BCL6-/CD138+/MUM1 IRF4+ (for Multiple Myeloma-1 Interferon Regulatory Factor-4), phenotype, thus reflecting post-GC B cells <ref type="bibr" target="#b28">[29,</ref><ref type="bibr" target="#b31">32]</ref>. The possible contribution of LMP1 to the loss of BCL6 expression seems plausible given that LMP1 can downregulate many B-cell specific genes <ref type="bibr" target="#b32">[33]</ref>. Loss of B-cell identity occurs during the normal differentiation of a GC Bcell into plasma cell or memory B-cell.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Clinical Aspects and Treatment</head><p>Similar to that observed in HIV-NHL, one of the most peculiar features of HIV-HL is the widespread extent of the disease at presentation and the frequency of systemic "B" symptoms, including fever, night sweats, and/or weight loss &gt;10% of the normal body weight. At the time of diagnosis, 70-96% of the patients have "B" symptoms and 74-92% have advanced stages of disease with frequent involvement of extranodal sites, with the most common being bone marrow (40-50%), and liver (15-40%) and spleen (around 20%) <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref>. HIV-HL tends to develop as an earlier manifestation of HIV infection with higher median CD4+ cell count. <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref>. The widespread use of HAART has resulted in substantial improvement in the survival of patients with HIV infection and lymphomas, due to the reduction of the incidence of opportunistic infections, the opportunity to allow more aggressive chemotherapy, and the less aggressive presentation of lymphoma in patients in HAART in comparison with those lymphomas diagnosed in patients who never received HAART <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref><ref type="bibr" target="#b36">[37]</ref>.</p><p>Within the Italian Cooperative Group on AIDS and Tumors (GICAT), we have collected data on 290 patients with HIV-HL. Two hundred and eighty-one patients (87%) were males and the median age was 34 years (range 19-72 years) and 69% of patients were intravenous drug users. The median CD4 cell count was 240/µL (range 4-1100/µL) and 57% of patients had a detectable HIV viral load.</p><p>MC was diagnosed in 53% of cases, followed by NS in 24% and LD in 14%. Advanced stages of disease were observed in 79% of patients and 76% had B symptoms. The overall extranodal involvement was 59% with bone marrow, spleen and liver involved in 38, 30, and 17, respectively. With the aim to evaluate the impact of HAART on clinical presentation and outcome of our patients, we split the series into two subgroups: in the first group we included those patients who received HAART since 6 months before the onset of HL (84 patients); in the second group we included those patients who never received HAART before the diagnosis of HL or less than 6 months (206 patients). Briefly, in comparison to never experienced HAART, patients in HAART before the onset of HL are older, have less B symptoms, a higher leukocyte, neutrophils count, and hemoglobin level. The following parameters were associated with a better overall survival (OS): MC subtype, the absence of extranodal involvement, the absence of B symptoms, and a prior use of HAART. Interestingly, three parameters were associated with a better time to treatment failure: a normal value of alkaline phosphatase, a prior exposure to HAART, and an international prognostic score less than 3 <ref type="bibr" target="#b37">[38]</ref>. A similar study was carried out within the Spanish group GESIDA where the authors compared the clinical characteristics and outcome of 104 patients with HIV-HL, treated (83 patients) or not (21 patients) with HAART. No differences were found between the groups at baseline, but the complete remission (CR) rate was significantly higher in HAART group (91% versus 70%, P = .023). The median overall survival was not reached in HAART group and was 39 months in no-HAART group (P = .0089); the median disease-free survival (DFS) was not reached in HAART group and was 85 months in no-HAART group (P = .129). Factors independently associated with CR were a CD4 cell count &gt;100 cells/µL and the use of HAART; CR was the only factor independently associated with OS <ref type="bibr" target="#b38">[39]</ref>.</p><p>The optimal therapy for HIV-HL has not been defined yet. Because most patients have advanced stages of disease, they have been treated with combination chemotherapy regimens but the CR rate remains lower than that of HL of the general population with the OS being approximately 1.5 years <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref>. Due to the low incidence of the disease, no randomized controlled trials have been conducted in this setting. However, several phase II studies have evaluated the feasibility and activity of different regimens. In a prospective trial, conducted within the GICAT between March 1989 and March 1992, 17 previously untreated patients with HIV-HL were treated with epirubicin, vinblastine, and bleomycin (EVB). Overall, CR was achieved in 53% of the total group, lasting a median of 20 months. The median OS for the group as a whole was 11 months and the 2-year DFS was 55% <ref type="bibr" target="#b39">[40]</ref>. In an attempt to improve upon these results, from 1993 to 1997, a second prospective trial consisting of full dose EVB plus prednisone (EVBP regimen) and concomitant antiretroviral therapy (zidovudine or didanosine) was conducted. The results of this trial in which 35 patients were enrolled, showed a CR rate of 74% and a 3-year OS and DFS of 32% and 53%, respectively <ref type="bibr" target="#b40">[41]</ref>. The AIDS Clinical Trials Group (ACTG) reported the results of a phase II study in 21 patients treated with ABVD chemotherapy for 4-6 cycles and primary use of G-CSF. Antiretroviral therapy was not used. The CR rate, on an intent to treat analysis, was 43% with an overall objective response rate of 62%. Median survival for all patients was 18 months <ref type="bibr" target="#b41">[42]</ref>. Similar data have been reported in a small trial with only 8 patients enrolled <ref type="bibr" target="#b42">[43]</ref>. The widespread use of HAART allows the use of more aggressive chemotherapeutic regimens. We used the Stanford V regimen, consisting of short-term chemotherapy (12 weeks) with adjuvant radiotherapy. From May 1997 to October 2001, 59 consecutive patients were treated in the framework of this prospective phase II study within the European Intergroup Study HL-HIV. Stanford V was well tolerated and 69% of the patients completed treatment with no dose reduction or delayed chemotherapy administration. The most important dose-limiting side effects were bone marrow toxicity and neurotoxicity. Eighty-one percent of the patients achieved CR and after a median followup of 17 months 33/59 (56%), patients are alive and disease-free. The estimated 5-year OS, DFS, and freedom from progression (FFP) were 59%, 68%, and 60%, respectively. Probability of FFP was significantly higher (P = .002) among patients with an international prognostic score (IPS) of &lt;2 than in those with IPS &gt;2, and the percentages of FFP at two years were 83% and 41%, respectively. Similarly, probability of OS was significantly different (P = .0004), and the percentage of survival at three years was 76% and 33%, respectively for IPS &lt;2 and IPS &gt;2 <ref type="bibr" target="#b43">[44]</ref>. Within the German group, the very intensive BEACOPP regimen has been tested in 12 untreated patients with a 100% of CR rate but a high incidence of opportunistic infections <ref type="bibr" target="#b44">[45]</ref>. Recently, the results of a large prospective phase II study with ABVD have been published. Within a cooperative network in Spain, 62 patients with HIV-HL received the standard ABVD plus HAART. The scheduled six to eight ABVD cycles were completed in 82% of cases. Six patients died during induction, 54 (87%) achieved a CR, and two were resistant. The 5-year OS and event-free survival (EFS) probabilities were 76% and 71%, respectively. The immunological response to HAART had a positive impact on OS (P = .002) and EFS (P = .001) <ref type="bibr" target="#b45">[46]</ref>. Interestingly, there are some anecdotic cases of use of HAART with antineoplastic intent in HIV-NHL, especially in primary effusion lymphoma. Recently a case of longlasting response to HAART as the only therapy for HIV-HL has been reported suggesting the possibility to use this approach in selected cases <ref type="bibr" target="#b46">[47]</ref>. Finally, within the GICAT we have recently concluded the accrual of 71 patients in a prospective phase II study aiming to evaluate feasibility and activity of a novel regimen including epirubicin, bleomycin, vinorelbine, cyclophosphamide, and prednisone (VEBEP regimen). Seventy percent of patients had advanced stages of disease and 45% had an IPS &gt; 2. The CR was 67% and 2-year OS, DFS, TTF, and EFS were 69%, 86%, 59%, and 52%, respectively <ref type="bibr" target="#b47">[48]</ref>. The results of the largest prospective studies are showed in Table <ref type="table" target="#tab_0">1</ref>.</p><p>Because HIV-HL like other HL may progress or relapse, the use of high dose chemotherapy and autologous stem cell transplantation (ASCT) has been tested in this setting. Several data from different groups, including the GICAT, have demonstrated the feasibility of this approach that can be considered the gold standard in the salvage setting <ref type="bibr" target="#b48">[49]</ref><ref type="bibr" target="#b49">[50]</ref><ref type="bibr" target="#b50">[51]</ref><ref type="bibr" target="#b51">[52]</ref><ref type="bibr" target="#b52">[53]</ref>. Different conditioning regimens, including or not total body irradiation, have been tested. Recently, the AIDS Malignancy Consortium demonstrated in a multinstitutional trial that a regimen of a dose-reduced high-dose chemotherapy, including cyclophosphamide and busulfan and ASCT, is well tolerated and is associated with favorable DFS and OS probabilities for selected patients with HIV-associated NHL and HL <ref type="bibr" target="#b53">[54]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">PET Scanning</head><p>Positron Emission Tomography using [18F]-Fluoro-2-Deoxy-D-Glucose (FDG-PET) was first introduced in the management of lymphomas in the early 1990s. It is now recognised as an important tool for staging and treatment response assessment in Hodgkin and non-Hodgkin lymphomas <ref type="bibr" target="#b54">[55,</ref><ref type="bibr" target="#b55">56]</ref>. Turning to predicting outcome, in the HIVnegative patients, residual FDG PET avidity after 2 cycles of ABVD has been shown to confer poor prognosis and therefore, has been proposed to guide future therapy <ref type="bibr" target="#b56">[57,</ref><ref type="bibr" target="#b57">58]</ref>. A negative PET scan after two cycles of ABVD predicted a 96% 2-year progression-free survival (PFS). Nearly 80% of the HL patients show a complete normalization of PET scan after two courses of ABVD <ref type="bibr" target="#b55">[56]</ref>. This phenomenon, called "metabolic CR", can be explained by the peculiar architecture and organization of the neoplastic tissue, where only few, scattered neoplastic cells (accounting for less than 1% of the total cellular population) are surrounded by a population of nonneoplastic mononuclear bystander cells. The latter cells are probably responsible for the immortalisation of Hodgkin and RS cells by stimulating cytokine production by other CD4+ lymphoid cells (paracrine loop) or by inducing cytokine production by the RS cells (autocrine loop). In cases presenting with bulky lesions at diagnosis, a negative early PET is often associated with a persisting bulky lesion of more or less unchanged size. The explanation might be that chemotherapy switches off the production of chemokines by the activated lymphoid cells, as described for TARC (Thymus and activation-related chemokine). The latter can be measured in the serum of HL patients and its level is correlated to the quality of treatment response: for patients in CR the levels are much lower than in patients with stable or progressing disease <ref type="bibr" target="#b58">[59]</ref>. In contrast, PET scanning within the HIV framework can be problematic. Some preliminary reports suggested that FDG activity may correlate with detectable lymphoma <ref type="bibr" target="#b59">[60,</ref><ref type="bibr" target="#b60">61]</ref>. Although initial staging may not alter the treatment plan, it can provide additional information, assess possible involvement of critical location, and help foresee and possibly avoid further complications. However, the experience with PET scanning in the HIV-HL needs to be further studied. A baseline study is strongly recommended, since early PET interpretation is based on a site-to-site comparison of FDG uptake both before and after chemotherapy. Pitfalls are numerous and bring a particular challenge in these patients whom HIV-associated immunodeficiency predisposes to infection, as does the use of aggressive immunosuppressive chemotherapy regimens <ref type="bibr" target="#b61">[62]</ref>. PET imaging requires cautious reading and pertinent clinical correlation to avoid diagnosing benign disease as malignant, such as, hypermetabolic foci seen in lung or oesophagus, which are common sites of HIV-and/or chemotherapypromoted infections. Nodal FDG uptake can be observed in lymphoma, various infections (e.g., Mycobacterium avium intracellular, Mycobacterium tuberculosis, Herpes simplex virus, among others), and AIDS-related malignancies such as Kaposi sarcoma. In addition, stimulation of bone marrow following treatment with granulocyte colony stimulating factors induces a striking increase in FDG uptake in bone marrow. To take into account the possibility of minimal residual uptake, a semiquantitative approach has recently been proposed for interim PET interpretation in the context of an international protocol for advanced-stage HL <ref type="bibr" target="#b62">[63,</ref><ref type="bibr" target="#b63">64]</ref>.</p><p>Finally, PET is useful for an accurate initial staging and it should be recommend to monitor treatment response, because PET appears to have a prognostic value, since a negative scan seems always associated with a favourable outcome. Significance of residual uptake at sites of disease needs further evaluation (e.g., biopsy). However, the use of FDG in the followup of HIV-HL patients who achieved CR cannot be routinely recommended and further studies are warranted prior to any definite conclusion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Conclusions</head><p>The outcome of patients with HIV-HL has improved with better combined antineoplastic and antiretroviral approaches. The main important challenges for the next years are (a) to demonstrate in a randomized trial that ABVD is the standard regimen in HIV setting, (b) to validate the role of PET scan both in the staging and in the evaluation of response, (c) to better understand the interactions between chemotherapy and antiretroviral therapy, in order to reduce the toxicity of both approaches, (d) to evaluate the use of new drugs (i.e., bortezomib) in this setting, and (e) to evaluate the long-term toxicity of the treatment in cured patients.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 :</head><label>1</label><figDesc>Results of prospective studies in HIV-HL.</figDesc><table><row><cell>Regimen/Reference</cell><cell>No. of patients</cell><cell>Stages III-IV</cell><cell>Response rate</cell><cell>Complete remission rate</cell><cell>Overall survival</cell></row><row><cell>EBV [40]</cell><cell>17</cell><cell>88%</cell><cell>82%</cell><cell>53%</cell><cell>11 months</cell></row><row><cell>EBVP [41]</cell><cell>35</cell><cell>83%</cell><cell>91%</cell><cell>74%</cell><cell>16 months</cell></row><row><cell>ABVD [42]</cell><cell>21</cell><cell>81%</cell><cell>62%</cell><cell>43%</cell><cell>18 months</cell></row><row><cell>ABVD [43[</cell><cell>8</cell><cell>75%</cell><cell>100%</cell><cell>100%</cell><cell>43.5 months</cell></row><row><cell>Stanford V [44]</cell><cell>59</cell><cell>71%</cell><cell>89%</cell><cell>81%</cell><cell>59% at 5 years</cell></row><row><cell>BEACOPP [45]</cell><cell>12</cell><cell>92%</cell><cell>100%</cell><cell>100%</cell><cell>75% at 3 years</cell></row><row><cell>ABVD [46]</cell><cell>62</cell><cell>100%</cell><cell>87%</cell><cell>87%</cell><cell>76% at 5 years</cell></row><row><cell>VEBEP [48]</cell><cell>71</cell><cell>70%</cell><cell>78%</cell><cell>67%</cell><cell>69% at 2 years</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgment</head><p>This paper is supported in part by a grant from the <rs type="funder">Ministero della Salute</rs>, <rs type="funder">Rome</rs>, within the framework of the "<rs type="projectName">Progetto Integrato Oncologia-Advanced Molecular Diagnostics</rs>" project (<rs type="grantNumber">RFPS-2006-2-342010.7</rs>)</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_gp9SG7H">
+					<idno type="grant-number">RFPS-2006-2-342010.7</idno>
+					<orgName type="project" subtype="full">Progetto Integrato Oncologia-Advanced Molecular Diagnostics</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Changes in cancer mortality among HIV-infected patients: the Mortalité 2005 survey</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bonnet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Burty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lewden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Infectious Diseases</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="633" to="639" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">On changes in cancer mortality among HIV-infected patients: is there an excess risk of death from pancreatic cancer?</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Serraino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Maso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">De</forename><surname>Paoli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Infectious Diseases</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="481" to="482" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Trends in cancer risk among people with AIDS in the United States 1980-2002</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Engels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Pfeiffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Goedert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1645" to="1654" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Hodgkin lymphoma and immunodeficiency in persons with HIV/AIDS</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Biggar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Jaffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Goedert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chaturvedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pfeiffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Engels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="3786" to="3791" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<monogr>
+		<title level="m" type="main">World Health Organization Classification of Tumours: Pathology and Genetics, Tumours of Haematopoietic and Lymphoid Tissues</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Jaffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Stein</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>IARC Press</publisher>
+			<pubPlace>Lyon, France</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<monogr>
+		<title level="m" type="main">World Health Organization Classification of Tumours: Pathology and Genetics, Tumours of Haematopoietic and Lymphoid Tissues</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Swerdlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Campo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Jaffe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>IARC Press</publisher>
+			<pubPlace>Lyon, France</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">HIV infection and lymphoma</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Grogg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dogan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Pathology</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1365" to="1372" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Hodgkin&apos;s disease and human immunodeficiency virus infection: clinicopathologic and virologic features of 114 patients from the Italian Cooperative Group on AIDS and Tumors</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Tirelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Errante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dolcetti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Oncology</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1758" to="1767" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Curado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eds</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Incidence in Five Continents</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">160</biblScope>
+			<date type="published" when="2007">2007</date>
+			<pubPlace>Lyon, France</pubPlace>
+		</imprint>
+	</monogr>
+	<note>IARC Scientific Publications IARC</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Incidence of Hodgkin&apos;s disease in Nordic countries</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hjalgrim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Askling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pukkala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Munksgaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Frisch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Lancet</title>
+		<imprint>
+			<biblScope unit="volume">358</biblScope>
+			<biblScope unit="issue">9278</biblScope>
+			<biblScope unit="page" from="297" to="298" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Cancer in a group at risk of acquired immunodeficiency syndrome (AIDS) through 1984</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Biggar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Horm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Goedert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Melbye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="578" to="586" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Increased incidence of Hodgkin disease in homosexual men with HIV infection</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Hessol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Buchbinder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Rubino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Holmberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Internal Medicine</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="309" to="311" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Increased frequency of lymphocyte depletion and mixed cellularity subtypes of Hodgkin&apos;s disease in HIV-infected patients</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Serraino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carbone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Franceschi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Tirelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Cancer A</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="1948" to="1950" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Cancer incidence in a cohort of human immunodeficiency virus seroconverters</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Serraino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pezzotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dorrucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Alliegro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sinicco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rezza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1004" to="1008" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Risk of cancer other than Kaposi&apos;s sarcoma and non-Hodgkin&apos;s lymphoma in persons with AIDS in Italy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Franceschi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Maso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Arniani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Cancer</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="966" to="970" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Highly active antiretroviral therapy and incidence of cancer in human immunodeficiency virus-infected adults</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Appleby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Beral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Reeves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Carpenter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the National Cancer Institute</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="1823" to="1830" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Rates of non-AIDS-defining cancers in people with HIV infection before and after AIDS diagnosis</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Grulich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mcdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K L</forename><surname>Correll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Law</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Kaldor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1155" to="1161" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Risk of cancer in persons with AIDS in Italy, 1985-1998</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Maso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Franceschi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Polesel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Cancer</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="94" to="100" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Incidence of non-AIDS-defining cancers before and during the highly active antiretroviral therapy era in a cohort of human immunodeficiency virus-infected patients</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Herida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mary-Krause</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kaphan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Oncology</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="3447" to="3453" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Cancer risk in the Swiss HIV cohort study: associations with immunodeficiency, smoking, and highly active antiretroviral therapy</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Clifford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Polesel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rickenbach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the National Cancer Institute</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="425" to="432" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Risk of cancer following immunosuppression in organ transplant recipients and in HIV-positive individuals in southern Europe</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Serraino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Piselli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Busnach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Cancer</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="2117" to="2123" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Cancer risk in people infected with human immunodeficiency virus in the United States</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Engels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Biggar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">I</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Cancer</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="187" to="194" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Highly active antiretroviral therapy and the incidence of non-AIDS-defining cancers in people with HIV infection</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Powles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stebbing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Oncology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="884" to="890" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Hodgkin lymphoma: to the HAART of the matter</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Levine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">3630</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Why would the incidence of HIV-associated Hodgkin lymphoma increase in the setting of improved immunity?</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gloghini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carbone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Cancer</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2753" to="2754" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">HIV-associated Hodgkin&apos;s lymphoma. Antiapoptotic pathways and mechanisms for immune escape by tumor cells in the setting of improved immunity</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carbone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cabras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gloghini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Biological Markers</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="161" to="163" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Pathogenetic and histogenetic features of HIV-associated Hodgkin&apos;s disease</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dolcetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Boiocchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gloghini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carbone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Cancer</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1276" to="1287" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Immunodeficiency-related hodgkin lymphoma and its mimics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Said</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Anatomic Pathology</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="189" to="194" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Human immunodeficiency virus-associated Hodgkin&apos;s disease derives from post-germinal center B cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carbone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gloghini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Larocca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="2319" to="2326" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Epstein-Barr virus-associated lymphoproliferative disorders</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Rezk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Weiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Pathology</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1293" to="1304" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">EBV-associated lymphoproliferative disorders: classification and treatment</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carbone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gloghini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dotti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncologist</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="577" to="585" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Germinal centres: role in B-cell physiology and malignancy</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dalla-Favera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews Immunology</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="22" to="33" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The Epstein-Barr virus oncoprotein, latent membrane protein-1, reprograms germinal centre B cells towards a Hodgkin&apos;s Reed-Sternberglike phenotype</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vockerodt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kuo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Pathology</title>
+		<imprint>
+			<biblScope unit="volume">216</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="83" to="92" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Comparison of presenting clinical and laboratory findings of patients with persistent generalized lymphadenopathy (PGL) syndrome and malignant lymphoma (ML)</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Tirelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vaccher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Serraino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="563" to="565" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Hodgkin&apos;s disease during HIV1 infection: the French registry experience</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Andrieu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roithmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Tourani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Oncology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="635" to="641" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Hodgkin&apos;s disease associated with human immunodeficiency virus infection: a clinical study of 46 cases</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rubio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2400" to="2407" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Improvement of systemic human immunodeficiency virus-related nonhodgkin lymphoma outcome in the era of highly active antiretroviral therapy</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vaccher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Spina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Talamini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Infectious Diseases</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1556" to="1564" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Clinical characteristics and outcome of 290 patients (pts) with Hodgkin&apos;s disease and HIV infection (HD-HIV) in pre and HAART (highly active antiretroviral therapy) era</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Chimienti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Spina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gastaldi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Oncology</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">168</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Characteristics and outcome of AIDS-related hodgkin lymphoma before and after the introduction of highly active antiretroviral therapy</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Berenguer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Miralles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ribera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Acquired Immune Deficiency Syndromes</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="422" to="428" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Combined antineoplastic and antiretroviral therapy for patients with Hodgkin&apos;s disease and human immunodeficiency virus infection: a prospective study of 17 patients</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Errante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Tirelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gastaldi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="437" to="444" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Hodgkin&apos;s disease in 35 patients with HIV infection: an experience with epirubicin, bleomycin, vinblastine and prednisone chemotherapy in combination with antiretroviral therapy and primary use of G-CSF</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Errante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gabarre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Ridolfo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Oncology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="189" to="195" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Chemotherapy consisting of doxorubicin, bleomycin, vinblastine, and dacarbazine with granulocyte-colony-stimulating factor in HIVinfected patients with newly diagnosed Hodgkin&apos;s disease: a prospective, multi-institutional AIDS Clinical Trials Group Study (ACTG 149)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cheung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Acquired Immune Deficiency Syndromes</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="444" to="450" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Hodgkin&apos;s disease in HIV-infected patients: report of eight cases usefully treated with doxorubicin, bleomycin, vinblastine and dacarbazine (ABVD) plus granulocyte colony-stimulating factor</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gastaldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Martino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gentile</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Oncology</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1158" to="1160" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Stanford V regimen and concomitant HAART in 59 patients with Hodgkin disease and HIV infection</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Spina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gabarre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rossi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1984" to="1988" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main">BEACOPP therapeutic regimen for patients with Hodgkin&apos;s disease and HIV infection</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Rehwald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Salzberger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Oncology</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1562" to="1569" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Results of treatment with doxorubicin, bleomycin, vinblastine and dacarbazine and highly active antiretroviral therapy in advanced stage, human immunodeficiency virus-related Hodgkin&apos;s lymphoma</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Xicoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Ribera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Miralles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="191" to="198" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Response to highly active antiretroviral therapy as the only therapy in an HIV-infected patient with interfollicular Hodgkin&apos;s lymphoma</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Xicoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Ribera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Romeu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-L</forename><surname>Mate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Millà</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Feliu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia and Lymphoma</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2058" to="2059" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b47">
+	<analytic>
+		<title level="a" type="main">VEBEP regimen and highly active antiretroviral therapy (HAART) in patients (pts) with HD and HIV infection (HD-HIV)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Spina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Antinori</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Oncology</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">227</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b48">
+	<analytic>
+		<title level="a" type="main">High-dose therapy plus autologous hematopoietic stem cell transplantation for human immunodeficiency virus (HIV)-related lymphoma: results and impact on HIV disease</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gabarre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-G</forename><surname>Marcelin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Azar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1100" to="1108" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b49">
+	<analytic>
+		<title level="a" type="main">High-dose therapy and autologous peripheral-blood stem-cell transplantation as salvage treatment for HIV-associated lymphoma in patients receiving highly active antiretroviral therapy</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Re</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cattaneo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Michieli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Oncology</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="4423" to="4427" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Durable remissions with autologous stem cell transplantation for high-risk HTVassociated lymphomas</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Krishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Molina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zaia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="874" to="878" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b51">
+	<analytic>
+		<title level="a" type="main">HIV-associated lymphoma successfully treated with peripheral blood stem cell transplantation</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Serrano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Carri Ón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Balsalobre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Experimental Hematology</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="487" to="494" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b52">
+	<analytic>
+		<title level="a" type="main">High-dose therapy and autologous peripheral blood stem cell transplantation as salvage treatment for AIDS-related lymphoma: long-term results of the Italian Cooperative Group on AIDS and Tumors (GICAT) study with analysis of prognostic factors</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Re</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Michieli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Casari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1306" to="1313" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Dosereduced Busulfan, Cyclophosphamide, and autologous stem cell transplantation for human immunodeficiency virusassociated lymphoma: AIDS Malignancy Consortium Study 020</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Spitzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Ambinder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biology of Blood and Marrow Transplantation</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="59" to="66" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Revised response criteria for malignant lymphoma</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Cheson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pfistner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Juweid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Oncology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="579" to="586" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Use of positron emission tomography for response assessment of lymphoma: consensus of the imaging subcommittee of international harmonization project in lymphoma</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Juweid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stroobants</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Hoekstra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Oncology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="571" to="578" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The predictive value of positron emission tomography scanning performed after two courses of standard therapy on treatment outcome in advanced stage Hodgkin&apos;s disease</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gallamini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rigacci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Merli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="475" to="481" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b57">
+	<analytic>
+		<title level="a" type="main">FDG-PET after two cycles of chemotherapy predicts treatment failure and progression-free survival in Hodgkin lymphoma</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hutchings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Loft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hansen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="52" to="59" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Elevated serum levels of CC thymus and activation-related chemokine (TARC) in primary Hodgkin&apos;s disease: potential for a prognostic factor</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Weihrauch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Manzke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Research</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="5516" to="5519" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b59">
+	<analytic>
+		<title level="a" type="main">18F-fluorodeoxyglucose positron emission tomography/computed tomography in AIDS-related Burkitt lymphoma</title>
+		<author>
+			<persName><forename type="first">P.-A</forename><surname>Just</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fieschi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Baillet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Galicier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Oksenhendler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-L</forename><surname>Moretti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Patient Care and STDs</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="695" to="700" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b60">
+	<analytic>
+		<title level="a" type="main">PET/CT in the evaluation of lymphoma in patients with HIV-1 with suppressed viral loads</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Goshen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Avigdor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Zwas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Levy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Nuclear Medicine</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="610" to="614" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Limitations of PET for imaging lymphoma</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Barrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>O'doherty</surname></persName>
+		</author>
+		<idno>pp. S117-S127</idno>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Nuclear Medicine and Molecular Imaging</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Prognostic value of interim18F-FDG PETin patients with diffuse large B-cell lymphoma: SUVbased assessment at 4 cycles of chemotherapy</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Itti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dupuis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Nuclear Medicine</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="527" to="533" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b63">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><surname>Meignan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gallamini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Meignan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gallamini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Haioun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Report on the first international workshop on interim-PET-scan in lymphoma</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="1257" to="1260" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

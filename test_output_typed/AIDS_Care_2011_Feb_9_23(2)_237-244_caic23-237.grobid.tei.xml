@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The attitudes of primary schoolchildren in Northern Thailand towards their peers who are affected by HIV and AIDS</title>
+				<funder>
+					<orgName type="full">Grant of National Center for Global Health and Medicine Japan</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Central Research Fund, University of London</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Naoko</forename><surname>Ishikawa</surname></persName>
+							<email>n-ishikawa@it.ncgm.go.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of International Medical Cooperation</orgName>
+								<orgName type="department" key="dep2">National Center for Global Health and Medicine</orgName>
+								<address>
+									<settlement>Tokyo</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Pat</forename><surname>Pridmore</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Education &amp; International Development</orgName>
+								<orgName type="department" key="dep2">Institute of Education</orgName>
+								<orgName type="institution">University of London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Roy</forename><surname>Carr-Hill</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Education &amp; International Development</orgName>
+								<orgName type="department" key="dep2">Institute of Education</orgName>
+								<orgName type="institution">University of London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kreangkrai</forename><surname>Chaimuangdee</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">The Life Skills Development Foundation</orgName>
+								<address>
+									<addrLine>Chiang Mai</addrLine>
+									<country key="TH">Thailand</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The attitudes of primary schoolchildren in Northern Thailand towards their peers who are affected by HIV and AIDS</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">0954-0121 print/ 1360-0451 online</idno>
+					</monogr>
+					<idno type="MD5">BEA75A5A78204DC53C5E60EADB09ACAE</idno>
+					<idno type="DOI">10.1080/09540121.2010.507737</idno>
+					<note type="submission">Received 10 September 2009; final version received 7 July 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:11+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>children affected by HIV and AIDS</term>
+					<term>primary schoolchildren</term>
+					<term>attitude</term>
+					<term>stigma</term>
+					<term>casual contact</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>After more than a decade of the AIDS epidemic in Thailand, the number of children whose parents are living with HIV or have died from AIDS is increasing significantly and it has been reported that these children are often discriminated against by their peers. In order to better understand the current situation and to explore possible strategies to support HIV-affected children, this study examined children's attitudes towards HIV and AIDS using questionnaires and focus group discussions with children in Grades threeÁsix in five primary schools in a northern province in Thailand. A total of 513 children (274 boys and 239 girls) answered the questionnaire and five focus groups were organised. The findings showed a strong positive correlation between children's belief that HIV could be transmitted through casual contact and their negative attitudes towards their HIV-affected peers. Most children overestimated the risk of HIV transmission through casual contact and this made their attitudes less tolerant and less supportive. After HIV prevention education (which included information on HIV transmission routes) was given in three of the study schools, the same questionnaire and focus groups were repeated and the findings showed that children's attitudes had become more supportive. These findings suggest that HIV prevention education delivered through primary schools in Thailand can be an effective way to help foster a more supportive and inclusive environment and reduce the stigma and discrimination that decrease educational access and attainment for HIV-affected schoolchildren.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>It is estimated that in 2007 there were 17.5 million children who had lost one or both parents to AIDS globally (UNICEF, UNAIDS, <ref type="bibr" target="#b17">WHO, &amp; UNFPA, 2009)</ref>. Thailand is one of the countries hit hardest by the AIDS epidemic in Asia with 610,000 people currently living with HIV. This has resulted in a very large number of children being affected by HIV and AIDS although not actually infected. Such children are affected through living with HIV-positive parents or having parents who have died from AIDS <ref type="bibr" target="#b16">(UNAIDS, 2008)</ref>. External support has mostly been provided to meet basic needs and provides financial assistance, educational opportunities and counselling services. However, resources are limited, only a small number of children have access to this assistance (UNICEF, UNAIDS, <ref type="bibr" target="#b16">WHO, &amp; UNFPA, 2008)</ref>, and there is an urgent need to scale up the support for these children who have been made vulnerable by HIV and AIDS.</p><p>Children spend most of their day in school and it is one of the most significant communities they belong to apart from their family. It is now recognised that school plays an important role by providing protection and support for children affected by HIV and AIDS <ref type="bibr" target="#b16">(UNICEF et al., 2008)</ref>. For example, education on literacy, numeracy, vocational skills and other life skills can equip children to better cope with their future lives <ref type="bibr" target="#b2">(Carr-Hill, Katabaro, Katahoire, &amp; Oulai, 2002;</ref><ref type="bibr">International HIV/AIDS Alliance, 2003)</ref>. Schools are an important entry point for children to receive social welfare services, health services and food. Children can receive informal support from their peers and teachers to recover from their distress at home and to regain the sense of normality <ref type="bibr" target="#b16">(UNICEF et al., 2008)</ref>. Keeping children in school can provide psychosocial support and help to reduce the risk of HIV infection, exploitation and abuse <ref type="bibr" target="#b5">(Coombe, 2002)</ref>, but only when the school environment is safe and inclusive <ref type="bibr" target="#b16">(UNICEF et al., 2008)</ref>.</p><p>It is also widely recognised that in many highburden countries HIV-affected children experience discrimination and exclusion in school due to stigma related to HIV and AIDS <ref type="bibr" target="#b3">(Castle, 2004;</ref><ref type="bibr" target="#b15">UNICEF, 2003)</ref>. Given the importance of positive peer relationships for school-aged children <ref type="bibr" target="#b7">(Hartup, 1992;</ref><ref type="bibr" target="#b12">Jones, 1995)</ref>, negative peer relationships caused by HIV-related stigma could be a significant barrier to children being able to realise the benefits that schooling can bring. In order to maximise the potential of school to support these children, it is necessary to understand schoolchildren's views about HIV and AIDS, and find out how well HIV-affected children are accepted within their school peer group.</p><p>Despite its importance, there has been little research on children's attitudes towards HIV and towards their peers who are affected by HIV and AIDS. The aim of this study was to fill this knowledge gap by examining primary schoolchildren's attitudes towards their HIV-affected peers in Northern Thailand. This study was part of a larger enquiry, which explored the impact of HIV and AIDS on children and the role of the primary school in supporting these children <ref type="bibr" target="#b11">(Ishikawa, 2007)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>This study was conducted in the Lamphun province in Northern Thailand, where HIV prevalence reached over 7% for pregnant women at the peak of the epidemic <ref type="bibr" target="#b14">(UNDP, 2004)</ref>. Three primary schools, which were receiving support from a local NGO for children affected by HIV and AIDS such as outside school activities for these children (i.e., programme school), and two primary schools nearby without the NGO support (i.e., non-programme school) were selected for this study. Children's attitudes towards HIV and AIDS were explored using a questionnaire and focus groups for primary schoolchildren in the third to sixth grade. The questionnaire was developed by selecting relevant questions from existing questionnaires on HIV and AIDS Á including the UNAIDS General Population <ref type="bibr">Survey (2000)</ref> and the tool developed by WHO and UNESCO (1994) Á and then revising them to fit the school setting and the situation of HIV-affected children. The questionnaire had 14 questions; 12 of these questions focused on children's attitudes towards HIV-affected children and two questions asked about their attitudes towards people living with HIV in general (see Box 1). The questionnaire included seven knowledge items on casual contact in school settings because studies have shown that misunderstanding or overestimation of the risk of HIV transmission by casual contact contributes to negative attitudes towards people living with HIV <ref type="bibr" target="#b3">(Castle, 2004;</ref><ref type="bibr" target="#b9">Herek, Capitanio, &amp; Widaman, 2002)</ref>. The total number of correct answers to these seven items provided a knowledge score that was used for further analysis.</p><p>The questionnaire was administered at each school to all the children attending the class on the day of the study visit, under the guidance of research assistants. Each question was read-out by an assistant and children wrote down their answers on the questionnaire. In total, 513 children (274 boys and 239 girls; 96.6%) in the third to sixth grade, aged 8Á14 years completed the questionnaire. Among them, 41 children (19 boys and 22 girls; 8.0%) were identified as being affected by HIV and AIDS (i.e., children whose parents were living with HIV or have died of AIDS) by their teachers. Although the HIV status of these children was unknown, most were probably not infected with HIV due to the high coverage of the programme to prevent mother-to-child transmission of HIV in Thailand.</p><p>A total of five focus groups were also conducted. Each group had 10 children (five boys and five girls) who were randomly selected after excluding children affected by HIV and AIDS. In these groups, the children discussed about HIV and AIDS, their attitudes towards HIV-affected children and how they could help these children (see Box 2 for the discussion guide).</p><p>In order to examine whether or not there were any associations between children's correct knowledge of the risk of HIV transmission through</p><p>Box 1. Questions: children's attitudes towards HIV and AIDS. (1) Should people with HIV live far away from other people? (2) If you knew that a food seller had HIV, would you buy food from her/him? (3) If a student is infected with HIV, should she/he be separated from other students? (4) If there is a student with HIV in your class, would you play with her/him? (5) Would you eat lunch with a student with HIV? (6) Would you stay away from a student whose parents are infected with HIV? (7) Would you share a packet of snacks with a student with HIV? (8) Should a student with HIV be allowed to study together with other students? (9) Should a student with HIV use separate plates and glasses from other students? (10) Are you afraid of playing with a student with HIV? (11) If a student with HIV asks for your help, would you be willing to help her/him? (12) Should a student with HIV be allowed to play with other students? (13) Would you drink water from the same glass as a student with HIV? (14) Would you lend your pen to a student with HIV?</p><p>casual contact and their attitudes towards their peers affected by HIV and AIDS, information on the risk of HIV transmission in school settings was provided to all children in the programme schools. This information was delivered through a game in which pictures of different ways that children could have casual contact, such as studying together with a student with HIV, were shown and children were asked to say whether there was a high risk, low risk or no risk of HIV transmission. Children who had the highest score for correct knowledge received a small prize. After giving this information through the game, the attitudes of children were examined again by asking them to complete the same questionnaire that had been given to them previously. This procedure was repeated in all five schools.</p><p>Quantitative data were analysed using SPSS 17.0 for Windows and transcripts of focus groups were made and organised with the help of the NVivo software. A children's attitude scale was developed and the correlation between their attitudes score and some variables, such as knowledge about HIV and AIDS and past contact with people with HIV, were examined. The findings from these quantitative data were further explored in depth by the analysis of qualitative data from the focus groups.</p><p>This study was approved by the ethical committee of the Institute of Education, University of London, and official permission for the study was obtained from the provincial educational authority in Thailand as well as from each participating school. Prior to the questionnaire and the focus groups, children were told that participation in the study was voluntary and they could withdraw from the study at any time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Children's attitudes towards their HIV-affected peers</head><p>Children's answers to the attitude items are presented in Table <ref type="table" target="#tab_0">1</ref>. Not all children answered all the questions so that the totals were usually less than 513. When asked if they would be willing to help a student living with HIV, 137 children (64 boys and 73 girls; 29.4%) said they were ''willing to help always'' and 216 children (103 boys and 113 girls; 46.4%) said they ''would help sometimes''. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AIDS Care 239</head><p>During the focus groups, there were some positive statements regarding children infected with HIV. For example, a girl in Grade 6 said ''I feel sorry for a student with AIDS'', a boy in Grade 6 said ''I will encourage him'' (a boy in Grade 6) and a girl in Grade 4 said ''I will not bully and tease a student with AIDS, and if other children bully her, I will help her''.</p><p>However, 74.7% of the children were against children with HIV studying together with those not infected and boys were more likely to give a negative answer than girls (x 2 023.165; df 02; p B0.001). It was also found that most of the children were afraid of playing with children with HIV. Only 36 children (20 boys and 16 girls; 7.7%) answered that they were not afraid at all of playing with children with HIV, whereas 218 children (102 boys and 116 girls; 46.5%) answered that they were a little afraid, and 215 children (125 boys and 90 girls; 45.8%) answered that they were very afraid.</p><p>During the focus groups, children often stated that they would stay away from a student with HIV. Some students, mostly boys, said they would play with students infected with HIV but not go close to her/him:</p><p>It is better to stay far from a student with AIDS. I'm afraid to get AIDS. (A boy in Grade 4) I will play with a student with AIDS as usual and try to encourage him. But I will be careful not to get AIDS from him and I will not let him know (that I am trying to be careful). (A boy in Grade 4) This negative attitude also applied to children who were not infected but were affected by HIV and AIDS, although it was less strongly expressed. Only 121 children (74 boys and 47 girls; 25.9%) answered that they would not stay away from children whose parents have HIV, which suggested that more than 70% of children were assuming that if the parents had HIV, their children were infected as well.</p><p>More negative attitudes were expressed towards more intimate contact with children infected with HIV. When asked whether they would eat their lunch together with a student with HIV, 38 children (16 boys and 22 girls; 8.1%) answered ''yes''. When asked whether they would use the same glass to drink water with a student with HIV, only 12 children (seven boys and five girls; 2.6%) answered ''yes''. These sentiments were also expressed by children in the focus groups: The results of the focus groups revealed that the children believe that if parents were HIV-positive the child was also infected with HIV. They were sympathetic and compassionate towards these children and no prejudice towards their parents was mentioned. However, at the same time, they were aware of the risk of HIV infection and were trying to protect themselves by avoiding physical contact with them. The results of the questionnaire also showed that the children's negative attitudes were largely influenced by their fear of HIV infection due to their misunderstandings of HIV transmission routes and overestimation of the risk of HIV infection through casual contact. It was also found that more than 80% of the children reported that their parents have forbidden them to play with children affected by HIV and AIDS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Children's attitude scale</head><p>In order to further examine children's attitudes, an attitude scale was developed. The findings of the focus groups with the children indicated that they usually assume that HIV-affected children are HIVpositive. Special attention was therefore paid to their attitudes towards children with HIV. Eleven out of the 14 items (Box 1), which focus on children with HIV, were used to develop a scale as follows:</p><p>Step 1: The correlation between each item and the raw sum of all the 11 attitude items were calculated.</p><p>Step 2: The 11 items were entered into a principal component analysis and two factors with eigenvalues greater than 1 were extracted; then, correlations between each factor and each attitude item were calculated.</p><p>Step 3: The items that had a high correlation both with the raw sum of the 11 items as well as with the two factors were selected, which gave a total of five items and these were used as the components of the children's attitude scale. These five items were:</p><p>(1) If a student was infected with HIV, should she/ he be separated from other students? (2) If there is a student with HIV in your class, would you play with her/him? (3) Would you eat lunch with a student with HIV? (4) Should a student with HIV be allowed to study together with other students? (5) Should a student with HIV be allowed to play with other students?</p><p>According to the answer, each response was scored 1 (negative attitude) to 3 (positive attitude) and a sum of these five items was defined as the attitude score. A simple sum was used because there was no external rationale for differential weighting. The most tolerant score (i.e., positive attitude) is 15, whereas the least tolerant score (i.e., negative attitude) is 5. Cronbach's a for this scale was 0.876. The findings showed that children's attitude scores ranged from 5 to 15 (median 8). Figure <ref type="figure" target="#fig_1">1</ref> shows the distribution of the scores. This figure shows that the children tend to have negative attitudes and the distribution was positively skewed.</p><p>Then, factors that associated with the children's attitude scores were explored using an analysis of variance. Table <ref type="table" target="#tab_1">2</ref> shows the effect of each variable on the attitude score. It was found that older children had higher attitude scores (F 3, 435 021.32; pB0.001; x 2 00.128), and children who had a higher knowledge score also had more positive attitudes (F 6, 435 06.46; pB0.001; x 2 00.082). Children who answered that their parents always told them not to play with children affected by HIV and AIDS had a more negative attitude than the children whose parents never or sometimes told them so (F 2, 435 041.32; pB0.001; x 2 00.160). It also showed that girls had a higher attitude score than boys (F 1, 435 08.55; p00.004; x 2 00.019). The contact with people with HIV did not affect children's attitude score. In multivariate analysis, children's age, sex, knowledge score and their parents' attitudes (i.e., forbid to play with affected children) remained statistically significant (Table <ref type="table" target="#tab_2">3</ref>). Among these factors, children's grade (t 458 09.112; pB0.001), parents' attitudes (t 458 08.102; pB0.001) and knowledge score (t 458 06.048; pB0.001) showed a large impact on the children's attitude score.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Impact of correct knowledge of non-transmission routes of HIV on children's attitudes</head><p>As previously mentioned in Section ''Methods'', information on how HIV can and cannot be transmitted in the school setting was given to children in the three programme schools and the children were asked to complete a post-intervention questionnaire which was the same as the previous one. The focus groups were also repeated. The children in the two non-programme schools were not given the information. In total, 513 children (272 boys and 241 girls; 96.6%) answered the post-intervention questionnaire. Although there was no significant difference in the knowledge score between schools at the time of the pre-intervention questionnaire (Table <ref type="table" target="#tab_3">4</ref>), the knowledge score of children in the programme schools was higher than that of the non-programme schools after they had received the information provided (Mann ÁWhitney test: U09647.0; pB0.001).</p><p>Although a slightly higher mean attitude score was observed in the programme schools compared to the non-programme schools from the pre-intervention questionnaire, the attitude score had improved in the course of time for both groups with a more significant improvement in the programme schools (MannÁWhitney test: U012,881.0; pB0.001; Figure <ref type="figure" target="#fig_2">2</ref>). After the information on how HIV cannot be transmitted was provided, the children's attitude score improved from 9.0 (median Á pre-questionnaire) to 13.0 (median Á post-questionnaire) in the programme schools. The attitude score also improved in the non-programme schools from 8.0 (median) to 10.0 (median).</p><p>Changes of children's attitude were further examined by calculating the reduction in attitude gap (i.e., 100*(15Áattitude post-score)/(15Áattitude pre-score)). Multivariate analysis was run in order to examine the factors affecting changes in children's attitudes. It was shown that the provision of the information on HIV transmission (t 394 05.450; pB0.001), the attitude score at the pre-questionnaire (t 394 04.829; pB0.001) and the knowledge score at the post-questionnaire (t 394 0Á3.004; p00.003) had a significant association with the reduction in attitude gap (Table <ref type="table" target="#tab_4">5</ref>). Children's grade and the attitudes of parents, which had a large impact on the attitude score of the children at the pre-questionnaire, did not have a significant impact on the attitude at the post-questionnaire (grade: t 394 0Á1.219; p00.224; parents' attitudes: t 394 0Á0.402; p00.688).</p><p>During the second set of focus groups, more positive statements were heard in the programme schools than in the non-programme schools. AIDS Care 241 I will play with a child with AIDS, because you can't get HIV easily. I'm not afraid. (A boy in Grade 6, programme school) I think we should not tease a student with AIDS. (A girl in Grade 4, programme school)</p><p>In contrast, there were still similar statements as the previous focus groups in the non-programme schools. In summary, the children's attitudes changed positively and the changes were more significant in the programme schools, which received information on non-transmission routes of HIV.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This study found that children were feeling sorry for children affected by HIV and AIDS and were willing to help them. Their sympathy and compassion towards affected children mostly originated from the fact that the affected children had parents who are HIV-positive or had lost their parents due to AIDS. This compassion was also due to their belief that these affected children were also infected, through no fault of their own, with HIV. In this study, the prejudice due to their parents' social status, which <ref type="bibr" target="#b4">Clemo (1992)</ref> found, was not apparent, and the affected children were regarded as ''innocent victims'' <ref type="bibr" target="#b1">(Busza, 2001;</ref><ref type="bibr" target="#b6">Devine, Plant, &amp; Harrison, 1999)</ref>. However, it was also found that children assumed that the children ''affected'' by HIV and AIDS were ''infected'' with HIV, thus they were afraid of them. As a result, the affected children were being stigmatised in the school. This corroborates the findings of <ref type="bibr" target="#b8">Herek (1999)</ref>, who reported that stigma arose from both the fear of HIV infection, as well as from the fatality of the illness.</p><p>As past studies suggest (e.g., <ref type="bibr" target="#b0">Boer &amp; Emons, 2004;</ref><ref type="bibr" target="#b3">Castle, 2004)</ref>, it was found in this present study that misunderstandings about HIV being transmitted through casual contact significantly influenced children's attitudes. Children were aware of the transmissibility of HIV and most of them were overestimating the risk of HIV transmission through casual contact. This misconception seemed to have increased their fear of HIV infection and, as discussed above, led them to believe that if parents are HIV-positive, the children are also infected with HIV, which resulted in their negative attitudes towards these children affected by HIV and AIDS. A significant improvement in their attitude, after receiving correct information on the non-transmissibility of HIV through casual contact in the schools, also supports this finding.</p><p>The results have also shown the impact of the parents' attitudes on the children. Most parents were reported to have forbidden their children to play with children affected by HIV and AIDS and this seemed to have led to children having negative attitudes. It was also found that older children and girls had a more positive attitude towards their HIV-affected peers. This may be due to the fact that social skills are developed as children grow and mature, and to the fact that girls are generally more socially competent than boys of the same age. This finding may also explain the fact that boys and younger children affected by AIDS were more likely to be bullied by their peers <ref type="bibr" target="#b11">(Ishikawa, 2007)</ref>. There were some potential limitations in this study. First, the samples included children affected by HIV and AIDS who may themselves have had more positive attitudes towards children with HIV. However, as the results showed, children's status as affected by HIV and AIDS as well as their past contact with people with HIV did not show significant correlation with their attitudes. Second, the improvement in their attitudes may have been due to the maturation effect as children receive more information and knowledge as they grow, which was shown by the fact that attitudes of children in the non-programme schools have also improved. However, the fact that a more significant change in the attitudes was observed in the programme schools strongly suggests that these changes were not only due to the effect of maturation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>This study has demonstrated that schoolchildren do stigmatise and discriminate against their HIV-affected</p><p>60 50 40 30 20 10 0 60 50 40 30 20 10 0 60 50 40 30 20 10 0 60 50 40 30 20 10 0 5 6 7 8 9 10 11 12 13 14 15 n=225 n=213 n=201 n=242 Attitude score (pre) Attitude score (post) No. of children No. of children Programme school Non-programme school No. of children No. of children 5 6 7 8 9 10 11 12 13 14 15 5 6 7 8 9 10 11 12 13 14 15 5 6 7 8 9 10 11 12 13 14 15   </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>I</head><figDesc>will share food with a student with AIDS. But I will take food from my plate and bring it to him and he should not take food from my plate with his hands. (A boy in Grade 6) If a student with AIDS gives me food, I will take it, but I will not eat it. (A boy in Grade 6)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Children's attitudes towards children with HIV.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Change in children's attitudes.</figDesc><graphic coords="7,124.93,439.80,394.83,242.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Children's attitude towards their HIV-affected peers.</figDesc><table><row><cell>Box 2. Discussion guide for focus groups</cell></row><row><cell>Children affected by HIV and AIDS</cell></row><row><cell>Do you know what AIDS is?</cell></row><row><cell>What do you think if you find out that there is a</cell></row><row><cell>student with HIV in your class?</cell></row><row><cell>What do you think about a child whose mother or</cell></row><row><cell>father is infected with HIV?</cell></row><row><cell>What do your parents/guardians say about chil-</cell></row><row><cell>dren whose mother or father is infected with HIV?</cell></row><row><cell>What can you do to help children with HIV as</cell></row><row><cell>well as children whose mother or father is infected</cell></row><row><cell>with HIV?</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Children's attitude score and affecting factors (analysis of variance).</figDesc><table><row><cell></cell><cell>M 2</cell><cell>F</cell><cell>p -Value</cell><cell>x 2</cell></row><row><cell>Grade</cell><cell>78.96</cell><cell>21.32</cell><cell>B0.001</cell><cell>0.128</cell></row><row><cell>Knowledge score</cell><cell>23.93</cell><cell>6.46</cell><cell>B0.001</cell><cell>0.082</cell></row><row><cell>Parents forbid to</cell><cell>153.07</cell><cell>41.32</cell><cell>B0.001</cell><cell>0.160</cell></row><row><cell>play with</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>affected children</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sex</cell><cell>31.68</cell><cell>8.55</cell><cell>0.004</cell><cell>0.019</cell></row><row><cell>Contact with</cell><cell>7.33</cell><cell>1.98</cell><cell>0.14</cell><cell>0.009</cell></row><row><cell>people with HIV</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Children's attitude score and affecting factors (multivariate analysis).</figDesc><table><row><cell></cell><cell>Standardised coefficients</cell><cell></cell><cell></cell></row><row><cell></cell><cell>(b)</cell><cell>t</cell><cell>p -Value</cell></row><row><cell>School</cell><cell>Á0.061</cell><cell>Á1.756</cell><cell>0.080</cell></row><row><cell>Grade</cell><cell>0.349</cell><cell>9.112</cell><cell>B0.001</cell></row><row><cell>Sex</cell><cell>0.108</cell><cell>3.090</cell><cell>0.002</cell></row><row><cell>Contact with people with HIV</cell><cell>0.045</cell><cell>1.297</cell><cell>0.195</cell></row><row><cell>Affected by HIV/AIDS</cell><cell>Á0.008</cell><cell>Á0.228</cell><cell>0.820</cell></row><row><cell>Knowledge score</cell><cell>0.226</cell><cell>6.048</cell><cell>B0.001</cell></row><row><cell>Parents forbid to play with affected children</cell><cell>0.299</cell><cell>8.102</cell><cell>B0.001</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Characteristics of programme and non-programme schools.AIDS Care 243 peers and that providing HIV prevention education to correct misunderstandings regarding the risk of HIV transmission through casual contact can help to improve their attitudes. These findings strongly support the need for AIDS education in primary schools in Thailand, in which emphasis should be given not only to the prevention of HIV infection, but also to promoting a positive attitude towards people with HIV or AIDS, including children affected by HIV and AIDS. It also highlights the importance of changing the attitudes of parents as well as their children, which has important implications for AIDS education in the community.</figDesc><table><row><cell>Programme school (n 0226) Non-programme school (n 0245)</cell><cell>p-Value</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc>Children's reduction in attitude gap and affecting factors.</figDesc><table><row><cell>244 N. Ishikawa et al.</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Standardised coefficients</cell><cell></cell><cell></cell></row><row><cell></cell><cell>(b)</cell><cell>t</cell><cell>p -Value</cell></row><row><cell>Information on HIV transmission</cell><cell>0.306</cell><cell>5.450</cell><cell>B0.001</cell></row><row><cell>Grade</cell><cell>Á0.065</cell><cell>Á1.219</cell><cell>0.224</cell></row><row><cell>Sex</cell><cell>Á0.165</cell><cell>Á3.559</cell><cell>B0.001</cell></row><row><cell>Contact with people with HIV</cell><cell>Á0.069</cell><cell>Á1.525</cell><cell>0.128</cell></row><row><cell>Affected by HIV/AIDS</cell><cell>0.063</cell><cell>1.391</cell><cell>0.165</cell></row><row><cell>Parents forbid to play with affected children</cell><cell>Á0.020</cell><cell>Á0.402</cell><cell>0.688</cell></row><row><cell>Attitude score (pre-questionnaire)</cell><cell>0.283</cell><cell>4.829</cell><cell>B0.001</cell></row><row><cell>Knowledge score (post-questionnaire)</cell><cell>Á0.174</cell><cell>Á3.004</cell><cell>0.003</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors would like to acknowledge all the children, caregivers and teachers who took part in and contributed to this study. This study was partly funded by the <rs type="funder">Central Research Fund, University of London</rs> and the <rs type="funder">Grant of National Center for Global Health and Medicine Japan</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Accurate and inaccurate HIV transmission beliefs, stigmatizing and HIV protection motivation in northern Thailand</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Boer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A A</forename><surname>Emons</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Care</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="167" to="176" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Promoting the positive: Responses to stigma and discrimination in Southeast Asia</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Busza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Care</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="441" to="456" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Carr-Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Katabaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Katahoire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Oulai</surname></persName>
+		</author>
+		<title level="m">The impact of HIV/AIDS on education and institutionalizing preventive education</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Institute for Educational Planning/UNESCO</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Rural children&apos;s attitudes to people with HIV/AIDS in Mali: The causes of stigma</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Castle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Culture Health &amp; Sexuality</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The stigmatization of AIDS in infants and children in the United States</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Clemo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Education and Prevention</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="308" to="318" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Responding to the HIV/AIDS pandemic: &apos;Best practice issues for educators</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Coombe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Consultation on HIV/AIDS and teacher education in East and Southern Africa</title>
+		<meeting><address><addrLine>Pretoria</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The problem of &apos;&apos;us&apos;&apos; versus &apos;&apos;them&apos;&apos; and AIDS stigma</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Devine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Plant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Harrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1212" to="1228" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Friendships and their developmental significance</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Hartup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Childhood social development: Contemporary perspectives</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Mcgurk</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hove</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lawrence Erlbaum</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="175" to="205" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">AIDS and stigma</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Herek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Behavioral Scientist</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1106" to="1116" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">HIV-related stigma and knowledge in the United States: Prevalence and trends</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Herek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Capitanio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Widaman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Public Health</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="371" to="377" />
+			<date type="published" when="1991">2002. 1991. 1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Building blocks: Africa-wide briefing notes education</title>
+	</analytic>
+	<monogr>
+		<title level="m">International HIV/AIDS Alliance</title>
+		<meeting><address><addrLine>Brighton</addrLine></address></meeting>
+		<imprint>
+			<publisher>International HIV/AIDS Alliance</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Children affected by AIDS in the school Á their psychosocial health problems and the role of the school (Unpublished doctoral dissertation)</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ishikawa</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Institute of Education, University of London</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The child-school interface</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Jones</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Cassell</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">HIV/AIDS Prevention Indicator Survey: Knowledge, attitudes, sexual behaviour, stigma</title>
+		<ptr target="http://www.cpn.unc.edu/measure/publications/UNAIDS" />
+	</analytic>
+	<monogr>
+		<title level="m">Report on the global AIDS epidemic</title>
+		<meeting><address><addrLine>Geneva</addrLine></address></meeting>
+		<imprint>
+			<publisher>UNAIDS</publisher>
+			<date type="published" when="2000">2000. 2008. 2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Thailand&apos;s response to HIV/AIDS: Progress and challenges</title>
+		<author>
+			<persName><surname>Undp</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Author</publisher>
+			<pubPlace>Bangkok</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Africa&apos;s orphaned generations</title>
+		<author>
+			<persName><surname>Unicef</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Author</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">Unaids</forename><surname>Unicef</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Unfpa</surname></persName>
+		</author>
+		<title level="m">Children and AIDS: Third stocktaking report</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>UNICEF</publisher>
+			<date type="published" when="2008">2008. 2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">Unaids</forename><surname>Unicef</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Unfpa</surname></persName>
+		</author>
+		<title level="m">Children and AIDS: Fourth stocktaking report</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>UNICEF</publisher>
+			<date type="published" when="2009">2009. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<monogr>
+		<title level="m" type="main">School health education to prevent AIDS and STD: A resource package for curriculum planners</title>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Unesco</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>WHO</publisher>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

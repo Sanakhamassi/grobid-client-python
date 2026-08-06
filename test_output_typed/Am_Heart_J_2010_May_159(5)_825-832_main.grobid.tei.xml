@@ -1,0 +1,1438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Left ventricular strain and untwist in hypertrophic cardiomyopathy: Relation to exercise capacity</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Khalid</forename><surname>Abozguia</surname></persName>
+							<email>abozguia@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Cardiovascular Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Birmingham</orgName>
+								<address>
+									<addrLine>Edgbaston, Birmingham</addrLine>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ganesh</forename><surname>Nallur-Shivu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Cardiovascular Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Birmingham</orgName>
+								<address>
+									<addrLine>Edgbaston, Birmingham</addrLine>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Thanh</forename><forename type="middle">T</forename><surname>Phan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Cardiovascular Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Birmingham</orgName>
+								<address>
+									<addrLine>Edgbaston, Birmingham</addrLine>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ibrar</forename><surname>Ahmed</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Cardiovascular Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Birmingham</orgName>
+								<address>
+									<addrLine>Edgbaston, Birmingham</addrLine>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rajat</forename><surname>Kalra</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Cardiovascular Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Birmingham</orgName>
+								<address>
+									<addrLine>Edgbaston, Birmingham</addrLine>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rebekah</forename><forename type="middle">A</forename><surname>Weaver</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Cardiovascular Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Birmingham</orgName>
+								<address>
+									<addrLine>Edgbaston, Birmingham</addrLine>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">William</forename><forename type="middle">J</forename><surname>Mckenna</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution" key="instit1">The Heart Hospital</orgName>
+								<orgName type="institution" key="instit2">University College London Hospitals</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><forename type="middle">E</forename><surname>Sanderson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Cardiovascular Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Birmingham</orgName>
+								<address>
+									<addrLine>Edgbaston, Birmingham</addrLine>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Division of Cardiology</orgName>
+								<orgName type="department" key="dep2">Department of Medicine and Therapeutics</orgName>
+								<orgName type="institution" key="instit1">Prince of Wales Hospital</orgName>
+								<orgName type="institution" key="instit2">The Chinese University of Hong Kong</orgName>
+								<address>
+									<settlement>Hong Kong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Perry</forename><surname>Elliott</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Cardiology</orgName>
+								<orgName type="institution" key="instit1">The Heart Hospital</orgName>
+								<orgName type="institution" key="instit2">University College London Hospitals</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><forename type="middle">P</forename><surname>Frenneaux</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Cardiovascular Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Birmingham</orgName>
+								<address>
+									<addrLine>Edgbaston, Birmingham</addrLine>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Medicine and Dentistry</orgName>
+								<orgName type="institution">University of Aberdeen</orgName>
+								<address>
+									<addrLine>Polwarth Building</addrLine>
+									<settlement>Aberdeen</settlement>
+									<country>United Kingdom UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MRCP</roleName><surname>Mbbch</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Cardiovascular Medicine</orgName>
+								<orgName type="department" key="dep2">Medical School</orgName>
+								<orgName type="institution">University of Birmingham</orgName>
+								<address>
+									<addrLine>Edgbaston</addrLine>
+									<postCode>B15 2TT</postCode>
+									<settlement>Birmingham</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Left ventricular strain and untwist in hypertrophic cardiomyopathy: Relation to exercise capacity</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4A30C47EF22A88B06269FC91E99A3685</idno>
+					<note type="submission">Sponsored Document Sponsored Document Sponsored Document Sponsored Document</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:16+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background-Nonobstructive hypertrophic cardiomyopathy (nHCM) is often associated with reduced exercise capacity despite hyperdynamic systolic function as measured by left ventricular ejection fraction. We sought to examine the importance of left ventricular strain, twist, and untwist as predictors of exercise capacity in nHCM patients.</p><p>Methods-Fifty-six nHCM patients (31 male and mean age of 52 years) and 43 age-and gendermatched controls were enrolled. We measured peak oxygen consumption (peak VO 2 ) and acquired standard echocardiographic images in all participants. Two-dimensional speckle tracking was applied to measure rotation, twist, untwist rate, strain, and strain rate.</p><p>Results-The nHCM patients exhibited marked exercise limitation compared with controls (peak VO 2 23.28 ± 6.31 vs 37.70 ± 7.99 mL/[kg min], P &lt; .0001). Left ventricular ejection fraction in nHCM patients and controls was similar (62.76% ± 9.05% vs 62.48% ± 5.82%, P = .86). Longitudinal, radial, and circumferential strain and strain rate were all significantly reduced in nHCM patients compared with controls. There was a significant delay in 25% of untwist in nHCM compared with controls. Both systolic and diastolic apical rotation rates were lower in nHCM patients. Longitudinal systolic and diastolic strain rate correlated significantly with peak VO 2</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Conclusions-In nHCM patients, there are widespread abnormalities of both systolic and diastolic function. Reduced strain and delayed untwist contribute significantly to exercise limitation in nHCM patients.</p><p>Patients with nonobstructive hypertrophic cardiomyopathy (nHCM) often complain of breathlessness and/or fatigue, and most have reduced exercise capacity. Patients with nHCM typically exhibit diastolic dysfunction, which is thought to contribute significantly to the genesis of breathlessness in these patients. Active relaxation is slowed and filling rate is typically diminished at rest in nHCM patients. Furthermore, we previously showed that there is frequently a failure of the normal increase in rate of active relaxation (as measured by time to peak filling) on exercise; indeed, in some patients, active relaxation paradoxically slowed on exertion.</p><p>Resting echocardiographic Doppler parameters of left ventricle (LV) filling have been used to measure diastolic function. However, these parameters are dependent on loading conditions. The LV twists during systole as a result of counterclockwise rotation of the apex and clockwise rotation of the base with corresponding untwisting during diastole. The resulting untwisting may represent a useful marker of diastolic function. The velocity of LV untwisting has been correlated with invasive measurements of LV relaxation under a variety of loading and inotropic conditions in animal models. Dong et al confirmed that LV untwisting is a measure of LV relaxation that is independent of preload as reflected in left atrial (LA) pressure.</p><p>The development of speckle tracking echocardiography (STE) has allowed LV strain, twisting, and untwisting rates to be measured relatively easily with reasonably high temporal resolution. In this study, we used STE to measure LV strain, strain rate, and twist and untwist rates in nHCM patients and controls; and we sought to assess their relationship with exercise capacity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>This study was funded by a British Heart Foundation project grant (PG/05/087). The authors are solely responsible for the design and conduct of this study, all study analyses, the drafting and editing of the paper, and its final contents.</p><p>Fifty-six nHCM patients and 43 age-and gender-matched controls were included in this study, all of whom provided written informed consent. The study was approved by the local ethics committee, and the investigations conform to the principles outlined in the Declaration of Helsinki. All study participants had electrocardiogram (ECG), echocardiogram, and cardiopulmonary exercise test.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and controls selection</head><p>All HCM patients were in sinus rhythm and fulfilled conventional echocardiographic criteria for the diagnosis of HCM (LV wall thickness &gt;1.5 cm in the absence of another cause for hypertrophy and without cavity dilatation). All HCM patients underwent assessment of LV outflow tract obstruction gradient, and those with a resting or provocable gradient (on Valsalva maneuver) &gt;30 mm Hg were excluded. Those patients were excluded because LV outflow tract obstruction is an important cause of symptoms and exercise limitation. All controls had no history or symptoms of any cardiovascular disease, with normal ECG and echocardiogram (LV ejection fraction [LVEF] ≥55%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cardiopulmonary exercise test</head><p>This was performed using a Schiller (Baar, Switzerland) CS-200 Ergo-Spiro exercise machine that was calibrated before every study. Subjects underwent spirometry, and this was followed by symptom-limited erect treadmill exercise testing using a standard ramp protocol with simultaneous respiratory gas analysis. Samplings of expired gases were performed continuously, and data were expressed as 30-second means. Minute ventilation, oxygen consumption, carbon dioxide production, and respiratory exchange ratio were obtained. Peak oxygen consumption (peak VO 2 ) was defined as the highest VO 2 achieved during exercise and was expressed in milliliters per minute per kilogram. Blood pressure and ECG were monitored throughout. Participants were encouraged to exercise to exhaustion with a minimal requirement of respiratory exchange ratio &gt;1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Resting echocardiography</head><p>Echocardiography was performed with participants in the left lateral decubitus position with a GE (Horten, Norway) Vivid 7 echocardiographic machine and a 2.5-MHz transducer. Measurements were averaged for 3 beats and were stored digitally and analyzed off-line. Resting scans were acquired in standard long and short parasternal basal level (at mitral valve), papillary muscle level, and apical level (distal LV cavity where papillary muscle is not visible) as previously described as well as apical 4-chamber and apical 2-chamber axis. Left ventricular volumes were obtained by biplane echocardiography, and LVEF was derived from a modified Simpson formula. A pulse wave Doppler sample volume was placed at the mitral valve tips to record 3 cardiac cycles. Mitral annulus velocities (pulse wave tissue Doppler imaging [PW-TDI]) were recorded from basal anterolateral and basal inferoseptal segment in apical 4chamber view. Left atrial volumes were measured by area length method from apical 2 and 4 chambers as previously described and indexed to body surface area to derive LA volume index (LAVI). Left ventricular mass was measured by area length method and indexed to body surface area to derive LV mass index as previously described. The greatest thickness measured in the LV wall at any short-axis parasternal view was considered to represent maximal LV wall thickness (MWT) in nHCM patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Speckle tracking echocardiography</head><p>Speckle tracking echocardiography (STE) was measured using Echopac workstation (version 4.2.0) (GE Vingmed Ultrasound AS, Horten, Norway). In this speckle tracking method, the displacement of speckles of myocardium in each spot was analyzed and tracked from frame to frame. We selected the best-quality digital 2-dimensional image cardiac cycle, and the LV endocardium was traced at end systole. The region of interest width was adjusted as required to fit the wall thickness. The software package then automatically tracked the motion through the rest of the cardiac cycle. Adequate tracking was verified in real time. A tracking score of ≤2.5 was accepted with frame rate between 60 and 100 Hz. Left ventricular peak strain and strain rate were measured in all segments and then averaged, representing the entire myocardium. The basal and apical LV global rotation (rot) and LV rotation rate (rot-r) STE data were measured from basal and apical short-axis view, respectively; exported to a spreadsheet program (Excel 2003, Microsoft Corp, Seattle, WA); and then exported to DPlot Graph Software (2001-2008 by HydeSoft Computing, Inc, Vicksburg, MS) to calculate LV twisting and untwisting rate. Definitions of twist and untwist are shown in (Figure <ref type="figure" target="#fig_0">1</ref>). Interobserver and intraobserver reproducibility and variability of STE twist, untwist, and strain measurements were previously validated by our group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistics</head><p>Data were analyzed using SPSS version 15.0 for Windows (SPSS Inc, Chicago, IL) and Microsoft Office Excel 2007, and expressed as mean ± SD. Comparison of variables between nHCM patients and controls was by the unpaired Student t test (2-tailed) if variables were normally distributed and the Mann-Whitney U test if the data were nonnormally distributed. A difference of P &lt; .05 was taken to indicate statistical significance. Pearson correlation coefficient was used to examine correlations between exercise capacity and echocardiographic parameters in nHCM patients. Multivariate linear regression stepwise analysis was then performed by entering into model variables that were considered significant on univariate analysis to determine independent predictors of exercise capacity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The clinical characteristics and cardiopulmonary exercise test results of nHCM patients and controls are shown in Table <ref type="table">I</ref>. Both groups were well matched with respect to age and gender. The nHCM patients exhibited marked exercise limitation as compared with controls, whereas mean EF was comparable in both groups. Heart rate was lower in the nHCM group as compared with controls because of rate-limiting medication (β-blockers or/and calcium-channel blockers).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conventional echocardiographic measurements</head><p>Standard, Doppler, and PW-TDI echocardiographic findings of nHCM and controls groups are listed in Table <ref type="table">II</ref>. Transmitral Doppler measurements showed no significant difference in early diastolic peak (peak E), late diastolic peak (peak A), and E/A ratio in nHCM versus controls (Table <ref type="table">II</ref>). However, PW-TDI measurements of myocardial peak systolic velocity (Sm), myocardial peak early diastolic velocity (Em), myocardial peak late diastolic velocity (Am), and E/Em of the inferoseptal, anterolateral, and average basal segments were significantly lower in nHCM patients compared with controls (Table <ref type="table">II</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Two-dimensional STE measurements</head><p>The STE measurements of strain and strain rate are shown in Table <ref type="table">III</ref>. Longitudinal strain and strain rate (SrL) during both systole and diastole were all significantly reduced in nHCM patients as compared with controls. Similarly, radial strain and strain rate were also significantly lower in nHCM patients than in controls. Circumferential strain and diastolic circumferential strain rate (SrC) were also significantly lower in nHCM patients as compared with controls. There was a nonsignificant trend to lower systolic SrC in nHCM patients compared with controls.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Twist and untwist rate</head><p>The STE measurements of LV rotation, twist, and untwist in both groups are shown in Table <ref type="table">IV</ref>. There was no significant difference in the LV ability to twist in systole and untwist in diastole between nHCM and controls. However, 25% untwist was significantly delayed in nHCM versus controls. Unlike the base, there was a significant reduction in apical rotation rates during systole and diastole in nHCM patients as compared with controls.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Relation to exercise capacity</head><p>In nHCM patients, exercise capacity (peak VO 2 ) was independent of LV mass index (r = 0.01, P = .97) (Figure <ref type="figure" target="#fig_1">2</ref>, A), MWT (r = 0.04, P = .8) (Figure <ref type="figure" target="#fig_1">2</ref>, B), or LAVI (r = -0.08, P = .6) (Figure <ref type="figure" target="#fig_1">2</ref>, <ref type="figure">C</ref>). However, it significantly correlated with the following STE parameters: SrL during systole (systolic peak [peak S]) (r = -0.34, P = .01) (Figure <ref type="figure" target="#fig_2">3</ref>, A), during early diastole (peak E) (r = 0.36, P = .006) (Figure <ref type="figure" target="#fig_2">3</ref>, B), and during late diastole (peak A) (r = 0.31, P = .02) (Figure <ref type="figure" target="#fig_2">3</ref>, C); and it also correlated with 25% untwist (r = 0.36, P = .006) (Figure <ref type="figure" target="#fig_2">3</ref>, <ref type="figure">D</ref>). The 25% untwist and SrL peak E were independent predictors of exercise capacity (P = .003 and P = . 01, respectively).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this study, we assessed myocardial strain using an ultrasound speckle tracking technique that avoids the angle dependency of Doppler-based techniques. Longitudinal, radial, and circumferential strain and strain rates, and twist and untwist rates were measured in nHCM patients and in age-and gender-matched controls. Although nHCM patients typically exhibit hyperdynamic systolic function as assessed by conventional echocardiography, our STE findings of reduced SrL and delayed 25% untwist as significant predictors of exercise capacity are to the best of our knowledge novel.</p><p>The STE tracks characteristic speckle patterns created by interference of ultrasound beams in the myocardium that is based on gray scale B-mode images, and is angle independent. In humans, measurement of LV long-axis strain by STE correlated well with magnetic resonance imaging tagging (r = 0.87). We are now able to characterize myocardial function in greater detail, breaking down global function into the individual components that make up the whole. This can now be done for both the diastolic phase and systolic phase of myocardial function quickly and reproducibly using a relatively new technique of speckle tracking. Our findings of reduced longitudinal, circumferential, and radial strains are in agreement with previously published works. However, the clinical relevance of these alterations in function has not been previously assessed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Systolic function in HCM</head><p>The function of the LV is often described as hyperdynamic in HCM. This is based on the frequent observation of high normal or supranormal EF. In this study, we showed that HCM patients had reduced systolic STE-derived longitudinal, circumferential, and radial strain and strain rates despite normal LVEF. These results are consistent with TDI-derived data that have shown that systolic long-axis function is reduced in patients with HCM. Carasso et al showed reduced longitudinal but higher circumferential STE-derived strain and strain rate in HCM patients compared with controls. Our findings of reduced circumferential strain are consistent with previous tagged magnetic resonance imaging studies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Diastolic function in HCM</head><p>The majority of HCM patients have some degree of diastolic dysfunction independent of symptoms, the presence of ventricular outflow tract obstruction, the magnitude of hypertrophy, or a combination of these. The mechanisms responsible for the diastolic dysfunction are probably multifactorial. The hypertrophy, myocyte disarray, and fibrosis may increase passive LV stiffness. Several studies had shown abnormalities of active relaxation in HCM patients; and these may relate to abnormal calcium handling, to microvascular myocardial ischemia and mechanical dyssynchrony, or to impaired myocardial energy utilization. There are several echocardiographic measurements that can quantify diastolic dysfunction in HCM patients, but there remain some controversies about their accuracy. Our data showed no significant difference in transmitral Doppler-derived parameters between HCM patients and controls. However, there were significant abnormalities of other echocardiographic measurements of diastolic function (such as LA volume, LAVI, and TDI-derived indexes) in HCM patients. More importantly, untwist (a marker of diastolic function) was significantly delayed in these patients, which is in agreement with a previous study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exercise limitation in HCM</head><p>Traditionally, it has been believed that LV diastolic dysfunction is the predominant cause of breathlessness and exercise limitation in HCM patients. Interestingly, we found that markers of both LV systolic and diastolic function significantly correlated with exercise capacity.</p><p>We have previously demonstrated that exercise capacity in patients with HCM is limited by the failure to increase stroke volume on peak exercise. Furthermore, we showed an abnormal lengthening of time to peak LV filling on exercise in these patients. The mechanism of this limitation of LV filling has not been fully elucidated. Left ventricular untwist is increasingly being recognized as an important component of diastolic function, contributing significantly to suction. Knudtson et al have shown that myocardial ischemia impairs untwist. Untwisting, a recoil phenomenon, occurs during the isovolumetric relaxation period, tending toward geometric restoration of the zero twist point (end diastole) with concurrent maximum LV volume. Twist and untwist rates appear to be closely related. During systole, myocardial deformation (twist) results in elastic energy being stored in compressed titin and transmural shear between myofibril sheets. This energy is spent during early diastole, before the onset of LV filling, which leads to untwisting of the LV that contributes to the generation of suction. The basis of twist and untwist abnormalities in HCM patients is possibly due to regional abnormalities of systolic and diastolic function. Peak ventricular untwist rate has been correlated with the time constant of LV pressure decay and intraventricular pressure gradients, both markers of diastolic function. Reduced untwist rate may lead to impairment in diastolic filling, which becomes more notable with increased heart rates due to short filling period. Notomi et al showed that greater untwisting rate produced an increase in suction during exercise in healthy subjects, which is able to fill the ventricle more despite a shorter filling period. This suggests that untwist rate is an important mechanism augmenting LV filling. The delayed untwist in HCM patients observed in this study may lead to reduced LV suction and filling, which will reduce the ability to use the Starling mechanism, leading to a failure to increase cardiac output, and as a result will limit exercise capacity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study limitation</head><p>The relevance of changes in twist and untwist during exercise would be interesting to examine; however, we here demonstrate that even resting measurements of strain and untwist were significant predictors of exercise capacity. We have been unable to reliably measure these parameters during exercise because of several technical difficulties. First of all, it was hard to maintain the same heart rate during exercise while acquiring apical and basal short-axis echocardiographic images that are crucial for the measurement of twist and untwist. Furthermore, exercise exaggerates the issue of through-plane motion, particularly at the basal short-axis level that is again vital for twist measurement. In addition, the current STE analysis software has insufficient temporal resolution for higher heart rate during exercise. It optimally operates at frame rate of 40 to 100 frames per second that is adequate only for resting studies. Moreover, excessive respiratory movement may degrade the quality of images as compared with the resting images. Further advances in the STE technique (eg, 3-dimensional speckle tracking with higher temporal resolution) are required to resolve these issues.</p><p>In this study, we report that there are no significant differences in twist between nHCM patients and controls. However, we showed a significant reduction in apical rotation rates during both systole and diastole. Previous study showed that apical rotation represents the major contributions to LV twist. The absence of significant differences in LV twist observed in this study could be explained by the increased through-plane motion at the base of the heart.</p><p>The heart rate is slower in the nHCM group (Table <ref type="table">I</ref>) probably because of medications (ie, βblockers and/or calcium-channel blockers). Such therapy might have affected the findings in these patients. All pertinent physiologic parameters were corrected for heart rate. Untwist timing parameters were corrected for heart rate by converting R-R interval to 100% as previously described. All longitudinal, radial, and circumferential strain parameters were independent of heart rate because we measured peak values rather than timing.</p><p>The presence of asymmetric hypertrophy in nHCM patients renders geometric assumptions inaccurate in LV mass measurement. Hence, we measured MWT, which had been widely used and validated as a marker of LV hypertrophy in these patients. Furthermore, we showed that there is no relationship between exercise capacity and extent of LV hypertrophy as measured by both LV mass index and MWT (Figure <ref type="figure" target="#fig_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Although nHCM patients often had normal/supranormal LVEF as measured by conventional echocardiography, STE imaging demonstrated a marked impairment of both systolic and diastolic LV function; and they were both significant determinants of exercise capacity.  Abozguia et al. Page 11 Published as: Am Heart J. 2010 May ; 159(5): 825-832.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head><p>Sponsored Document Sponsored Document Abozguia et al. Page 12 Published as: Am Heart J. 2010 May ; 159(5): 825-832. Sponsored Document Sponsored Document Sponsored Document Sponsored Document Sponsored Document Sponsored Document Abozguia et al. Page 13</p><p>Table I The clinical characteristics and cardiopulmonary exercise test results of nHCM patients and controls Parameter nHCM Controls P value Age (y) 52 ± 11 51 ± 16 .74 n (female) 56 (16) 43 (12) .64 Heart rate (beat/min) 69 ± 13 80 ± 16 .0002 ⁎ Systolic BP (mm Hg) 126 ± 19 125 ± 20 .78 Diastolic BP (mm Hg) 78 ± 11 78 ± 11 .80 Peak VO 2 (mL/[kg min]) 23.28 ± 6.31 37.70 ± 7.99 &lt;.0001 ⁎ Drug therapy, n (%) Diuretic 10 (18) 0 -ACE inhibitor 6 (11) 0 -ARB 1 (2) 0 β-Blocker 17 (31) 0 -Calcium-channel blocker 26 (47) 0 -Aspirin 13 (24) 0 -Warfarin 5 (9) 0 -Nitrate 2 (4) 0 -Statin 15 (27) 0 -BP, Blood pressure; ACE, angiotensin-converting enzyme; ARB, angiotensin receptor blockers. ⁎ Indicates statistical significance. Published as: Am Heart J. 2010 May ; 159(5): 825-832. Sponsored Document Sponsored Document Sponsored Document Abozguia et al. Page 14 Table II Standard, Doppler, and PW-TDI echocardiographic characteristics of nHCM versus controls Parameter nHCM Controls P value EF biplane (%) 62.76 ± 9.05 62.48 ± 5.82 .86 Biplane LA volume (mL) 72.69 ± 29.22 35.09 ± 9.83 &lt;.0001 ⁎ LAVI (mL/m 2 ) 33.92 ± 14.62 11.76 ± 10.17 &lt;.0001 ⁎ LV mass index (g/m 2 ) 181.92 ± 84.09 71.67 ± 23.82 &lt;.0001 ⁎ MV E (m/s) 0.69 ± 0.16 0.67 ± 0.15 .49 MV A (m/s) 0.64 ± 0.19 0.59 ± 0.15 .17 MV E/A 1.18 ± 0.48 1.20 ± 0.38 .83 MV dec time (ms) 231.12 ± 71.66 260.10 ± 68.24 .06 Antlat Sm (cm/s) 0.06 ± 0.02 0.10 ± 0.03 &lt;.0001 ⁎ Antlat Em (cm/s) 0.08 ± 0.03 0.11 ± 0.04 &lt;.0001 ⁎ Antlat Am (cm/s) 0.07 ± 0.03 0.09 ± 0.02 &lt;.0001 ⁎ Infsep Sm (cm/s) 0.06 ± 0.02 0.08 ± 0.02 .0001 ⁎ Infsep Em (cm/s) 0.05 ± 0.02 0.08 ± 0.03 &lt;.0001 ⁎ Infsep Am (cm/s) 0.07 ± 0.02 0.09 ± 0.02 &lt;.0001 ⁎ Average Sm (cm/s) 0.06 ± 0.02 0.09 ± 0.02 &lt;.0001 ⁎ Average Em (cm/s) 0.06 ± 0.02 0.09 ± 0.04 &lt;.0001 ⁎ E/Em antlat 9.70 ± 3.86 6.71 ± 2.35 .0001 ⁎ E/Em infsep 17.05 ± 7.38 9.64 ± 3.34 &lt;.0001 ⁎ E/Em average 11.81 ± 4.28 8.04 ± 2.92 &lt;.0001 ⁎ MV E, Transmitral early diastole velocity; MV A, transmitral late diastole velocity; dec, deceleration.</p><p>⁎ Indicates statistical significance.</p><p>Published as: Am Heart J. 2010 May ; 159(5): 825-832.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1.Illustration of STE measurement of rotation and twist in a control subject. To adjust for heart rate, R-R interval was converted to 100%. Green line represents global apical rotation. whereas red line represents global basal rotation. At apical level, the LV rotates counterclockwise as viewed from apex and results in a positive value during systole, whereas the base rotates clockwise and results in a negative value, as in this representative case. Black dotted line represents LV twist that was calculated as the simultaneous net difference between apical and basal rotation. Blue dotted line represents the LV twist rate that was calculated as a differential curve of the twist curve.</figDesc><graphic coords="10,95.88,61.00,480.24,259.13" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Correlation between exercise capacity (peak VO 2 ) and (A) LV mass index, (B) maximal wall thickness, and (C) LV volume index.</figDesc><graphic coords="11,95.88,61.00,480.24,367.18" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Correlation between exercise capacity (peak VO 2 ) and (A) SrL peak S, (B) SrL peak E, (C) SrL peak A, and (D) 25% untwist.</figDesc><graphic coords="12,95.88,61.00,480.24,354.18" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Published as: Am Heart J. 2010 May ; 159(5): 825-832.Sponsored DocumentSponsored DocumentSponsored Document</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Published as: Am Heart J. 2010 May ; 159(5): 825-832.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We are grateful for the help and advice on statistics given by <rs type="person">Dr Peter Nightingale</rs>.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Abozguia et al. Page 15</head><p>Table <ref type="table">III</ref> STE results of longitudinal, radial, and circumferential strain and strain rates in nHCM patients versus controls</p><p>Parameter nHCM Controls P value Longitudinal SL peak S (%) -12.74 ± 4.21 -18.38 ± 2.99 &lt;.0001 ⁎ SrL peak S (1/s) -0.92 ± 0.25 -1.14 ± 0.2 &lt;.0001 ⁎ SrL peak E (1/s) 0.94 ± 0.35 1.33 ± 0.3 &lt;.0001 ⁎ SrL peak A (1/s) 0.78 ± 0.28 1.07 ± 0.29 &lt;.0001 ⁎ Radial SR peak S (%) 17.52 ± 7.86 29.63 ± 13.26 &lt;.0001 ⁎ SrR peak S (1/s) 1.22 ± 0.34 1.39 ± 0.34 .02 ⁎ SrR peak E (1/s) -1.0 ± 0.39 -1.46 ± 0.52 &lt;.0001 ⁎ SrR peak A (1/s) -0.77 ± 0.38 -1.09 ± 0.61 &lt;.01 ⁎ Circumferential SC peak S (%) -16.50 ± 4.29 -19.99 ± 5.53 &lt;.001 ⁎ SrC peak S (1/s) -1.4 ± 0.35 -1.54 ± 0.34 .05 SrC peak E (1/s) 1.34 ± 0.42 1.8 ± 0.65 &lt;.001 ⁎ SrC peak A (1/s) 0.87 ± 0.34 1.09 ± 0.47 .02 ⁎ SL, Longitudinal strain; SR, radial strain, SrR, radial strain rate; SC, circumferential strain.</p><p>⁎ Indicates statistical significance.</p><p>Published as: Am Heart J. 2010 May ; 159(5): 825-832. Table IV STE measurement of LV rotation, twist, and untwist in nHCM and controls Parameter nHCM Controls P value Apical rot and rot-r Peak rot (°) 7.65 ± 6.90 9.48 ± 5.40 .18 Peak S rot-r (°/s) 49.77 ± 49.49 74.56 ± 42.25 .01 ⁎ Peak E rot-r (°/s) -41.19 ± 39.14 -72.96 ± 38.00 &lt;.001 ⁎ Peak A rot-r (°/s) -26.24 ± 33.94 -39.87 ± 27.01 &lt;.05 ⁎ Basal rot and rot-r Peak rot (°) -6.25 ± 3.73 -5.80 ± 2.81 .55 Peak S rot-r (°/s) -57.89 ± 28.94 -61.24 ± 17.82 .54 Peak E rot-r (°/s) 53.07 ± 25.96 48.88 ± 26.42 .47 Peak S rot-r (°/s) 42.39 ± 24.52 44.67 ± 20.68 .65 Twist and untwist Peak twist (°) 13.37 ± 7.14 13.69 ± 6.55 .83 25% Untwist (°) 9.85 ± 5.47 10.27 ± 4.91 .71 Time 25% untwist (R-R%) 11.34 ± 5.63 7.21 ± 8.01 .01 ⁎</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head><note type="other">Sponsored Document Sponsored Document</note></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R-R, R-R interval.</head><p>⁎ Indicates statistical significance.</p><p>Published as: Am Heart J. 2010 May ; 159(5): 825-832.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Abozguia et al. Page 16</head><label>16</label></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Exercise capacity in hypertrophic cardiomyopathy. Role of stroke volume limitation, heart rate, and diastolic filling characteristics</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Lele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Seo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="2886" to="2894" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 7586256</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Effects of verapamil on left ventricular systolic function and diastolic filling in patients with hypertrophic cardiomyopathy</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">O</forename><surname>Bonow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Rosing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Bacharach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="787" to="796" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 7196813</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Diastolic heart failure can be diagnosed by comprehensive two-dimensional and Doppler echocardiography</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hatle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Tajik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="500" to="506" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16458127</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Effect of volume loading, pressure loading, and inotropic stimulation on left ventricular torsion in humans</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Daughters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Alderman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="1315" to="1326" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 2013149</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Independent effects of preload, afterload, and contractility on left ventricular torsion</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Hees</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol</title>
+		<imprint>
+			<biblScope unit="volume">277</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1053" to="H1060" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>Pt 2 PubMed: 10484428</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">MRI assessment of LV relaxation by untwisting rate: a new isovolumic phase measure of tau</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Hees</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">O</forename><surname>Siu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Heart Circ Physiol</title>
+		<imprint>
+			<biblScope unit="volume">281</biblScope>
+			<date type="published" when="2001">2001. 2009</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 11668061</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Measurement of ventricular torsion by two-dimensional ultrasound speckle tracking imaging</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Notomi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lysyansky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Setser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="2034" to="2041" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 15963406</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Patterns and significance of distribution of left ventricular hypertrophy in hypertrophic cardiomyopathy. A wide angle, two dimensional echocardiographic study of 125 patients</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Maron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gottdiener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Epstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="418" to="428" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 7196689</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The distribution of left ventricular hypertrophy in hypertrophic cardiomyopathy: comparison to athletes and hypertensives</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kleinebenne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Mckenna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">2934251</biblScope>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Stress testing in screening for cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Bruce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Mcdonough</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull N Y Acad Med</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1288" to="1305" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 5261245</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The measurement of metabolic gas exchange and minute volume by mass spectrometry alone</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Denison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Respir Physiol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="261" to="267" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 441578</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Assessment of left ventricular torsional deformation by Doppler tissue imaging: validation study with tagged magnetic resonance imaging</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Notomi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Setser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shiota</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="1141" to="1147" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 15738351</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Recommendations for chamber quantification: a report from the American Society of Echocardiography&apos;s Guidelines and Standards Committee and the Chamber Quantification Writing Group</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Lang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bierig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Devereux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Soc Echocardiogr</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1440" to="1463" />
+			<date type="published" when="2005">2005</date>
+			<publisher>European Society of Cardiology</publisher>
+		</imprint>
+	</monogr>
+	<note>developed in conjunction with the European Association of Echocardiography, a branch of the PubMed: 16376782</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Two-dimensional echocardiographic calculation of left ventricular mass as recommended by the American Society of Echocardiography: correlation with autopsy and M-mode echocardiography</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shub</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Nobrega</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Soc Echocardiogr</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">8849607</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Magnitude of left ventricular hypertrophy and risk of sudden death in hypertrophic cardiomyopathy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Spirito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bellone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Harris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">342</biblScope>
+			<biblScope unit="page" from="1778" to="1785" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 10853000</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Enhanced ventricular untwisting during exercise: a mechanistic manifestation of elastic recoil described by Doppler tissue imaging</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Notomi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Martin-Miklovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Oryszak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="2524" to="2533" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16717149</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Analysis of myocardial deformation based on ultrasonic pixel tracking to determine transmurality in chronic myocardial infarction</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Kuhl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2560" to="2566" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 17035253</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">New noninvasive method for assessment of left ventricular rotation: speckle tracking echocardiography</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Helle-Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Crosby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Edvardsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="3149" to="3156" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16286606</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Global longitudinal strain: a novel index of left ventricular systolic function</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Reisner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lysyansky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Agmon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Soc Echocardiogr</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="630" to="633" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 15163933</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Increased left ventricular torsion in uncomplicated type 1 diabetes: the role of coronary microvascular function</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N</forename><surname>Shivu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Abozguia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Phan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes Care</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Left ventricular torsion and strain patterns in heart failure with normal ejection fraction are similar to age-related changes</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Phan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N</forename><surname>Shivu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Abozguia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Echocardiogr</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A novel method for angle independent ultrasonic imaging of blood flow and tissue motion</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Bohs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Trahey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Trans Biomed Eng</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="280" to="286" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 2066142</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Noninvasive myocardial strain measurement by speckle tracking echocardiography: validation against sonomicrometry and tagged magnetic resonance imaging</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Amundsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Helle-Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Edvardsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="789" to="793" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16487846</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Global and regional myocardial function quantification by twodimensional strain: application in hypertrophic cardiomyopathy</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Serri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Reant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lafitte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1175" to="1181" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16545649</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Tissue Doppler imaging consistently detects myocardial abnormalities in patients with hypertrophic cardiomyopathy and provides a novel means for an early diagnosis before and independently of hypertrophy</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Nagueh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Bachinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Meyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="128" to="130" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 11447072</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Systolic myocardial mechanics in hypertrophic cardiomyopathy: novel concepts and implications for clinical status</title>
+		<author>
+			<persName><forename type="first">Carasso</forename><forename type="middle">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Woo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Soc Echocardiogr</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">18187306</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Evaluation of left ventricular segmental wall motion in hypertrophic cardiomyopathy with myocardial tagging</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Maier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Mckinnon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="1919" to="1928" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 1451263</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Intramural mechanics in hypertrophic cardiomyopathy: functional mapping with strain-rate MR imaging</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Beache</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Wedeen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Weisskoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiology</title>
+		<imprint>
+			<biblScope unit="volume">197</biblScope>
+			<biblScope unit="page" from="117" to="124" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 7568808</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Hypertrophic cardiomyopathy. Recent observations regarding the specificity of three hallmarks of the disease: asymmetric septal hypertrophy, septal disorganization and systolic anterior motion of the anterior mitral leaflet</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Maron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Epstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="141" to="154" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 6985764</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Diastolic function in hypertrophic cardiomyopathy: relation to exercise capacity</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nihoyannopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Karatasakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Frenneaux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="536" to="540" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 1538006</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Patterns of diastolic dysfunction in left ventricular hypertrophy</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Gibson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Heart J</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="438" to="445" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 2967087</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Diastolic abnormalities in patients with hypertrophic cardiomyopathy: relation to magnitude of left ventricular hypertrophy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Spirito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Maron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chiarella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="310" to="316" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 3159509</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Tissue Doppler imaging consistently detects myocardial contraction and relaxation abnormalities, irrespective of cardiac hypertrophy, in a transgenic rabbit model of human hypertrophic cardiomyopathy</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Nagueh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Kopelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Lim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="1346" to="1350" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 10993850</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Relation between extent of left ventricular hypertrophy and occurrence of sudden cardiac death in hypertrophic cardiomyopathy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Spirito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Maron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1521" to="1526" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 2140576</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Left ventricular filling in hypertrophic cardiomyopathy. An angiographic study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Sanderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Heart J</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="661" to="670" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 141933</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Tissue Doppler imaging for predicting outcome in patients with cardiovascular disease</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Sanderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Opin Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="458" to="463" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 15316453</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Diastolic dysfunction in hypertrophic cardiomyopathy. Effect on active force generation during systole</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Gwathmey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Briggs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Invest</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="1023" to="1031" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 1999483</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Regional left ventricular mechanics in hypertrophic cardiomyopathy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Betocchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">M</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Losi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">5 Pt 1</biblScope>
+			<biblScope unit="page" from="2206" to="2214" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 8222116</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Myocardial dysfunction in hypertrophic cardiomyopathy</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ashrafian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Watkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 11748129</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Modification of myocardial substrate use as a therapy for heart failure</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Abozguia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Clin Pract Cardiovasc Med</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="490" to="498" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 16932766</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Potential of metabolic agents as adjunct therapies in heart failure</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Abozguia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nallur Shivu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Phan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="525" to="535" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 19804308</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Left ventricular rotation and twist in patients with hypertrophic cardiomyopathy evaluated by two-dimensional ultrasound speckle-tracking imaging</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">X</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zhongguo Yi Xue Ke Xue Yuan Xue Bao</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="58" to="62" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 18361055</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Dynamics of left ventricular apex rotation during angioplasty: a sensitive index of ischemic dysfunction</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Knudtson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Galbraith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Hildebrand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="801" to="808" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 9264485</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Titin determines the Frank-Starling relation in early diastole</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Helmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Liao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Gen Physiol</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="97" to="110" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 12566538</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Transmural left ventricular mechanics underlying torsional recoil during relaxation</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ashikaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Criscione</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Omens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Heart Circ Physiol</title>
+		<imprint>
+			<biblScope unit="volume">286</biblScope>
+			<biblScope unit="page" from="640" to="H647" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 14551052</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Dissociation between left ventricular untwisting and filling. Accentuation by catecholamines</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Rademakers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Buchalter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Rogers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1572" to="1581" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 1555295</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Regional left ventricular wall movement in hypertrophic cardiomyopathy</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Sanderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Traill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Heart J</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1327" to="1333" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 570052</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Ventricular untwisting: a temporal link between left ventricular relaxation and suction</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Notomi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">B</forename><surname>Popovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yamada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Heart Circ Physiol</title>
+		<imprint>
+			<biblScope unit="volume">294</biblScope>
+			<biblScope unit="page" from="505" to="H513" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 18032523</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Apical rotation by speckle tracking echocardiography: a simplified bedside index of left ventricular twist</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Opdahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Helle-Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Remme</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Soc Echocardiogr</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Reduced and delayed untwisting of the left ventricle in patients with hypertension and left ventricular hypertrophy: a study using two-dimensional speckle tracking imaging</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Takeuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Borden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nakai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Heart J</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2756" to="2762" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 17951572</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Maximum left ventricular thickness and risk of sudden death in patients with hypertrophic cardiomyopathy</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Olivotto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gistri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Petrone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="315" to="321" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>PubMed: 12535828</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

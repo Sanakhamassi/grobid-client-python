@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Dextran Coated Ultrafine Superparamagnetic Iron Oxide Nanoparticles: Compatibility with Common Fluorometric and Colorimetric Dyes</title>
+				<funder ref="#_sv4qHgH">
+					<orgName type="full">Medical Research Council</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-04-06">April 06, 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sioned</forename><forename type="middle">M</forename><surname>Griffiths</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Life Science</orgName>
+								<orgName type="department" key="dep2">School of Medicine and ‡ Multi-disciplinary Nanotechnology Centre</orgName>
+								<orgName type="department" key="dep3">School of Engineering</orgName>
+								<orgName type="institution">Swansea University</orgName>
+								<address>
+									<addrLine>Singleton Park</addrLine>
+									<postCode>SA2 8PP</postCode>
+									<settlement>Swansea Wales</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Neenu</forename><surname>Singh</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Life Science</orgName>
+								<orgName type="department" key="dep2">School of Medicine and ‡ Multi-disciplinary Nanotechnology Centre</orgName>
+								<orgName type="department" key="dep3">School of Engineering</orgName>
+								<orgName type="institution">Swansea University</orgName>
+								<address>
+									<addrLine>Singleton Park</addrLine>
+									<postCode>SA2 8PP</postCode>
+									<settlement>Swansea Wales</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gareth</forename><forename type="middle">J S</forename><surname>Jenkins</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Life Science</orgName>
+								<orgName type="department" key="dep2">School of Medicine and ‡ Multi-disciplinary Nanotechnology Centre</orgName>
+								<orgName type="department" key="dep3">School of Engineering</orgName>
+								<orgName type="institution">Swansea University</orgName>
+								<address>
+									<addrLine>Singleton Park</addrLine>
+									<postCode>SA2 8PP</postCode>
+									<settlement>Swansea Wales</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Paul</forename><forename type="middle">M</forename><surname>Williams</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Alvin</forename><forename type="middle">W</forename><surname>Orbaek</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution" key="instit1">The Richard E. Smalley Institute for Nanoscale Science and Technology</orgName>
+								<orgName type="institution" key="instit2">Rice University</orgName>
+								<address>
+									<postCode>77005</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Andrew</forename><forename type="middle">R</forename><surname>Barron</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution" key="instit1">The Richard E. Smalley Institute for Nanoscale Science and Technology</orgName>
+								<orgName type="institution" key="instit2">Rice University</orgName>
+								<address>
+									<postCode>77005</postCode>
+									<settlement>Houston</settlement>
+									<region>Texas</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chris</forename><forename type="middle">J</forename><surname>Wright</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Shareen</forename><forename type="middle">H</forename><surname>Doak</surname></persName>
+							<email>s.h.doak@swansea.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Institute of Life Science</orgName>
+								<orgName type="department" key="dep2">School of Medicine and ‡ Multi-disciplinary Nanotechnology Centre</orgName>
+								<orgName type="department" key="dep3">School of Engineering</orgName>
+								<orgName type="institution">Swansea University</orgName>
+								<address>
+									<addrLine>Singleton Park</addrLine>
+									<postCode>SA2 8PP</postCode>
+									<settlement>Swansea Wales</settlement>
+									<country key="GB">U.K</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Dextran Coated Ultrafine Superparamagnetic Iron Oxide Nanoparticles: Compatibility with Common Fluorometric and Colorimetric Dyes</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-04-06">April 06, 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1FD5FF9D53A4721695D698593485A4E2</idno>
+					<idno type="DOI">10.1021/ac200103x</idno>
+					<note type="submission">Received: February 1, 2011 Accepted: April 6, 2011 &apos; AUTHOR INFORMATION</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:05+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>T he nanotechnology industry is growing at a rapid rate, with the increased design and development of novel engineered nanomaterials (NM), with diverse and wide ranging applications not only in industry, but also as consumer products and in the field of medicine. The growing production and utilization of NM has inevitably resulted in increased occupational, clinical, and consumer exposure to these substances and is likely to lead to an accumulation of NM in the environment. However, as of yet the effects these engineered substances have on human health and the environment especially, in the long term, still remain largely unknown.</p><p>Over the last 5À6 years there has been a steady increase in studies focusing on the toxic effects of NM, 1À5 but this does not reflect the exponential growth in the nanotechnology industry. Thus, the first report by the Royal Society and Royal Academy of Engineering Report in 2004, has been followed with several others including the European Scientific Committee on Emerging and Newly Identified Health Risks Report in 2006 and the DEFRA report in 2007, followed by another European Scientific Committee on Emerging and Newly Identified Health Risks Reports and a European commission joint research center institute for health and consumer protection report in 2009, <ref type="bibr">6À10</ref> all of which continue to emphasize the need for further study into the safety of NM.</p><p>Traditional assays designed to quantify and characterize cellular damage, induced following exposure to exogenous agents, have been largely optimized for chemical compounds. However, given the unique physiochemical properties associated with NM, we cannot assume that they can be tested in the same way. For example, the possibility of direct interaction between NM and experimental assay components has the potential to result in false or misleading information, which could be a complicating factor in safety assessments. Some such instances have been documented in the literature, with reports demonstrating that single walled carbon nanotubes interact with a number of fluorometric and colorimetric dyes, to give unexpected results in cell viability assays. <ref type="bibr">11À13</ref> Furthermore, boron nitride nanotubes have been shown to interfere with the MTT cell viability test. <ref type="bibr" target="#b13">14</ref> It must also be stressed that due to the unique properties of each type of NM, we are currently unable to predict ABSTRACT: Due to the unique physicochemical properties of nanomaterials (NM) and their unknown reactivity, the possibility of NM altering the optical properties of fluorometric/ colorimetric probes that are used to measure their cyto-and genotoxicity may lead to inaccurate readings. This could have potential implications given that NM, such as ultrafine superparamagnetic iron oxide nanoparticles (USPION), are increasingly finding their use in nanomedicine and the absorbance/ fluorescence based assays are used to assess their toxicity. This study looks at the potential of dextran-coated USPION (dUSPION) (maghemite and magnetite) to alter the background signal of common probes used for evaluating cytotoxicity (MTS, CyQUANT, Calcein, and EthD-1) and oxidative stress (DCFH-DA and APF). In the present study, both forms of dUSPION caused an increase in MTS signal but a decrease in background signal from calcein and 3'-(p-aminophenyl) fluorescein (APF) and no effect on CyQUANT and EthD-1 fluorescence responses. Magnetite caused a decrease in fluorescence signal of DCFH, but it did not decrease fluorescence signal in the presence of the reactive oxygen species-inducer tert-butyl hydroperoxide (TBHP). In contrast, maghemite caused an increase in fluorescence, which was substantially reduced in the presence of the antioxidant N-acetyl cysteine. This study emphasizes the importance of considering and controlling for possible interactions between NM and fluorometric/ colorimetric dyes and, most importantly, the oxidation state of dUSPION that may confound their sensitivity and specificity.</p><p>behavior, thus tests on these substances must be done on an NM by NM basis.</p><p>NM are defined as substances with at least one dimension smaller than 100 nm, with different physiochemical properties compared to their micrometer sized counterparts due to their high surface area. In some cases the small dimensions make NM more chemically reactive, with particle size inversely proportional to bioactivity and toxicity. <ref type="bibr">15À19</ref> High surface area can also change the strength and electrical conductivity of the material, while the quantum effects associated with NM result in unique optical, electrical, and magnetic behavior. For example, when smaller than 20À30 nm, iron oxide nanoparticles (NP) become superparamagnetic; a property that makes this particular material very useful in a number of biomedical applications including magnetic drug targeting, as a contrast agent to enhance MRI imaging and in magnetic tumor ablation through hyperthermia. <ref type="bibr" target="#b19">20</ref> Given the potential clinical applications of ultrafine superparamagnetic iron oxide nanoparticles (USPION), evaluation of their safety is critical. Several studies already exist in the literature suggesting that iron oxide nanoparticles are toxic to cells and induce oxidative stress. For example, in 2003 Berry et al. showed that human dermal fibroblast cells treated with either dextran coated-or uncoated-magnetite NP exhibit cell death and reduced proliferation. <ref type="bibr" target="#b20">21</ref> Another study reports that exposing iron oxide NP to human microvascular endothelial cells induces reactive oxygen species (ROS) production, that leads to the remodelling of microtubules and subsequently to increased cell permeability. <ref type="bibr" target="#b21">22</ref> In this study we investigated whether common assays used for the measurement of oxidative stress, cell viability, and cell growth are compatible with dextran coated ultrafine superparamagnetic iron oxide NP (dUSPION), to measure these parameters. We examined the interactions of dUSPION with cell viability assays: 3-(4,5-dimethylthiazole-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium (MTS), calcein, CyQUANT, and ethidium homodimer (EthD-1) in a cell free system. We also performed similar studies for oxidative stress assays: 2 0 ,7 0dichlorofluorescein-diacetate (DCFH-DA) and 3 0 -(p-aminophenyl) fluorescein (APF). Furthermore, using the antioxidant N-acetyl cysteine (NAC), we examined the potential of dUSPION to initiate ROS production in a cell-free system, and using tert-butyl hydroperoxide (TBHP) as a source of ROS, we examined the potential antioxidant properties of magnetite.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>' MATERIALS AND METHODS</head><p>Materials. dUSPION were purchased from Liquids research, Bangor, UK. RPMI 1640, horse serum, and Hanks balanced salt solution (with NaHCO 3 , without phenol red, calcium chloride, and magnesium sulfate) were purchased from Gibco, UK. Sodium hydroxide, glucose, sodium phosphate monobasic, and sodium phosphate dibasic were purchased from Fisher Scientific, UK. N-Acetyl-L-cysteine (NAC) and dimethyl sulphoxide (DMSO) were purchased from Sigma-Aldrich, UK. Tissue culture black microplates (96 well) were purchased from Greiner Bio-one, UK, and clear 96-well tissue culture microplates were purchased from Nunc, UK. CellTiter 96 Aqueous One Solution reagent was from Promega UK, Southampton, UK. CyQUANT probe, live/Dead Viability/cytotoxicity Kit, DCFH-DA, and APF were purchased from Invitrogen molecular probes, Paisley, UK.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods. Preparation of dUSPION.</head><p>dUSPION were supplied in suspension in water at a concentration of 10 mg/mL. dUSPION was diluted to the appropriate concentrations in distilled water and vortexed for 10 s immediately before use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characterization of dUSPION.</head><p>Dynamc Light Scattering (DLS). The hydrodynamic particle size of dUSPION samples were obtained by DLS. The measurements were performed using a Malvern 4700 spectrometer (Malvern instruments Ltd., UK) either in RPMI with 1% horse serum or in Hepes-buffered (20 mM) Hanks balanced salt solution with glucose (5 mM) (pH 7.4). Data is presented as the average values of 15 readings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>X-ray Photoelectron Spectroscopy (XPS).</head><p>The samples were dried on an Indium substrate and examined with a PHI Quantera SXM(TM) (Ulvac-phi, Inc., Japan). All data points were acquired using a beam spot size of 200 um, 40 W, and 15 kV, under a pressure of 5 Â 10 À9 Torr. The electron source was Al monochromatic with a tilt angle of 45°, operating at 26 eV. Maghemite was acquired from 700 to 720 eV, using 70 sweeps with a bandpass energy of 26 eV. Oxygen was acquired from 525 to 537 eV, using 35 sweeps with a bandpass energy of 26 eV. Carbon was acquired from 278 to 293 eV, using 25 sweeps and a bandpass energy of 26 eV. Survey scans were completed from 0 to 1100 eV using 3 sweeps with a bandpass energy of 140 eV. Each sample was acquired on its own to prevent the possible contamination from previous samples.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Zeta Potential.</head><p>The z-potential values of the dUSPION were determined by Zetasizer 2000 (Malvern instruments Ltd., UK). The nanoparticles were prepared in water, and the z-potential values are presented as the average readings of 10 experiments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transmisson Electron Microscopy (TEM).</head><p>dUSPION samples for TEM were prepared by dispersion in methanol, then drop-casting on holey carbon TEM support films (Cu-grids) and air-dried. TEM was performed using a Philips/FEI CM200 field emission gun TEM fitted with an Oxford Instruments ultrathin window EDX detector and ISIS software plus a Gatan Imaging Filter (GIF200) with Digitialmicrograph software. The microscope was operated at 197 keV.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Viability and Oxidative Stress Assays.</head><p>The first step for all assays was loading of dUSPION concentration range onto 96-well plates. After addition of the probes specified below, the fluorescence or absorbance was measured on a POLARStar Omega plate reader (BMG Labtech, Aylesbury, UK). For all assays each dose of dUSPION was performed in triplicate within the plate, and each plate was performed in triplicate on three different days, thus accounting for both intra-and interplate variability, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MTS Assay.</head><p>The MTS assay it is based on the reduction of the tetrazolium compound MTS and an electron coupling reagent (phenazine ethosulfate; PES) into a soluble formazan product. This conversion takes place only in the presence of metabolically active cells, utilizing the mitochondrial dehydrogenase enzyme. The formazan product can be measured by absorbance at 490 nm, which is directly proportional to the number of live cells in culture and can thus be used for determining the number of viable cells in proliferation or cytoxicity assays. A 20 μl portion of CellTiter 96 Aqueous One Solution reagent was added to each well of a 96-well plate already loaded with 100 μl of dUSPION at different concentrations; then plates were incubated in a humidified incubator at 37 °C for 1 h, and the absorbance was measured at 490 nm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CyQUANT Assay.</head><p>A CyQUANT probe was prepared per the manufacturer's instructions for use, 200 μl of this was added to the wells of a 96-well plate already loaded with dUSPION, and fluorescence was measured after 5 min (fluorescence excitation and emission at 480 and 520 nm, respectively).</p><p>Live/Dead (calcein/EthD-1) Assay. The Live/Dead Viability/ cytotoxicity Kit was used with final concentrations of 10 μM Calcein or 20uM EthD-1 added to the appropriate volumes of dUSPION in a 96-well plate. The fluorescence was read after 1 h. For calcein fluorescence, the excitation and emission wavelengths utilized were 485 and 530 nm respectively, while for EthD-1, the wavelengths were 530 and 645 nm. The principle of using calcein is that the cell's ubiquitous esterase activity converts the virtually nonfluorescent, cell-permeant calcein AM, to the highly fluorescent calcein, which is retained within the cell. On the other hand, EthD-1 is used to detect dead cells as it cannot enter through the intact plasma membrane of live cells; it can, however, easily enter damaged cells. Upon binding to cellular nucleic acids, EthD-1 increases in fluorescence intensity 40-fold producing a bright red fluorescence detected at 635 nm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DCFH-DA Assay.</head><p>DCFH-DA assay is based on the principle that upon internalization, the diacetate (DA) portion of the hydrophobic dye is cleaved by intracellular esterases. The resulting DCFH is nonfluorescent until it is oxidized by ROS to its highly fluorescent product DCF. Initiation of the DCFH-DA assay requires this DA portion of the molecule to be cleaved, and in acellular systems, this cleavage can be achieved via chemical means using sodium hydroxide (as in the present study) or using media. The excitation of the DCF molecule at 485 nm emits green fluorescence at levels proportional to the amount of ROS present, which can be detected at 520 nm. DCFH-DA was dissolved in DMSO to a concentration of 1 M and was further diluted to the appropriate concentration with Hepes-buffered (20 mM) Hanks balanced salt solution with glucose (5 mM) (pH 7.4). Before using DCFH-DA in a cell free system, chemical cleavage of the diacetate (DA) portion was necessary by incubation with 10 mM NaOH in the dark, at room temperature, for 30 min. The resulting DCFH was neutralized with 25 mM phosphate buffer (1:1 sodium phosphate monobasic: sodium phosphate dibasic) (pH 7.4) and the solution was kept in the dark, on ice until use. A 2 μM portion of DCFH was then added to the wells of a 96-well plate previously loaded with dUSPION, and fluorescence was measured over 1 h with fluorescence excitation and emission at 480 and 520 nm, respectively.</p><p>To determine if the increases in fluorescence signal observed with maghemite was indeed due to the generation of ROS induced by dUSPION (as opposed to dUSPION interaction with assay components exclusively), further experiments were performed in the presence of 2 mM NAC, which was applied to the plates with dUSPION, prior to DCFH. The concentration of NAC used (2 mM) was chosen, as preliminary studies showed this concentration to be sufficiently potent to reduce dUSPION induced increases in DCFH signal. Also, to determine whether the decrease in fluorescence observed with magnetite was due to interactions with DCFH or whether magnetite actually has antioxidant properties, experiments were done to see whether the presence of magnetite can prevent or reverse TBHP-induced oxidative stress. For this, TBHP (25 mM) was applied to the plates with dUSPION and compared to wells loaded with TBHP alone, to look for a reduction in fluorescence.</p><p>For all DCFH experiments, because of the dynamics of the DCFH fluorescence over time, time zero readings were subtracted from time 60 min readings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>APF Assay.</head><p>APF was added to a dUSPION preloaded 96-well plate giving a final concentration of 8 μM, and fluorescence was measured over 1 h (fluorescence excitation and emission at 480 and 520 nm, respectively).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis.</head><p>A one-way ANOVA with a two-sided Dunnett's post hoc test was performed for each data point (n = 3) comparing each one to its relevant untreated control. Fisher's exact test was used to compare each dose of dUSPION treatment with NAC to its relevant zero NAC control. For all graphs, data is presented as percentage of control without dUSPION inclusion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>' RESULTS AND DISCUSSION</head><p>Several recent studies have investigated the potential of engineered NM to induce cytotoxicity, oxidative stress, and genotoxicity. However, results from these studies are not always consistent, and consequently, a great degree of uncertainty regarding the true toxicity of NM still exists. 1,2,4,23À28 One potential explanation for this uncertainty is the lack of standardized protocols and a deficiency in appropriate controls when using certain assays for studying the toxic effects of NM. <ref type="bibr">23,28À30</ref> We have previously shown that standard DNA damage assays also need modification when dealing with NM as opposed to chemicals for which they were originally optimized. <ref type="bibr" target="#b27">28</ref> When considering the best approach for characterization of NM, it must be recognized that due to their unique physicochemical properties it cannot be assumed that NM can be tested in the same way as chemicals and that there may be some confounding factors skewing the results, which may result in misinterpretation of data sets. In fact, previous studies have shown that carbaceous NM and nanotubes interact with a range of colorimetric and fluorometric probes used for testing cytotoxicity and oxidative stress, including MTT, neutral red, IL-8 cytoset ELISA, almar blue, WST-1, and Coomasie blue assays, and is thought to be due to the adsorbing properties of NM resulting in false readings. <ref type="bibr">11À13,31À34</ref> Interactions between NM and assay components are particularly problematic when these test systems are central to assessing NM safety. Thus, where colorimetric and fluorometric dyes are to be relied on for experimental test systems, potential alteration of background signal due to interference imparted by the NM must be considered, the importance of which is demonstrated in the present study using dUSPION.</p><p>The physicochemical features of dUSPION were assessed under experimental conditions (Table <ref type="table" target="#tab_0">1</ref>), and as shown in Figure <ref type="figure" target="#fig_2">1</ref>, both maghemite and magnetite dUSPION were spherical with a core diameter of ∼10 nm. However, the latter dUSPION exhibited a slightly more pronounced degree of agglomeration.</p><p>When using the MTS assay in a cell-free system, both dextrancoated maghemite and magnetite showed no significant change in absorbance levels, between concentrations of 1 Â 10 À3 and 10 μg/mL as illustrated in Figure <ref type="figure" target="#fig_0">2a</ref>. However, 100 μg/mL of both maghemite and magnetite dUSPION samples caused a significantly dramatic (9.5-and 6.5-fold, respectively) increase in background absorbance in an acellular system (p &lt; 0.05) (Figure <ref type="figure" target="#fig_0">2a</ref>). For investigating whether the optical properties of dUSPION have a direct effect on absorbance readings, the absorbance of dUSPION alone at the wavelength required for the MTS assay was investigated. Interestingly, the results showed that 100 μg/mL of dUSPION are capable of significantly increasing the absorbance readings compared to the control level in the absence of the MTS reagent (p &lt; 0.05) (Figure <ref type="figure" target="#fig_0">2b</ref>).</p><p>The MTS assay is a simple and sensitive colorimetric method that has been used in the past to quantitate NM induced cytotoxicity, including zinc oxide, titanium dioxide, and silica-and alkoxy silane coated iron oxide NP. <ref type="bibr" target="#b34">35,</ref><ref type="bibr" target="#b35">36</ref> However, in the current study it is clearly demonstrated that dUSPION induce a substantial increase in absorbance at the wavelengths required for the MTS assay, thereby severely confounding the sensitivity and specificity of the assay for quantifying cell viability in response to dUSPION exposure. This could potentially lead to misinterpretations of biological response. This suggests that MTS can be used to evaluate viability of cells treated with dUSPION only if it is taken into consideration that higher concentrations of dUSPION might affect background signal. The present study is not alone in demonstrating NM-induced tetrazolium-based assay interference. Studies have also shown that carbon nanotubes can adsorb another common tetrazolium compound, MTT, used for cytotoxicity studies, onto their surface leading to a quenching and an alteration in absorbance. <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12</ref> However, the effect in the case of dUSPION depends on the type of probe and the oxidation state of the dUSPION used.</p><p>Incubation of dUSPION with the fluorescent probe calcein (also frequently used to quantify cell viability), resulted in a dosedependent decrease in the intensity of the resultant fluorescent signal at 520 nm with 1 Â 10 À2 μg/mL maghemite, reaching significance at 10 μg/mL (p &lt; 0.05; Figure <ref type="figure" target="#fig_1">3</ref>). A similar profile was also observed with magnetite, but only the highest concentration (100 μg/mL) significantly reduced the calcein fluorescent signal in a cell free system (p &lt; 0.05). The reduction in fluorescence intensity observed at the higher dUSPION concentrations suggests quenching is induced by the NP that is independent of their oxidative status.</p><p>The precise mechanism involved in the assay interferences observed is not well understood. It is evident that dUSPION alters the optical properties of the assay probes. It is known that carbon NM such as single walled carbon nanotubes (SWCNT) can adsorb dyes onto their surface, likely through van der Waals forces which subsequently quench or alter their absorbance or fluorescent properties. <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b33">34</ref> It is not known if dUSPION adsorb colorimetric and fluorometric dyes in the same manner as SWNCT. According to Worle-Knirsch et al. in 2006 and later verified by Casey et al. in 2007, SWNCT interact with insoluble MTT-formazan crystals that are formed after MTT reduction by cellular enzymes. <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b33">34</ref> However the present study was in a cell free system, thus dUSPION are unlikely to interact with MTS in exactly the same way as SWNCT interact with MTT. However, it is possible that dUSPION somehow adsorb calcein and MTS onto their surface leading to quenching of fluorescence in the case of calcein and enhancement of absorbance readings in the case of MTS. Interestingly, a dUSPION solution alone examined without the MTS assay components significantly increased absorbance readings at 490 nm to levels similar to that seen with the MTS assay components. This suggests that the increased MTS response is mostly due to the contribution of dUSPION's own optical properties (Figure <ref type="figure" target="#fig_0">2b</ref>). Potentially, factors such as surface chemistry, fabrication process, or types of surfactants used to disperse the NM (in this study, dextran) may also play a role in governing the interactions and degree of interference with   colorimetric and fluorometric dyes. However, in the present study, dextran alone without the MTS assay components did not increase absorbance levels at 490 nm (data not shown).</p><p>An alternative cell viability test system, the CyQUANT assay is a sensitive technique used for the determination of cell numbers in culture, and unlike MTT or MTS, this assay does not depend on cellular metabolic activity. This assay is based on the CyQUANT GR dye fluorescing only when bound to cellular nucleic acids (DNA and/or RNA) in lysed cells. The current study shows that in a cellfree system increasing concentrations of maghemite or magnetite did not interfere with the assay (up to 100 μg/mL; Figure <ref type="figure" target="#fig_3">4</ref>). Thus, this assay could be used as an alternative to the MTT or MTS assays. Similarly, neither form of dUSPION used in this study interfered with EthD-1 fluorescence in a cell free system (Figure <ref type="figure" target="#fig_4">5</ref>).</p><p>Interestingly, as opposed to the other probes tested in this study, the function of which is reliant on chemical reactions, both CyQUANT and EthD-1 work through enhancing fluorescence intensity upon binding to nucleic acids. While dUSPION appear to present limited interference when the assay is dependent on a physical change, such as binding to nucleic acids, it appears that if the assay relies on a chemical reaction, the dUSPION may be interacting with the assay components directly or may be interfering at some step in the chemical reaction.</p><p>Fluorescence-based dyes are also key reporters for oxidative stress, for example the fluorometric probe DCFH-DA is widely used for the detection of intracellular ROS. <ref type="bibr" target="#b36">37,</ref><ref type="bibr" target="#b37">38</ref> As illustrated in Figure <ref type="figure" target="#fig_5">6a</ref>, there was a dose-dependent decrease in fluorescence intensity of DCFH with increasing concentrations of magnetite, which was significant at concentrations of 1, 10, and 100 μg/mL (p &lt; 0.05; Figure <ref type="figure" target="#fig_5">6a</ref>). TBHP and increasing concentrations of magnetite demonstrated a synergistic effect with a dose dependent increase in fluorescence, reaching significance at 100 μg/mL of magnetite (p &lt; 0.05; Figure <ref type="figure" target="#fig_5">6a</ref>). Our results suggest that this decrease in DCF signal is not due to any antioxidant effect that magnetite may have, since magnetite did not reduce TBHPinduced increases in DCF fluorescence. Thus, it is likely that in a cell free system magnetite quenches the fluorescence response at higher doses, possibly through adsorption of the probe onto their surface. Somehow, in the presence of a ROS-inducer such as TBHP, this effect is reversed. The present results again demonstrate the unpredictability of responses when using such assays to measure NM safety and the importance of performing preliminary tests to check for assayÀNM interactions.</p><p>Interestingly, maghemite presented the opposite response, causing an increase in fluorescence intensity from 1 μg/mL. At subsequent concentrations, the increase in fluorescence signal was dramatic, equating to a 60-fold elevation at 10 μg/mL and a 40fold increase in background fluorescence when 100 μg/mL maghemite was used (Figure <ref type="figure" target="#fig_5">6b</ref>). To determine whether this increase in signal was indeed caused by oxidative stress, the experiment was repeated in the presence of the antioxidant NAC. The maghemite-induced increase in fluorescence signal at 1, 10, and 100 μg/mL was indeed found to be significantly reduced (p &lt; 0.05). Thus, demonstrating that maghemite induces oxidative stress in the acellular system (as opposed to interacting with the dye itself) which can be substantially reduced using NAC (Figure <ref type="figure" target="#fig_5">6b</ref>). This suggests that maghemite has a much higher oxidative potential than magnetite. It is possible that in the same manner as magnetite, maghemite is able to quench fluorescence response at low concentrations. However, due to its higher oxidative potential, at higher concentrations the massive increase in oxidative species production masks any fluorescence quenching effect that the maghemite may have, resulting in an overall increase in fluorescence response   There are several examples in the literature of the fluorescent probe DCFH-DA being used for the quantification of oxidative stress induced by NM, as this is one of the primary mechanisms associated with adverse cellular responses to NM. Some examples include iron oxide NP exposed to mesenchymal stem cells and HeLa (human cervival carcinoma) cells, SWCNT-induced ROS in HaCaT (human keratinocyte) cells, ambient ultrafine particles, cationic polystyrene nanospheres, TiO 2 , fullerol NP and carbon black in RAW 264.7 phagocytic cells, and silver nanoparticles in human hepatoma and skin keratinocytes. <ref type="bibr">4,39À42</ref> It is not clear from these studies whether the possibility of confounding factors, which we have found to be associated with NM, have been taken into consideration, and whether the appropriate controls have been included.</p><p>The distinct difference in the oxidative potential of maghemite and magnetite may be related to the oxidative state of the iron ions in the complex. In maghemite (Fe 2 O 3 ) iron ions are mostly Fe 3þ , while in magnetite (Fe 3 O 4 ) they are a mixture of Fe 3þ and Fe 2þ with a Fe 2þ /Fe 3þ ratio of 0.435 43 (Table <ref type="table" target="#tab_0">1</ref>). It is possible that Fe 2þ surface ions undergo Fenton reaction by reacting with any H 2 O 2 that may be available within the aqueous environment of the assay, to produce a hydroxyl radical. H 2 O 2 can also react in a Fenton-like reaction with Fe 3þ to generate [Fe III OOH] 2þ which can go on to generate OOH 3 , OH 3 , or OH À , it has also been suggested that reaction of Fe 3þ with H 2 O 2 generates superoxide. It is known that Fe 2þ is more reactive than Fe 3þ ; however, in the present study it seems that the Fenton-like reaction involving Fe 3þ is more potent. One possible explanation for this is the size of dUSPION agglomerates. Particle sizing using DLS suggests that in the buffer used for the DCFH-DA assay (Hepesbuffered (20 mM) Hanks balanced salt solution with glucose (5 mM)), magnetite forms bigger agglomerates than maghemite, thus magnetite would have less exposed surface area and potentially less ions available to react (Table <ref type="table" target="#tab_0">1</ref>). It is also possible that maghemite is a more stable molecule than magnetite and consequently does not release as many iron ions to react with the assay components. Fenton and Fenton-like reactions are known to generate different ROS and intermediate species (see below). <ref type="bibr" target="#b43">44</ref> Thus, another possible explanation for the differences observed when using the DCFH-DA assay is that DCFH-DA may not be as sensitive in detecting ROS produced by magnetite as compared to ROS produced by maghemite.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fenton reaction Fe 2þ</head><p>Fe</p><formula xml:id="formula_0">2þ þ H 2 O 2 f Fe 3þ þ OH À þ OH 3 or Fe 2þ þ H 2 O 2 f ½Fe IV OH 2þ þ H 2 O Fenton-like reaction Fe 3þ Fe 3þ þ H 2 O 2 f ½Fe III OOH 2þ þ H þ ½Fe III OOH 2þ f Fe 2þ þ OOH 3 or ½Fe III OOH 2þ f ½Fe IV O 2þ þ OH 3 or ½Fe III OOH 2þ f ½Fe V O 3þ þ OH À</formula><p>Similar to DCFH-DA, APF is a fluorometric probe used for the detection of oxidative species. APF is oxidized by free radicals to yield a highly fluorescent product which can be detected at 520 nm. Concentrations of maghemite and magnetite between 1 Â 10 À3 and 1 μg/mL did not have a significant effect on the resultant intensity of the APF fluorescence signal. However, 10 and 100 μg/mL maghemite and 100 μg/mL magnetite caused a significant decrease in background APF fluorescence signal (Figure <ref type="figure" target="#fig_6">7</ref>), which could be due to adsorption onto the surface of the NPs, thus quenching the fluorescence response. This is in contrast to the results seen when using DCFH with maghemite, which reported increased oxidative stress at 1À100 μg/mL (Figure <ref type="figure" target="#fig_5">6</ref>). This may be because APF is oxidized by fewer free radical species than DCFH as it is much more selective, only detecting the hydroxyl radical and peroxynitrite anion. Thus, APF may not be detecting the specific ROS produced by maghemite, which are possibly ROS products of Fenton-like reactions. The contrasting results obtained from using these two different oxidative stress assays again highlights the difficulties and complexity of testing the safety of NM.</p><p>Although this study sheds light on NP-USPION interactions in an acellular environment, one important point is that the undesirable interactions demonstrated in the present study may or may not be mimicked exactly in a cellular milieu. It is quite likely that these interactions will still occur in the culture media when the cells are exposed to NP and the test reagent as demonstrated by Zhang and colleagues, who have shown that the brown color of the USPION led to higher cell viability readings. <ref type="bibr" target="#b44">45</ref> Additionally factors in a cellular system, such as media components or cell debris, may modulate the interactions observed in the acellular system. Alternatively, intracellular masking of NP with proteins and other metabolites following cellular uptake could result in a dampened interaction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>' CONCLUSIONS</head><p>In conclusion, not all standard biological assays are compatible with dUSPION and this holds great significance because these NM are routinely used in various biomedical applications subsequent to toxicity testing that utilizes colorimetric/fluorometric probes such as those used in the current study. The present study shows that colorimetric assays such as MTS, and fluorometric probes including calcein, DCFH-DA, and APF can interact with dUSPION especially at higher doses. Therefore, control experiments are essential to establish this threshold for interaction prior to the use of such probes for assessment of cell viability and oxidative stress responses following exposure. Where such interference is detected, alternative test systems should be used and may even require those that do not rely on quantitating colorimetric or fluorometric changes. A number of studies can be found in the literature which have used colorimetric and fluorometric assays, but do not indicate whether the possibility of test system/NM interactions have been controlled for. Thus, in some of these cases, it is possible that results may be misleading due to interactions between the NM and the selected test system, thereby confounding interpretation. Test system/NM interactions may represent a source for some of the conflicting observations in the current literature, in reports assessing apparently the same material but with different experimental systems. Additionally, it is important to note that even subtle differences in oxidation state of the metal oxide NP is sufficient to result in major differences in their ability to interfere with fluorometric dyes. Thus, until we develop a more comprehensive understanding of the parameters that influence such interactions, test system validation assessments are necessary on a NM-by-NM basis.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Effect of dUSPION exposure on (a) MTS absorbance readings in a cell free system and (b) on absorbance in the absence of the MTS reagent, n = 3 significantly (*p &lt; 0.05) different to untreated control.</figDesc><graphic coords="4,52.78,253.93,240.38,242.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Effect of dUSPION exposure on calcein fluorescence in a cell free system, n = 3 significantly (*p &lt; 0.05) different to untreated control.</figDesc><graphic coords="4,315.78,67.64,240.38,111.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. TEM images of (a) maghemite and (b) magnetite.</figDesc><graphic coords="4,60.04,67.64,224.62,144.79" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Effect of dUSPION exposure on CyQUANT fluorescence in an acellular system (n = 3).</figDesc><graphic coords="5,52.78,67.64,240.38,111.69" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Effect of dUSPION exposure on EthD-1 fluorescence emission in a cell free system (n = 3).</figDesc><graphic coords="5,52.78,229.04,240.38,111.57" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Effect of dUSPION on DCF fluorescence response in an acellular system: (a) magnetite and (b) maghemite in the absence or presence of 2 mM NAC. Significantly (*p &lt; 0.05) different relative to zero dUSPION control and significantly (**p &lt; 0.05) different relative to zero dUSPION control with TBHP treatment. Significantly (*p &lt; 0.05) different relative to zero dUSPION control, and significantly (**p &lt; 0.05) different when comparing each dose of dUSPION treatment plus NAC to its relevant zero NAC control. n = 3 for each experiment.</figDesc><graphic coords="5,315.78,67.64,240.38,231.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. Effect of dUSPION exposure on APF fluorescence response in an acellular system, n = 3, significantly (*p &lt; 0.05) different to untreated control.</figDesc><graphic coords="6,315.78,67.64,240.38,111.63" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Characterization of dUSPION: Summary of the Physicochemical Features of the dUSPION Assessed under Experimental Conditions</figDesc><table><row><cell></cell><cell>maghemite</cell><cell>magnetite</cell></row><row><cell cols="2">diameter (DLS; nm)</cell><cell></cell></row><row><cell>• In RPMI-1640 with 1% serum</cell><cell>80.3 ( 6.0</cell><cell>143.2 ( 11.5</cell></row><row><cell>• In hepes-buffered HBSS with glucose</cell><cell>91.0 ( 31.9</cell><cell>128.3 ( 2.0</cell></row><row><cell>zeta-potential (mV)</cell><cell>À11.4 ( 2.5</cell><cell>À12.0 ( 1.6</cell></row><row><cell>XPS ratio (Fe 2þ /Fe 3þ )</cell><cell>0.118</cell><cell>0.435</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>dx.doi.org/10.1021/ac200103x |Anal. Chem. 2011, 83, 3778-3785</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>' ACKNOWLEDGMENT</head><p>S.M.G. and N.S. are joint first authors for this work. This work is supported by funds from the <rs type="funder">Medical Research Council</rs> and the <rs type="institution">Research Councils UK (S.H.D. Academic Fellowship)</rs>. The authors would like to thank <rs type="person">Prof. Rik Brydson</rs> and <rs type="person">Dr Andy Brown</rs> for access to the <rs type="institution">Institute for Materials Research, University of Leeds</rs>, <rs type="institution" subtype="infrastructure">TEM facility via the Leeds EPSRC Nanoscience and Nanotechnology Research Equipment Facility</rs> (<rs type="grantNumber">9EP/ F056311/1</rs>). We would also like to thank <rs type="person">James Abbey</rs> for his efforts in promoting, developing, and supporting collaborative research programs through the <rs type="institution">Texas-UK Collaborative</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_sv4qHgH">
+					<idno type="grant-number">9EP/ F056311/1</idno>
+				</org>
+			</listOrg>
+
+			<listOrg type="infrastructure">
+				<org type="infrastructure">					<orgName type="extracted">TEM facility via the Leeds EPSRC Nanoscience and Nanotechnology Research Equipment Facility</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Madler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">311</biblScope>
+			<biblScope unit="page" from="622" to="627" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Sayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Reed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Warheit</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="163" to="180" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">V</forename><surname>Stone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Kinloch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clift</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Fernandes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Christofi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Donaldson</surname></persName>
+		</author>
+		<title level="m">NanotoxicologyÀInteractions of nanomaterials with biological systems</title>
+		<editor>
+			<persName><forename type="first">Y</forename><surname>Zhao</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Nalwa</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>American Scientific Publishers</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kovochich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hotze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sempf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Oberley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sioutas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Wiesner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Nel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1794" to="1807" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Inoue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Yanagisawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Koike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nishikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Free</forename><surname>Takano</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Radic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. Med</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="924" to="934" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Opportunities and uncertainties</title>
+		<author>
+			<persName><forename type="first">Nanotechnologies</forename><surname>Nanoscience</surname></persName>
+		</author>
+		<ptr target="http://www.nanotec.org.uk/finalReport.htm" />
+	</analytic>
+	<monogr>
+		<title level="j">Royal Society and Royal Academy of Engineering Report</title>
+		<imprint>
+			<biblScope unit="issue">7</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>Opinion on: The appropriateness of existing methodologies to assess the potential risks associated with engineered or adventitious nanotechnologies</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Characterising the potential risks posed by engineering nanoparticles À a 2nd UK Government research report; Department for Environment</title>
+		<ptr target="http://files.nanobio-raise.org/Downloads/nanoriskrep07.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">European Scientific Committee on Emerging and Newly Identified Health Risks Report</title>
+		<imprint>
+			<biblScope unit="issue">8</biblScope>
+			<date type="published" when="2006">2006. 2007</date>
+		</imprint>
+	</monogr>
+	<note>Food and Rural Affairs Report</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<monogr>
+		<title level="m">Risk assessment of products of nanotechnologies</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title/>
+		<ptr target="http://ec.europa.eu/health/ph_risk/committees/04_scenihr/docs/scenihr_o_003.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">European Scientific Committee on Emerging and Newly Identified Health Risks Report</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Engineered Nanoparticles: Review of health and environmental safety; European Comission joint research centre institute for health and consumer protection</title>
+		<ptr target="http://nmi.jrc.ec.europa.eu/documents/pdf/ENRHES%20Review.pdf" />
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Casey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Herzog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Davoren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Lyng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Byrne</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1425" to="1432" />
+			<pubPlace>Chambers, G. Carbon</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Davoren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Herzog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Casey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cottineau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Chambers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Byrne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Lyng</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Toxicol</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="438" to="448" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Herzog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Casey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Lyng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Chambers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Byrne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Davoren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol. Lett</title>
+		<imprint>
+			<biblScope unit="volume">174</biblScope>
+			<biblScope unit="page" from="49" to="60" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ciofani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Danti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>D'alessandro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Moscato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Menciassi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem. Biophys. Res. Commun</title>
+		<imprint>
+			<biblScope unit="volume">394</biblScope>
+			<biblScope unit="page" from="405" to="411" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Cassee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Muijser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Duistermaat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Freijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Geerse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Marijnissen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arts, J. H. Arch. Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="277" to="286" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Oberdorster</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Inhal</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Toxicol</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="73" to="89" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Chan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Health Perspect</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="478" to="482" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Karlsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gustafsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cronholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Moller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol. Lett</title>
+		<imprint>
+			<biblScope unit="volume">188</biblScope>
+			<biblScope unit="page" from="112" to="118" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Oberdorster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. Arch. Occup. Environ. Health</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Hadjipanayis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Bonder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Hadjipanayis</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Small</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1925" to="1929" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Berry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Charles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Curtis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="4551" to="4557" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Apopa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Qian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schwegler-Berry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pacurari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Porter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Vallyathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Castranova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Flynn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Part. Fibre Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Manshian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Maffeis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Doak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="3891" to="3914" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Dobrovolskaia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Mcneil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="469" to="478" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Halford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Eng. News</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page">11</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Nalwa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Nanosci. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="3048" to="3070" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zaho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Xing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Chai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="191" to="192" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Doak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Manshian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mutagenesis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="285" to="293" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kirsch-Volders</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanotoxicology</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="252" to="273" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Landsiedel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Kapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schulz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wiench</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Oesch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mutat. Res</title>
+		<imprint>
+			<biblScope unit="volume">681</biblScope>
+			<biblScope unit="page" from="241" to="258" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Belyanskaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Manser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Spohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bruinink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Carbon</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="2643" to="2648" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Hurt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Monthioux</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="1028" to="1033" />
+			<pubPlace>Kane, A. Carbon</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Monteiro-Riviere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">O</forename><surname>Inman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Carbon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="1070" to="1078" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Worle-Knirsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pulskamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename><surname>Krug</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1261" to="1268" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Dechsakulthorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bakand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Joeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Winder</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Aatex</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="397" to="400" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wangler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Morgenstern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zentgraf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eisenhut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Untenecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kruger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Huss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Seliger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Semmler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kiessling</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Langmuir</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1427" to="1434" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Joseph</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Free Radic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. Med</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="612" to="616" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Tarpey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Wink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Grisham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Physiol. Regul. Integr. Comp. Physiol</title>
+		<imprint>
+			<biblScope unit="volume">286</biblScope>
+			<biblScope unit="page" from="431" to="444" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Arbab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Bashaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Jordan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kalish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Frank</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiology</title>
+		<imprint>
+			<biblScope unit="volume">229</biblScope>
+			<biblScope unit="page" from="838" to="846" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Manna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sarkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Barrera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Jejelowo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Rice-Ficht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Ramesh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1676" to="1684" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Y</forename><surname>Ryu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Toxicol</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1076" to="1084" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Senapati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Tovmachenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Ray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">487</biblScope>
+			<biblScope unit="page" from="92" to="96" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J S</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Asadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Doak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Rev</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">5358</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ensing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Buda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Baerends</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="5722" to="5731" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wangler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Morgenstern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zentgraf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eisenhut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Untenecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kruger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Huss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Seliger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Semmler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kiessling</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Langmuir</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1427" to="1434" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

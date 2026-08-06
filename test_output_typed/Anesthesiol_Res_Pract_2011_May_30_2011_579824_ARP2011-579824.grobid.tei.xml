@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Ultrasound-Guided Regional Anesthesia for Procedures of the Upper Extremity</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Farheen</forename><surname>Mirza</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">College of Physicians and Surgeons</orgName>
+								<orgName type="institution">Columbia University</orgName>
+								<address>
+									<postCode>10027</postCode>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anthony</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">College of Physicians and Surgeons</orgName>
+								<orgName type="institution">Columbia University</orgName>
+								<address>
+									<postCode>10027</postCode>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Ultrasound-Guided Regional Anesthesia for Procedures of the Upper Extremity</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A7F9F4C7F233F26C58F0F3E56BDF55FF</idno>
+					<idno type="DOI">10.1155/2011/579824</idno>
+					<note type="submission">Received 24 December 2010; Accepted 7 April 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:12+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Anesthesia options for upper extremity surgery include general and regional anesthesia. Brachial plexus blockade has several advantages including decreased hemodynamic instability, avoidance of airway instrumentation, and intra-, as well as postoperative analgesia. Prior to the availability of ultrasound the risks of complications and failure of regional anesthesia made general anesthesia a more desirable option for anesthesiologists inexperienced in the practice of regional anesthesia. Ultrasonography has revolutionized the practice of regional anesthesia. By visualizing needle entry throughout the procedure, the relationship between the anatomical structures and the needle can reduce the incidence of complications. In addition, direct visualization of the spread of local anesthesia around the nerves provides instant feedback regarding the likely success of the block. This review article outlines how ultrasound has improved the safety and success of brachial plexus blocks. The advantages that ultrasound guidance provides are only as good as the experience of the anesthesiologist performing the block. For example, in experienced hands, with real time needle visualization, a supraclavicular brachial plexus block has changed from an approach with the highest risk of pneumothorax to a block with minimal risks making it the ideal choice for most upper extremity surgeries.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">General Anesthesia versus</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regional Anesthesia</head><p>Anesthesia options for upper extremity surgery include general anesthesia, regional anesthesia, or a combination of the two. In the past general anesthesia was frequently the method of choice for upper extremity surgery due to lack of training and experience with regional anesthesia as well as fear of complications including vascular puncture, local anesthetic toxicity, pneumothorax, and patient discomfort <ref type="bibr" target="#b0">[1]</ref>. Needle placement utilizing the paresthesia technique or peripheral nerve stimulator could be a time-consuming process leading to operating room delays and patient discomfort. However, the advantages of general anesthesia, including control of the airway and familiarity of the technique by the majority of anesthesiologists are overshadowed by the clear benefits of regional anesthesia. These include intraoperative, as well as postoperative analgesia <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>. In addition, regional anesthesia results in excellent muscle relaxation during surgery, decreased opioid requirements and their potential side effects, greater hemodynamic stability, increased efficiency in the operating room by avoiding the time required to awaken and extubate the patient, reduced PACU stay, a decrease in unplanned hospital admission for pain control, as well as greater patient satisfaction <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>. The most significant advantage of regional anesthesia for surgery of the upper extremity is the prolonged postoperative analgesia that a nerve block can provide. The pain relief following brachial plexus blockade with long-acting local anesthetics such as bupivacaine, ropivacaine and levobupivacaine has resulted in patients being discharged home on the day of surgery as opposed to a planned or unplanned overnight admission <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Brachial Plexus Anatomy</head><p>Thompson and Rorie performed cadaveric studies to map out the brachial plexus anatomy <ref type="bibr" target="#b4">[5]</ref>. The fifth through eighth cervical and first thoracic nerve exit through the intervertebral foramina and travel along the groove formed by the transverse processes of their corresponding vertebrae. After exiting the transverse processes the roots of the brachial plexus travel between the anterior and the middle scalene muscles, identified as the interscalene groove <ref type="bibr" target="#b0">[1]</ref>. The authors reported that the brachial plexus is confined by a continuous fascial sheath formed by the deep cervical fascia and that the fascia is continuous from emergence of the nerve roots to the axilla. Distally the fascia folds inwards to form separate compartments for each nerve. For example, at the cord level, local anesthetic injected around the posterior cord may not spread to include the lateral or medial cords <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref> whereas an axillary brachial plexus block is performed by identifying the individual nerves and blocking each one separately <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref>. While an interscalene block is performed by means of a single injection technique, the more distal approach to the brachial plexus, the less likely that a single injection technique will result in complete blockade of the upper extremity <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Basics of Ultrasound</head><p>Ultrasound probes (transducers) act as both a transmitter and receiver of sound waves. The probes are classified as either high (10-15 MHz), midrange (5-10 MHz), or low (&lt;5 MHz) frequency. High-frequency probes provide highresolution images but lack depth of penetration compared to low-frequency probes <ref type="bibr" target="#b14">[15]</ref>. Both frequency types are available with a wide or a narrow footprint. High-resolution linear transducers are most suitable for imaging superficial structures such as the brachial plexus in the interscalene, supraclavicular, and axillary regions. The lower frequency curved transducer is preferable when the anatomical structures are deeper than 4 cm, for example, when performing an infraclavicular block <ref type="bibr" target="#b15">[16]</ref>. Prior to the use of ultrasound, block needle placement was achieved using a blind approach with the nerve stimulation or paresthesia technique. Ultrasound imaging has revolutionized the practice of regional anesthesia in that the operator can visualize and identify nerves and blood vessels as well as the needle during its passage through the tissues. Abnormal anatomy can also be recognized <ref type="bibr" target="#b16">[17]</ref>. In addition, direct visualization of the spread of local anesthetic decreases the risk of intravascular injection, local anesthetic toxicity, pneumothorax, and a failed block <ref type="bibr" target="#b17">[18]</ref>. It is important to remember, however, that the success of an ultrasound-guided block is dependent upon the skill and experience of the anesthesiologist. Anesthesiologists performing brachial plexus anesthesia under ultrasound guidance must first become comfortable with identifying anatomical structures as well as visualizing the needle during the block performance. In experienced hands, the benefits of performing a peripheral nerve block with real-time ultrasound imaging of needle placement and local anesthesia spread include decreased performance as well as onset time, a decreased dose of local anesthetic required to achieve a successful block, and an increase in block success rate <ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref>. In a systematic review and meta-analysis of randomized controlled trials comparing ultrasound guidance with electrical neurostimulation for peripheral nerve blocks, Abrahams et al. confirmed these aforementioned benefits of ultrasound. However, the authors concluded that larger studies are needed to determine whether ultrasound can decrease the number of complications <ref type="bibr" target="#b24">[25]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Patient Preoperative Evaluation and Education</head><p>The success of a regional anesthesia program is dependent on patient education and the support of the surgical team.</p><p>To put a patient at ease it is desirable for the surgeon to inform the patient about the possibility of receiving a brachial plexus block for his or her surgery prior to the day of surgery. A patient that has been informed beforehand is often more amenable to accepting regional anesthesia. In addition, the training, education, and skill of the individual performing the block are of paramount importance. To this end, both the American as well as the European Society of Regional Anesthesia (ASRA and ESRA) hold annual meetings as well as numerous workshops throughout the year to educate and train individuals in the art of regional anesthesia <ref type="bibr" target="#b25">[26]</ref>. There are few absolute contraindications to a brachial plexus block. These include patient refusal, local anesthetic allergy, infection at the site of needle entry, and the presence of infected lymph nodes in the axilla or supraclavicular region <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b26">27]</ref>. Deep blocks, for example, an infraclavicular approach, as well as blocks in the vicinity of a noncompressible artery (e.g., supraclavicular) should not be performed in coagulopathic patients <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref>. A patient that is unable to cooperate secondary to decreased mental status is also an absolute contraindication. Regional anesthesia is not contraindicated in patients that have a pre-existing stable neurological deficit or chronic neurological disease provided that the condition is well documented <ref type="bibr" target="#b27">[28,</ref><ref type="bibr" target="#b28">29]</ref>.</p><p>It is up to the anesthesiologist to decide, based on each individual patient's risk benefit ratio whether performance of a peripheral nerve block in the presence of pre-existing nerve damage is indicated <ref type="bibr" target="#b29">[30]</ref>. An informed cooperative patient is an essential factor in ensuring safe and effective regional anesthesia. Following a brachial plexus block, it is essential that the affected extremity be immobilized and protected until loss of sensation and proprioception have resolved. Patients and family members should receive clear instructions regarding the anticipated duration of the block and how to transition to oral analgesia at home to avoid the sudden onset of pain.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Anesthetic Techniques</head><p>De Andres and Sala-Blanch state that it is essential to understand both the topographic anatomy and cross-sectional anatomy of each anatomic zone of the brachial plexus <ref type="bibr" target="#b14">[15]</ref>. They describe the brachial plexus as being divided into three zones: the supraclavicular region in the posterior triangle of the neck, the infraclavicular region deep to the pectoralis muscles in the anterior chest, and the axillary region. The level of needle entry in one of these zones will determine the extent, limitations, and potential complications of a brachial plexus block. Prior to the use of ultrasound, the likelihood of encountering the spinal cord, the lung, and major vessels such as the subclavian and vertebral arteries with the more proximal approaches (interscalene and supraclavicular) was a concern <ref type="bibr" target="#b30">[31]</ref>. Ultrasound has minimized these risks provided that the needle tip as well as the spread of local anesthetic is constantly visualized throughout performance of the block <ref type="bibr" target="#b19">[20,</ref><ref type="bibr" target="#b31">32]</ref>. The choice of which technique to use is dependent on the surgical procedure, the comfort and expertise of the anesthesiologist, and patient-associated factors such as sepsis in the axilla. In the latter case a more proximal approach is desirable <ref type="bibr" target="#b29">[30]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Interscalene Block</head><p>The interscalene approach to the brachial plexus is the technique of choice for surgical procedures of the shoulder. It is inappropriate for surgeries involving the medial aspect of the upper extremity due to inconsistent blockade of the lower trunk (C8 and T1) <ref type="bibr" target="#b32">[33,</ref><ref type="bibr" target="#b33">34]</ref>. At the level of the cricoid cartilage the brachial plexus trunks appear as three distinct hypoechoic areas between the anterior and middle scalene muscles <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b34">35]</ref>. It should be emphasized that the large doses of local anesthetic traditionally used for an interscalene block with the neurostimulation technique result in a 100% incidence of ipsilateral phrenic nerve paralysis due to blockade of the 3rd, 4th, and 5th cervical nerve roots. This may decrease the patient's FRC by 25% <ref type="bibr" target="#b35">[36]</ref> and may therefore not be suitable for patients with emphysema and other chronic lung diseases with decreased pulmonary reserve. Ultrasound imaging improves the interscalene approach primarily by being able to visualize the spread of local anesthetic within the fascia surrounding the trunks. This direct visualization decreases the amount of local anesthetic needed to provide surgical anesthesia <ref type="bibr" target="#b36">[37,</ref><ref type="bibr" target="#b37">38]</ref>. Decreasing the volume of local anesthetic to 10 mL or 5 mL resulted in a significant decrease in the incidence of hemidiaphragmatic paresis <ref type="bibr" target="#b36">[37,</ref><ref type="bibr" target="#b38">39,</ref><ref type="bibr" target="#b39">40]</ref>. Kapral et al. report that ultrasound guidance improves both the quality of the nerve block and shortens the time of onset of sensory blockade <ref type="bibr" target="#b21">[22]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.">Supraclavicular Block</head><p>The supraclavicular block was traditionally performed for surgeries of the upper extremity below the shoulder. Liu et al., however, recently reported that ultrasound-guided supraclavicular blocks are effective and safe for shoulder arthroscopy <ref type="bibr" target="#b40">[41]</ref>. The supraclavicular approach has several advantages over the more distal approaches including rapid onset of the block, more complete blockade of the nerves supplying the upper extremity (with the exception of the intercostobrachial nerve) due to the compact arrangement of the trunks of the brachial plexus at this level <ref type="bibr" target="#b31">[32,</ref><ref type="bibr" target="#b41">42]</ref>. Prior to the use of ultrasound the supraclavicular approach was frequently avoided, particularly in ambulatory surgeries, due to the increased risk of pneumothorax and, to a lesser extent, direct vascular puncture of the subclavian, superficial (transverse) cervical, suprascapular, or dorsal scapular arteries with subsequent local anesthetic toxicity and cardiovascular collapse <ref type="bibr" target="#b42">[43,</ref><ref type="bibr" target="#b43">44]</ref>. Ultrasound has improved the safety of a supraclavicular block as the anesthesiologist can now visualize the subclavian artery, the first rib, as well as the dome of the lung. Placement of the needle and spread of the local anesthetic can now be seen in real-time resulting in resurgence in the use of this block <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b44">45]</ref>. Chan et al. examined the supraclavicular region in 40 patients and reported that in all cases the nerves of the brachial plexus appeared as hypoechoic nodules in clusters lateral, posterior, and cephalad to the subclavian artery <ref type="bibr" target="#b45">[46]</ref>. The authors also concluded that if the needle is seen at all times and not inserted beyond the first rib, then the risk of a pneumothorax in a supraclavicular block is essentially eliminated. Williams found that supraclavicular nerve blocks were performed faster with ultrasound guidance when compared with nerve stimulation (5 versus 10 min) <ref type="bibr" target="#b19">[20]</ref>. Ultrasound guidance has increased the safety profile of the supraclavicular approach so that in experienced hands this may be the block of choice for most upper extremity surgeries below the shoulder.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.">Infraclavicular Block</head><p>The infraclavicular approach is indicated for surgeries of the arm and hand. Compared to the supraclavicular approach, the risk of pneumothorax is significantly reduced and is virtually eliminated with the use of ultrasound. In addition, the phrenic nerve is not blocked with this approach <ref type="bibr" target="#b46">[47]</ref>. Compared to the axillary approach, the infraclavicular block targets the brachial plexus at the level of the cords which surround the second part of the axillary artery and are proximal to the takeoff of the musculocutaneous, axillary, and medial brachial cutaneous nerves. This may result in a higher success rate of complete blockade with a single injection technique <ref type="bibr" target="#b47">[48]</ref>. The infraclavicular anatomy may, however, be more difficult to visualize under ultrasound guidance particularly in obese patients. Perlas et al. found that compared to the interscalene, supraclavicular, axillary, and midhumeral approaches in which the brachial plexus was visualized 100% of the time, in only 27% of patients were they able to visualize the infraclavicular brachial plexus <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b48">49]</ref>. This difficulty is due to the relative depth of the brachial plexus in the infraclavicular approach compared to all other approaches to the brachial plexus. A low-frequency probe with its greater tissue penetration may facilitate performance of this block <ref type="bibr" target="#b46">[47]</ref>. In an ultrasound-guided infraclavicular block the lateral, posterior, and medial cords are seen in close proximity to the axillary artery and vein. The posterior cord is usually blocked first. If the spread of local anesthetic does not surround the lateral and medial cords, then all three cords must be blocked individually to obtain complete blockade of the upper extremity. As with the supraclavicular and axillary approaches, the intercostobrachial nerve will have to be blocked separately in the axilla to achieve anesthesia of the inner aspect of the upper arm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="9.">Axillary Block</head><p>Axillary blocks are performed for procedures of the elbow, distal arm, and hand. Prior to the use of ultrasound, the axillary approach was the most common approach to the brachial plexus due to the safety of this technique. As with the infraclavicular block, the risk of phrenic nerve paresis is avoided and the risk of pneumothorax is eliminated. The high success rate without respiratory compromise makes this block desirable in patients with reduced lung capacities and chronic pulmonary diseases <ref type="bibr" target="#b49">[50]</ref>. Contraindications to the axillary approach include inability to abduct the arm to the position necessary to perform the block, localized infection in the axilla, or enlarged axillary lymph nodes <ref type="bibr" target="#b50">[51]</ref>. A major advantage of using ultrasound in an axillary approach is the ability to confirm blockade of the musculocutaneous nerve <ref type="bibr" target="#b51">[52]</ref>. Because of the anatomical variance of the musculocutaneous nerve in relation to the axillary artery, failure to block this nerve with a perivascular approach in not uncommon <ref type="bibr" target="#b52">[53]</ref>. At the axillary level, the terminal branches of the brachial plexus (median, ulnar, and radial nerves) are situated close to the axillary artery and veins with the two axillary veins situated medial to the artery. There is, however, a great deal of variation in the distribution of these three nerves in relation to the artery <ref type="bibr" target="#b53">[54]</ref>. The four nerves are easily visualized utilizing ultrasonography. The ultrasound guided axillary approach has been shown to both decrease block failure rate and time of onset of sensory blockade compared to the transarterial technique <ref type="bibr" target="#b13">[14]</ref>. The success of US guided axillary blocks depends on the multiple needle approach in which each nerve is identified individually and spread of local anesthetic is observed around the median, ulnar, radial, and musculocutaneous nerves.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="10.">Distal Upper Extremity Blocks</head><p>Individual terminal nerve blocks can be performed at the midhumeral, elbow, forearm, or wrist either by design or as a rescue block <ref type="bibr" target="#b6">[7]</ref>. These more peripheral nerve blocks may be performed to achieve postoperative analgesia while at the same time maintaining more proximal control of the upper extremity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="11.">Postoperative Pain Control</head><p>Postoperative pain and nausea are the leading causes of unplanned hospital admission after ambulatory surgery <ref type="bibr" target="#b54">[55]</ref>. Orthopedic upper extremity surgery is reported as having a high incidence of severe pain <ref type="bibr" target="#b55">[56]</ref>. One of the clear benefits of regional anesthesia over general anesthesia for upper extremity surgery is the postoperative pain relief a long-acting local anesthetic can provide. The choice of local anesthetic is determined by the duration of surgery, necessity of motor blockade, urgency of neurological assessment after surgery, and the anticipated requirement for postoperative analgesia.</p><p>In brachial plexus nerve blocks short-, intermediate-, and long-acting local anesthetics can be chosen. Bupivacaine, ropivacaine, and levobupivacaine are equally effective in surgeries in which extended postoperative analgesia would be beneficial. In comparison to bupivacaine, however, ropivacaine and levobupivacaine are the long-acting local anesthetics of choice due to their decreased cardiotoxicity <ref type="bibr" target="#b56">[57]</ref><ref type="bibr" target="#b57">[58]</ref><ref type="bibr" target="#b58">[59]</ref>. It is important for the patient to be informed of the anticipated duration of the local anesthetic so that he or she will not be concerned about the length of time it takes for the block to wear off. It is also essential that patients be instructed regarding protection of the extremity until sensation has completely returned. Finally, patients should be instructed to take their prescribed oral analgesics at the earliest sign of pain to mitigate against the analgesic gap that may otherwise develop. Additional methods to improve and or prolong postoperative analgesia include insertion of a brachial plexus catheter to provide continuous regional analgesia <ref type="bibr" target="#b50">[51,</ref><ref type="bibr" target="#b59">60]</ref> as well as the use of multimodal analgesia.</p><p>In the multimodal approach use of a long-acting peripheral nerve block in combination with acetaminophen, NSAIDs (when not contraindicated), and oral opioid analgesics will minimize the total opioid requirements and their resulting side effects <ref type="bibr" target="#b60">[61,</ref><ref type="bibr" target="#b61">62]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="12.">Conclusion</head><p>The various approaches to the brachial plexus afford the anesthesiologist the ability to provide both excellent intraoperative anesthesia as well as postoperative analgesia with minimal complications and increased patient satisfaction following upper extremity surgery. The advantages over general anesthesia are numerous when performed in skilled hands. Ultrasound guidance with real-time needle visualization in relation to anatomic structures and target nerves makes regional anesthesia safer and more successful. With ultrasound guidance in experienced hands, brachial plexus blockade can lead to decreased block performance and onset time, increased success rate and decreased rate of complications. These advantages result in increased operating room efficiency, as well as increased patient and surgeon satisfaction.</p></div>		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Brachial plexus examination and localization using ultrasound and electrical stimulation: a volunteer study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perlas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">W S</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Simons</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesiology</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="429" to="435" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A retrospective comparison of interscalene block and general anesthesia for ambulatory surgery shoulder arthroscopy</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>D'alessio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rosenblum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Shea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Freitas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="62" to="68" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Interscalene block for shoulder arthroscopy: comparison with general anesthesia</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Greenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Flatow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">U</forename><surname>Bigliani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arthroscopy</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="295" to="300" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Continuous peripheral nerve blocks at home: a review</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Ilfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">K</forename><surname>Enneking</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1822" to="1833" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Functional anatomy of the brachial plexus sheaths</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Rorie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesiology</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="117" to="122" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Ultrasound-guided infraclavicular brachial plexus block: an alternative technique to anatomical landmark-guided approaches</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ootaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Amano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="600" to="604" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Ultrasound-guided infraclavicular brachial plexus block</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Sandhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Capan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Anaesthesia</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="254" to="259" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Infraclavicular plexus block: multiple injection versus single injection</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gaertner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Estebe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zamfir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cuby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Macaire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="590" to="594" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Multiple-injection axillary brachial plexus block: a comparison of two methods of nerve localization-nerve stimulation versus paresthesia</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lepri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Marchini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ponsecchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="647" to="651" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Ultrasonographic findings of the axillary part of the brachial plexus</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Retzl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kapral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Greher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mauritz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1271" to="1275" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Readiness for surgery after axillary block: single or multiple injection techniques</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">J</forename><surname>Koscielniak-Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Stens-Pedersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">K</forename><surname>Lippert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Anaesthesiology</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="164" to="171" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Anatomy of the normal brachial plexus revealed by sonography and the role of sonographic guidance in anesthesia of the brachial plexus</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Chui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Metreweli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Roentgenology</title>
+		<imprint>
+			<biblScope unit="volume">171</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1631" to="1636" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Ultrasound guidance improves the success rate of a perivascular axillary plexus block</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Sites</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Beach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Spence</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Anaesthesiologica Scandinavica</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="678" to="684" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Brachial plexus blocks: a review of approaches and techniques</title>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">H</forename><surname>Tran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Clemente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Doan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Finlayson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Anesthesia</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="662" to="674" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Ultrasound in the practice of brachial plexus anesthesia</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">De</forename><surname>Andres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Sala-Blanch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="77" to="89" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Current concepts and future trends in ultrasound-guided regional anesthesia</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Marhofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Willschke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kettner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Anaesthesiology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="632" to="636" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Ultrasound-guided regional anesthesia: current state of the art</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesiology</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="368" to="373" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Ultrasound guidance in regional anaesthesia</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Marhofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Greher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kapral</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Anaesthesia</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="7" to="17" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Ultrasound guidance in peripheral regional anesthesia: philosophy, evidence-based medicine, and techniques</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Sites</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brull</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Anaesthesiology</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="630" to="639" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Ultrasound guidance speeds execution and improves the quality of supraclavicular block</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chouinard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Arcand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1518" to="1523" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Ultrasound-guided regional anesthesia and analgesia: a qualitative systematic review</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Ngeow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Yadeau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="47" to="59" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Ultrasonographic guidance improves the success rate of interscalene brachial plexus blockade</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kapral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Greher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Huber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="253" to="258" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Ultrasonographic guidance reduces the amount of local anesthetic for 3-in-1 blocks</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Marhofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schrögendorfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wallner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Koinig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kapral</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="584" to="588" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Ultrasound-guided regional anesthesia: current concepts and future trends</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Marhofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">W S</forename><surname>Chan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1265" to="1269" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Ultrasound guidance compared with electrical neurostimulation for peripheral nerve block: a systematic review and metaanalysis of randomized controlled trials</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Abrahams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Aziz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Horn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Anaesthesia</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="408" to="417" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">A survey of exposure to regional anesthesia techniques in American anesthesia residency training programs</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sprung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mascha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Tetzlaff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="11" to="16" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Interscalene brachial plexus analgesia after open shoulder surgery: continuous versus patient-controlled infusion</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Singelyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seguy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gouverneur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1216" to="1220" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Regional anesthesia does not increase the risk of postoperative neuropathy in patients undergoing ulnar nerve transposition</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hebl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Horlocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Sorenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Schroeder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1606" to="1611" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The risk of persistent paresthesia is not increased with repeated axillary block</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Horlocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Kufner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Bishop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Maxson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Schroeder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="382" to="387" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Anaesthesia for procedures of the hand and elbow</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Best Practice and Research</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="227" to="246" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Acute and nonacute complications associated with interscalene block and shoulder surgery: a prospective study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Borgeat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ekatodramis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kalberer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Benz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesiology</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="875" to="880" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Ultrasound-guided supraclavicular approach for regional anesthesia of the brachial plexus</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kapral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Krafft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eibenberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gosch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Weinstabl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="507" to="513" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Interscalene brachial plexus block</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Winnie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="455" to="466" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Brachial plexus anesthesia: an analysis of options</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yale Journal of Biology and Medicine</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="415" to="431" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Applying ultrasound imaging to interscalene brachial plexus block</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">W S</forename><surname>Chan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="340" to="343" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Hemidiaphragmatic paresis during interscalene brachial plexus block: effects on pulmonary functin and chest wall mechanics</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Urmey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mcdonald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="352" to="257" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Effect of local anaesthetic volume (20 vs 5 ml) on the efficacy and respiratory consequences of ultrasoundguided interscalene brachial plexus block</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Riazi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Carmichael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Awad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Holtby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J L</forename><surname>Mccartney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Anaesthesia</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="549" to="556" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Analgesic effect of interscalene block using low-dose bupivacaine for outpatient arthroscopic shoulder surgery</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Al-Kaisy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mcguire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">W S</forename><surname>Chan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="469" to="473" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Ultrasound-guided low-dose interscalene brachial plexus block reduces the incidence of hemidiaphragmatic paresis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Renes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Rettig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gielen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">H</forename><surname>Wilder-Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Van Geffen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="498" to="502" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Hemidiaphragmatic paresis can be avoided in ultrasound-guided supraclavicular brachial plexus block</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Renes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Spoormans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gielen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Rettig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Van Geffen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="595" to="599" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main">A prospective clinical registry of ultrasoundguided regional anesthesia for ambulatory shoulder surgery</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wilfred</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shetty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Yadeau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="617" to="623" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Ultrasound-guided supraclavicular block: outcome of 510 consecutive cases</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perlas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">W S</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Karkhanis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="171" to="176" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Intravenous lipid infusion in the successful resuscitation of local anesthetic-induced cardiovascular collapse after supraclavicular brachial plexus block</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Thoma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Georgescu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Shah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1578" to="1580" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Arteries in the lateral cervical triangle</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kirchmair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Moriggl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">620</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Eight ball, corner pocket: the optimal needle position for ultrasoundguided supraclavicular block</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Soares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">W</forename><surname>Chan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="94" to="95" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Ultrasound-guided supraclavicular brachial plexus block</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">W S</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perlas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Odukoya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1514" to="1517" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main">A comparison of two techniques for ultrasound guided infraclavicular block</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bigeleisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Anaesthesia</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="502" to="507" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Single versus triple injection ultrasound-guided infraclavicular block: confirmation of the effectiveness of the single injection technique</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Fredrickson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wolstencroft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kejriwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Boland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chinchanwala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1325" to="1327" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Neurostimulation in ultrasound-guided infraclavicular block: a prospective randomized trial</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dingemans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Arcand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1275" to="1280" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b49">
+	<analytic>
+		<title level="a" type="main">The efficacy of axillary block for surgical procedures about the elbow</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Schroeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Horlocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Schroeder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="747" to="751" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Continuous plexus and peripheral nerve blocks for postoperative analgesia</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">V</forename><surname>Salinas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="263" to="272" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b51">
+	<analytic>
+		<title level="a" type="main">A prospective, randomized comparison between ultrasound and nerve stimulation guidance for multiple injection axillary brachial plexus block</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Casati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Danelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baciarello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesiology</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="992" to="996" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b52">
+	<analytic>
+		<title level="a" type="main">The musculocutaneous nerve: ultrasound appearance for peripheral nerve block</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Schafhalter-Zoppoth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Anesthesia and Pain Medicine</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="385" to="390" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Ultrasounds guidance improves success rate of axillary brachial plexus block</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">W S</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perlas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J L</forename><surname>Mccartney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Abbas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Anesthesia</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="176" to="182" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Unanticipated admission after ambulatory surgery-a prospective study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fortier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Su</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Anaesthesia</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="612" to="619" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Postoperative pain in ambulatory surgery</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ritchie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Su</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="808" to="816" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Differences in cardiotoxicity of bupivacaine and ropivacaine are the result of physicochemical and stereoselective properties</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Graf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Abraham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Eberbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kunst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Stowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesiology</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1427" to="1434" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b57">
+	<analytic>
+		<title level="a" type="main">A comparison of the electrocardiographic cardiotoxic effects of racemic bupivacaine, levobupivacaine, and ropivacaine in anesthetized swine</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Morrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Dominguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Frascarolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Reiz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1308" to="1314" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Is ropivacaine less potent than bupivacaine?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Angelo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>James</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesiology</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="941" to="943" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Continuous peripheral nerve blocks in hospital wards after orthopedic surgery: a multicenter prospective analysis of the quality of postoperative analgesia and complications in 1,416 patients</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Capdevila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pirat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bringuier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesiology</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1035" to="1045" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Non-steroidal anti-inflammatory drugs: rationale for use in severe postoperative pain</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Dahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kehlet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Anaesthesia</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="703" to="712" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Does continuous peripheral nerve block provide superior pain control to opioids? A meta-analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Richman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Courpas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anesthesia &amp; Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="248" to="257" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

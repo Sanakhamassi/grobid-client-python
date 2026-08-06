@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Effect of local anaesthesia and/or analgesia on pain responses induced by piglet castration</title>
+				<funder>
+					<orgName type="full">Swedish Board of Agriculture</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-05-31">31 May 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Monica</forename><surname>Hansson</surname></persName>
+							<email>monica.hansson@slu.se</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Animal Breeding and Genetics</orgName>
+								<orgName type="institution">Swedish University of Agricultural Scienes</orgName>
+								<address>
+									<postBox>P.O. Box 7023</postBox>
+									<postCode>SE-750 07</postCode>
+									<settlement>Uppsala</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Animal Breeding and Genetics</orgName>
+								<orgName type="institution">Swedish University of Agricultural Scienes</orgName>
+								<address>
+									<postBox>P.O. Box 7023</postBox>
+									<postCode>SE-750 07</postCode>
+									<settlement>Uppsala</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nils</forename><surname>Lundeheim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Animal Breeding and Genetics</orgName>
+								<orgName type="institution">Swedish University of Agricultural Scienes</orgName>
+								<address>
+									<postBox>P.O. Box 7023</postBox>
+									<postCode>SE-750 07</postCode>
+									<settlement>Uppsala</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Animal Breeding and Genetics</orgName>
+								<orgName type="institution">Swedish University of Agricultural Scienes</orgName>
+								<address>
+									<postBox>P.O. Box 7023</postBox>
+									<postCode>SE-750 07</postCode>
+									<settlement>Uppsala</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Görel</forename><surname>Nyman</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Animal Environment and Health</orgName>
+								<orgName type="institution">Swedish University of Agricultural Scienes</orgName>
+								<address>
+									<postBox>P.O. Box 234</postBox>
+									<postCode>SE-532 23</postCode>
+									<settlement>Skara</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gunnar</forename><surname>Johansson</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Swedish Animal Health Service</orgName>
+								<address>
+									<postCode>SE-532 89</postCode>
+									<settlement>Linköping</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Effect of local anaesthesia and/or analgesia on pain responses induced by piglet castration</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-05-31">31 May 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">ECE39552848286036A1B17B380643D5F</idno>
+					<idno type="DOI">10.1186/1751-0147-53-34</idno>
+					<note type="submission">Received: 13 January 2011 Accepted: 31 May 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: Surgical castration in male piglets is painful and methods that reduce this pain are requested. This study evaluated the effect of local anaesthesia and analgesia on vocal, physiological and behavioural responses during and after castration. A second purpose was to evaluate if herdsmen can effectively administer anaesthesia.</p><p>Methods: Four male piglets in each of 141 litters in five herds were randomly assigned to one of four treatments: castration without local anaesthesia or analgesia (C, controls), analgesia (M, meloxicam), local anaesthesia (L, lidocaine), or both local anaesthesia and analgesia (LM). Lidocaine (L, LM) was injected at least three minutes before castration and meloxicam (M, LM) was injected after castration. During castration, vocalisation was measured and resistance movements judged. Behaviour observations were carried out on the castration day and the following day. The day after castration, castration wounds were ranked, ear and skin temperature was measured, and blood samples were collected for analysis of acute phase protein Serum Amyloid A concentration (SAA). Piglets were weighed on the castration day and at three weeks of age. Sickness treatments and mortality were recorded until three weeks of age. Results: Piglets castrated with lidocaine produced calls with lower intensity (p &lt; 0.001) and less resistance movements (p &lt; 0.001) during castration. Piglets that were given meloxicam displayed less pain-related behaviour (huddled up, spasms, rump-scratching, stiffness and prostrated) on both the castration day (p = 0.06, n.s.) and the following day (p = 0.02). Controls had less swollen wounds compared to piglets assigned to treatments M, L and LM (p &lt; 0.001). The proportion of piglets with high SAA concentration (over threshold values 200, 400 mg/l) was higher (p = 0.005; p = 0.05) for C + L compared to M + LM. Ear temperature was higher (p &lt; 0.01) for controls compared to L and LM. There were no significant treatment effects for skin temperature, weight gain, sickness treatments or mortality.</p><p>Conclusions: The study concludes that lidocaine reduced pain during castration and that meloxicam reduced pain after castration. The study also concludes that the herdsmen were able to administer local anaesthesia effectively.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Each year approximately 1.5 million male piglets are surgically castrated in Sweden. The number for all EU countries is approximately 100 million. The castration is mainly performed to eliminate boar taint in the meat, but also to prevent aggressive and sexual behaviour of male pigs. Castration is performed within the piglet's first week of life and is traditionally carried out without anaesthesia and analgesia. As surgical castration induces pain in piglets the procedure is considered an important animal welfare issue <ref type="bibr" target="#b0">[1]</ref>.</p><p>Pain is subjective and therefore difficult to quantify, and there are no specific parameters for measuring it <ref type="bibr" target="#b1">[2]</ref>. However, it is widely accepted that piglets may react to pain in three ways: trough vocalisation, physiologically, and behaviourally <ref type="bibr" target="#b2">[3]</ref>. Although piglets usually vocalise a lot when they are handled there is a clear difference in their vocalisation between being handled and castrated. Piglets that are castrated without anaesthesia produce a higher number of calls and with a higher frequency compared to piglets castrated with anaesthesia <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b3">4]</ref> or sham-castrated piglets (handled identically but without castration) <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref>. The greatest amount of high-frequency calls are produced when the piglet's spermatic cords are pulled and severed, and is therefore identified as the most painful moment during castration <ref type="bibr" target="#b7">[8]</ref>.</p><p>The sympathetic nervous system is activated during different kinds of stress (pain, anger and fear) and several changes are noted in the body, for example: dilated pupils, increased heart rate and blood pressure, redirected blood from the skin, decreased digestion and dilated bronchioles. During activation adrenocorticotropic hormone is released and induces secretion of cortisol <ref type="bibr" target="#b8">[9]</ref>. These changes can be used as possible indicators of pain and several of these changes have been shown in piglets during and after castration <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11]</ref>.</p><p>Stress, trauma, infection or inflammation also triggers the acute phase protein response, which is a part of the body's early defence. Serum amyloid A (SAA) is a major acute phase protein in pigs that can increase quickly and with large amplitude, and SAA level can therefore be used for defining the health and welfare status of pigs <ref type="bibr" target="#b11">[12]</ref>.</p><p>During castration, piglets without anaesthesia produce resistance movements with longer duration and higher intensity than piglets with anaesthesia <ref type="bibr" target="#b12">[13]</ref>. After castration, behaviour alterations show that pain responses induced by castration persists over time; up to four to six days after castration according to some studies <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15]</ref>. The pig production sector is searching for suitable methods that reduce pain induced by surgical castration, and alternatives to surgical castration. The method must be fast, cost effective, produce minimum stress and pain both during and after castration, and be safe for both the handler and the piglet. The method should also ensure a quick recovery to minimize the risk of the piglet being crushed by the sow. Currently there are essentially two alternatives that meet most of these requirements and which could be accepted in Swedish pig production. One method is immunocastration and the other involves the use of local anaesthesia and analgesia.</p><p>The objective of this study was to evaluate painrelated responses of male piglets castrated with/without local anaesthesia and with/without analgesia. A second purpose was to evaluate if herdsmen can effectively administer local anaesthesia by intratesticular injection. If the outcome of the study shows that herdsmen are able to effectively administer local anaesthesia this can lead to change of regulation, which will make it possible for herdsmen in Sweden to anaesthetise their piglets before castration. The use of anaesthetics in EU countries and Norway is currently restricted to veterinarians (Council Regulation No 2377/90). Herdsmen are allowed to administer analgesia after approved education according to Swedish regulation (SJVFS 2010:17, D9).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>The study has been approved by the Ethical Committee for Animal Experiments, Uppsala, Sweden (reference number C 164/9). All piglets in the study would have been subjected to castration as a routine procedure, regardless of the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Herds, animals and management</head><p>The study was conducted between October 2009 and February 2010 in five piglet-producing herds in the south-central part of Sweden. The herds were satellite herds within a sow pool with Landrace x Yorkshire sows, and the sires of the piglets were Hampshire boars. Batch-wise production was applied and in each batch about 45 sows farrowed in individual farrowing pens. The pens had a concrete floor, with a slatted floor in the dunging area and a nest area for the piglets with a heat lamp. Cross-fostering was applied and these piglets were not discriminated in the study. All piglets, except for those in herd 1, received an iron injection on the day of castration. Piglets in herd 1 were given oral iron pasta shortly after birth. No piglets were subjected to teeth clipping or tail docking, which is not allowed according to Swedish regulation.</p><p>Castration was performed on 1-7 days old piglets and the majority of the piglets were 3-4 days old when castrated. In all herds except for herd 2, the piglets were fixated in a restraining device and castration was carried out using a scalpel. The scalpel was used to make the initial incisions after which the testicles were severed by cutting the spermatic cords. In herd 2, the piglets were restrained between the herdsmen's legs or under their arm and castration was performed using an emasculator. The emasculator was used to make the initial incisions after which the testicles were removed by cutting the spermatic cords.</p><p>The study comprised 557 male piglets, randomly selected from five herds. In these herds, 30, 25, 30, 26 and 30 experimental litters were included.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental design</head><p>Four male piglets in each of 141 litters were randomly assigned to one of four treatments: castration without local anaesthesia or analgesia (C, controls), castration with analgesia (M, meloxicam), castration with local anaesthesia (L, lidocaine), or castration with both local anaesthesia and analgesia (LM). All four treatments were represented in each litter. Six litters were made up of only three male piglets, and one litter of only two. Seven litters were therefore incomplete and the total number of male piglets was lower than optimal 564. Before the study started, the herdsmen received instructions from a veterinarian on how to inject local anaesthesia and analgesia.</p><p>Two technicians, who were not blind to the treatments due to practical reasons, performed all measurements. The measurements were split between the two technicians with each technician performing the same measurements in all herds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Drugs</head><p>For local anaesthesia, lidocaine 10 mg/ml with epinephrine 5 μg/ml (Xylocain ® , AstraZeneca, Södertälje, Sweden) was used (treatments L and LM). A total of 0.5 ml was injected in each testicle. While most of it was administered into the testicle, a small amount was injected subcutaneously into the scrotum when pulling the needle out. The action time of lidocaine is approximately one hour <ref type="bibr" target="#b15">[16]</ref>. Castration was performed three minutes to 30 minutes after injection of lidocaine.</p><p>For analgesia, the nonsteroidal anti-inflammatory drug (NSAID) meloxicam 5 mg/ml (Metacam ® , Boehringer Ingelheim Vetmedica, Malmö, Sweden) was used (treatments M and LM). A dose of 0.2 ml was injected intramuscularly behind the piglet's ear immediately after the castration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurements</head><p>On the castration day, the four males in each litter subjected to the study were weighed and marked with spray colour on their back. Each treatment was represented by a different colour. Lidocaine was injected (by herdsmen) to the piglets subjected to treatments L and LM. The castration was performed in random order within each litter. During castration, piglet vocalisation was measured and resistance movements were judged. Vocal response was measured with a decibel meter (Mini Sound Level Meters) measuring dB(A) and the call with the highest intensity level during the castration was recorded. The decibel meter was held as close to the snout as possible without touching it. Resistance movements were judged on a visual analogue scale (VAS) <ref type="bibr" target="#b16">[17]</ref> where a mark closer to the left end of the line corresponds to "low intense" movements and a mark closer to the right end corresponds to "high intense" movements. The piglets were ranked on a 1-4 scale (mostleast) within each litter according to the intensity and duration of their resistance movements. After castration, piglets subjected to treatments M and LM were given meloxicam (by herdsmen).</p><p>After castration, piglet behaviour was observed through instantaneous observations every ten minute, during 70 minutes, resulting in seven observations per piglet. Each technician studied ten litters per herd, and together a total of 398 piglets from 100 litters. A detailed ethogram with 23 variables (Table <ref type="table" target="#tab_0">1</ref>) with behaviours suggested by Wemelsfelder and van Putten <ref type="bibr" target="#b4">[5]</ref>, Hay et al. <ref type="bibr" target="#b13">[14]</ref> and Llamas Moya et al. <ref type="bibr" target="#b14">[15]</ref> was used. The behaviours were classified into five groups: body position, non-specific behaviour, pain-related behaviour, social cohesion and location. The pigs were studied from the front of the pen.</p><p>The following morning behaviour was observed according to the same protocol as on the castration day. Subsequently, castration wounds of the experimental piglets were ranked on the basis of how swollen the wounds were using a 1-4 scale (most-least) within the litter. Temperature was measured the following day using digital infrared thermometers. The thermometer for ear temperature measured with an accuracy of ± 0.1°C. Skin temperature was measured around the castration wounds, the thermometer had an accuracy of ± 0.2°C.</p><p>In each herd blood samples were collected from piglets in 15 litters, a total of 296 piglets. Plain vacutainer tubes were used for collecting ~2 ml blood per piglet. The samples were centrifuged at 2000 x g at 5°C for five minutes two to five hours after the collection. The plasma was stored into cryo tubes in -20°C until they were analysed for SAA with commercial solid phase sandwich immunoassay kit (Tridelta Ltd.) in accordance with the manufacturer's instructions. The detection limits were 15.6 -2000 mg/l.</p><p>Finally, the piglets were marked with differentcoloured ear tags depending on the treatment and the litter identity was written on the tag.</p><p>At three weeks of age, the piglets were weighed again and the ear tags were removed. Journals that the herdsmen had kept for registration of sickness treatments and mortality were collected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Statistical analysis was performed using SAS Software, version 9.2 (SAS Institute Inc., Cary, NC, USA). Normal distribution was checked using proc univariate. Vocalisation, ear and skin temperature, and weight gain were analysed using analysis of variance (proc mixed). The statistical model applied (Model 1) included the fixed effects of herd (5 classes, herd 1-5), treatment (4 classes, C, M, L and LM), the interaction between herd and treatment, and the random effect of litter nested within herd.</p><p>Rank data of resistance movements and swelling of wounds was analysed using proc npar1way. Kruskal-Wallis test was applied and pair-wise comparison between treatments was performed using Wilcoxon tests.</p><p>The 23 behaviour variables, and five constructed group variables (Table <ref type="table" target="#tab_0">1</ref>), which for each piglet was the sum of all seven 0/1-observations, were analysed using proc glimmix (Model 1, poisson distribution). The group variables were the sum, for each piglet and day, of observations with at least one behaviour variable occurring within a group. The two observation occasions (the castration day and the following day) were analysed separately.</p><p>The effect of lidocaine and meloxicam was tested by considering them two separate treatments: lidocaine administered (L+LM), lidocaine not administered (C +M), meloxicam administered (M+LM) and meloxicam not administered (C+L). The statistical model (Model 2) included the fixed effects of a herd (5 classes, herd 1-5), administration of lidocaine (2 classes, 0/1), administration of meloxicam (2 classes, 0/1), the interaction between administration of lidocaine and meloxicam, and the random effect of litter nested within herd.</p><p>The data on SAA concentration was transformed into a number of 0/1-variable. Each value was assigned a 1 when the SAA concentration exceeded a certain threshold value (50, 100, 200, 400 and 600 mg/l). The analysis was performed using proc glimmix (Model 2, binomial distribution).</p><p>Sickness treatment and piglet mortality were analysed using X 2 -test. Correlations were calculated using spearman rank correlation. P-values ≤ 0.05 were regarded as significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The results are presented for all four treatments. However, treatments C and M were identical during castration, i.e. the piglets were castrated without lidocaine. Treatments L and LM were also identical as these piglets were castrated with lidocaine. The following day, treatment C and L were relatively comparable because the piglets were not given meloxicam, while the piglets in treatments M and LM had been treated with meloxicam. The interaction between herd and treatment did not have any significant impact on the variables but was included in the model to demonstrate this.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Vocalisation and resistance movements during surgical castration</head><p>As shown in Figure <ref type="figure" target="#fig_0">1</ref>, piglets castrated with lidocaine (L and LM) produced calls with a lower intensity level (p &lt; 0.001) than piglets castrated without lidocaine (C and M). There were no significant differences between the two treatments with lidocaine (L and LM) or between the two treatments without lidocaine (C and M).</p><p>Figure <ref type="figure" target="#fig_1">2</ref> shows the difference in call intensity between the herds. Significant interaction between treatment and herd was not found for call intensity.</p><p>Piglets castrated with lidocaine (L and LM) showed less resistance movements (p &lt; 0.001) than piglets castrated without lidocaine (C and M), (Figure <ref type="figure" target="#fig_2">3</ref>). No significant difference in resistance movements was found between the two treatments with lidocaine (L and LM) and the two treatments without lidocaine (C and M).</p><p>The correlation between call intensity and resistance movements was r = -0,38 (p &lt; 0.001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Physiological responses to surgical castration</head><p>Controls had less swollen castration wounds compared to the other three treatment groups (p &lt; 0.001), (Figure <ref type="figure" target="#fig_3">4</ref>). There was no significant difference between treatments M, L and LM.</p><p>Ear temperature was significantly higher (p &lt; 0.01) for controls compared to piglets given lidocaine (L and LM), (Table <ref type="table" target="#tab_1">2</ref>). No significant differences were found for skin temperature. Within treatment, SD for temperature (both ear and skin) were higher for L (1.1°C) compared with the other three treatments (0.9°C).</p><p>For the SAA 0/1-variables, pair-wise comparisons between the four treatments did not show significant differences (Table <ref type="table" target="#tab_2">3</ref>). However, significant effects for the threshold value 200 and 400 mg/l (p = 0.005; p = 0.05) were found when treatments C+L (no meloxicam) were compared with treatments M+LM (meloxicam). For the threshold value 600 mg/l there was a tendency for a lower proportion of piglets given meloxicam (p = 0.06, n.s.).</p><p>Herd 1 had a lower proportion of piglets with high SAA concentrations. The percentage of piglets not given meloxicam that were above threshold value 200 mg/l was 13% in herd 1 compared to 37% in the other herds. For piglets given meloxicam, the percentage of piglets above 200 mg/l was 7% for herd 1 and 21% for the other herds. In herd 1, none of the piglets given meloxicam had SAA concentrations over 400 mg/l. In the other herds, at least one piglet given meloxicam had SAA concentrations over the thresholds 400 and 600 mg/l.</p><p>A total of 63 piglets (11%) were treated for health problems between the castration day and three weeks of age. The piglets were equally distributed over the treatments (C:17, M:11, L:17 and LM:18). During the same period, 26 piglets (5%) died but no significant effect of treatment on mortality was found (C:6, M:6, L:4 and LM:10).</p><p>The mean weight on the castration day was 2.2 kg (SD = 0.5 kg) for all treatments. There was no significant difference between treatments in weight gain (kg) between the castration day and three weeks of age.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Behavioural responses to surgical castration</head><p>No significant treatment effects in behaviour were found related to any of the 23 behaviour variables when these  Mean value for call intensity (dB(A)) for the treatments C, M, L and LM, per herd. There were no significant interactions between treatment and herd.  were analysed separately (using Model 1). When the variables were categorised into the five groups (Table <ref type="table" target="#tab_0">1</ref>), a significant difference was found between treatments C and LM for the group pain-related behaviour (huddled up, spasms, rump-scratching, stiffness and prostrated), on the day after castration (p = 0.04), (Table <ref type="table" target="#tab_3">4</ref>).</p><p>The effect of lidocaine and meloxicam was tested by considering them as two separate treatments: lidocaine administered (L+LM), lidocaine not administered (C +M), meloxicam administered (M+LM), meloxicam not administered (C+L), (using Model 2), (Table <ref type="table">5</ref>). The comparisons showed that piglets given meloxicam (M +LM) displayed less pain-related behaviour than piglets not given meloxicam (C+L) on both the castration day (p = 0.06, n.s.) and the following day (p = 0.02). No significant difference was found between treatments L+LM and C+M for pain-related behaviour. No significant differences were found in the other four groups of behaviour variables.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The method</p><p>The present study has, in line with several other studies, shown that castration without anaesthesia causes severe pain <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b12">13]</ref>. This pain persists for several days <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15]</ref> and can cause delayed recovery, reduced feedand water intake, reduced immune capacity and impaired welfare <ref type="bibr" target="#b17">[18]</ref>. Traumatic experiences of pain, such as that experienced during castration, can also lead to hypersensitivity [19 cited by 10] and may result in increased stress when piglets associate handling with acute pain <ref type="bibr" target="#b10">[11]</ref>.</p><p>The outcomes of the study show that the herdsmen in the study were able to administer local anaesthesia effectively into the testicles and scrotum so that an adequate anaesthesia was achieved. This method is a possible way forward for improved welfare for male piglets in Swedish pig production. The herdsmen must however be instructed by a veterinarian before being allowed to administer local anaesthesia. Precision of the injection and the waiting time after injection affects the efficiency of the anaesthetics <ref type="bibr" target="#b15">[16]</ref> and have to be focused in the training.   Table 5 Percentage of displayed behaviours the castration day (day 0) and the following (day 1) when lidocaine respectively meloxicam was administered or not Day L+LM C+M M+LM C+L Body position 0 44.7 48.3 44.8 45.2 1 38.9 41.9 39.3 40.7 Non-specific behaviour 0 75.3 71.1 75.0 74.6 1 74.9 74.7 77.6 73.9 Pain-related behaviour 0 4.7 6.1 4.6 (a) 6.5 (b) 1 3.6 5.8 4.3 a 6.0 b Social cohesion 0 3.7 3.5 2.7 2.4 1 1.6 2.2 2.1 2.3 Location-heat lamp 0 52.3 55.9 52.6 52.9 1 52.2 51.2 48.3 50.4 Piglets given meloxicam (M+LM) showed less pain-related behaviour than piglets not given meloxicam (C+L) on both the castration day (day 0, p = 0.06, n.s.) and the following day (day 1, p = 0.04). Means with different letters indicate significant difference (p &lt; 0.05).</p><p>Possible methods that do not involve surgical castration are immunocastration and raising of entire males. However, raising of entire males does also affect the animal welfare negatively because of aggressive behaviour and mounting leading to e.g. increased leg problems <ref type="bibr" target="#b19">[20]</ref>. To slaughter entire males before sexual maturity is not economically sustainable in Sweden. Castration under CO 2 -gas anaesthesia is not a suitable method according to Swedish animal welfare legislation. CO 2 -anaesthesia induces a high level of stress in the early induction phase, before surgical anaesthetic depth is reached <ref type="bibr" target="#b20">[21]</ref>. In addition, use of anaesthetic gases is strictly regulated by the Swedish work environment act (ASS 2001:7) and is not suitable for field use <ref type="bibr" target="#b21">[22]</ref>.</p><p>Lidocaine was chosen for local anaesthesia as it has been used in several studies concerning castration and beneficial effects have been identified <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b22">23]</ref>. Lidocaine has a rapid onset and low toxicity <ref type="bibr" target="#b23">[24]</ref>. The effect of the anaesthesia is prolonged by epinephrine and the risk for systemic reactions, e.g. fever, apathy and inappetence, decreases <ref type="bibr" target="#b23">[24]</ref>. Ranheim et al. <ref type="bibr" target="#b15">[16]</ref> showed that 40 min after injection the lidocaine concentration in the cords was severely decreased and this may have affected the result of the few piglets with long interval (up to 30 min) between lidocaine injection and castration.</p><p>In the present study all piglets received 0.2 ml meloxicam regardless of weight. This can have implications for low and heavy weight piglets and might have affected the result. In practice it will probably not be possible to give the exact dose of meloxicam given the weight. Boehringer Ingelheim recommends a dose of 0.2 ml for a piglet weighing 2.5 kg <ref type="bibr" target="#b24">[25]</ref>. To be able to evaluate the effect of the drugs during the castration, meloxicam was given after the castration. In practice it would be possible to give meloxicam in connection with the injection of the local anaesthesia. There was a variation in time between the meloxicam administration and the start of the behaviour observations and this might have affected the results of the behaviour study on the castration day.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Vocalisation and resistance movements during surgical castration</head><p>In agreement with other studies on piglet vocalisation during castration <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>, the present study shows that piglets castrated with lidocaine produced calls with a lower intensity than piglets castrated without lidocaine. Marx et al. <ref type="bibr" target="#b3">[4]</ref> have shown that calls produced by piglets castrated with lidocaine are similar to those produced by sham-castrated piglets.</p><p>Marx et al. <ref type="bibr" target="#b3">[4]</ref> have suggested that a parameter that describes a single moment in the call, e.g. peak level, is more representative than parameters that describe a mean level. Therefore, in this study the call with the highest intensity during castration was recorded. It is assumed that this call was produced during the pulling and severing of the spermatic cords, which Taylor and Weary <ref type="bibr" target="#b7">[8]</ref> have identified as the most painful moment during castration.</p><p>A difference in call intensity between the herds may be explained by the different castration techniques used by the herdsmen. The calls with the highest intensity were recorded in herd 2 where the herdsmen used an emasculator for castration. This can be interpreted that castration with an emasculator causes more pain, but it is more likely because the calls in herd 2 were not suppressed by the restraining device.</p><p>However, restraining method has been seen to not influence the pain responses during castration <ref type="bibr" target="#b5">[6]</ref>. Taylor and Weary <ref type="bibr" target="#b7">[8]</ref> state that it might be the pulling of the spermatic cords more than the severing that is painful. Traction upon the testes is likely to be felt along the spermatic cords and into the inguinal canal. If the testicles and spermatic cords are pulled a long distance before severing, this is likely to cause pain that may not be prevented by local anaesthesia in the testicles. Even after intratesticular injection of lidocaine the piglets still responded with some vocalisation and resistance movements during the castration procedure. Ranheim et al. <ref type="bibr" target="#b15">[16]</ref> showed by means of autoradiograms that radiolabelled lidocaine injected into a piglet testicle was evident in both testicle and spermatic cord three minutes after injection. However, the concentration in the cremaster muscle was low ten minutes after injection. As the cremaster muscle is cut off during castration this can explain why piglets show some pain-related behaviour despite receiving lidocaine.</p><p>The study showed a correlation between dB-level and resistance movements. High dB-levels were associated with intensive resistance movements. In this study, as well in studies by Leidig et al. <ref type="bibr" target="#b12">[13]</ref> and Horn et al. <ref type="bibr" target="#b22">[23]</ref>, local anaesthesia (procaine and lidocaine) reduced resistance movements during castration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Physiological responses to surgical castration</head><p>The study showed that controls had less swollen wounds compared to piglets treated with lidocaine or meloxicam. Small bleedings can occur as a result of the injection of local anaesthetics, which can contribute to an increased swelling (personal communication, Nyman, 2011). Why the swellings also were increased for piglets treated with meloxicam cannot be explained. The result is similar to Kluivers-Poodt et al. <ref type="bibr" target="#b2">[3]</ref> where thickening of the scrotum was found on the fourth day after castration in several piglets treated with lidocaine and/or meloxicam.</p><p>Rectal temperature is the best indicator of adequate body temperature, but measuring temperature in the ear can also provide reliable estimates of body temperature and was used since it is a very fast method. Body temperature is nearly constant but fever occurs because of infections, or in some cases extensive tissue damage. Skin temperature is on the other hand more influenced by the environment and can therefore vary considerably. During activation of the sympathetic nervous system the blood is redirected from the skin to essential organs, which leads to a lowering of the skin temperature <ref type="bibr" target="#b8">[9]</ref>, and measurements can give information on the shock reaction <ref type="bibr" target="#b2">[3]</ref>.</p><p>In present study measurements of ear temperature showed that controls had higher temperature than piglets given lidocaine, why cannot be explained. Hypothetically, piglets given meloxicam should have lower ear temperature than piglets not given meloxicam because of the NSAIDs antipyretic effects <ref type="bibr" target="#b25">[26]</ref>. No differences between treatments were found in terms of skin temperature and this is probably because the measurements were performed the day after castration, when the skin temperature had returned to normal.</p><p>The SAA concentration in the blood is normally very low (bordering on the unmeasurable) <ref type="bibr" target="#b11">[12]</ref> but can increase hundredfold after stress, trauma, infection or inflammation as a consequence of increased levels of pro-inflammatory cytokines <ref type="bibr" target="#b26">[27]</ref>. The concentration is the highest two to three days after a trauma and return to normal levels after seven to ten days <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b27">28]</ref>. The SAA concentration can act as an general marker of inflammation and has been seen to reflect the intensity of stress, trauma and inflammation <ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref>. The results from the present study show that piglets that were given meloxicam had lower SAA concentrations on the day after castration. The percentage of piglets with high SAA concentrations (&gt; 200 mg/l) was halved when meloxicam was administered. The enzyme cyclooxygenase (COX) is a prerequisite for the creation of prostaglandins, the proteins that create pain-mediating substances <ref type="bibr" target="#b25">[26]</ref>. NSAIDs act anti-inflammatory trough inhibition of COX <ref type="bibr" target="#b25">[26]</ref> and the result of the present study can be seen as an indirect measure of the antiinflammatory effect of the meloxicam. The action time for lidocaine is limited to approximately one hour and is not likely to affect the postoperative inflammation <ref type="bibr" target="#b27">[28]</ref>.</p><p>SAA analysis showed a deviating pattern for piglets given meloxicam in herd 1: the proportion of piglets with high SAA concentrations was much lower compared to other herds. Piglets in herd 1 were given oral iron pasta after birth instead of an iron injection on the castration day. Injection of iron is an unnatural way for piglets to receive iron because there is no regulation system for exudation of iron trough the liver or kidneys. In nature, iron enters the body exclusively through the diet. The iron balance is regulated by the rate of absorption from the small intestine and the risk for extreme concentrations is therefore lower when iron is given orally compared with injection <ref type="bibr" target="#b30">[31]</ref>. Addition of iron salts in connection with injection of NSAID might increase the irritating effect on gastrointestinal mucous <ref type="bibr" target="#b31">[32]</ref> and that might have caused the higher SAA concentrations in the other herds.</p><p>The weight gain did not differ between the treatment groups, which is in accordance with other studies <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b32">33]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Behavioural responses</head><p>In the present study, piglets showed specific pain-related behaviour induced by castration which also has been seen in other studies <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b32">33]</ref>. The piglets given meloxicam in the present study showed less pain-related behaviours than piglets not given meloxicam. Similary, Keita et al. <ref type="bibr" target="#b32">[33]</ref> have found an effect of meloxicam on pain relief two and four hours after castration. Kluivers-Poodt et al. <ref type="bibr" target="#b2">[3]</ref> have also seen that piglets castrated with or without lidocaine showed more pain-related behaviours than sham-castrated piglets. However, less painrelated behaviours were displayed if the piglets with lidocaine were also given meloxicam.</p><p>Differences in piglets' non-specific behaviour between the treatments were not shown in this study. Other studies have shown that castrated piglets become more isolated after castration <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b14">15]</ref> and that the time spent by the udder (both more and less) differs between castrated and sham-castrated piglets <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b33">34]</ref>. However, in present study, no sham-castrated were included, but only castrated piglets. A lack of differences in non-specific behaviour can also be explained by the fact that all treatments were present in the same litter, which may have caused, as suggested by Kluivers-Poodt et al. <ref type="bibr" target="#b2">[3]</ref>, the piglets to influence each other's social behaviour.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>This study concludes that lidocaine injected intratesticularly reduced pain responses during castration and that meloxicam reduced the pain-related behaviours after castration. It is therefore recommended that both local anaesthesia and analgesia should be given to piglets to reduce pain induced by castration. The study also concludes that the herdsmen in the study, after training, were able to inject local anaesthesia effectively. However, the method requires handling of the piglets on two separate occasions, which contribute to stress.</p><p>the Department of Clinical Sciences, SLU, for performing the SAA analysis. Thank you Stina Warnstam Drolet for correcting the English.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Effect of treatment on call intensity. Mean value and SD for call intensity (dB(A)) for the treatments C, M, L and LM. Piglets castrated with lidocaine (L and LM) produced calls with significantly (p &lt; 0.001) lower intensity than piglets castrated without lidocaine (C and M). Means with different letters indicate significant differences (p &lt; 0.05).</figDesc><graphic coords="5,104.11,141.02,170.68,60.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>HerdFigure 2</head><label>2</label><figDesc>Figure2Effect of treatment on call intensity in the five herds. Mean value for call intensity (dB(A)) for the treatments C, M, L and LM, per herd. There were no significant interactions between treatment and herd.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3</head><label>3</label><figDesc>Figure3Ranking of resistance movements during castration. Piglets castrated with lidocaine (L and LM) showed significantly (p &lt; 0.001) less resistance movements than piglets castrated without lidocaine (C and M).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4</head><label>4</label><figDesc>Figure<ref type="bibr" target="#b3">4</ref> Ranking of castration wounds swelling the day after castration. Controls (C) had significantly less swollen wounds compared with treatments M, L and LM (p &lt; 0.001).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Description of the behaviours of piglets [following<ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15]</ref> </figDesc><table><row><cell>1. Body</cell><cell></cell></row><row><cell>position</cell><cell></cell></row><row><cell>Standing</cell><cell>Body weight supported by four legs</cell></row><row><cell>Kneeling</cell><cell>Body weight supported by front carpal joints and</cell></row><row><cell></cell><cell>hind legs</cell></row><row><cell>Dog-sitting</cell><cell>Body weight supported by hindquarters and front</cell></row><row><cell></cell><cell>legs</cell></row><row><cell>Ventral lying,</cell><cell></cell></row><row><cell>belly</cell><cell></cell></row><row><cell>Sleeping</cell><cell>Eyes closed while lying</cell></row><row><cell>Awake inactive</cell><cell>Eyes open doing nothing</cell></row><row><cell cols="2">3. Pain-related behaviour</cell></row><row><cell>Huddled up</cell><cell>Lying with at least three legs tucked under the body</cell></row><row><cell>Spasms</cell><cell>Quick sudden involuntary contractions of the</cell></row><row><cell></cell><cell>muscles under the skin</cell></row><row><cell cols="2">Rump-scratching Scratching the rump by rubbing it against the floor,</cell></row><row><cell></cell><cell>pen walls or mother</cell></row><row><cell>Stiffness</cell><cell>Lying with extended and tensed legs</cell></row><row><cell>Prostrated</cell><cell>Sitting or standing motionless, with head down,</cell></row><row><cell></cell><cell>lower than shoulder level</cell></row><row><cell>Trembling</cell><cell>Shivering as with cold. The animal may be lying,</cell></row><row><cell></cell><cell>sitting or standing</cell></row><row><cell cols="2">4. Social cohesion</cell></row><row><cell>Isolated</cell><cell>Aside from other piglets, alone. A distance of at least</cell></row><row><cell></cell><cell>~40 cm separates the animal from the closest</cell></row><row><cell></cell><cell>littermate</cell></row></table><note><p>Body weight supported by belly Lateral lying, side Body weight supported by side 2. Non-specific behaviour Walking/running Moving walking, trotting or galloping By udder Activity by the udder: suckling, massaging udder or looking for a teat Nosing/chewing/ licking Nosing/chewing or licking material or the littermates/mother Playing Head shaking, springing (sudden jumping or leaping) or running. Can involve partners (gentle nudging or pushing, mounting, chasing, etc.) Desynchronised Activity different from that of most (at least 75%) littermates (e.g. sleeps while most other littermates suckle)</p><p>5. Location</p><p>Heat-lamp Sitting, standing, lying under the heat lamp</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Mean value and SD for ear and skin temperature for the different treatments the day after castration</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Treatment</cell><cell></cell></row><row><cell></cell><cell>C</cell><cell>M</cell><cell>L</cell><cell>L M</cell></row><row><cell>Ear temperature</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean (°C)</cell><cell>38.5 a</cell><cell>38.4 ab</cell><cell>38.2 b</cell><cell>38.3 b</cell></row><row><cell>SD</cell><cell>0.9</cell><cell>0.9</cell><cell>1.1</cell><cell>0.9</cell></row><row><cell>Skin temperature</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean (°C)</cell><cell>35.8</cell><cell>35.8</cell><cell>35.9</cell><cell>35.8</cell></row><row><cell>SD</cell><cell>0.8</cell><cell>0.9</cell><cell>1.1</cell><cell>0.8</cell></row><row><cell cols="5">Ear temperature was significantly higher (p &lt; 0.01) for controls (C) compared</cell></row><row><cell cols="5">to piglets given lidocaine during castration (L and LM). Means with different</cell></row><row><cell cols="3">letters indicate significant differences (p &lt; 0.05)</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Proportion piglets with SAA concentrations over stated threshold value, per treatment</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Treatment</cell><cell></cell><cell></cell></row><row><cell cols="6">Threshold value (mg/l) C M L LM C+M L+LM C+L M+LM</cell></row><row><cell>50</cell><cell>51 48 54 57</cell><cell>50</cell><cell>56</cell><cell>52</cell><cell>52</cell></row><row><cell>100</cell><cell>35 32 45 37</cell><cell>34</cell><cell>40</cell><cell>40</cell><cell>34</cell></row><row><cell>200</cell><cell>25 17 36 16</cell><cell>21</cell><cell>25</cell><cell cols="2">30 16 **</cell></row><row><cell>400</cell><cell>20 11 15 8</cell><cell>15</cell><cell>11</cell><cell>17</cell><cell>9 *</cell></row><row><cell>600</cell><cell>15 6 8 5</cell><cell>9</cell><cell>6</cell><cell>11</cell><cell>5 (*)</cell></row></table><note><p>The proportion of piglets with SAA threshold value over 200, 400 and 600 mg/l was higher for piglets not given meloxicam (C+L) compared to piglets given meloxicam (M+LM) ( ** p = 0.005; * p = 0.05; (*) p = 0.06)</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Percentage of displayed behaviours the castration day (day 0) and the following day (day 1) for each treatment</figDesc><table><row><cell></cell><cell cols="2">Day C</cell><cell>M</cell><cell>L</cell><cell>LM</cell></row><row><cell>Body position</cell><cell>0</cell><cell>48.3</cell><cell>44.8</cell><cell>45.2</cell><cell>44.7</cell></row><row><cell></cell><cell>1</cell><cell>41.9</cell><cell>39.3</cell><cell>40.7</cell><cell>38.9</cell></row><row><cell>Non-specific behaviour</cell><cell>0</cell><cell>71.1</cell><cell>75.0</cell><cell>74.6</cell><cell>75.3</cell></row><row><cell></cell><cell>1</cell><cell>74.7</cell><cell>77.5</cell><cell>73.9</cell><cell>74.9</cell></row><row><cell>Pain-related behaviour</cell><cell>0</cell><cell>6.0</cell><cell>4.6</cell><cell>6.5</cell><cell>4.7</cell></row><row><cell></cell><cell>1</cell><cell>5.8 a</cell><cell>4.3 ab</cell><cell>5.9 ab</cell><cell>3.6 b</cell></row><row><cell>Social cohesion</cell><cell>0</cell><cell>3.5</cell><cell>2.7</cell><cell>2.5</cell><cell>3.7</cell></row><row><cell></cell><cell>1</cell><cell>2.2</cell><cell>2.1</cell><cell>2.3</cell><cell>1.6</cell></row><row><cell>Location-heat lamp</cell><cell>0</cell><cell>55.9</cell><cell>52.3</cell><cell>52.9</cell><cell>52.3</cell></row><row><cell></cell><cell>1</cell><cell>51.2</cell><cell>48.3</cell><cell>50.4</cell><cell>52.2</cell></row><row><cell cols="5">Significance was found between treatments C and LM for pain-related</cell><cell></cell></row><row><cell cols="6">behaviour (p = 0.04) the day after castration. Means with different letters</cell></row><row><cell cols="3">indicate significant differences (p &lt; 0.05)</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This study was financed by The <rs type="funder">Swedish Board of Agriculture</rs>. The authors wish to thank the owners and the staff of the herds, without whom this study would not have been possible. A special thanks to <rs type="person">Ulla Schmidt</rs>, research technician, for your excellent work in the field. Also thank you <rs type="person">Eva Norling</rs> for your help with the fieldwork. Thanks to <rs type="institution">Boehringer Ingelheim Vetmedica</rs> for providing Metacam ® . The authors would also like to thank</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The author declares that they have no competing interests.</p></div>
+			</div>
+
+
+			<div type="contribution">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Authors' contributions MH participated in developing the design of the study, performing the field study, analysing data and drafting the manuscript. NL applied for funding of the study, planned the design of the study, helped analyse data and helped to draft the manuscript. GJ and GN participated with veterinarian expertise to the design of the study and education of the herdsmen. All authors have read and approved the final manuscript.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">European Food Safety Authority: Welfare aspects of the castration of piglets</title>
+	</analytic>
+	<monogr>
+		<title level="j">The EFSA Journal</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Vocalization and physiological response of pigs during castration with or without a local anesthetic</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Deshazer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Tressler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Borcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Davey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Waninge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Parkhurst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Milanuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Clemens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Animal Science</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="381" to="386" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Castration under anaesthesia and/or analgesia in commercial pig production</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kluivers-Poodt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hopster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ham</forename><surname>Spoolder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Animal Sciences Group Wageningen UR</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Analysis of pain related vocalization in young pigs</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Horn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Thielebein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Knubel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Borell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Sound and Vibration</title>
+		<imprint>
+			<biblScope unit="volume">266</biblScope>
+			<biblScope unit="page" from="687" to="698" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Behaviour as a possible indicator for pain in piglets</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wemelsfelder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Van Putten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Instituut voor Veeteeltkundig Onderzoek &apos;Schoonoord&apos; Zeist</title>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<pubPlace>Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report B-260</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Vocal response to pain in piglets</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Weary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Braithwaite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fraser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Animal Behaviour Science</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="161" to="172" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Behavioural responses of piglets to castration: the effect of pig age</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Weary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lessard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Braithwaite</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Animal Behaviour Science</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="35" to="45" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Vocal responses of piglets to castration: identifying procedural sources of pain</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Weary</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Animal Behaviour Science</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="17" to="26" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The nervous system. Regulation of body temperature</title>
+		<author>
+			<persName><forename type="first">Ø</forename><forename type="middle">V</forename><surname>Sjaastad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Sand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Physiology of domestic animals</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Steel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oslo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Scandinavian Veterinary Press</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="597" to="615" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Castration of piglets: the analgesic effects of intratesticular or intrafunicular lidocaine injection</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Haga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ranheim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Anaesthesia and Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A review of the welfare consequences of surgical castration in piglets and evaluation of nonsurgical methods</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prunier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bonneau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Borell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Cinotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fredriksen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Giersing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Morton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Tuyttens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fam</forename><surname>Velarde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Animal Welfare</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="277" to="289" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Application of acute phase protein measurements in veterinary clinical chemistry</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pmh</forename><surname>Heegaard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Veterinary Journal</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="163" to="187" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Pain and discomfort in male piglets during surgical castration with and without local anaesthesia as determined by vocalisation and defence behaviour</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Leidig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hertrampf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Failing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schumann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Reiner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="174" to="178" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Assessment of pain induced by castration in piglets: behavioral and physiological responses over the subsequent 5 days</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vulin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Genin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prunier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Animal Behaviour Science</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="201" to="218" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Arkins S: Effect of surgical castration on the behavioural and acute phase responses of 5-day-old piglets</title>
+		<author>
+			<persName><forename type="first">Llamas</forename><surname>Moya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Boyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Lynch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Animal Behaviour Science</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="133" to="145" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Distribution of radioactive lidocaine injected into the testes in piglets</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ranheim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Haga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Andresen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ingebrigtsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Veterinary Pharmacology and Therapeutics</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="481" to="483" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A: Pain assessment</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dobromylskyj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Flecknell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Lascelles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Livingston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Waterman-Pearson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pain Management in Animals</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Flecknell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Waterman-Pearson</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>China</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Wiley-Blackwell Saunders</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="53" to="76" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">P:</forename><surname>Flecknell</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Preface</surname></persName>
+		</author>
+		<title level="m">Pain Management in Animals</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Flecknell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Waterman-Pearson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Wiley-Blackwell</forename><surname>China</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Saunders</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="4" to="8" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The neurobiology of pain: developmental aspects</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Beggs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroscientist</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="246" to="257" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Aggressive and sexual behaviour of growing and finishing pigs reared in groups without castration</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rydhmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zamaratskaia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Algers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Guillemet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lundström</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Agriculturae Scandinavica, Section A, Animal Science</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="109" to="119" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Examination of CO 2 gas anesthesia during piglet castration</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mühlbauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zöls</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Otten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Palzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ritzmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Heinritzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 21st IPVS Congress</title>
+		<meeting>the 21st IPVS Congress<address><addrLine>Vancouver, Canada</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">247</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<monogr>
+		<ptr target="http://www.av.se" />
+		<title level="m">Swedish Work Environment Authority</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Behaviour of piglets during castration with or without a local anaesthesia</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Horn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Borell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Deutsche Tierärztliche Wochenschrift</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="271" to="274" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Fass</surname></persName>
+		</author>
+		<ptr target="http://www.fass.se" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Boehringer</forename><surname>Ingelheim</surname></persName>
+		</author>
+		<ptr target="http://www.boehringer-ingelheim.com/" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Analgesic, antiinflammatory, antipyretic drugs</title>
+		<author>
+			<persName><forename type="first">P ;</forename><surname>Lees</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Riviere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Papich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Veterinary Pharmacology &amp; Therapeutics</title>
+		<imprint>
+			<publisher>Iowa State University Press USA, Blackwell Publishing</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="457" to="486" />
+		</imprint>
+	</monogr>
+	<note>9 upplagan edition</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A non-competitive chemiluminescence enzyme immunoassay for the equine acute phase protein serum amyloid A (SAA)-a clinically useful inflammatory marker in the horse</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hultén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Tulamo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Suominen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Burvall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marhaug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Forsberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Immunology and Immunopathology</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="267" to="281" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Acute phase response to surgery of varying intensity in horses: a preliminary study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jacobsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vedding</forename><surname>Jnielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kjelgard-Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Toelboell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fjeldborg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Halling-Thomsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Martinussen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bang</forename><surname>Mthoefner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Surgery</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="762" to="769" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Characterisation of the pig acute phase protein response to road transport</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Piñeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Piñeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Carpintero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Morales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Eckersall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mjm</forename><surname>Toussaint</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lampreave</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Veterinary Journal</title>
+		<imprint>
+			<biblScope unit="volume">173</biblScope>
+			<biblScope unit="page" from="669" to="674" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Tail biting induces a strong acute phase response and tail-end inflammation in finishing pigs</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heinonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Orro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kokkonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Munsterhjelm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Peltoniemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Valros</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Veterinary Journal</title>
+		<imprint>
+			<biblScope unit="volume">184</biblScope>
+			<biblScope unit="page" from="303" to="307" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Foraging a field: the golden age of iron biology</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Andrews</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="219" to="230" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<monogr>
+		<ptr target="http://www.lakemedelsverket.se" />
+		<title level="m">Medical Products Agency</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Pre-emptive meloxicam for postoperative analgesia in piglets undergoing surgical castration</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Keita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pagot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prunier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Guidarini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Anaesthesia and Analgesia</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="367" to="374" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The development of pain in young pigs associated with castration and attempts to prevent castration-induced behavioral changes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mcglone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Nicholson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Hellman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Herzog</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Animal Science</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="1441" to="1446" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Toxicokinetics of Kava</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Anthony</forename><surname>Rowe</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Pharmacy</orgName>
+								<orgName type="institution">University of Sydney</orgName>
+								<address>
+									<addrLine>Bank Building (A15)</addrLine>
+									<postCode>2006</postCode>
+									<settlement>Sydney</settlement>
+									<region>NSW</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yuan</forename><surname>Lillian</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Pharmacy</orgName>
+								<orgName type="institution">University of Sydney</orgName>
+								<address>
+									<addrLine>Bank Building (A15)</addrLine>
+									<postCode>2006</postCode>
+									<settlement>Sydney</settlement>
+									<region>NSW</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Iqbal</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Pharmacy</orgName>
+								<orgName type="institution">University of Sydney</orgName>
+								<address>
+									<addrLine>Bank Building (A15)</addrLine>
+									<postCode>2006</postCode>
+									<settlement>Sydney</settlement>
+									<region>NSW</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><surname>Ramzan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Pharmacy</orgName>
+								<orgName type="institution">University of Sydney</orgName>
+								<address>
+									<addrLine>Bank Building (A15)</addrLine>
+									<postCode>2006</postCode>
+									<settlement>Sydney</settlement>
+									<region>NSW</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Toxicokinetics of Kava</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4A107826740846BDDC5DC356E0976875</idno>
+					<idno type="DOI">10.1155/2011/326724</idno>
+					<note type="submission">Received 30 November 2010; Accepted 24 January 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:07+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Kava is traditionally consumed by South Pacific islanders as a drink and became popular in Western society as a supplement for anxiety and insomnia. Kava extracts are generally well tolerated, but reports of hepatotoxicity necessitated an international reappraisal of its safety. Hepatotoxicity can occur as an acute, severe form or a chronic, mild form. Inflammation appears to be involved in both forms and may result from activation of liver macrophages (Kupffer cells), either directly or via kava metabolites. Pharmacogenomics may influence the severity of this inflammatory response.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Kava (Piper methysticum Frost F.) is a perennial plant which has been used for centuries by South Pacific communities for medicinal, social, and cultural purposes. Traditionally, the rhizome of the plant is macerated with water or coconut milk to produce a beverage with relaxant and psychoactive properties <ref type="bibr" target="#b0">[1]</ref>. In the 20th century, it became popular in the Western world as a herbal supplement for anxiety and insomnia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Chemistry and Toxicology of Kava</head><p>More than 40 compounds have been isolated from kava, with the active components present in the lipid-soluble resin containing three chemical classes (i) arylethylene-α-pyrones, (ii) chalcones and other flavones, and (iii) conjugated diene ketones. It is the substituted 4-methoxy-5, 6-dihydro-αpyrones or kavapyrones commonly known as kavalactones that possess the highest anxiolytic effects <ref type="bibr" target="#b1">[2]</ref>.</p><p>Total kavalactone accounts for 3%-20% dry weight, with the highest concentration in the lateral roots, decreasing gradually towards the aerial plant structures. To date, eighteen kavalactones have been identified from the root, six of which account for approximately 95% of the organic extract namely, kavain, dihydrokavain, methysticin, dihydromethysticin, yangonin, and desmethoxyyangonin (Figure <ref type="figure" target="#fig_0">1</ref>). When these kavalactones are eluted from a sample of kava by HPLC and sorted by decreasing order of quantity, the chemical signature obtained distinguishes individual strains (cultivars). Such chemotyping has identified over 200 variant strains of kava, but the chemical signature can vary between roots, rhizomes, and basal stems <ref type="bibr" target="#b2">[3]</ref>. Root and leaf extracts from four Hawaiian cultivars (Mahakea, PNG, Purple Moi, and Nene) found that dihydrokavain and dihydromethysticin comprised more than 70% of the total kavalactones in leaves, whereas each of the six major kavalactones represented around 10% to 20% of the total kavalactones in root extracts <ref type="bibr" target="#b3">[4]</ref>.</p><p>Whilst kava extracts are generally well tolerated, toxic doses were determined in vivo using animal studies and in vitro. The LD 50 (mg/kg) for kavain, methysticin, dihydrokavain, and dihydromethysticin in mice ranges from 41-69 (intravenous), 325-530 (intraperitoneal), and 920-1130 (oral) <ref type="bibr" target="#b1">[2]</ref>. F344 rats treated with 2 g/kg/day kava extracts in corn oil by oral gavage five days a week for fourteen weeks exhibited elevations in γ-glutamyl transferase (GGT), serum cholesterol, protein, and albumin levels, along with hypoglycaemia, within days of treatment <ref type="bibr" target="#b4">[5]</ref>. Cytotoxicity associated with kavalactones was demonstrated for human hepatocytes in vitro (EC 50 values approximately 50 μM) <ref type="bibr" target="#b5">[6]</ref> and neurones in vivo at ≥300 μM <ref type="bibr" target="#b6">[7]</ref>, and apoptosis is the mechanism of cell death <ref type="bibr" target="#b7">[8]</ref>. Since the highest serum kavain concentration recorded in a human is 17.4 μM <ref type="bibr" target="#b8">[9]</ref>, these data suggest that for most individuals, kavalactones have a wide therapeutic index. Pipermethysticine (PM) is a toxic alkaloid present in kava leaves and stem peelings, which can contaminate kava products during high production and/or poor quality control <ref type="bibr" target="#b9">[10]</ref>. HepG2 human hepatoma cells exposed to 100 μM PM for 24 hours showed 90% loss of cell viability, with 65% loss of viability with 50 μM PM due to disruption of mitochondrial function and consequent apoptosis <ref type="bibr" target="#b10">[11]</ref>. Fischer-334 rats given 10 mg/kg PM daily by oral gavage for two weeks demonstrated adaptive changes to oxidative stress such as a significant increase in hepatic glutathione and cytosolic superoxide dismutase (Cu/ZnSOD) <ref type="bibr" target="#b11">[12]</ref>. Thus, PM is a potential cause of kava hepatotoxicity although it was not detected in any samples in a recent study using products available on the German market <ref type="bibr" target="#b12">[13]</ref>.</p><p>Flavokavain B is a cytotoxic component of kava root and is present in aqueous and organic extracts <ref type="bibr" target="#b13">[14]</ref>. The highest yields are in chloroform extracts, followed by acetone then hexane fractions <ref type="bibr" target="#b14">[15]</ref>. Hepatocellular toxicity results from mitogen-activated protein kinase (MAPK) signalling leading to oxidative stress and apoptosis <ref type="bibr" target="#b15">[16]</ref>. Due to its location in the plant root, flavokavain B is likely to be present in both traditional and pharmaceutical preparations of kava.</p><p>The chemical content of kava products and hence potential for adverse effects vary according to plant age, part used, cultivar, geographical location, and growth conditions. In the Kava Act 2002 <ref type="bibr" target="#b16">[17]</ref> the government of Vanuatu classified the different cultivars of kava as noble (traditional social beverage with long history of safe use), medicinal (used for specific therapeutic effects), two days (can cause strong side effects such as nausea due to high levels of the kavalactone dihydromethysticin and banned for export), and wichmannii (which also induce strong side effects and are banned from export) <ref type="bibr" target="#b17">[18]</ref>.</p><p>Emphasis on the links between method of preparation and toxicity has declined recently. This is due to reports identifying adverse effects in patients using either ethanolic/acetonic kava extracts or traditional aqueous extracts, suggesting that toxicity is more dependent on the kava plant itself than the extraction solvent(s) used <ref type="bibr" target="#b18">[19]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Adverse Effects of Kava</head><p>Meta-analyses of placebo-controlled studies showed a significant reduction in anxiety for patients receiving kava extract compared with patients receiving placebo <ref type="bibr" target="#b19">[20,</ref><ref type="bibr" target="#b20">21]</ref>. The most common treatment regime used was 300 mg/day for four weeks. A study using a similar dose (280 mg/day for four weeks) found no difference between kava extract and placebo in terms of occurrence of adverse events, withdrawal symptoms, effect on heart rate, blood pressure, laboratory assessments, and sexual function, which supports the safety of this protocol <ref type="bibr" target="#b21">[22]</ref>.</p><p>However, two post-marketing trials in Germany (n &gt; 3000) showed a small dose-dependent increase in adverse effects caused by kava extracts <ref type="bibr" target="#b22">[23]</ref>. Risk factors for adverse reactions include chronic, heavy use and concurrent use with other drugs, herbs, and dietary supplements <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b24">25]</ref>.</p><p>Side effects of kava consumption include skin reactions and central nervous system effects. Kava dermopathy has been well documented among Pacific Islanders <ref type="bibr" target="#b25">[26]</ref> and is a reversible condition characterised by dry scaly yellow skin covering the palms of the hands, soles of the feet, and back <ref type="bibr" target="#b26">[27]</ref>. It is speculated to have a link to cholesterol metabolism and hepatotoxicity due to the presence of jaundice <ref type="bibr" target="#b27">[28]</ref>. Short-term kava use can produce extrapyramidal side effects resulting in oral dyskinesia and serious exacerbations of parkinsonism-like symptoms, while heavy use may predispose individuals to seizures <ref type="bibr" target="#b26">[27]</ref>. However, a doubleblind placebo controlled trial showed kava has no effect on motor vehicle performance. In another study, no statistically significant difference between kava and placebo was present in participants performing tracking tasks <ref type="bibr" target="#b26">[27]</ref>.</p><p>The most serious adverse reaction associated with kava is hepatotoxicity. Reports of kava hepatotoxicity first emerged in Germany in 1998, and by the end of 2005, the World Health Organisation had received 91 reports of 189 adverse reactions relating to kava-only products. Fiftly-five of those reactions involved liver and biliary system disorders, including three cases of hepatic failure and two cases of hepatic comas <ref type="bibr" target="#b28">[29]</ref>. Reported daily doses ranged from 45-1200 mg kavalactones taken for one week to twelve months <ref type="bibr" target="#b24">[25]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Metabolism of Kavalactones</head><p>The main metabolic pathways for kavalactones in humans and rats are hydroxylation of the C-12 in the aromatic ring, breaking and hydroxylation of the lactone ring with subsequent dehydration, reduction of the 7,8-double bond, and demethylation of the 4-methoxyl group <ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref>. Products of kavain metabolism found in human serum and urine include p-hydroxykavain, p-hydroxy-5,6-dehydrokavain, p-hydroxy-7,8-dihydrokavain, 5,6-dehydrokavain, 6-phenyl-5-hexen-2,4-dione <ref type="bibr" target="#b32">[33]</ref>, and 6-phenyl-3-hexen-2-one <ref type="bibr" target="#b33">[34]</ref>. Human metabolites identified for other kavalactones include 11,12-dihydroxykavain-o-quinone for methysticin, 11,12dihydroxy-7,8-dihydrokavain-o-quinone for 7,8-dihydromethysticin and 12-desmethylyangonin either from demethylation of the 12-methoxyl group of yangonin or hydroxylation at C-12 of desmethoxyyangonin <ref type="bibr" target="#b29">[30,</ref><ref type="bibr" target="#b34">35]</ref>. In rats, approximately 50% to 75% of administered kavalactones are excreted in the urine, mostly as glucuronide and sulphate conjugates. Approximately 15% is excreted in the bile <ref type="bibr" target="#b29">[30,</ref><ref type="bibr" target="#b31">32,</ref><ref type="bibr" target="#b35">36]</ref>. Reactive kava metabolites may potentially alkylate DNA or disrupt enzymatic and metabolic activity, inducing hepatotoxicity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Mechanism of Kava Hepatotoxicity</head><p>Despite the evidence for liver damage and inflammation in animals and humans treated with kava, clinical cases of hepatotoxicity amongst indigenous users caused by traditional aqueous root extracts are limited to two cases in New Caledonia <ref type="bibr" target="#b36">[37]</ref>. The dose of kavalactones in one patient was 18 grams per week for four to five weeks and was unknown in the other. Clinical surveillance in the Northern Territory, Australia over 20 years has not documented any cases of fulminant hepatic failure attributable to kava, despite doses estimated to be 10-50 times the recommended therapeutic doses.</p><p>Based on these observations, most hepatic effects of kava appear to be reversible or can be compensated for. Hence, pharmacogenomic effects may be involved in the most severe cases of toxicity. For example, the hydroxylation of the aromatic ring and demethylation of kavalactones is a function of CYP2D6 enzymes <ref type="bibr" target="#b29">[30]</ref>. Four human phenotypes for CYP2D6 activity (ultrarapid, efficient, intermediate, and poor) are defined according to debrisoquine metabolism. The two Europeans with kava-related hepatotoxicity were phenotyped as poor metabolisers according to CYP2D6 activity <ref type="bibr" target="#b37">[38]</ref>. It is known that 12%-21% of Caucasians are poor metabolisers compared to less than 1% for Asians/Pacific Islanders, which may contribute to the lower incidence of kava hepatotoxicity in the Pacific <ref type="bibr" target="#b38">[39]</ref>. Caucasians also have a higher frequency of ultrarapid metabolisers compared to Asians/Pacific Islanders (1% to 5% versus 0% to 2%). These individuals could experience adverse reactions following a burst of reactive kava metabolites.</p><p>Acute kava hepatotoxicity involves inflammation. Histopathology results from a 50-year-old man <ref type="bibr" target="#b39">[40]</ref> and a 33-year-old woman <ref type="bibr" target="#b37">[38]</ref> displaying hepatic symptoms following use of kava supplements showed extensive, severe hepatocellular necrosis and infiltration with lymphocytes, eosinophils, and activated macrophages. Experimental studies with kavain-perfused rat livers examined via electron microscopy displayed a disruption of hepatic vasculature with narrowing of blood vessels, constriction of sinusoidal Advances in Pharmacological Sciences blood vessels, and retraction of the endothelium compared to controls <ref type="bibr" target="#b40">[41]</ref>. Liver macrophages (Kupffer cells) within the sinusoids of the kavain-perfused liver also appeared swollen with large cytoplasmic vacuoles and phagocytosed material.</p><p>Subclinical liver abnormalities occurred in clinical studies with chronic, indigenous, kava users. A study with Australian aborigines in the Northern Territory revealed elevations in γ-glutamyl transferase (GGT) and alkaline phosphatase (ALP) in 61% and 50%, respectively, of participants who reported using kava at least once in the month prior to the measurement, compared to less recent users and nonusers <ref type="bibr" target="#b41">[42]</ref>. These enzymes return to normal after one to two months of abstinence <ref type="bibr" target="#b42">[43]</ref>. There were no differences between the groups in ALT, bilirubin, albumin, or total protein. Unlike the German clinical trials for anxiety, kava consumption was not regulated in these studies, and the median duration of kava use was twelve years, with a range from one to eighteen years. Similar results were observed in a predominantly Tongan population in Hawaii, which compared liver function tests between 31 healthy adult kava beverage drinkers and 31 healthy adult nonkava beverage drinkers <ref type="bibr" target="#b43">[44]</ref>. GGT was significantly elevated in 65% of the kava drinkers versus 26% in the controls, and ALP was significantly elevated in 23% of kava drinkers versus 3% in the controls. There was no significant difference in ALT, AST, bilirubin, albumin, or total protein. Increases in GGT and ALP without ALT or AST elevation are suggestive of cholestasis rather than hepatocellular damage.</p><p>Cholestasis can be due to either defective bile formation in hepatocytes or disruption to bile secretion and flow within bile ducts <ref type="bibr" target="#b44">[45]</ref>. Mechanisms of noninflammatory cholestasis include inhibition of cellular proteins and transporters. Direct or indirect activation of Kupffer cells and their subsequent release of pro-inflammatory cytokines, growth factors, and reactive oxygen species is a cause of inflammatory cholestasis, which may involve hepatocytes or bile ducts <ref type="bibr" target="#b45">[46]</ref>. In the absence of hyperbilirubinaemia, elevations in GGT and ALP are more likely to be due to bile duct inflammation. Each of these mechanisms could be precipitated by kava extracts and are possible explanations for the cholestasis observed in chronic, indigenous, kava users.</p><p>Hence, Kupffer cells could be involved in both acute and chronic kava hepatotoxicity. These cells are also implicated in the pathogenesis of many other liver conditions, including fibrosis, viral hepatitis, steatohepatitis, alcoholic liver disease, and activation or rejection of the liver during transplantation <ref type="bibr" target="#b46">[47,</ref><ref type="bibr" target="#b47">48]</ref>. In animal studies, depletion of the Kupffer cell population is hepatoprotective during ischemia repurfusion injury <ref type="bibr" target="#b48">[49]</ref>, sepsis <ref type="bibr" target="#b49">[50,</ref><ref type="bibr" target="#b50">51]</ref>, radiotherapy <ref type="bibr" target="#b51">[52]</ref>, and dietinduced steatosis and insulin resistance <ref type="bibr" target="#b52">[53]</ref>. Kupffer cell depletion experiments could be a valuable tool for determining their role in kava hepatotoxicity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Additional Studies</head><p>Furthur studies could investigate the extent of kavalactone metabolism in humans and the proportions of urinary versus biliary excretion of kavalactones and their metabolites at different time points after ingestion. Such studies would further define normal kavalactone metabolism, suggest target cytochrome P450 enzymes for pharmacokinetic herbdrug interactions with kavalactones, and aid the identification of toxic metabolite(s) and their contribution to kava hepatotoxicity. Similar animal studies could be conducted with the alkaloid Pipermethysticine and the chalcone Flavokavain B. CYP450 profiling of individuals involved in such studies could clarify pharmacogenomic differences in kava metabolism and could be performed either genotypically or phenotypically using substrates such as debrisoquine for CYP2D6 in humans <ref type="bibr" target="#b53">[54]</ref>.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 :</head><label>1</label><figDesc>Figure 1: Structures of the six main kavalactones (1-6), Pipermethysticine (7), and Flavokavain B (8). The chemical formulae are kavain (C 14 H 14 O 3 ), 7,8-dihydrokavain (C 14 H 16 O 3 ), methysticin (C 15 H 14 O 5 ), 7,8-dihydromethysticin (C 15 H 16 O 5 ), yangonin (C 15 H 14 O 4 ), desmethoxyyangonin (= 5,6-dehydrokavain = C 14 H 12 O 3 ), pipermethystine (C 16 H 17 NO 4 ), and flavokavain B (C 17 H 16 O 4 ).</figDesc></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Kava lactones and the kava-kava controversy</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Whitton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Salisbury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Whitehouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Evans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytochemistry</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="673" to="679" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Toxicity of kava kava</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Chan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Science and Health, Part C</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="89" to="112" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Kava hepatotoxicity solution: a six-point plan for new kava standardization</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Teschke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sarris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Lebot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytomedicine</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2-3</biblScope>
+			<biblScope unit="page" from="96" to="103" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Interaction of various Piper methysticum cultivars with CNS receptors in vitro</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Dinh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Simmen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Bueter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bueter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lundstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Schaffner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Planta Medica</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="306" to="311" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Immunohistochemical analysis of expressions of hepatic cytochrome P450 in F344 rats following oral treatment with kava extract</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Clayton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yoshizawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Kissling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Burka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nyska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Experimental and Toxicologic Pathology</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="223" to="236" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">methysticum) on c-DNA-expressed cytochrome P450 enzymes and human cryopreserved hepatocytes</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Henderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Harkey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sakai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytomedicine</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="285" to="294" />
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Awa, Yaqona, Piper</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Effects of kava (kava-kava</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Post-insult exposure to (±) kavain potentiates N-methyl-D-aspartate toxicity in the developing hippocampus</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Mulholland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Prendergast</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brain Research</title>
+		<imprint>
+			<biblScope unit="volume">945</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="106" to="113" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Kavalactones yangonin and methysticin induce apoptosis in human hepatocytes (HepG2) in vitro</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Dunlop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Rodgers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ramzan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytotherapy Research</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="417" to="423" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Death after consumption of kava beverage in combination with alcohol and cannabis</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tarbah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Barguil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Weinmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">GTFCh (Society of Toxicological and Forensic Chemistry) Symposium</title>
+		<meeting><address><addrLine>Mosbach, Germany</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Piperidine alkaloids from Piper methysticum</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dragull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Tang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytochemistry</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="193" to="198" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">In vitro toxicity of kava alkaloid, pipermethystine, in HepG2 cells compared to kavalactones</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Nerurkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dragull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Tang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="106" to="111" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Effects of kava alkaloid, pipermethystine, and kavalactones on oxidative stress and cytochrome P450 in F-344 rats</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T S</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dragull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Bittenbender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Efird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Nerurkar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="214" to="221" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Is the alkaloid pipermethystine connected with the claimed liver toxicity of kava products?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lechtenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Quandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nahrstedt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmazie</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="71" to="74" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">In vitro cytotoxicity of nonpolar constituents from different parts of kava plant (Piper methysticum)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Jhoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Heinze</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Agricultural and Food Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="3157" to="3162" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Efficacy of extracting solvents to chemical components of kava (Piper methysticum) roots</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Xuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fukuta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Elzaawely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Khanh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tawata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Natural Medicines</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="188" to="194" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Flavokawain B, the hepatotoxic constituent from kava root, induces GSH-sensitive oxidative stress through modulation of IKK/NF-κB and MAPK signaling pathways</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FASEB Journal</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="4722" to="4732" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Vanuatu Legislation: Kava Act</title>
+		<ptr target="http://www.paclii.org/databases.html#VU" />
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">V</forename><surname>Lebot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Merlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lindstrom</surname></persName>
+		</author>
+		<title level="m">Kava, the Pacific Elixir</title>
+		<meeting><address><addrLine>Rochester, Vt, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Yale University Press</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Kava hepatotoxicity: comparison of aqueous, ethanolic, acetonic kava extracts and kava-herbs mixtures</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Teschke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Genthner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wolff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Ethnopharmacology</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="378" to="384" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Kava extract for treating anxiety</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Pittler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ernst</surname></persName>
+		</author>
+		<idno>ID CD003383</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cochrane Database of Systematic Reviews</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Meta-analysis of the efficacy of the acetonic kava-kava extract WS1490 in patients with non-psychotic anxiety disorders</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Loew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gaus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytotherapy Research</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="183" to="188" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Adverse-effect profile of kava</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R T</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Churchill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Loew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gaus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CNS Spectrums</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="848" to="853" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Kava kava: examining new reports of toxicity</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Clouatre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicology Letters</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="85" to="96" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Kava hepatotoxicity: a clinical survey and critical analysis of 26 suspected cases</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Teschke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schwarzenboeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Hennermann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Gastroenterology &amp; Hepatology</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1182" to="1193" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Kava hepatotoxicity: a European view</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Teschke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schwarzenboeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akinci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Zealand Medical Journal</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">1283</biblScope>
+			<biblScope unit="page" from="90" to="98" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Kava dermopathy</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Norton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ruze</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Academy of Dermatology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="89" to="97" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Safety review of kava (Piper methysticum) by the Natural Standard Research Collaboration</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ulbricht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Basch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Boon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Opinion on Drug Safety</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="779" to="794" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Chemistry of kava and kavalactones</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ramzan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">V</forename><surname>Tran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kava: From Ethnology to Pharmacology (Medicinal and Aromatic Plants-Industrial Profile)</title>
+		<editor>
+			<persName><forename type="first">Y</forename><forename type="middle">N</forename><surname>Singh</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boca Raton, Fla, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="76" to="103" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Herbal Medicines</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barnes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Phillipson</surname></persName>
+		</author>
+		<ptr target="http://www.medicinescomplete.com/mc/herbals/2008/1000734502.htm#hrb1000756090" />
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Identification of some human urinary metabolites of the intoxicating beverage kava</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Duffield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Jamieson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">O</forename><surname>Lidgard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Duffield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Bourne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Chromatography A</title>
+		<imprint>
+			<biblScope unit="volume">475</biblScope>
+			<biblScope unit="page" from="273" to="281" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Mass spectral characterization of urinary metabolites of D,L-kawan</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Köppel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tenczer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Chromatography B</title>
+		<imprint>
+			<biblScope unit="volume">562</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="207" to="211" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Metabolism of some kava pyrones in the rat</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Scheline</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Solheim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hansel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Xenobiotica</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Kinetics of kavain and its metabolites after oral application</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tarbah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mahler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kardel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Weinmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hafner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Daldrup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Chromatography B</title>
+		<imprint>
+			<biblScope unit="volume">789</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="115" to="130" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Synthesis, in vitro reactivity, and identification of 6-phenyl-3-hexen-2-one in human urine after kava-kava (Piper methysticum) ingestion</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Harkey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Henderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Planta Medica</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="142" to="146" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Identification of novel electrophilic metabolites of Piper methysticum Forst. (kava)</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">X</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chemical Research in Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="733" to="740" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetics and disposition of the kavalactone kawain: interaction with kava extract and kavalactones in vivo and in vitro</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mathews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Etheridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Valentine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drug Metabolism and Disposition</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1555" to="1563" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Hepatic injury due to traditional aqueous extracts of kava root in New Caledonia</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Russmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Barguil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cabalion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kritsanida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Duhet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Lauterburg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Gastroenterology &amp; Hepatology</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1033" to="1036" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Kava hepatotoxicity</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Russmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Lauterburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Helbling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Internal Medicine</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="68" to="69" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Genetic polymorphisms of cytochrome P450 2D6 (CYP2D6): clinical consequences, evolutionary aspects and functional diversity</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ingelman-Sundberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacogenomics Journal</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="6" to="13" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Hepatitis associated with kava, a herbal remedy for anxiety</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Escher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Desmeules</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Giostra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mentha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Medical Journal</title>
+		<imprint>
+			<biblScope unit="volume">322</biblScope>
+			<biblScope unit="issue">7279</biblScope>
+			<biblScope unit="page">139</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Influence of kavain on hepatic ultrastructure</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Korkmaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Braet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Ngo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ramzan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Journal of Gastroenterology</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="541" to="546" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Health effects of kava use in an eastern Arnhem Land Aboriginal community</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Clough</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Jacups</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Internal Medicine Journal</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="336" to="340" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Liver function test abnormalities in users of aqueous kava extracts</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Clough</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Bailie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Currie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Toxicology. Clinical Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="821" to="829" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Traditional kava beverage consumption and liver function tests in a predominantly Tongan population in Hawaii</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Onopa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Holck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="549" to="556" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Mechanisms of cholestasis</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zollner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Trauner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinics in Liver Disease</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="26" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Role of the Kupffer cell in mediating hepatic toxicity and carcinogenesis</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Ganey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Kamendulis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rusyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Klaunig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="2" to="15" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Role of Kupffer cells in the pathogenesis of liver disease</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kolios</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Valatas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kouroumalis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Journal of Gastroenterology</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">46</biblScope>
+			<biblScope unit="page" from="7413" to="7420" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b47">
+	<analytic>
+		<title level="a" type="main">The role of Kupffer cell oxidant production in early ethanol-induced liver disease</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Wheeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kono</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Free Radical Biology and Medicine</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1544" to="1549" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b48">
+	<analytic>
+		<title level="a" type="main">GdCl 3 abates hepatic ischemia-reperfusion injury by inhibiting apoptosis in rats</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hepatobiliary and Pancreatic Diseases International</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="518" to="523" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Differential effects of GdCl 3 or MDP treatment on rat liver microcirculation and gene expression in the hepatic non-parenchymal cell fraction in LPS shock</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Henrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lehnert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Herzog</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Microcirculation</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="427" to="439" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Kupffer cell depletion with liposomal clodronate prevents suppression of Ntcp expression in endotoxin-treated rats</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sturm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Havinga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F W</forename><surname>Baller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Hepatology</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="102" to="109" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Inactivation of Kupffer cells by gadolinium chloride protects murine liver from radiation-induced apoptosis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">C</forename><surname>Zeng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Radiation Oncology Biology Physics</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1225" to="1234" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Depletion of liver Kupffer cells prevents the development of diet-induced hepatic steatosis and insulin resistance</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Metlakunta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dedousis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="347" to="357" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Genetic polymorphism in cytochrome P450 2D6 (CYP2D6): population distribution of CYP2D6 activity</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Neafsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ginsberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hattis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sonawane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Toxicology and Environmental Health Part B</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">5-6</biblScope>
+			<biblScope unit="page" from="334" to="361" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

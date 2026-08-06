@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Extracellular vesicles derived from Staphylococcus aureus induce atopic dermatitis-like skin inflammation</title>
+				<funder ref="#_MQMvrEZ">
+					<orgName type="full">Korea Ministry of Health &amp; Welfare, Republic of Korea</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">S.-W</forename><surname>Hong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Life Science</orgName>
+								<orgName type="institution">Pohang University of Science and Technology (POSTECH)</orgName>
+								<address>
+									<settlement>Pohang</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M.-R</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Life Science</orgName>
+								<orgName type="institution">Pohang University of Science and Technology (POSTECH)</orgName>
+								<address>
+									<settlement>Pohang</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">E.-Y</forename><surname>Lee</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Life Science</orgName>
+								<orgName type="institution">Pohang University of Science and Technology (POSTECH)</orgName>
+								<address>
+									<settlement>Pohang</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Y.-S</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Life Science</orgName>
+								<orgName type="institution">Pohang University of Science and Technology (POSTECH)</orgName>
+								<address>
+									<settlement>Pohang</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Jeon</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Life Science</orgName>
+								<orgName type="institution">Pohang University of Science and Technology (POSTECH)</orgName>
+								<address>
+									<settlement>Pohang</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J.-M</forename><surname>Yang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Life Science</orgName>
+								<orgName type="institution">Pohang University of Science and Technology (POSTECH)</orgName>
+								<address>
+									<settlement>Pohang</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Dermatology</orgName>
+								<orgName type="department" key="dep2">Samsung Medical Center</orgName>
+								<orgName type="institution">Sungkyunkwan University School of Medicine</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B.-J</forename><surname>Lee</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Allergy and Clinical Immunology</orgName>
+								<orgName type="department" key="dep2">Samsung Medical Center</orgName>
+								<orgName type="institution">Sungkyunkwan University School of Medicine</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B.-Y</forename><surname>Pyun</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Pediatrics</orgName>
+								<orgName type="institution">Suncheonhyang University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>PhD</roleName><forename type="first">Yong</forename><forename type="middle">Song</forename><surname>Gho</surname></persName>
+							<email>ysgho@postech.ac.kr</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Life Science</orgName>
+								<orgName type="institution">Pohang University of Science and Technology (POSTECH)</orgName>
+								<address>
+									<settlement>Pohang</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Y.-K</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Life Science</orgName>
+								<orgName type="institution">Pohang University of Science and Technology (POSTECH)</orgName>
+								<address>
+									<settlement>Pohang</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, PhD</roleName><forename type="first">Yoon-Keun</forename><surname>Kim</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Thomas</forename><surname>Bieber</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Life Science</orgName>
+								<orgName type="institution">Pohang University of Science and Technology (POSTECH)</orgName>
+								<address>
+									<settlement>Pohang</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Extracellular vesicles derived from Staphylococcus aureus induce atopic dermatitis-like skin inflammation</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">28FEB565D3E8B6292950CC4BCE2C1E32</idno>
+					<idno type="DOI">10.1111/j.1398-9995.2010.02483.x</idno>
+					<note type="submission">Accepted for publication 13 August 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>atopic dermatitis</term>
+					<term>extracellular vesicles</term>
+					<term>skin inflammation</term>
+					<term>Staphylococcus aureus</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>IgE antibodies specific to staphylococcal enterotoxin A or B (SEA or SEB) (8, 9). Lipoteichoic acid, cell wall component in S. aureus, has been detected in the lesions of AD patients and is correlated with AD severity (10). This finding together with the fact that about 20-40% of AD patients display intrinsic AD with no sensitization to any protein allergen suggests the importance of microbes (11).</p><p>Gram-negative bacteria secrete outer membrane vesicles (OMV) (12), which have pathogenic effects <ref type="bibr" target="#b12">(13,</ref><ref type="bibr" target="#b13">14)</ref>. Recently, we demonstrated for the first time that the Gram-positive bacterium S. aureus produces OMV-like vesicles called extracellular vesicles (EV) (15). The EV produced by S. aureus are spherical with a diameter of 20-100 nm and are shed from the bacterium's membranes. Proteomic analysis revealed that</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Skin lesions in atopic dermatitis (AD) patients display histological alterations such as epidermal thickening and infiltration by eosinophils and mast cells <ref type="bibr" target="#b0">(1)</ref>. The pathogenesis of AD is believed to involve repeated abnormal innate and adaptive immune responses to environmental causative agents when the skin barrier is disrupted <ref type="bibr" target="#b1">(2)</ref>. Aeroallergens, including house dust mites and pollens, are well known to induce AD through IgE-mediated mechanisms <ref type="bibr" target="#b2">(3)</ref>. In addition, microbes represent another important group of extrinsic causative factors in the pathogenesis of AD (4). Staphylococcus aureus (S. aureus) appears to be particularly important because it colonizes almost all lesional skin in AD patients, and a reduction in its colonization has been shown to decrease disease severity <ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b6">(7)</ref>. Some AD patients produce the protein expression pattern in these EV differs from that in whole bacteria, and that they contain various pathogenic molecules. Among these, a-hemolysin and cysteine protease have been linked with AD <ref type="bibr" target="#b15">(16,</ref><ref type="bibr" target="#b16">17)</ref>. These findings suggest that EV is a potent initiator of host immune responses.</p><p>In AD patients, S. aureus, rather than invading and infecting the skin, colonizes it. It is thus reasonable to assume that the skin is affected by secretory products from S. aureus. Given that staphylococcal secretory products are relevant to the pathogenesis of AD, we hypothesized that S. aureus EV, which are complexes of various pathogenic molecules secreted by the bacterium, are involved in the pathogenesis of AD. In this study, we found through in vitro and in vivo studies that S. aureus EV are causative agents in AD, and the clinical observation also supports this hypothesis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mice</head><p>SKH-HR1 (hairless) mice were purchased from Charles River Laboratories Japan, Inc. (Yokohama, Japan) and were bred in a pathogen-free facility at Pohang University of Science and Technology (POSTECH; Pohang, Korea). All animal experiments were approved by the POSTECH Ethics Committee.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Skin lavage fluids were obtained from two AD patients visiting Pediatric Clinic of Seoul Suncheonhyang Hospital (Seoul, Korea). Serum samples were obtained from 60 AD patients (30 patients aged 6-9 years and 30 patients aged over 10 years) and 20 healthy subjects aged 6-16 years, who were recruited from Seoul Samsung Hospital (Seoul, Korea). Skin lavage fluids and serum samples were isolated after written informed consent had been obtained. The study protocol was approved by the Ethics Committee of Seoul Suncheonhyang Hospital and Seoul Samsung Hospital, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Isolation of Staphylococcus aureus extracellular vesicles</head><p>Staphylococcus aureus EV were obtained as described previously <ref type="bibr" target="#b14">(15)</ref>. Briefly, S. aureus (ATCC14458) was cultured in nutrient broth (Merck, Darmstadt, Germany) and grown at 37°C to 1.0 of optical density (at 600 nm). Bacteria were removed by centrifugation, and the resulting supernatant was filtered through a 0.45-lm vacuum filter. The filtrate was concentrated by ultrafiltration using the QuixStand Benchtop System (Amersham Biosciences, Piscataway, NJ, USA) in conjunction with a 100-kD hollow-fiber membrane (Amersham Biosciences). The resulting concentrated filtrate was passed through a 0.22-lm vacuum filter. Extracellular vesicles were isolated from the resulting filtrate by ultracentrifugation at 150 000 g. The concentration of protein in the EV was measured by Bradford assays (Bio-Rad Laboratories, Hercules, CA, USA). Hereafter, the reported doses of EV refer to the amount of EV protein. Isolated EV were stored at )80°C before use. Bacteria and EV removed, and then &lt;100 and &gt;100-kD soluble fractions of bacterial culture media were concentrated. Protein concentration was measured by Bradford assays, and culture media were stored at )80°C before use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Detection of staphylococcal enterotoxin A and staphylococcal enterotoxin B</head><p>The presence of SEA and SEB in EV and concentrated culture media was analyzed using SDS-PAGE and western blot. SEA and SEB were detected by monoclonal anti-SEA and anti-SEB antibody (Santa Cruz Biotechnology, Santa Cruz, CA, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The generation of an atopic dermatitis mouse model using</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Staphylococcus aureus extracellular vesicles</head><p>To create a mouse model of AD, S. aureus EV were applied to mouse skin according to the following protocol. To disrupt the cutaneous barrier, the dorsal skin of 6-week-old mice was stripped five to six times using Durapore surgical tape (3M Co., St. Paul, MN, USA). Gauze (1.5 • 1.5 cm) soaked with S. aureus EV in 100 ll of phosphate buffered saline (PBS) was then placed on the stripped skin and secured using Tegaderm bio-occlusive tape (3M Co.). For the evaluation of inflammation and immune dysfunction, the mice were euthanized 48 h after the final challenge.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Histological analysis</head><p>Four-micrometer-thick sections of fixed skin tissues were stained with hematoxylin and eosin (H&amp;E). Mast cells were stained with toluidine blue (TB). Cells were counted in 15-25 high-power fields at a magnification of •400.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characterization of T-cell subsets</head><p>Single cells of skin-draining lymph nodes (LN) were collected and stimulated with or without 0.1 lg/ml of S. aureus EV. Supernatants were harvested after 72 h, and the levels of cytokines measured by ELISA.</p><p>In vitro production of pro-inflammatory mediators from dermal fibroblasts Primary mouse dermal fibroblasts were isolated as described previously with some modification <ref type="bibr" target="#b17">(18)</ref>. Fibroblasts from passages 1-3 were used. Then, 2 • 10 4 cells of isolated cells were cultured in 24-well plates then treated with 1 or 10 lg/ml S. aureus EV or soluble fractions of bacterial culture media, or SEB (Toxin Technology, Sarasota, FL, USA). Supernatants were collected 24 h after stimulation, and mediator levels measured.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurement of cytokine and chemokine secretion</head><p>The cytokine and chemokine levels were measured by ELISA (R&amp;D Systems, Mineapolis, MN, USA) according to the manufacturer's instructions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Isolation of extracellular vesicles from the skin lavage fluids of patients</head><p>Skin lavage fluids were obtained by rinsing patients' skin lesions three to four times with 50 ml of sterile PBS and were stored at )80°C. To remove bacteria and other debris, 40 ml of skin lavage fluids was centrifuged at 5000 and 10 000 g. After centrifugation, supernatants were filtered through 0.45 and 0.22 lm serially. Then, lavage fluids were concentrated to 1 ml by using Centriprep YM-50 (Millipore, Carringtwohill, Ireland). Same volume of PBS was added on concentrated lavage fluids, and they were ultracentrifuged at 150 000 g for 3 h at 4°C. The pellet was used as EV fraction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ELISA assay using anti-Staphylococcus aureus extracellular vesicles-specific polyclonal antibodies</head><p>Anti-S. aureus EV-specific polyclonal antibodies were coated on 96-well ELISA plate. Each well was blocked by 1% bovine serum albumin in PBS. After blocking, concentrated lavage fluids and EV fraction were added to each well. Then, biotinylated anti-S. aureus EV-specific polyclonal antibodies were added on each well, and then streptavidin-horseradish peroxidase (HRP) was added. After a final wash, chemiluminescence substrates (POD) were added to react with HRP.</p><p>Luminescence measured using a Wallac 1420 Victor luminometer (American Instrument Exchange, Inc., Haverville, MA, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Serum antibody ELISA</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mouse</head><p>Serum samples were prepared from mouse blood for analysis of the total serum IgG1 and IgE levels by ELISA (Bethyl Laboratories, Montgomery, TX, USA) according to manufacturer's instructions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human</head><p>Staphylococcus aureus EV-and SEB-specific IgG1 and IgE levels were measured by ELISA. The wells of 96-well ELISA plates were each coated with 0.1 lg of S. aureus EV or 1 lg of SEB. Then, wells were blocked with 3% bovine serum albumin in PBS. After blocking, diluted human serum was added to the wells. Then, HRP-conjugated anti-human IgG1 and IgE antibodies (Southern Biotech, Birmingham, IL, USA) were applied to each well. Chemiluminescence substrates were added, and luminescence was measured by the luminometer. Specific antibody levels were defined as elevated if a value is higher than mean +1 standard deviation of healthy subjects' values. tion with EV and &gt;100-and &lt;100-kD soluble fractions of bacterial culture media. (C) Western blotting to detect staphylococcal enterotoxin B (SEB) in EV and soluble (Sup) fractions of S. aureus culture media. (D) Levels of pro-inflammatory mediators from supernatants of dermal fibroblasts after stimulation with EV or SEB. Assays were performed in duplicate. *P &lt; 0.05; **P &lt; 0.01; ***P &lt; 0.001.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Statistically significant differences between treatments were identified using Student's t-test, anova, or Wilcoxon's rank sum test. Multiple comparisons were initially made by anova.</p><p>Where significant differences were found, individual t-tests or Wilcoxon's rank sum tests were used to identify statistically significant differences between treatment group pairs. A P-value &lt;0.05 was considered to be statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>In vitro production of pro-inflammatory mediators from mouse dermal fibroblasts treated with Staphylococcus aureus extracellular vesicles</p><p>Recently, we found that S. aureus EV contain 90 proteins, including proteins with pathological function, by proteomic analysis <ref type="bibr" target="#b14">(15)</ref>. Scanning electron microscopic images showed that S. aureus secreted EV (Fig. <ref type="figure" target="#fig_0">1A</ref>). We evaluated whether EV or soluble fractions of S. aureus culture media induce the production of pro-inflammatory mediators from skin fibroblasts. We found that the production of IL-6, thymic stromal lymphopoietin (TSLP), macrophage inflammatory protein (MIP)-1a, and eotaxin by dermal fibroblasts was higher by stimulation with EV than with soluble fraction (Fig. <ref type="figure" target="#fig_0">1B</ref>). It was reported that the presence of IgE antibodies to SEA and SEB was correlated with the severity of skin lesions in children with AD <ref type="bibr" target="#b7">(8,</ref><ref type="bibr" target="#b8">9)</ref>. Western blotting using anti-SEA and anti-SEB antibodies showed that SEB was present in soluble fraction, but not in EV, whereas SEA absent in both fractions (Fig. <ref type="figure" target="#fig_0">1C</ref>). We compared in vitro activity between EV and SEB on the production of pro-inflammatory mediator. As shown in Fig. <ref type="figure" target="#fig_0">1D</ref>, 1 or 10 lg/ml of SEB did not enhance the production of IL-6, TSLP, MIP-1a, and eotaxin, whereas •200 (upper panel) and •400 (lower panel)]. Arrowheads identify eosinophils. (C) Histological analysis of epidermal thickness and the numbers of eosinophils and mast cells infiltrating the dermis. *P &lt; 0.05; **P &lt; 0.01; ***P &lt; 0.001.</p><p>1 lg/ml of EV upregulated the production of these mediators. Collectively, these findings suggest that S. aureus-derived EV are more potent compared to soluble components, in terms of production of pro-inflammatory mediators.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Local inflammation induced by the application of different doses of Staphylococcus aureus extracellular vesicles to tape-stripped mouse skin</head><p>We evaluated the in vivo effects of S. aureus EV on the induction of skin inflammation. Different doses of EV were applied to tape-stripped mouse skin, and changes in skin inflammation were assessed 4 weeks after initial application (Fig. <ref type="figure" target="#fig_1">2A</ref>). Histological analysis showed that the application of S. aureus EV to tape-stripped skin induced AD-like inflammation, including epidermal thickening and infiltration of the dermis by inflammatory cells (Fig. <ref type="figure" target="#fig_1">2B</ref>). Moreover, S. aureus EV dose dependently induced epidermal thickening (Fig. <ref type="figure" target="#fig_1">2C</ref>). As with dermal infiltration by inflammatory cells, significantly higher numbers of mast cells were found in the dermis of mice treated with S. aureus EV (at 5 or 10 lg, but not 0.1 lg) compared to PBS-treated controls. In addition, the numbers of eosinophils were significantly higher in EVtreated mice than in PBS-treated controls at all doses (Fig. <ref type="figure" target="#fig_1">2  C</ref>). Together, these data suggest that the application of S. aureus EV to tape-stripped skin induces AD-like inflammation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In vivo immune dysfunction induced by the application of</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Staphylococcus aureus extracellular vesicles to tape-stripped mouse skin for 3 weeks</head><p>To test whether the application of S. aureus EV to the skin induces immunological dysfunction, 5 lg of S. aureus EV was applied to tape-stripped mouse skin three times per week for 3 weeks. Histological analysis showed that the application of S. aureus EV induced epidermal thickening and infiltration of the dermis by inflammatory cells (Fig. times a week for 3 weeks) to tape-stripped skin. *P &lt; 0.05; **P &lt; 0.01; ***P &lt; 0.001. (A) Skin histology [H&amp;E staining; magnification, •200]. (B) Histological analysis of epidermal thickness. (C) Levels of IFN-c and IL-17 in supernatants from S. aureus EV-treated cells from skin-draining LNs. (D) Levels of IFN-c, IL-17, IL-4, and IL-5 in skin tissue homogenates.</p><p>A). Tape stripping itself induced epidermal thickening (Fig. <ref type="figure" target="#fig_2">3  B</ref>). To characterize the immune dysfunction induced by S. aureus EV, we measured the production of Th1, Th17, and Th2 cytokines by T cells from skin-draining LNs following in vitro stimulation with S. aureus EV. The production of IFN-c and IL-17 was significantly higher in cells from the EV-treated mice than in those from the PBS-treated animals (Fig. <ref type="figure" target="#fig_2">3C</ref>). IL-4 and IL-5 were not detected in the supernatants from cells isolated from either treatment group (data not shown). In terms of the skin production of Th1, Th17, and Th2 cytokines, the levels of IFN-c, IL-17, IL-4, and IL-5 in skin homogenates from EV-treated mice were significantly higher than those from PBS-treated mice. Tape stripping did not itself enhance the production of these cytokines (Fig. <ref type="figure" target="#fig_2">3D</ref>). With regard to the production of antibodies, we found the serum levels of total IgG1 and IgE to be similar in the EV-and PBS-treated mice (data not shown). Collectively, these data suggest that exposure to S. aureus EV for 3 weeks induces a mixed Th1-/Th17-/Th2-type inflammatory response in the skin, whereas a mixed Th1/Th17 cell response in skin-draining LNs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Local inflammation and systemic immune dysfunction induced by long-term (8-week) application of Staphylococcus aureus extracellular vesicles to tape-stripped mouse skin</head><p>To assess the effects of long-term exposure to S. aureus EV, S. aureus EV (5 lg) were applied to tape-stripped skin three times per week for 8 weeks. Histological analysis showed that prolonged exposure to S. aureus EV induced epidermal thickening and increased infiltration of the dermis by inflammatory cells (Fig. <ref type="figure" target="#fig_3">4A</ref>,<ref type="figure">B</ref>). Infiltration of the dermis by mast cells and eosinophils was significantly increased in EV-treated mice relative to PBS-treated controls (Fig. <ref type="figure" target="#fig_3">4A</ref>,<ref type="figure">B</ref>). Furthermore, long-term in vivo exposure to S. aureus EV enhanced the production of IL-17 by T cells in skin-draining LNs stimulated with S. aureus EV in vitro (Fig. <ref type="figure" target="#fig_3">4C</ref>). However, it did not enhance the EV-induced production of IFN-c and IL-4 (data not shown). In terms of antibody production following long-term exposure to S. aureus EV, the serum total IgE levels were significantly higher in the EV-treated mice than in the PBS-treated controls, although the serum total IgG1 levels were similar between the two groups (Fig. <ref type="figure" target="#fig_3">4D</ref>). Taken ing; magnification, •200 (upper panel) and •400 (lower panel)]. Arrowheads identify eosinophils. (B) Histological analysis of epidermal thickness and numbers of eosinophils and mast cells infiltrating the dermis. (C) Levels of IL-17 in supernatants from S. aureus EV-treated cells from skin-draining lymph nodes. (D) Serum levels of total IgG1 and total IgE.</p><p>together, these findings suggest that long-term exposure to S. aureus EV induces IgE production, whereas Th17-cell response in skin-draining LNs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The presence of Staphylococcus aureus extracellular vesicles in the skin lesion of atopic dermatitis patients</head><p>We evaluated the presence of S. aureus-derived EV in the skin lesion of AD patients. To test this objective, EV were isolated from the skin lesion of two AD patients and then evaluated whether EV isolated from the skin lesion of AD patients incorporate S. aureus EV-specific proteins using anti-S. aureus EV-specific polyclonal antibodies. As shown in Fig. <ref type="figure" target="#fig_4">5</ref>, EV isolated from skin lavage fluids of AD patients contained S. aureus EV-specific proteins.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Serum Staphylococcus aureus extracellular vesicles-specific antibody levels in atopic dermatitis patients</head><p>Finally, we measured serum levels of S. aureus EV-and SEBspecific antibodies in AD patients and healthy subjects. The serum levels of S. aureus EV-and SEB-specific IgG1 were comparable in AD patients and healthy subjects (Fig. <ref type="figure" target="#fig_6">6A</ref>). By contrast, the serum S. aureus EV-specific IgE levels were significantly higher in both 6-9 year aged and &gt;9 year aged AD patients than in age-matched healthy subjects; this IgE levels were elevated in 33.3% of 6-9 years aged and 40% of &gt;9 years aged AD patients (Fig. <ref type="figure" target="#fig_6">6B</ref>). In addition, the serum SEB-specific IgE levels were significantly higher in only &gt;9 years aged AD patients than in age-matched healthy subjects; this IgE levels were elevated in 33.3% of 6-9 years aged and 33.3% of &gt;9 years aged AD patients (Fig. <ref type="figure" target="#fig_6">6C</ref>). However, neither total IgE nor SEB-specific IgE were correlated with S. aureus EV-specific IgE in AD patients (data not shown). These findings indicate that S. aureus EV-specific IgE may be a useful biomarker for identifying the cause of AD in individual cases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Elucidating the pathogenesis of AD has been difficult because of complex interactions between the causative factors and host immune response. Among the known causative factors, microbes are thought to be particularly important in the pathogenesis of AD by elaborating secretary products, including soluble toxins. Recently, we found that S. aureus secretes EV, in which pathogenic proteins are incorporated <ref type="bibr" target="#b14">(15)</ref>. In the present study, experimental and clinical data support the hypothesis that S. aureus EV are involved in the pathogenesis of AD.</p><p>In terms of host immune responses of AD pathogenesis, recent studies showed that IL-17 producing cells are found in the blood of AD patients and that AD pathogenesis is related with IL-17-mediated immune responses <ref type="bibr" target="#b18">(19,</ref><ref type="bibr" target="#b19">20)</ref>. In the present study, we found that the cutaneous application of S. aureus EV induced Th17-cell response in skin-draining LNs, suggesting that Th17-cell response is important in the AD pathogenesis.</p><p>The present data showed that the cutaneous application of S. aureus EV induced skin inflammation characterized by infiltration of mast cells and eosinophils. This inflammatory response was associated with enhanced production of not only Th1/Th17-type cytokines, but also Th2-type cytokines in the skin. In addition, the present study showed that in vitro stimulation of fibroblasts with S. aureus EV increased the secretion of the Th2-type cytokines, such as TSLP and eotaxin <ref type="bibr" target="#b20">(21)</ref>. These findings suggest that Th2-type inflammation induced by S. aureus EV is mediated by local production of Th2-type cytokines from dermal fibroblasts.</p><p>Staphylococcus aureus can colonize in skin or nasal passage in human <ref type="bibr" target="#b21">(22)</ref>. In the present study, we firstly demonstrated that S. aureus-derived EV are present on the skin of AD patients. We also found that S. aureus EV-specific IgG1 were detected in serums from not only AD patients but also healthy subjects. These findings suggest that S. aureus secretes EV in skin, which induce systemic immune responses.</p><p>Previous studies showed that serum levels of IgE specific to staphylococcal enterotoxins were not only elevated in AD patients, but also correlated with disease severity <ref type="bibr" target="#b7">(8,</ref><ref type="bibr" target="#b8">9)</ref>. Our present data indicate that serum levels of both S. aureus EV-and SEB-specific IgE were elevated in the AD patients compared to healthy subjects. In addition, the present study showed that S. aureus EV did not contain enterotoxins and S. aureus EV-specific IgE levels did not correlate with SEB-specific IgE. These findings suggest that the production of EV-specific IgE is not influenced by staphylococcal enterotoxins.</p><p>Recently, it was reported that IL-17 can induce IgE production in B cells <ref type="bibr" target="#b22">(23)</ref>. The present study showed that the cutaneous application of S. aureus EV for 8 weeks induce Th17-cell response, but not Th2-cell response, along with the  Recent evidence indicates that EV from Gram-negative bacteria induced systemic inflammatory response <ref type="bibr" target="#b12">(13)</ref>. We found that Gram-positive bacteria produced EV <ref type="bibr" target="#b14">(15)</ref>. This is the first report to show that EV obtained from Gram-positive bacteria can cause inflammatory disease. Given the abundance of Gram-positive bacteria in our environment, further research will be needed to elucidate the relationships between EV from Gram-positive bacteria and the pathogenesis of immune-based inflammatory diseases.</p><p>In summary, our present data indicate that S. aureusderived EV can induce AD-like inflammation in the skin, and that the physiological animal model we employed represents a useful tool for performing translational research into AD. Furthermore, our clinical findings provide strong evi- patients (right panel). (C) Levels of SEB-specific IgE in serum from AD patients and healthy subjects (left panel), and positive rate of elevated SEB-specific IgE in AD patients (right panel). Serum samples from AD patients (n = 30 in patients aged 6-9 years, and n = 30 in patients aged 9-16 years) and healthy subjects aged 6-16 years (n = 20); EV, S. aureus-derived EV; SEB, staphylococcal enterotoxin B. *P &lt; 0.05; **P &lt; 0.01.</p><p>dence of the importance of S. aureus EV in the pathogenesis of AD.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Staphylococcus aureus extracellular vesicles (EV) enhance the in vitro secretion of immune and pro-inflammatory mediators by mouse dermal fibroblasts. (A) Scanning electron microscopic images that S. aureus secrete EV. Arrowheads identify S. aureus EV. (B) Levels of pro-inflammatory mediators IL-6, thymic stromal lymphopoietin, macrophage inflammatory protein-1a and eotaxin in supernatants of dermal fibroblasts after stimula-</figDesc><graphic coords="3,64.33,387.08,457.56,218.26" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>AFigure 2</head><label>2</label><figDesc>Figure 2 Application of Staphylococcus aureus extracellular vesicles (EV) to tape-stripped mouse skin induces atopic dermatitis-like inflammation. (A) Study protocol: application of different doses of S. aureus EV to tape-stripped mouse skin for 4 weeks (n = 5 per treatment group). (B) Skin histology [H&amp;E staining; magnification,</figDesc><graphic coords="4,120.25,288.50,369.17,346.54" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3</head><label>3</label><figDesc>Figure 3 Three-week exposure of tape-stripped mouse skin to Staphylococcus aureus extracellular vesicles (EV) induces a mixed Th1-/Th17-/Th2-type inflammatory response in the skin, and the generation of Th1 and Th17 cells in skin-draining lymph nodes (LNs). Evaluation (n = 5 per treatment group) was performed 48 h after the final application of S. aureus EV (5 lg) (performed three</figDesc><graphic coords="5,56.62,310.88,465.41,314.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4</head><label>4</label><figDesc>Figure 4 Long-term exposure of tape-stripped mouse skin to Staphylococcus aureus extracellular vesicles (EV) enhances the production of IgE. Evaluation (n = 5 per treatment group) was performed 48 h after the final application of S. aureus EV (5 lg) (performed three times a week for 8 weeks) to tape-stripped skin. *P &lt; 0.05; **P &lt; 0.01; ***P &lt; 0.001. (A) Skin histology [H&amp;E stain-</figDesc><graphic coords="6,77.74,346.67,452.02,280.69" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5</head><label>5</label><figDesc>Figure 5 Staphylococcus aureus-derived extracellular vesicles (EV) are present on the skin of atopic dermatitis (AD) patients. This figure showed ELISA assay to detect S. aureus EV-specific proteins using anti-S. aureus EV polyclonal antibodies; lavage fluids and EV fraction of lavage fluids obtained from two AD patients have S. aureus EV-specific proteins (SA_EV, S. aureus-derived EV).</figDesc><graphic coords="7,108.46,471.23,154.04,110.26" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><figDesc>elevation of serum total IgE in mice. These findings suggest that S. aureus EV can induce systemic IgE production by Th17-cell response.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 6</head><label>6</label><figDesc>Figure 6 Staphylococcus aureus extracellular vesicles (EV)-specific IgE is elevated in atopic dermatitis (AD) patients than in agematched healthy subjects. (A) Levels of S. aureus EV-specific (left panel) and SEB-specific (right panel) IgG1 in serum from AD patients and healthy subjects. (B) Levels of S. aureus EV-specific IgE in serum from AD patients and healthy subjects (left panel), and positive rate of elevated S. aureus EV-specific IgE in AD</figDesc><graphic coords="8,159.19,74.00,317.85,398.65" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Allergy 66 (2011) 351-359 ª 2010 John Wiley &amp; Sons A/S</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We thank <rs type="person">Jee-In Lim</rs> and <rs type="person">Chae-Min Kim</rs> for their providing secretarial assistance and members of the <rs type="institution" subtype="infrastructure">POSTECH animal facility</rs> for their experimental expertise. This study was supported by grants from the <rs type="funder">Korea Ministry of Health &amp; Welfare, Republic of Korea</rs> (<rs type="grantNumber">A080711</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_MQMvrEZ">
+					<idno type="grant-number">A080711</idno>
+				</org>
+			</listOrg>
+
+			<listOrg type="infrastructure">
+				<org type="infrastructure">					<orgName type="extracted">POSTECH animal facility</orgName>
+				</org>
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p>The authors declare that there are no conflicts of interest.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">New insights into atopic dermatitis</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Y</forename><surname>Leung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Boguniewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Nomura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">A</forename><surname>Hamid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Invest</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="651" to="657" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Immunopathology of atopic dermatitis</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">O</forename><surname>Fiset</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Y</forename><surname>Leung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Hamid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Allergy Clin Immunol</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="287" to="290" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Induction of atopic dermatitis by inhalation of house dust mite</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Tupker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Monchy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Coenraads</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Homan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Van Der Meer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Allergy Clin Immunol</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="1064" to="1070" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Getting more and more complex: the pathophysiology of atopic eczema</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Maintz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Novak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="267" to="283" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Staphylococcus aureus: colonizing features and influence of an antibacterial treatment in adults with atopic dermatitis</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Breuer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ha¨ussler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Werfel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="page" from="55" to="61" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Treatment of Staphylococcus aureus colonization in atopic dermatitis decreases disease severity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Abrams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Tlougan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rademaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Paller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="808" to="e814" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Skin colonization by Staphylococcus aureus in patients with eczema and atopic dermatitis and relevant combined topical therapy: a double-blind multicentre randomized controlled trial</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Q</forename><surname>Gong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">Q</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">G</forename><surname>Bi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="page" from="680" to="687" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Staphylococcal enterotoxin-specific IgE antibodies in atopic dermatitis</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ide</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Matsubara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaneko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ichiyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mukouyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Furukawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatr Int</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="337" to="341" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Severe atopic dermatitis is associated with sensitization to staphylococcal enterotoxin B (SEB)</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Breuer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wittmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bosche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Werfel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Allergy</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="551" to="555" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Infected atopic dermatitis lesions contain pharmacologic amounts of lipoteichoic acid</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Travers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kozman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mousdicas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Landis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Al</forename><forename type="middle">-</forename><surname>Hassani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Allergy Clin Immunol</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="141" to="142" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Epidemiology, clinical features, and immunology of the &apos;&apos;intrinsic&apos;&apos; (non-IgE-mediated) type of atopic dermatitis (constitutional dermatitis)</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schmid-Grendelmeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">U</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Akdis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wuthrich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Allergy</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="841" to="849" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Global proteomic profiling of native outer membrane vesicles derived from Escherichia coli</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Bang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proteomics</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="3143" to="3153" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Outer membrane vesicles derived from Escherichia coli induce systemic inflammatory response syndrome</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="2010">2010. 11334</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Virulence and immunomodulatory roles of bacterial outer membrane vesicles</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Kuehn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Microbiol Mol Biol Rev</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="81" to="94" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Gram-positive bacteria produce membrane vesicles: proteomics-based characterization of Staphylococcus aureusderived membrane vesicles</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Y</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proteomics</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="5425" to="5436" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Staphylococcus aureus extracellular protease causes epidermal barrier dysfunction</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hirasawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Takai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mitsuishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gunawan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Suto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Invest Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page" from="614" to="617" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Isolation of alpha-toxin-producing Staphylococcus aureus from the skin of highly sensitized adult patients with severe atopic dermatitis</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wichmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Uter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Breuer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Heratizadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Mai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="300" to="305" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Primary mouse dermal fibroblast cell cultures as an in vitro model system for the differential pathogenicity of cross-species herpesvirus papio 2 infections</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Eberle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Virol</title>
+		<imprint>
+			<biblScope unit="volume">152</biblScope>
+			<biblScope unit="page" from="543" to="552" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">IL-17 in atopic eczema: linking allergen-specific adaptive and microbial-triggered innate immune response</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eyerich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pennino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scarponi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Foerster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Nasorri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Behrendt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Allergy Clin Immunol</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="59" to="66" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Possible pathogenic role of Th17 cells for atopic dermatitis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Koga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kabashima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shiraishi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kobayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tokura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Invest Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="2625" to="2630" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Thymic stromal lymphopoietin and OX40 ligand pathway in the initiation of dendritic cell-mediated allergic inflammation</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Allergy Clin Immunol</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="245" to="236" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Ecological temporal stability of Staphylococcus aureus nasal carriage</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Sakwinska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Blanc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lazor-Blanchet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moreillon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Giddey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Moreillon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="2724" to="2728" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Interleukin-17A promotes IgE production in human B cells</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Milovanovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Drozdenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Weise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Babina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Worm</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/jid.2010.175</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Invest Dermatol</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>Epub ahead of print</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

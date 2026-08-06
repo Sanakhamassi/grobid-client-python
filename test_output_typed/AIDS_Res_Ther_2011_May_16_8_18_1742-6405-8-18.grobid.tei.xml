@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Virologic outcomes of HAART with concurrent use of cytochrome P450 enzyme-inducing antiepileptics: a retrospective case control study</title>
+				<funder>
+					<orgName type="full">National Institutes of Health</orgName>
+					<orgName type="abbreviated">NIH</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-05-16">16 May 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jason</forename><forename type="middle">F</forename><surname>Okulicz</surname></persName>
+							<email>jason.okulicz@amedd.army.mil</email>
+							<affiliation key="aff0">
+								<orgName type="department">Infectious Disease Clinical Research Program (IDCRP)</orgName>
+								<orgName type="laboratory">HIV Working Group</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Infectious Disease Clinical Research Program</orgName>
+								<orgName type="institution">Uniformed Services University of the Health Sciences</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Greg</forename><forename type="middle">A</forename><surname>Grandits</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Infectious Disease Clinical Research Program</orgName>
+								<orgName type="institution">Uniformed Services University of the Health Sciences</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jacqueline</forename><forename type="middle">A</forename><surname>French</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jomy</forename><forename type="middle">M</forename><surname>George</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><forename type="middle">M</forename><surname>Simpson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gretchen</forename><forename type="middle">L</forename><surname>Birbeck</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Anuradha</forename><surname>Ganesan</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Infectious Disease Clinical Research Program</orgName>
+								<orgName type="institution">Uniformed Services University of the Health Sciences</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Amy</forename><forename type="middle">C</forename><surname>Weintrob</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Infectious Disease Clinical Research Program</orgName>
+								<orgName type="institution">Uniformed Services University of the Health Sciences</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nancy</forename><surname>Crum-Cianflone</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Infectious Disease Clinical Research Program</orgName>
+								<orgName type="institution">Uniformed Services University of the Health Sciences</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tahaniyat</forename><surname>Lalani</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Infectious Disease Clinical Research Program</orgName>
+								<orgName type="institution">Uniformed Services University of the Health Sciences</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><forename type="middle">L</forename><surname>Landrum</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Infectious Disease Clinical Research Program</orgName>
+								<orgName type="institution">Uniformed Services University of the Health Sciences</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Virologic outcomes of HAART with concurrent use of cytochrome P450 enzyme-inducing antiepileptics: a retrospective case control study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-05-16">16 May 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">899B6BA0F44666D73907A5F4FC9FAE25</idno>
+					<idno type="DOI">10.1186/1742-6405-8-18</idno>
+					<note type="submission">Received: 8 January 2011 Accepted: 16 May 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:12+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: To evaluate the efficacy of highly-active antiretroviral therapy (HAART) in individuals taking cytochrome P450 enzyme-inducing antiepileptics (EI-EADs), we evaluated the virologic response to HAART with or without concurrent antiepileptic use.</p><p>Methods: Participants in the US Military HIV Natural History Study were included if taking HAART for ≥6 months with concurrent use of EI-AEDs phenytoin, carbamazepine, or phenobarbital for ≥28 days. Virologic outcomes were compared to HAART-treated participants taking AEDs that are not CYP450 enzyme-inducing (NEI-AED group) as well as to a matched group of individuals not taking AEDs (non-AED group). For participants with multiple HAART regimens with AED overlap, the first 3 overlaps were studied.</p><p>Results: EI-AED participants (n = 19) had greater virologic failure (62.5%) compared to NEI-AED participants (n = 85; 26.7%) for the first HAART/AED overlap period (OR 4.58 [1.47-14.25]; P = 0.009). Analysis of multiple overlap periods yielded consistent results ]; P = 0.006). Virologic failure was also greater in the EI-AED versus NEI-AED group with multiple HAART/AED overlaps when adjusted for both year of and viral load at HAART initiation ; P = 0.005). Compared to the non-AED group (n = 190), EI-AED participants had greater virologic failure (62.5% vs. 42.5%; P = 0.134), however this result was only significant when adjusted for viral load at HAART initiation (OR 4.30 [1.02-18.07]; P = 0.046).</p><p>Conclusions: Consistent with data from pharmacokinetic studies demonstrating that EI-AED use may result in subtherapeutic levels of HAART, EI-AED use is associated with greater risk of virologic failure compared to NEI-AEDs when co-administered with HAART. Concurrent use of EI-AEDs and HAART should be avoided when possible.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Seizure disorders are common in HIV-infected individuals, with an incidence of up to 11% in several cohort studies <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref>. Antiepileptic drugs (AEDs) are frequently prescribed to patients with HIV not only for pre-existing epilepsy, but also in the setting of CNS opportunistic infections and for other neurologic and psychiatric conditions including neuropathy, refractory headaches, depression, and bipolar disorder <ref type="bibr" target="#b3">[4]</ref>. Concurrent use of highly-active antiretroviral therapy (HAART) and AEDs has the potential for highly complex and clinically significant drug interactions.</p><p>Several first-generation AEDs, including phenytoin, carbamazepine, and phenobarbital are metabolized by the cytochrome P450 (CYP450) enzyme system. This pathway of drug metabolism is also utilized by protease inhibitors (PIs), non-nucleoside reverse transcriptase inhibitors (NNRTIs), and the CCR5 inhibitor maraviroc <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>. In addition to competing for enzyme binding sites, some antiretrovirals and AEDs intrinsically induce CYP450 metabolism with the potential to decrease blood levels of both agents. As a consequence, this drug interaction may limit the effectiveness of HAART and predispose patients to adverse HIV treatment outcomes, including virologic failure, accumulation of antiretroviral drug resistance mutations, and HIV disease progression. In turn, lower AED blood levels may also have deleterious effects due to lack of efficacy, including loss of seizure control or inadequate control of neuropathic pain.</p><p>In many parts of the world where HIV is highly prevalent, such as sub-Saharan Africa and parts of Asia, only CYP450 enzyme-inducing AEDs (EI-AEDs) are available <ref type="bibr" target="#b5">[6]</ref>. Thus, treating both HIV and epilepsy in these areas may lead to suboptimal treatment of both conditions due to the potential for clinically significant drug interactions. The US Department of Health and Human Services (DHHS) guidelines <ref type="bibr" target="#b6">[7]</ref> recommend considering alternative anticonvulsants or monitoring drug levels, while WHO guidelines <ref type="bibr" target="#b7">[8]</ref> recommend cautious use, drug level monitoring, or avoidance of these combinations. Since there are inadequate clinical data and the virologic efficacy is largely unknown for HAART in the setting of concurrent EI-AED use, we performed a retrospective case control study to determine the virologic outcomes in participants with concomitant HAART/EI-AED use in the US military HIV Natural History Study (NHS).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Participants were identified in the database of over 5,000 patients enrolled in the NHS since 1986, a cohort of consenting military members, retirees, and beneficiaries 18 years or older with HIV <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10]</ref>. Individuals are seen approximately every 6 months at participating United States military treatment facilities. Data are systematically collected, including demographic characteristics, information on medication use, laboratory data, and reports of clinical events with medical record confirmation.</p><p>The NHS database was searched for individuals on concurrent HAART and EI-AEDs, which included phenytoin, carbamazepine, and phenobarbital. HAART regimens were PI-or NNRTI-based as previously defined <ref type="bibr" target="#b9">[10]</ref>. Regimens consisting only of triple nucleoside reverse transcriptase inhibitors (NRTIs) were excluded due to the lack of drug interactions between EI-AEDs and the NRTI class. Participants included were those taking a PI-or NNRTI-based HAART regimen for ≥6 consecutive months and during this period were taking an EI-AED drug for ≥28 consecutive days. Since participants in the EI-AED group may have taken medications that can affect CYP450 metabolism other than HAART and EI-AEDs, use of rifamycin antibiotics (CYP450 inducers) and azole antifungals (CYP450 inhibitors) were reported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Comparison Groups</head><p>Two control groups were used for comparisons to the EI-AED group, the first consisted of participants prescribed AEDs that are not CYP450 enzyme-inducing, the NEI-AED group. NEI-AEDs included levetiracetam, lamotrigine, zonisamide, ethosuxamide, topiramate, gabapentin, tiagabine, and pregabalin. Oxcarbamazepine (a weak CYP450 inducer) and valproic acid (a CYP450 inhibitor) were excluded. Since participants in the EI-AED group were prescribed AEDs primarily for seizure treatment and prophylaxis as well as neuropathy, participants in the NEI-AED group were restricted to those taking these drugs for the same indications. Analogous to the EI-AED group, the NEI-AED group was required to have a HAART duration ≥ 6 months and an AED overlap during the HAART period of ≥28 days.</p><p>The second control group was a subgroup of all participants on HAART without any AED use in the NHS (non-AED group), matched (10:1) to each EI-AED patient according to year of HAART initiation and number of previous HAART regimens. Participants in this control group must have been on their HAART regimen for ≥ 6 months to be included. Since all cases in the EI-AED group had a documented date of HIV infection prior to the year 2000, all potential controls were limited to those with dates of HIV infection prior to 2000.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Virologic Outcomes</head><p>Virologic failure was defined as having all plasma viral loads (VLs) in the first 6 months of HAART (minimum of 2 values) ≥400 copies/mL and/or the participant having 2 consecutive VLs ≥400 copies/mL after 6 months of HAART. Other virologic outcomes assessed included the percentage of participants with VL &lt;400 copies/mL at 6 and 12 months of HAART, and the average of VL (log 10 ) for each individual within the HAART period. For virologic suppression at 6 and 12 months, the VL closest to 6 and 12 months after HAART initiation, respectively, were used.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Methods</head><p>Logistic regression was used to compare the proportion with virologic failure and viral suppression after starting HAART in the EI-AED and each of the comparison groups. For each outcome, the number and percent of participants with the outcome are reported with the relative odds and 95% CI, cases versus controls. Analysis of variance and covariance was used to compare cases and controls for average VLs during HAART. Mean case-control differences are reported ± standard error (SE). Because some individuals in the EI-AED and NEI-AED groups had multiple HAART episodes with concurrent AED use, GEE analyses was used to compare virologic outcomes using multiple HAART/AED overlap episodes (up to the first 3 episodes). For binary outcomes, a logic link was used in the GEE analyses; for continuous outcomes a normal link was used.</p><p>Both univariate and multivariate analyses were performed. For the analyses comparing the EI-AED and NEI-AED groups, a model adjusting for year of and VL prior to HAART initiation was performed. For comparison of the EI-AED and non-AED groups, adjustment was made only for prior VL, since cases were matched to controls for year starting HAART. SAS, version 9.2 was used for all analyses; PROC GENMOD was used for the GEE analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline and Demographic Factors</head><p>Based on inclusion criteria, 19 participants were treated concurrently with EI-AEDs and HAART, with 12, 6, and 1 taking phenytoin, carbamazepine, and phenobarbital for the first HAART/EI-AED overlap period, respectively. EI-AEDs were used for seizure disorder in 17 of 19 participants; further characterization of seizure disorders included CNS toxoplasmosis (2 with seizures, 1 for prophylaxis), herpes simplex meningitis/encephalitis (n = 2), progressive multifocal leukoencephalopathy (n = 1), seizures following a motor vehicle accident (n = 1), and the remainder with seizure disorders without further characterization (n = 10). Two individuals used EI-AEDs for neuropathic pain. For the NEI-AED group, 85 participants met inclusion criteria; 82 received gabapentin, 2 pregabalin, and 1 levetiracetam at the first overlap. The majority of participants were prescribed NEI-AEDs for the indication of neuropathic pain (81/85, 95%), with the remainder for seizure disorder (4/85, 5%). Two participants were prescribed rifampin and 1 participant had a history of itraconazole use, however none of these medications were prescribed during the HAART periods investigated in this study.</p><p>Demographic factors including age at HIV diagnosis and race were similar between the EI-AED, NEI-AED and non-AED groups. However, participants in the EI-AED group were younger at first HAART/AED overlap compared to the NEI-AED group (40.1 vs. 45.1 years, P = 0.027; Table <ref type="table" target="#tab_0">1</ref>), reflective of the EI-AED group starting HAART during an earlier calendar year (median 1998 versus 2003). Mean CD4 cell count and log 10 VL at HAART initiation were similar between the 3 groups, although VL levels tended to be higher in the EI-AED compared to the NEI-AED group (3.8 versus 3.1 log 10 copies/mL; P = 0.075). The EI-AED group had a higher proportion of individuals with AIDS-defining events prior to the HAART period analyzed, however this was only significant in comparison to the non-AED group (57.9% vs. 21.1%; P &lt; 0.001). The majority of participants in all groups were HAART treatment experienced, however the EI-AED group had a higher percentage of HAART-naive individuals (21.1%) compared to the NEI-AED group (7.1%; P = 0.01).</p><p>In evaluating HAART/AED overlap periods, 7 (36.8%) EI-AED participants had a single period of overlap, while 5 (26.3%) and 7 individuals (36.8%) had 2 or ≥3 overlap periods, respectively. The number of overlaps was similar for the NEI-AED group. The duration of first HAART/AED overlap was no different between the groups, with 7.0 months (range 1.0-96.4) overlap in the EI-AED group compared to 9.1 months (1.3-65.4) for the NEI-AED group (P = 0.231). The groups were also similar when all eligible HAART/AED periods were considered, with 21.3 (1.0-155.4) and 22.1 (1.6-120.3) months of overlap for the EI-AED and NEI-AED groups, respectively (P = 0.798).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>EI-AED Group versus NEI-AED Group</head><p>In comparing outcomes for the first HAART/AED overlap, virologic failure was significantly greater in the EI-AED group (62.5%) compared to the NEI-AED group (26.7%; P = 0.009; Table <ref type="table" target="#tab_1">2</ref>). The average log 10 VL during the overlap period was also higher in the EI-AED group (3.3 ± 1.3 vs. 2.4 ± 1.2; P = 0.006). The percentage of participants with VL &lt;400 copies/mL was significantly lower in the EI-AED group compared to the NEI-AED group at 6 months (33.3% vs. 71.4%; P = 0.016) and 12 months (36.4% vs. 75%; P = 0.018), respectively.</p><p>Results were similar when multiple HAART/AED overlap periods per individual were included in the analyses, which added approximately twice the number of HAART/ AED episodes (Table <ref type="table" target="#tab_1">2</ref>). Virologic failure was more common in HAART episodes for EI-AED (63.3%) compared to NEI-AED individuals (27.9%; P = 0.006) and the average log 10 VL during the overlap period was significantly higher in the EI-AED group (3.3 ± 1.3 vs. 2.5 ± 1.3; P = 0.005). The percentage of participant HAART episodes with VL &lt; 400 copies/mL was also lower in the EI-AED group compared to the NEI-AED group at 6 months (28.6% vs. 69.4%; P = 0.002) and 12 months (39.1% vs. 74%; P = 0.004).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>EI-AED Group versus NEI-AED Group -Multivariate Analyses</head><p>Analysis of virologic outcomes adjusting for year of and VL at HAART initiation yielded similar odds ratios to that in the univariate analyses. This was true for both analyses of the initial overlap period and in using multiple overlaps. However, only for the multiple overlap analyses were the odds ratios significantly different from one. The estimated odds ratio for virologic failure for the EI-AED group compared to the NEI-AED group using multiple episodes was 4.19 (95% CI [1.54-11.44]; P = 0.005).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>EI-AED Group versus non-AED Group -Univariate and Multivariate Analyses</head><p>For the EI-AED group, virologic failure was higher compared to the non-AED group (62.5% vs. 42.5%) in </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>HIV-infected patients commonly require treatment with AEDs due to neurologic and psychiatric conditions. Drug interactions between EI-AEDs and HAART are highly complex and may result in loss of efficacy for one or both treatments. In examining this interaction retrospectively in a military HIV cohort with free access to healthcare and medications, we found greater virologic failure in individuals taking EI-AEDs compared to NEI-AEDs when used in combination with HAART. Since first line agents for epilepsy in most low and middle income countries are limited to EI-AEDs, the clinical  ramifications of HAART/EI-AED drug interactions may be substantial. Despite the widespread use of EI-AEDs and the potential for significant drug interactions with HAART, clinical studies are extremely limited <ref type="bibr" target="#b10">[11]</ref>. A randomized, parallel-arm study examined the pharmacokinetic interaction between lopinavir/ritonavir (400 mg/100 mg twice daily) and phenytoin (300 mg daily) in healthy volunteers <ref type="bibr" target="#b11">[12]</ref>. In the first arm of 12 participants, the addition of phenytoin reduced the area under the concentration-time curve (AUC) of lopinavir and ritonavir by 33% and 28%, respectively after 12 days of overlap compared to the pre-phenytoin period. Notably, the effect of increased lopinavir clearance secondary to CPY3A4 induction by phenytoin was not offset by the presence of low dose ritonavir used as a "boosting" agent. The second arm of 8 participants showed a 31% reduction in phenytoin AUC after the addition of lopinavir/ritonavir demonstrating a two-way drug interaction between classes. A similar result was shown in a randomized, crossover study of 18 healthy individuals receiving either efavirenz (600 mg daily) or carbamazepine (titrated to 400 mg daily) followed by 14-21 days of overlap with the other drug <ref type="bibr" target="#b12">[13]</ref>. Compared to pre-overlap levels, efavirenz AUC and minimum (Cmin) and maximum (Cmax) concentrations were reduced by approximately 17% to 43% while carbamazepine AUC decreased by 27%. Though the majority of drug-drug interactions result in reduced plasma concentrations, carbamazepine toxicity may occur secondary to inhibition of CYP3A4 when used with low dose ritonavir <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b13">14]</ref>. Since most studies were performed in healthy volunteers, extrapolation of these findings to patients with HIV infection and epilepsy is difficult because the clinical implications of these interactions have not been adequately studied.</p><p>This is the first study demonstrating clinically meaningful outcomes in participants receiving overlapping treatment with EI-AEDs and HAART. The impact is so robust, that we were able to demonstrate this despite the small number of individuals receiving EI-AEDs. Since it is more difficult to enter military service with pre-existing epilepsy, the overall incidence of epilepsy is low in our cohort. Yet, the close follow-up in this prospective observational cohort makes it uniquely ideal for an assessment of clinical consequences of this interaction. Despite the small number of participants taking EI-AEDs in our study, these agents are still commonly used even in the United States. EI-AEDs are favored by some insurance plans due to their lower cost, so it is likely that a cohort with a higher prevalence of epilepsy would have included more participants on EI-AEDs. It is notable that of the 21 participants diagnosed with a seizure disorder in this study, 17 were taking EI-AEDs.</p><p>The comparison of EI-AEDs versus NEI-AEDs combined with HAART in our study showed worse virologic outcomes in the EI-AED group. The inclusion criteria for the NEI-AED group were chosen to best approximate the participants in the EI-AED group, specifically targeting use of NEI-AEDs for the indications of seizure disorder or neuropathic pain. In cases where the specific indication for AED use was known, the majority of individuals were prescribed AEDs in the setting of CNS opportunistic infections. The relatively small number of individuals in the EI-AED group limited the power of the study. This was likely due to the increased availability of newer AEDs that are not CYP450-enzyme inducing over the past decade. Other limitations include the differing proportions of seizure disorders and neuropathic pain in the two groups. As a reflection of this, the drugs in the NEI-AED group are agents commonly used for neuropathic pain. Multivariate analyses were performed in an attempt to minimize some of the differences in HAART period between groups, with results demonstrating worse virologic outcomes in the EI-AED group. Other unmeasured factors included HIV drug resistance, potency of HAART regimens, adherence to both drug classes, absence of ARV and AED blood levels, and the inability to study individual EI-AED and ARV pairings due to small sample size. The EI-AED group also had a higher percentage of AIDS events and higher VL prior to the first AED/HAART overlap compared to NEI-AED group. This suggests that the EI-AED group may have more advanced HIV disease and greater risk of virologic failure. It is important to note, however, that the EI-AED group had less treatment experience than the NEI-AED group, with 42% and 15% having &lt;1 year of HAART experience, respectively. This difference in treatment experience in the EI-AED group may potentially offset the risk of treatment failure posed by having a higher percentage of prior AIDS events.</p><p>For comparison with both NEI-AED and non-AED control groups, the EI-AED group had consistently worse virologic outcomes, especially in multivariate analyses. Non-AED individuals fared better than EI-AED participants, however the results were significant only after adjustment for VL at HAART initiation. There are several unmeasured factors that may have contributed to these findings including medication doses and adherence, HIV drug resistance, and other uncharacterized variables unique to patients with seizure disorders or neuropathic pain. Measures of AED efficacy, including seizure control, were not completely captured. Our initial hypothesis was that concurrent HAART/EI-AED use would lead to subtherapeutic blood levels of HAART, elevated VLs, and eventually virologic failure. We chose a minimum HAART/AED overlap period of ≥28 days due to the small number of patients exposed to EI-AEDs for any duration. The median duration for all overlaps was 9 months for the EI-AED group. Since epilepsy and seizure disorders typically require longterm, if not life-long treatment, many patients will be taking EI-AEDs and HAART for extended periods of time. Even though the percentage of participants with virologic failure was high at 63.3%, it is possible that the HAART/EI-AED overlap time was insufficient to develop regimen failure for some individuals and additional failures would occur with continued use of both classes.</p><p>The introduction of EI-AEDs in patients with HIV may complicate a regimen that is already subject to other challenges from drug interactions. For example, the burden of tuberculosis in sub-Saharan Africa requires many HIV-infected patients to receive concurrent antituberculous treatment (ATT). The cornerstone of ATT regimens is the rifamycin class of antibiotics. As inducers of CYP450, rifamycins can also enhance the metabolism of AEDs and antiretrovirals, adding further management challenges <ref type="bibr" target="#b14">[15]</ref>. Compared to rifampin, rifabutin has less CYP450 induction and is favored for ATT in the setting of HAART. In the current study, no participants were treated for active tuberculosis during the study period.</p><p>The World Health Organization's list of essential medicines includes the EI-AEDs carbamazepine, phenytoin, and phenobarbital <ref type="bibr">[16]</ref>. In addition to the availability of only EI-AEDs in many areas of the world, the expanding use of AEDs in patients with HIV has made the management of HIV and comorbid conditions challenging in these locations, as well as in more developed countries. For example, distal sensory polyneuropathy (DSP), often treated with AEDs, occurs in up to 57% of patients with HIV and the risk of developing DSP is increased with underlying nutritional deficiencies <ref type="bibr" target="#b15">[17]</ref><ref type="bibr" target="#b16">[18]</ref><ref type="bibr" target="#b17">[19]</ref>.</p><p>In the setting of concurrent HAART/EI-AED use, the US Department of Health and Human Services (DHHS) guidelines <ref type="bibr" target="#b6">[7]</ref> recommend providers consider use of alternative agents and/or monitoring of blood levels of HAART/EI-AEDs. Therapeutic drug monitoring (TDM) of HAART is not routinely recommended for the management of HIV patients. However, DHHS guidelines suggest that TDM may be useful in situations with clinically significant drug-drug interactions that may result in reduced efficacy, including use of certain AEDs. TDM may identify reduced blood levels of HAART as a result of drug-drug interactions prompting the provider to consider increasing the dose of ARVs. However, this may lead to a higher rate of adverse effects and ultimately impact drug tolerance and adherence.</p><p>Despite the potential merits of this approach, TDM has several limitations including cost and limited availability. According to a recent Cochrane review <ref type="bibr" target="#b18">[20]</ref>, TDM trials are generally small and underpowered, have short follow-up time, and poor compliance with TDM recommendations. TDM trials have also been performed in countries with higher income and may not be generalized to resource-limited settings. Since the majority of EI-AED use is in low and middle income countries due to the greater cost of NEI-AEDs, TDM is unlikely to be an option for clinicians in these areas.</p><p>In settings where EI-AEDs must be used, it is important to recognize treatment failure early with frequent VL monitoring and clinical assessments for efficacy of HAART and EI-AEDs. HAART regimens composed of the integrase inhibitor raltegravir in combination with 2 NRTIs would enable clinicians to avoid drug-drug interactions, however raltegravir may not be available in many areas. Although there are concerns that a triple NRTI regimen may be less durable compared to other HAART regimens, this may be another reasonable option given the lack of drug interactions between NRTIs and EI-AEDs <ref type="bibr" target="#b19">[21]</ref>.</p><p>For the treatment of epilepsy in the setting of HIV infection, alternative agents to EI-AEDs should be administered if available. Valproic acid is available in many regions, however this drug is a weak inhibitor of CYP450 and may lead to increased HAART levels and toxicity, especially when used with lopinavir/ritonavir <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b20">22]</ref>. Due to its additional property as a non-selective histone deacyltase (HDAC) inhibitor, in vitro studies indicate valproic acid may increase HIV outgrowth from resting CD4+ T cells <ref type="bibr" target="#b21">[23]</ref>. However, the in vivo effects and clinical relevance have not been firmly established <ref type="bibr" target="#b22">[24,</ref><ref type="bibr" target="#b23">25]</ref>. Despite the potential concerns, valproic acid appears to be a safe alternative to EI-AEDs when used with HAART <ref type="bibr" target="#b24">[26]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>EI-AEDs should be avoided in favor of NEI-AEDs in patients requiring concurrent HAART and AED therapy due to the higher potential of virologic failure and reduced efficacy. In areas where EI-AED use cannot be avoided, closer and more frequent monitoring of HIV and seizure control is warranted. Alternative HAART regimens, such as triple NRTIs or integrase-based regimens, and use of TDM may be beneficial in managing or avoiding these complex drug interactions when available. In low to middle income regions such as sub-Saharan Africa and parts of Asia, treatment of HIV and comorbid epilepsy and other neurologic conditions will continue to pose great challenges until additional resources become available, such as NEI-AEDs and a wider repertoire of antiretrovirals.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Characteristics of HIV Subgroups</figDesc><table><row><cell>Characteristic</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Virologic Outcomes of EI-AED Compared to NEI-AED Subjects</figDesc><table><row><cell></cell><cell>EI-AED</cell><cell>NEI-AED</cell><cell>OR (95% CI) or</cell><cell>Adjusted for Year of and VL at</cell></row><row><cell></cell><cell>(N = 19)</cell><cell>(N = 85)</cell><cell>Difference ± SE</cell><cell>HAART Initiation</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>OR (95% CI) or</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Difference ± SE</cell></row><row><cell>First HAART/AED Overlap</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Virologic failure</cell><cell>10/16 (62.5%)</cell><cell>20/75 (26.7%)</cell><cell>4.58 (1.47 -14.25)</cell><cell>4.67 (0.92 -23.62)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>P = 0.009</cell><cell>P = 0.062</cell></row><row><cell>Average VL during period (log10)</cell><cell>3.3 ± 1.3 (n = 19)</cell><cell>2.4 ± 1.2 (n = 84)</cell><cell>0.8 ± 0.3;</cell><cell>0.2 ± 0.3;</cell></row><row><cell></cell><cell></cell><cell></cell><cell>P = 0.006</cell><cell>P = 0.376</cell></row><row><cell>VL &lt;400 at 6 months</cell><cell>4/12 (33.3%)</cell><cell>50/70 (71.4%)</cell><cell>0.20 (0.05 -0.74)</cell><cell>0.35 (0.06 -2.07)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>P = 0.016</cell><cell>P = 0.247</cell></row><row><cell>VL &lt;400 at 12 months</cell><cell>4/11 (36.4%)</cell><cell>42/56 (75.0%)</cell><cell>0.19 (0.05 -0.75)</cell><cell>0.17 (0.02 -1.42)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>P = 0.018</cell><cell>p = 0.102</cell></row><row><cell>All HAART/AED Overlaps*</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Virologic failure</cell><cell>19/30 (63.3%)</cell><cell>34/122 (27.9%)</cell><cell>4.29 (1.51 -12.21)</cell><cell>4.19 (1.54 -11.44)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>P = 0.006</cell><cell>P = 0.005</cell></row><row><cell>Average VL during period (log10)</cell><cell>3.3 ± 1.3 (n = 34)</cell><cell>2.5 ± 1.3 (n = 142)</cell><cell>0.9 ± 0.3</cell><cell>0.7 ± 0.3</cell></row><row><cell></cell><cell></cell><cell></cell><cell>P = 0.005</cell><cell>P = 0.007</cell></row><row><cell>VL &lt;400 at 6 months</cell><cell>8/28 (28.6%)</cell><cell>84/121 (69.4%)</cell><cell>0.17 (0.06 -0.53)</cell><cell>0.25 (0.07 -0.86)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>P = 0.002</cell><cell>P = 0.028</cell></row><row><cell>VL &lt;400 at 12 months</cell><cell>9/23 (39.1%)</cell><cell>71/96 (74.0%)</cell><cell>0.21 (0.07 -0.61)</cell><cell>0.22 (0.06 -0.75)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>P = 0.004</cell><cell>P = 0.016</cell></row></table><note><p>OR (odds ratio): Odds of virologic event for EI-AED cases versus odds for NEI-AED controls; VL, viral load (copies/mL); * Up to three intervals used per subject</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Virologic Outcomes of EI-AED Compared to Non-AED Subjects</figDesc><table><row><cell></cell><cell>EI-AED</cell><cell>Non-AED</cell><cell>OR (95% CI) or</cell><cell>Adjusted for VL at</cell></row><row><cell></cell><cell>(N = 19)</cell><cell>(N = 190)</cell><cell>Difference ± SE</cell><cell>HAART Initiation</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>OR (95% CI) or</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Difference ± SE</cell></row><row><cell>First HAART/AED Overlap</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Virologic failure</cell><cell>10/16 (62.5%)</cell><cell>62/146 (42.5%)</cell><cell>2.26 (0.78 -6.54)</cell><cell>4.30 (1.02 -18.07)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>P = 0.134</cell><cell>P = 0.046</cell></row><row><cell>Average VL during period (log10)</cell><cell>3.3 ± 1.3 (n = 19)</cell><cell>2.9 ± 1.2 (n = 184)</cell><cell>0.4 ± 0.3;</cell><cell>0.3 ± 0.3;</cell></row><row><cell></cell><cell></cell><cell></cell><cell>P = 0.198</cell><cell>P = 0.195</cell></row><row><cell>VL &lt;400 at 6 months</cell><cell>4/12 (33.3%)</cell><cell>89/160 (55.6%)</cell><cell>0.40 (0.12 -1.38)</cell><cell>0.30 (0.06 -1.48)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>P = 0.146</cell><cell>P = 0.139</cell></row><row><cell>VL &lt;400 at 12 months</cell><cell>4/11 (36.4%)</cell><cell>80/125 (64.0%)</cell><cell>0.32 (0.09 -1.16)</cell><cell>0.17 (0.03 -0.89)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>P = 0.083</cell><cell>P = 0.036</cell></row></table><note><p>OR (odds ratio): Odds of virologic event for EI-AED cases versus odds for non-AED controls; VL, viral load (copies/mL)</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements and Funding</head><p>The content of this publication is the sole responsibility of the authors and does not necessarily reflect the views or policies of the <rs type="funder">NIH</rs> or the</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Department of Health and Human Services, the DoD or the Departments of the Army, Navy or Air Force. Mention of trade names, commercial products, or organizations does not imply endorsement by the U.S. Government. This work was presented, in part, at the 18 th Conference on Retroviruses and Opportunistic Infections, Boston, MA, USA. The Infectious Disease Clinical Research Program HIV Working Group includes Mark Kortepeter, Helen Chun, Cathy Decker, Susan Fraser, Joshua Hartzell, Gunther Hsue, Arthur Johnson, Alan Lifson, Grace Macalino, Robert O'Connell, John Powers, Roseanne Ressner, Edmund Tramont, Tyler Warkentian, Paige Waterman, Sheila Peel, Connor Eggleston, Scott Merritt, Susan Banks, Michael Zapor, Brian Agan, Michelle Linfesty, Mary Bavaro, Timothy Whitman, Glenn Wortmann, and Lynn Eberly. Support for this work (IDCRP-000-03) was provided by the Infectious Disease Clinical Research Program (IDCRP), a Department of Defense (DoD) program executed through the Uniformed Services University of the Health Sciences. This project has been funded in whole, or in part, with federal funds from the National Institute of Allergy and Infectious Diseases, National Institutes of Health (NIH), under Inter-Agency Agreement Y1-AI-5072.</p><p>Competing interests JFO, GAG, DMS, GLB, AG, ACW, NC, TL, and MLL declare that they have no competing interests. JAF has served on the scientific advisory board of UCB, Johnson &amp; Johnson, Eisai, Novartis, Valeant, Icagen, Intranasal, Sepracor, and Marinus. Dr. French is the president of the Epilepsy Study Consortium that receives funding from multiple pharmaceutical companies. JMG is a consultant for Pfizer.</p></div>
+			</div>
+
+
+			<div type="contribution">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Authors' contributions</head><p>All authors participated in the design of the study and manuscript preparation. GAG performed the statistical analysis. All authors read and approved the final manuscript.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author details</head><note type="other">1</note><p>Infectious Disease Clinical Research Program, Uniformed Services University of the Health Sciences, Bethesda, MD, USA. 2 Infectious Disease Service, Brooke Army Medical Center, San Antonio TX, USA. 3 Division of Biostatistics, University of Minnesota, Minneapolis, MN, USA. 4 NYU Comprehensive Epilepsy Center, New York, NY, USA. 5 Department of Pharmacy Practice and Administration, Philadelphia College of Pharmacy, Philadelphia, PA, USA. 6 Department of Neurology, Mount Sinai School of Medicine, New York, NY, USA. 7 International Neurologic &amp; Psychiatric Epidemiology Program, Michigan State University, East Lansing, MI, USA. 8 Division of Infectious Diseases, National Naval Medical Center, Bethesda, MD, USA. 9 Infectious Disease Service, Walter Reed Army Medical Center, Washington, DC, USA. Infectious Disease Clinic, Naval Medical Center San Diego, San Diego, CA, USA.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>10</head><label>10</label></figure>
+			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Frequency of seizures and epilepsy in neurological HIV-infected patients</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kellinghaus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Seizure</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="33" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">New-onset seizures associated with human immunodeficiency virus infection: causation and clinical features in 100 cases</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Holtzman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kaku</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">T</forename><surname>So</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="173" to="177" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Seizures in human immunodeficiency virus infection</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Suite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Labar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Neurol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="640" to="642" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Anticonvulsant and antiretroviral interactions</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Liedtke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lockhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Rathbun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Pharmacother</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="482" to="489" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Maraviroc: a review of its use in the management of CCR5tropic HIV-1 infection</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Perry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drugs</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1189" to="1213" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Lack of appropriate treatment for people with comorbid HIV/AIDS and epilepsy in sub-Saharan Africa</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Birbeck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Epilepsia</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1424" to="1425" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Panel on Antiretroviral Guidelines for Adults and Adolescents. Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents. Department of Health and Human Services</title>
+		<ptr target="http://www.aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL.pdf" />
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="1" to="161" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<monogr>
+		<ptr target="http://www.who.int/hiv/pub/arv/adult/en/index.html" />
+		<title level="m">Antiretroviral Therapy for HIV Infection in Adults and Adolescents: Recommendations for a Public Health Approach</title>
+		<imprint>
+			<publisher>World Health Organization</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>Revision</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Increasing age at HIV seroconversion from 18 to 40 years is associated with favorable virologic and immunologic responses to HAART</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Weintrob</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Acquir Immune Defic Syndr</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="40" to="47" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Outcomes of highly active antiretroviral therapy in the context of universal access to healthcare: the U.S. Military HIV Natural History Study</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Marconi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Res Ther</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">14</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Therapeutic dilemma: the use of anticonvulsants in HIV-positive individuals</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Romanelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurology</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1404" to="1407" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Coadministration of lopinavir/ritonavir and phenytoin results in two-way drug interaction through cytochrome P-450 induction</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Acquir Immune Defic Syndr</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1034" to="1040" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetic interaction between efavirenz and carbamazepine after multiple-dose administration in healthy subjects</title>
+		<author>
+			<persName><surname>Ji</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="948" to="956" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Potential interaction between ritonavir and carbamazepine</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacotherapy</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="851" to="854" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Update on rifampin and rifabutin drug interactions</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Baciewicz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med Sci</title>
+		<imprint>
+			<biblScope unit="volume">335</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="126" to="136" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Predominantly sensory neuropathy in patients with AIDS and AIDS-related complex</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Cornblath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mcarthur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurology</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="794" to="796" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Continued high prevalence and adverse clinical impact of human immunodeficiency virus-associated sensory neuropathy in the era of combination antiretroviral therapy: the CHARTER Study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Ellis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Neurol</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="552" to="558" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Neurological complications of HIV infection</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mcarthur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Brew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Neurol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="543" to="555" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Therapeutic drug monitoring of antiretrovirals for people with HIV</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kredo</surname></persName>
+		</author>
+		<idno>CD007268</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cochrane Database Syst Rev</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A combination drug of abacavir-lamivudine-zidovudine (Trizivir) for treating HIV infection and AIDS</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shey</surname></persName>
+		</author>
+		<idno>CD005481</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cochrane Database Syst Rev</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Effects of valproic acid coadministration on plasma efavirenz and lopinavir concentrations in human immunodeficiency virus-infected adults</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dicenzo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Antimicrob Agents Chemother</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="4328" to="4331" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Coaxing HIV-1 from resting CD4 T cells: histone deacetylase inhibition allows latent viral expression</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ylisastigui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aids</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1101" to="1108" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The histone deacetylase inhibitor ITF2357 decreases surface CXCR4 and CCR5 expression on CD4(+) T-cells and monocytes and is superior to valproic acid for latent HIV-1 expression in vitro</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Matalon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Acquir Immune Defic Syndr</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Antiretroviral intensification and valproic acid lack sustained effect on residual HIV-1 viremia or resting CD4+ cell infection</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Archin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">9390</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Clinical outcomes and immune benefits of anti-epileptic drug therapy in HIV/AIDS</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Neurol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">44</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

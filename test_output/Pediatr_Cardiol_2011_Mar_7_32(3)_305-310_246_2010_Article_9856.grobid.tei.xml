@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Catabolism of Branched-Chain Amino Acids in Heart Failure: Insights from Genetic Models</title>
+				<funder ref="#_BjgTjhA #_XJbvAxH #_9Rk77CX">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_esNYuZr">
+					<orgName type="full">Great Western Affiliate of American Heart Association</orgName>
+				</funder>
+				<funder ref="#_cnnrNJ5">
+					<orgName type="full">National Institutes of Health</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-01-07">7 January 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Haipeng</forename><surname>Sun</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gang</forename><surname>Lu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Shuxun</forename><surname>Ren</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jaunian</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Yibin</forename><surname>Wang</surname></persName>
+						</author>
+						<title level="a" type="main">Catabolism of Branched-Chain Amino Acids in Heart Failure: Insights from Genetic Models</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-01-07">7 January 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E7145C4DC15BCEDCDF9E1B289C9C8433</idno>
+					<idno type="DOI">10.1007/s00246-010-9856-9</idno>
+					<note type="submission">Received: 29 November 2010 / Accepted: 3 December 2010 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-04T10:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Amino acid metabolism</term>
+					<term>Branched-chain amino acid catabolism</term>
+					<term>Branched-chain alpha keto acid-dehydrogenase complex</term>
+					<term>PP2Cm</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Genetic defects in amino acid metabolism are major causes of newborn diseases that often lead to abnormal development and function of the central nervous system. Their direct impact on cardiac development and function has rarely been investigated. Recently, the authors have established that a mitochondrial targeted 2C-type ser/ thr protein phosphatase, PP2Cm, is the endogenous phosphatase of the branched-chain alpha keto acid-dehydrogenase complex (BCKD) and functions as a key regulator in branched-chain amino acid catabolism and homeostasis. Genetic inactivation of PP2Cm in mice leads to significant elevation in plasma concentrations of branched-chain amino acids and branched-chain keto acids at levels similar to those associated with intermediate mild forms of maple syrup urine disease. In addition to neuronal tissues, PP2Cm is highly expressed in cardiac muscle, and its expression is diminished in a heart under pathologic stresses. Whereas phenotypic features of heart failure are seen in PP2Cmdeficient zebra fish embryos, cardiac function in PP2Cmnull mice is compromised at a young age and deteriorates faster by mechanical overload. These observations suggest that the catabolism of branched-chain amino acids also has physiologic significance in maintaining normal cardiac function. Defects in PP2Cm-mediated catabolism of branched-chain amino acids can be a potential novel mechanism not only for maple syrup urine disease but also for congenital heart diseases and heart failure.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Amino Acid Metabolism and Genetic Disorders</head><p>Amino acids are key nutrient molecules essential for cell growth, survival, and normal function. In addition to providing building blocks for protein synthesis, many amino acids are an essential ingredient for biosynthesis of other molecules as the sources of nitrogen and carbon <ref type="bibr" target="#b7">[8]</ref>. Some amino acids, including branched-chain amino acids, also have been shown to possess a potent signaling function to regulate global growth and metabolism <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b22">23]</ref>. Therefore, the impact of amino acid metabolism on embryonic development and human congenital diseases has long been recognized.</p><p>Maple syrup urine disease, one of the most common genetic disorders caused by defects in amino acid metabolism, is a target of mandatory newborn screening in most of the United States and throughout the world <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b19">20]</ref>. The clinical manifestations of classical maple syrup urine disease are mostly neuropathologic, including seizure and mental retardation <ref type="bibr" target="#b6">[7]</ref>. However, recent studies from animal models of maple syrup urine disease raise concerns about the potential adverse impact of branched-chain amino acid metabolic defects on cardiac development and function. These concerns are the focus of the discussion in this review.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Catabolism of Branched-Chain Amino Acids</head><p>Branched-chain amino acids (BCAAs) including leucine, isoleucine, and valine are essential amino acids that must H. Sun Á G. Lu Á S. Ren Á J. Chen Á Y. Wang (&amp;) Division of Molecular Medicine, Departments of Anesthesiology, Medicine and Physiology, Molecular Biology Institute, Cardiovascular Research Laboratories, David Geffen School of Medicine, CSH, Room BH 569, 650 Charles E. Young Drive, Los Angeles, CA 90095, USA e-mail: yibinwang@mednet.ucla.edu be acquired from external food. In addition to their abundant presence in protein peptides as key hydrophobic building blocks, BCAAs also serve as significant sources for biosynthesis of sterol, keto bodies, and glucose <ref type="bibr" target="#b2">[3]</ref>. Among the BCAAs, particularly leucine has potent signaling activity to promote protein synthesis, cellular metabolism, and cell growth in a mammalian target of rapamycin (mTOR)-dependent manner <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b18">19]</ref>.</p><p>Although BCAAs are necessary for normal growth and function at cellular and organism levels, an excess amount of free BCAAs also can be pathologic. A high plasma level of BCAAs is the benchmark and cause of maple syrup urine disease, a potentially life-threatening disorder affecting 1 of 180,000 newborn babies on the average in the general population, with a much higher prevalence among certain Amish, Mennonite, and Jewish communities <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b19">20]</ref>.</p><p>Because BCAAs are essential amino acids with no biosynthesis pathways in animal cells, their homeostasis is determined largely by catabolic activities in a number of organs, particularly the liver <ref type="bibr" target="#b8">[9]</ref>. The first step in the catabolism of BCAAs is carried out in brain, muscle, and many nonhepatic tissues by the branched-chain aminotransferase (BCAT) to convert BCAAs into branched-chain alpha keto acids (BCKAs) <ref type="bibr" target="#b8">[9]</ref>. The BCKAs are decarboxylated by the branched-chain alpha keto acid dehydrogenase (BCKD) complex in the liver as well as other tissues and eventually degraded into acetyl-coenzyme A (CoA) or succinyl-CoA to fuel the TCA cycle. As BCKD mediates this rate-limiting step in BCAA catabolism, its activity dictates the steadystate levels of BCAA and BCKA. It thus is a target of multiple regulatory mechanisms, including cyclic adenosine monophosphate (cAMP)-mediated induction of RNA transcription and phosphorylation-mediated inhibition/activation of its enzymatic activity.</p><p>The BCKD complex is genetically linked with the pyruvate dehydrogenase complex (PDH) because they share extensive homology in their subunit composition and regulation. Like PDH, BCKD holoenzyme contains 24 copies of catalytic subunits E2/E3 and an equal number of regulatory subunits E1a and E1b. At low BCAA levels, E1a is hyperphosphorylated by BCKD kinase, leading to lower BCKD activity and reduced loss of BCAA. At a high BCAA level, E1a is dephosphorylated by BCKD phosphatase, leading to induced BCKD activity and the removal of excess BCAA. Therefore, BCKD phosphorylation/ dephosphorylation is critical to BCAA homeostasis <ref type="bibr" target="#b8">[9]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Molecular Identification of BCKD Phosphatase</head><p>Based on the importance of BCKD phosphorylation in its regulation, BCKD phosphatase has been well established as a key regulator in BCAA catabolism. However, its molecular identity has remained elusive for decades. Recently, through genome scanning, we discovered a mitochondrial targeted 2C-type ser/thr protein phosphatase that we named PP2C in mitochondria (PP2Cm) <ref type="bibr" target="#b10">[11]</ref>.</p><p>Through extensive proteomic and biochemical analysis, we established that PP2Cm is the missing BCKD phosphatase responsible for BCAA-induced dephosphorylation and activation of BCKD activity <ref type="bibr" target="#b11">[12]</ref>. This conclusion is based on the following lines of evidence: (1) BCKD subunits, including E2 and E1a, are specifically associated with PP2Cm in vitro and in vivo; (2) PP2Cm expression effectively dephosphorylates E1a Ser-293 phosphorylation, a key residue in BCKD enzymatic regulation; (3) PP2Cmdeficient cells have elevated basal E1a phosphorylation, which remains high at BCKA treatment; (4) PP2Cm-deficient mice have a significantly higher plasma level of BCAA and BCKA with impaired BCAA clearance after a high dose of BCAA ingestion; and (5) PP2Cm-deficient newborn mice have significantly higher mortality under a high-protein diet challenge.</p><p>All these data establish that PP2Cm is the endogenous BCKD phosphatase with an essential function in BCAA catabolism. The analysis with PP2Cm KO mice indicates that a defect in PP2Cm is a potential novel mechanism for the intermediate/inducible forms of maple syrup urine disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PP2Cm in Cardiac Regulation</head><p>The discovery of PP2Cm as the BCKD phosphatase and a key regulator in BCAA metabolism as well as the establishment of PP2Cm-deficient zebra fish and mouse models offers an opportunity to investigate the impact of BCAA regulation in intact animals. In both zebra fish embryos and adult mice, PP2Cm is highly expressed in both cardiac muscle and the central nervous system (Figs. <ref type="figure" target="#fig_0">1</ref>, <ref type="figure">2</ref>). Its expression in the heart is dynamically regulated by stress, as measured by both mRNA and protein levels, with significantly reduced levels in hypertrophic and failing hearts <ref type="bibr" target="#b10">[11]</ref>.</p><p>It is not clear whether loss of PP2Cm is a contributing factor to cardiac pathology or simply a phenomenon associated with the diseased hearts. To investigate this question, we analyzed the cardiac performance in PP2Cm-deficient zebra fish and mice. Using morpholingoes specifically targeted to zPP2Cm translation initiation codon (ATG-MO), we demonstrated that. PP2Cm-deficient fish embryos displayed a dose-dependent loss of cardiac contractility and that most of them did not survive beyond the early embryonic stage <ref type="bibr" target="#b10">[11]</ref>. Accelerated heart failure developed in PP2Cmdeficient mice after mechanical overload induced by transaortic constriction (Fig. <ref type="figure">3</ref>). These evidences suggest that loss of PP2Cm is not a mere consequence but rather a significant contributor to the pathogenesis of heart failure. These studies for the first time implicated BCAA catabolism also as an important aspect of cardiac pathophysiology and showed that defects in BCAA homeostasis can have a significant adverse impact on cardiac function and disease progression.</p><p>The underlying mechanisms for the clinical manifestations of maple syrup urine disease still are not well established, and the adverse impact on glutamine transport and the induction of reactive-oxygen species (ROS) have been implicated <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b23">24]</ref>. In our own studies with cardiac tissue or cultured cardiomyocytes, we also explored a number of these possible mechanisms.</p><p>1. We examined the cytotoxic effect of the accumulated BCAA/BCKA on cadiomyocyte survival, demonstrating that PP2Cm-deficient mice have a significantly elevated ROS level and are more susceptible to calcium-induced permeability transition pore opening in mitochondria <ref type="bibr" target="#b10">[11]</ref>. Whether and how this effect is caused by accumulated BCAA or BCKA remains to be investigated further. However, a clear implication of the observed cytotoxicity is more cell death. Indeed, we observed that PP2Cm deficiency can lead to more apoptotic cell death in both developing embryos and cultured myocytes. 2. Metabolic effects of accumulated BCAA/BCKA can be pathologic in the heart. It is known that BCAA/ BCKA can inhibit pyruvate and fatty acid transport and utilization <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b18">19]</ref>. Because cardiac tissue has a constant high demand for pyruvate and fatty acid as its main fuel source, chronically elevated BCAA/BCKA can potentially block normal bioenergenic homeostasis 3. Our findings showed that PP2Cm mediated direct modification of mitochondrial function in cellular bioenergenics and survival. Although BCKD is the only substrate identified for PP2Cm to date, it is possible that other uncharacterized substrates in mitochondria contribute to PP2Cm-mediated signaling. This is supported by our observation that the isolated 2.5ng 5ng ATG-MO ATG-MO HR=100.6±3.0 FS%=46.2% HR=95.2±7.5 FS%=33.3% HR=86.7±5.5 FS%=23.5% Line Scanning Control A B Fig. 2 Loss of fPP2Cm expression leads to heart failure in zebra fish embryo. a Video frames of cmlc-GFP transgenic fish embryo recorded under ultraviolet illumination after treatment with different concentrations of PP2Cm morpholigo. b M-mode image of zebra fish hearts from linescanning analysis as shown in A as well as heart rate (HR) and percentile fractional shortening (FS%) measurements. Adapted from Lu et al. [11] with permission HR: 545, %EF: 60.59, %FS: 32.17 HR: 545, %EF: 37.85, %FS: 18.18 HR: 533, %EF: 65.69, %FS:35.88 HR: 545, %EF: 26.61, %FS: 12.50 Wildtype PP2Cm KO A B Pre-TAC Post-TAC Fig. 3 Expression and function of PP2Cm in the heart. a Expression of PP2Cm in the heart illustrated by positive Lac-Z staining in a PP2Cm ?/lacZ heart. b Representative echocardiogram of a wild type and a PP2Cm KO heart before and after 8 weeks of pressure overload induced by TA</p><p>PP2Cm-deficient mitochondria have abnormal sensitivity to calcium-induced permeability transition pore opening even in the absence of BCAA or BCKA treatment <ref type="bibr" target="#b10">[11]</ref>. The molecular basis of this observation remains unclear, but it may imply that branched-amino acid metabolism is functionally coupled with mitochondrial inner membrane permeability, which has a key role in mitochondrial calcium, respiration coupling, ROS, and cellular viability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Perspectives</head><p>Branched-chain amino acids are important nutrient molecules with a potent signaling effect. Free BCAAs and their catabolic intermediates, BCKAs, are tightly maintained in animals by a highly regulated catabolic pathway. Defects in catabolism of BCAAs cause maple syrup urine disease, one of the most common metabolic disorders in the human population.</p><p>Although most clinical features of maple syrup urine disease are neurologic, our recent findings from cellular studies and animal models suggest that missing a key regulator in the catabolism of BCAAs also can cause a significant impairment in cardiac function (Fig. <ref type="figure" target="#fig_1">4</ref>). The implication of this observation remains to be further established. However, a recent study based on metabolic profiling of peripheral blood has demonstrated a link between abnormal metabolism of BCAAs and coronary diseases <ref type="bibr" target="#b20">[21]</ref>. As the complete molecular components of BCAA catabolic pathways are being discovered, better diagnosis will be available to identify patients with nonclassic, intermediate, or inducible maple syrup urine disease based on sequencing evidence. The insights learned from our study argue strongly for a better understanding of the role that the catabolism of BCAAs plays in the heart and its potential impact on cardiac pathology in addition to its damage to the central nervous system. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Expression pattern of PP2C in mitochondria (PP2Cm) of developing zebra fish embryos. a-f In situ hybridization signal of fPP2Cm mRNA in developing zebra fish embryos at a specific stage as indicated (hpf: hour postfertilization). g Transgene construct of</figDesc><graphic coords="3,85.65,359.78,204.04,87.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 4</head><label>4</label><figDesc>Fig. 4 Potential role played by catabolism of branched-chain amino acids (BCAA)/branched-chain alpha keto acids (BCKA) in heart failure. Schematic illustration showing the potential negative impact of an elevated BCAA/BCKA level on cardiac function via its regulation of mitochondrial electrophone transfer chain (ETC), reactive oxygen species (ROS), and mitochondrial permeability transition pore (mPTP)</figDesc><graphic coords="5,53.79,463.94,232.84,149.44" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgments This work was supported in part by <rs type="funder">National Institutes of Health</rs> grants <rs type="grantNumber">HL70079</rs>, <rs type="grantNumber">HL103205</rs>, <rs type="grantNumber">HL098954</rs>, <rs type="grantNumber">HL080111</rs>, and <rs type="grantNumber">HL088640</rs>. <rs type="person">Yibin Wang</rs> is an established investigator of the <rs type="institution">American Heart Association</rs>. <rs type="person">Haipeng Sun</rs> is a recipient of a postdoctoral fellowship and <rs type="person">Gang Lu</rs> a recipient of predoctoral fellowship awards from the <rs type="funder">Great Western Affiliate of American Heart Association</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_cnnrNJ5">
+					<idno type="grant-number">HL70079</idno>
+				</org>
+				<org type="funding" xml:id="_BjgTjhA">
+					<idno type="grant-number">HL103205</idno>
+				</org>
+				<org type="funding" xml:id="_XJbvAxH">
+					<idno type="grant-number">HL098954</idno>
+				</org>
+				<org type="funding" xml:id="_9Rk77CX">
+					<idno type="grant-number">HL080111</idno>
+				</org>
+				<org type="funding" xml:id="_esNYuZr">
+					<idno type="grant-number">HL088640</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Alpha-ketoisocaproic acid and leucine provoke mitochondrial bioenergetic dysfunction in rat brain</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">U</forename><surname>Amaral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Leipnitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Fernandes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Seminotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Schuck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wajner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">1324</biblScope>
+			<biblScope unit="page" from="75" to="84" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Amino acid regulation of TOR complex 1</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Avruch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Long</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ortiz-Vega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rapley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Papageorgiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">296</biblScope>
+			<biblScope unit="page" from="592" to="E602" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Comparison of the effects of various amino acids on glycogen synthesis, lipogenesis, and ketogenesis in isolated rat hepatocytes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Baquet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lavoinne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem J</title>
+		<imprint>
+			<biblScope unit="volume">273</biblScope>
+			<biblScope unit="page" from="57" to="62" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note>Pt 1</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">mTOR, AMPK, and GCN2 coordinate the adaptation of hepatic energy metabolic pathways in response to protein intake in the rat</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chotechuang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Azzout-Marniche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chaumontet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gausseres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Steiler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gaudichon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tome</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">297</biblScope>
+			<biblScope unit="page" from="1313" to="E1323" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Maple syrup urine disease: it has come a long way</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Chuang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Pediatr</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="17" to="S23" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Branched-chain amino acids induce neurotoxicity in rat cortical cultures</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Contrusciere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Paradisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Matteucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Malchiodi-Albedi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurotox Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="392" to="398" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Branched-chain amino acids and brain function</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Fernstrom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nutr</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="1539S" to="1546" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Branched-chain amino acid metabolism</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Harper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Block</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Nutr</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="409" to="454" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Mechanisms responsible for regulation of branched-chain amino acid catabolism</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Joshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Jeoung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Biophys Res Commun</title>
+		<imprint>
+			<biblScope unit="volume">313</biblScope>
+			<biblScope unit="page" from="391" to="396" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Accurso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">La</forename><surname>Franchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Hope</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sonya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Michele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Newborn screening fact sheets. Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="934" to="e963" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A novel mitochondrial matrix serine/threonine protein phosphatase regulates the mitochondria permeability transition pore and is essential for cellular survival and development</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Korge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Koehler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genes Dev</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="784" to="796" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Protein phosphatase 2Cm is a critical regulator of branched-chain amino acid catabolism in mice and cultured cells</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>She</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Youn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Warburton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ping</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Vondriska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Lynch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Invest</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="1678" to="1687" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Glutamine, arginine, and leucine signaling in the intestine</title>
+		<author>
+			<persName><forename type="first">Marc</forename><surname>Rhoads</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Amino Acids</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="111" to="122" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Amino acid regulation of autophagosome formation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Meijer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">445</biblScope>
+			<biblScope unit="page" from="89" to="109" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A branched-chain amino acid-related metabolic signature that differentiates obese and lean humans and contributes to insulin resistance</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Newgard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>An</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Bain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Muehlbauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Lien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Haqq</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arlotto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Slentz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rochon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gallup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ilkayeva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Wenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yancy</forename><forename type="middle">Ws</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eisenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Musante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Surwit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Millington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Svetkey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Metab</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="311" to="326" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Isoleucine prevents the accumulation of tissue triglycerides and upregulates the expression of PPARalpha and uncoupling protein in diet-induced obese mice</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nishimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Masaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arakawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Seike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yoshimatsu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nutr</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="496" to="500" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Protein, amino acids, and the control of food intake</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Potier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Darcel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tome</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Opin Clin Nutr Metab Care</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="54" to="58" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Branched-chain amino acids as fuels and anabolic signals in human muscle</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Rennie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bohe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wackerhage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Greenhaff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nutr</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="264S" to="268" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Downregulation of AMPK accompanies leucine-and glucose-induced increases in protein synthesis and insulin resistance in rat skeletal muscle</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Deoliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Brandon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Kraegen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ruderman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diabetes</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2426" to="2434" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Metabolism of branched-chain amino acids in maple syrup urine disease</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schadewaldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Wendel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Pediatr</title>
+		<imprint>
+			<biblScope unit="volume">156</biblScope>
+			<biblScope unit="issue">Suppl 1</biblScope>
+			<biblScope unit="page" from="62" to="S66" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Association of a peripheral blood metabolic profile with coronary artery disease and risk of subsequent cardiovascular events</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Bain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Muehlbauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Crosslin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Haynes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dungan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Newby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Hauser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Ginsburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Newgard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Kraus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Circ Cardiovasc Genet</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="207" to="214" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Leucine and protein synthesis: mTOR and beyond</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Stipanuk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nutr Rev</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="122" to="129" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Nutrient-signaling components controlling protein synthesis in striated muscle</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Vary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Lynch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nutr</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="1835" to="1843" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Brain amino acid requirements and toxicity: the example of leucine</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yudkoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Daikhin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Nissim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Horyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Luhovyy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lazarow</surname></persName>
+		</author>
+		<idno>1531S-1538S</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Nutr</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

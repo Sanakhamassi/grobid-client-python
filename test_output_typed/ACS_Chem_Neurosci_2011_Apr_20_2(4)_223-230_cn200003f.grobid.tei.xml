@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+				<funder>
+					<orgName type="full">Intramural Program of NICHD, NIH</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-03-10">March 10, 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-03-10">March 10, 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">724245BD6F79BEB84ECC0875279AF098</idno>
+					<idno type="DOI">10.1021/cn200003f</idno>
+					<note type="submission">Received: January 20, 2011 Accepted: February 22, 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:06+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>C almodulin (CaM) and neurogranin (Ng) are two abundant proteins in the brain whose interactions are implicated in the enhancement of synaptic responses and cognition. <ref type="bibr">1À4</ref> CaM is a highly conserved protein in all eukaryotic cells and has been shown to participate in a broad range of cellular functions. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6</ref> Ng, on the other hand, is expressed predominantly in the mammalian forebrain, where its level is highest in the hippocampus, neocortex, and amygdala. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> This small molecular weight protein (7.5 kDa) has no known enzymatic activity, and CaM is believed to be the sole Ng binding partner in vivo based on the yeast two-hybrid screening. <ref type="bibr" target="#b8">9</ref> In vitro, Ng binds CaM and their interactions are weakened by increasing Ca 2þ concentration and by covalent modifications of Ng by phosphorylation and oxidation. <ref type="bibr">10À14</ref> In the acute hippocampal slices, Ng enhances the high frequency stimulation-induced longterm potentiation (LTP) in the CA1 region through elevation of the neurotransmitter-mediated Ca 2þ transients. <ref type="bibr" target="#b3">4</ref> Interactions of CaM and Ng have been shown to be sensitive to Ca 2þ concentrations in vitro; <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b13">14</ref> however, the effect of changing intracellular Ca 2þ , <ref type="bibr">[Ca 2þ</ref> ] i , on their interactions in neurons has not been investigated. Since a reduction of Ca 2þ is expected to affect the interactions of CaM and Ng, we sought the "low-calcium" model of epilepsy in hippocampal slices <ref type="bibr">15À17</ref> to investigate the trafficking of these two proteins in CA1 pyramidal neurons. This experimental model retains many characteristics of focal hippocampal seizures in vivo. <ref type="bibr" target="#b17">18</ref> In the brain, extracellular Ca 2þ , [Ca 2þ ] o , undergoes dynamic changes that depend on neural activity; for example, <ref type="bibr">[Ca 2þ</ref> ] o decreases significantly during and after intense neuronal activity associated with seizures. <ref type="bibr">19À21</ref> Reduction of the [Ca 2þ ] o blocks synaptic transmission and gradually developed epileptiform activity. <ref type="bibr">16,17,22À24</ref> Infusion of Ca 2þ chelator, EGTA, into the hippocampus of rat generated epileptic activities, and these responses were reversed by Ca 2þcontaining fluid. <ref type="bibr" target="#b24">25</ref> In this study, we employed immunochemical staining and confocal microscopy to investigate cellular and subcellular localizations of CaM and Ng in hippocampal slices in response to changing [Ca 2þ ] o . These tissue slices were bathed alternately in the Ca 2þ -containing and Ca 2þ -free buffers for monitoring their effects on the synaptic responses, [Ca 2þ ] i , and trafficking of CaM and Ng. Our results revealed that CaM and Ng were more concentrated in the soma and less abundant in the dendrites of hippocampal CA1 pyramidal neurons under basal conditions. In particular, we found that a high level of CaM was sequestered in the nucleus. Perfusion of the tissue slices with EGTA-containing buffer caused a suppression of synaptic response, induction of epileptic activity, and a slow reduction of intracellular Ca 2þ . This treatment also caused translocation of CaM and Ng from soma to dendrites. The Ca 2þ -sensitive mobilization of CaM was most prominent for CA1 pyramidal neurons and was less pronounced among those in the neighboring CA2 and CA3 areas.</p><p>ABSTRACT: Calmodulin (CaM) and neurogranin (Ng) are two abundant neuronal proteins whose interactions are implicated in the regulation of synaptic responses and plasticity. We employed the "low-calcium" model of epilepsy in hippocampal slices to investigate the mobilization of these two proteins in CA1 pyramidal neurons. Perfusion of mouse hippocampal slices with Ca 2þ -free artificial CSF (ACSF) caused a suppression of synaptic transmission and generation of epileptic activity; these responses could be reversed by normal Ca 2þ -containing ACSF. Fluorescence immunochemical staining of control hippocampal slices bathed in normal ACSF revealed that CaM and Ng were more concentrated in soma than in dendrites; especially for CaM, it was concentrated in the nucleus. Perfusion of hippocampal slices with Ca 2þ -free ACSF caused translocation of these two proteins from soma to dendrites, and this trafficking was also reversed by Ca 2þ -containing buffer. A reduction of ∼15 and 40 nM intracellular Ca 2þ , [Ca 2þ ] i , caused half-maximum translocation of Ng and CaM, respectively. Hippocampal CA1 pyramidal neurons were the most responsive to this Ca 2þ -sensitive translocation as compared to those from other areas of the hippocampus. These results illustrated the unique feature of hippocampal CA1 pyramidal neurons in sequestering high concentrations of CaM and Ng in soma and releasing them to distal dendrites at reducing level of [Ca 2þ ] i . KEYWORDS: Calmodulin, neurogranin, calcium, translocation, hippocampus, epileptic activity ' RESULTS AND DISCUSSION Ca 2þ -Sensitive Mobilization of CaM and Ng between Soma and Dendrites. Hippocampal slices bathed in normal ACSF have been used routinely for monitoring the synaptic responses. First, we investigated the cellular and subcellular localization of CaM and Ng of these tissue slices by fluorescence immunochemical staining. The immunoreactivity (IR) of these two proteins appeared to colocalize in CA1 pyramidal neurons (Py) (Figure <ref type="figure" target="#fig_1">1</ref>). For CaM, it was largely concentrated in the nucleus, whereas its staining intensity in dendrites within stratum radiatum (Sr) and stratum oriens (So) was very weak (Figure <ref type="figure" target="#fig_1">1A</ref> and <ref type="figure">E</ref>). For Ng, its localization in the nucleus, cytoplasm, and apical dendrite was evident but the staining pattern in basal dendrite within So was patchy (Figure <ref type="figure" target="#fig_1">1B</ref> and <ref type="figure">F</ref>). Both proteins exhibited strong colocalization in nucleus as seen in the merged images with DAPI staining (Figure <ref type="figure" target="#fig_1">1C</ref> and <ref type="figure">D</ref>).</p><p>We then tested whether bathing hippocampal slices in Ca 2þfree ACSF had any effect on neuronal activity by monitoring the evoked field excitatory postsynaptic potential (fEPSP) in the CA1 region. Perfusion of EGTA-containing ACSF (EGTA/ ACSF) caused a suppression of the slope of fEPSP, and this response induced by either a short-term (5 min) or long-term (20 min) exposure could be completely reversed by switching back to Ca 2þ -containing ACSF (Figure <ref type="figure" target="#fig_2">2</ref>). These results indicate that a reduction of extracellular Ca 2þ by perfusion of EGTA/ACSF up to 20 min does not cause any obvious ill effect to the neurons.</p><p>Immunochemical staining patterns of the hippocampal slices exposed to EGTA/ACSF for different lengths of time showed that there was a progressive increase in the IRs of CaM and Ng in dendrites with a concomitant reduction of those in the cell layers (Figure <ref type="figure" target="#fig_3">3</ref>). This response was most prominent for the CA1 pyramidal neurons and less so among those in other regions of the hippocampus. For CaM, the increase in dendritic IR was most evident for those slices exposed to EGTA/ACSF for 15 and 20 min (Figure <ref type="figure" target="#fig_3">3D</ref> and <ref type="figure">E</ref>). It was most striking that after 20 min of exposure to EGTA/ACSF the CaM IR of CA1 pyramidal cell layer appeared even less intense than that of the dendrites (Figure <ref type="figure" target="#fig_3">3E</ref>). For Ng, the increase in dendritic IR was discernible after 5 min of exposure (Figure <ref type="figure" target="#fig_3">3B</ref>) and also became more  prominent after 15 and 20 min (Figure <ref type="figure" target="#fig_3">3D</ref> and <ref type="figure">E</ref>). Re-perfusion of the EGTA/ACSF-treated slices with normal Ca 2þ -containing ACSF restored the original localization patterns of these two proteins (Figure <ref type="figure" target="#fig_3">3F</ref>). These findings indicate that CaM and Ng are uniquely responsive to the Ca 2þ -mediated mobilization in CA1 pyramidal neurons.</p><p>Distinct Differences among the CA1 and Neighboring CA2 and CA3 Neurons. In hippocampus, Ng and CaM were colocalized in all principle neurons at the various subfields. Under the basal conditions, these proteins exhibited higher concentrations in soma than in dendrites with the exception of pyramidal neurons in subiculum complex, which exhibited a uniform distribution of both Ng and CaM in all cellular compartments (data not shown). Treatment of the slices with EGTA/ACSF caused exit of CaM and Ng from soma to dendrites of CA1 pyramidal neurons; however, this trafficking was less apparent for those neurons residing in CA2 and CA3 subfields (Figure <ref type="figure" target="#fig_4">4</ref>). For these latter two neuronal populations, a reduction of [Ca 2þ ] o caused an exit of CaM from nucleus to cytoplasm and proximal dendrites, but much less to distal dendrites (Figure <ref type="figure" target="#fig_4">4E</ref> and <ref type="figure">F</ref>). Thus, a prominent somatic colocalization of CaM and Ng was observed in the merged images (Figure <ref type="figure" target="#fig_4">4F</ref>). In these EGTA/ACSF-treated tissues, the neuronal populations between CA1 and CA2, and also those of CA3, could be clearly distinguished.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quantification of Translocation of CaM and Ng in the CA1</head><p>Region. The fluorescence intensity of doubly stained sections was measured extending from soma to distal dendrites (Figure <ref type="figure" target="#fig_5">5</ref>). In the control (panel A), the peak staining intensities of CaM (red) and Ng (green) resided in the cell layer and their average intensities in dendrites were approximately 10 and 30% of the value of soma, respectively. After 20 min of exposure to EGTA/ACSF (panel B), the somatic CaM and Ng IRs were greatly reduced compared to the control. Translocation of Ng from soma to dendrites could be detected 5 min after exposure to EGTA/ACSF, and there was a delay for the movement of CaM, which was apparent 10 min after the treatment. After 15 min, the CaM IR spread evenly in the entire dendritic field. Re-perfusion with normal ACSF restored the original cellular distribution patterns of these two proteins (panel C).</p><p>EGTA-Induced Changes in the Intracellular Calcium. Hippocampal slices loaded with Fluo-4AM Ca 2þ indicator were imaged by two-photon excitation generated by a titanium:sapphire (Ti:Sa) pulsed infrared laser, which allowed for penetration into tissue slices. Bathing the tissue slices with ACSF resulted in a slow decay of neuronal Fluo-4 fluorescence intensity in spite of the measures to reduce laser transmission and shorten the exposure time during image acquisition. Thus, a control decay curve was established before treating the slices with EGTA/ ACSF (Figure <ref type="figure" target="#fig_6">6</ref>). In these time-series experiments, images of the CA1 neurons were collected for 5 min in the presence of normal ACSF, then switched to EGTA/ACSF for 15 min, and finally perfused with EGTA/ACSF þ 10 μM 4-Br-A23187 (Figure <ref type="figure" target="#fig_6">6B</ref>). Five minutes after exposure to EGTA (at 10 min time point), the [Ca 2þ ] i was reduced by ∼30% of the control, and after 10 and 15 min exposure the reductions were ∼35 and 40%, respectively. Upon exposure to EGTA/ACSF þ Ca 2þ ionophore for 10 min (at 30 min) the [Ca 2þ ] i was ∼10% of the control. Addition of calcium ionophore in the presence of EGTA/ACSF was used for estimation of the approximate maximal reduction of [Ca 2þ ] i in the neurons. Since the [Ca 2þ ] i of hippocampal neurons in normal Ca 2þ -containing buffer is ∼100 nM 26À28 and the K d of Fluo-4/Ca 2þ is 1 μM in situ, the net reduction in the Fluo-4 fluorescence from the basal level could be used as an approximate measure of the reduction in [Ca 2þ ] i . The observed mobilization of Ng reached near maximum after 5 min of exposure to EGTA/ ACSF (see Figure <ref type="figure" target="#fig_5">5C</ref>); we estimated that a half-maximum response would occur at a reduction of ∼15% of Fluo-4 fluorescence, namely, ∼15 nM [Ca 2þ ] i . A similar estimate for the half-maximum mobilization of CaM, after 15 min exposure to EGTA/ACSF, was a reduction of ∼40 nM of [Ca 2þ ] i . The EGTA-mediated reduction in [Ca 2þ ] i could be reversed by re-perfusion with Ca 2þ -containing buffer (Figure <ref type="figure" target="#fig_6">6A</ref>). Transient Reduction in Intracellular Ca 2þ Induced Epileptic Activity. Bathing the hippocampal slices in Ca 2þ -free buffer caused an early phase of decline in [Ca 2þ ] i followed by slow changes after 5 min. Within this early time frame, the evoked CA1 fEPSP declined rapidly while the amplitude of POPS rose initially and was followed by a decline in a delayed fashion as compared to that of fEPSP (Figure <ref type="figure" target="#fig_7">7</ref>). The waveforms of both fEPSP and POPS during the early phase of decline in [Ca 2þ ] i exhibited characteristic epileptic activity, which consisted of multiple bursts following each electrical stimulation (Figure <ref type="figure" target="#fig_7">7A</ref>). These epileptic responses lasted for a few minutes, and synaptic responses became silent afterward. The emergence of epileptic activity was an indication of increasing excitability resulting from complex responses to alteration of Ca 2þ homeostasis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>' CONCLUSION</head><p>Perfusion of mouse hippocampal slices with low levels of [Ca 2þ ] o (e0.2 mM) or EGTA-containing solution blocks synaptic transmission of pyramidal neurons and results in the development of seizurelike activity in the CA1 region. <ref type="bibr">15À17</ref> Reduction of [Ca 2þ ] o induces neuronal hyperexcitability caused by several potential mechanisms, including reduction of the surface-charge screening, Ca 2þ -activated K þ current, synaptic GABAergic inhibition, as well as increasing field effects and gap junctions. <ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b28">29</ref> However, the extent of reduction in <ref type="bibr">[Ca 2þ</ref> ] i in this model system has not been investigated. To our surprise, perfusion of the tissue slices with EGTA/ACSF only caused a minor reduction of [Ca 2þ ] i , and this may explain why the perfusion with this solution for 20 min did not cause any obvious deleterious effect of the neurons. Under the basal conditions, [Ca 2þ ] i is maintained at ∼100 nM while the extracellular Ca 2þ concentration is significantly higher at 1À2 mM. Intracellular Ca 2þ buffer, regulators of Ca 2þ dynamics, and efflux pathways are responsible for maintaining such a low [Ca 2þ ] i inside the cell. <ref type="bibr" target="#b29">30</ref> Fine tune regulation of each of these components prevents a large increase in [Ca 2þ ] i that could cause cell death as in the cases of ischemia-or epilepsy-induced neurotoxicity. These regulatory components are also likely to play a role in preventing excessive loss of [Ca 2þ ] i at low <ref type="bibr">[Ca 2þ</ref> ] o . The reduction in <ref type="bibr">[Ca 2þ</ref> ] i together with the increase in neuronal excitability may trigger the redistribution of Ng and CaM from soma to distal dendrites in CA1 pyramidal neurons. Recently, we have also observed that high frequency stimulation-mediated induction of LTP in the CA1 region also triggered translocation of both Ng and CaM from soma to dendrites.</p><p>Studies with hippocampal neurons in cultures showed that stimulation-induced Ca 2þ entry through L-type Ca 2þ channels and NMDA receptors caused translocation of CaM from cytoplasm to nucleus. <ref type="bibr" target="#b30">31</ref> Another study indicated that unless pretreatment of hippocampal neuron cultures with Ca 2þ -free buffer containing 2 mM EGTA, elevation of [Ca 2þ ] i by glutamate or NMDA was not effective to cause nuclear translocation of CaM. <ref type="bibr" target="#b31">32</ref> In these EGTAtreated neurons, EGFP-CaM, visualized by confocal imaging, appeared to localize more in the cytoplasm and proximal dendrites than in the nucleus. This observation agreed with the results shown here for the EGTA/ACSF-treated acute hippocampal slices, in which CaM was redistributed to cytoplasm and dendrites of CA1 pyramidal neurons. Re-perfusion with normal ACSF induced Ca 2þdependent translocation of CaM from cytoplasm and dendrites to the nucleus. Thus, the direction of CaM trafficking may be dependent on its basal levels at different cellular compartments. In the acute hippocampal slices, CaM is already concentrated in the nucleus of CA1 pyramidal neurons, and a perturbation of its resting state causes its exit from nucleus to cytoplasm and dendrites. In this "lowcalcium" model of epilepsy in hippocampal slices, translocation of Ng and CaM from soma to dendrites may contribute to the development of epileptiform activity of CA1 pyramidal neurons.</p><p>The net movement of somatic Ng to dendrites was not as pronounced as that of nuclear CaM, which, eventually, became equal to or even slightly less than its concentration in the dendrites. Mobilization of CaM from nucleus to distal dendrites could be caused by the dissociation of CaM from its nuclear binding components, changes in the permeability of the nuclear pore complex for free diffusion, and/or transported by a carrier. It is also possible that an initial exit of Ng from the nucleus facilitates the translocation of CaM.  Pyramidal neurons in the hippocampal CA1 region are the most sensitive to the low-calcium induced epileptiform activity. <ref type="bibr" target="#b21">22</ref> This neuronal population also exhibited a higher sensitivity to the low-calcium mediated translocation of Ng and CaM from soma to dendrites as compared to other neurons in the hippocampus, such as those in the neighboring CA2 and CA3. Morphologically, CA2 neurons are similar to those of the CA3 in size but they are not innervated by the mossy fibers from the dentate gyrus. Molecularly, CA2 neurons express some distinct genes from the neighboring field 33À35 and they, CA3 neurons too, are uniquely spared in Alzheimer's disease. <ref type="bibr" target="#b34">36</ref> CA2 neurons are also resistant to temporal lobe epilepsy <ref type="bibr" target="#b35">37</ref> and are resistant to plastic changes by conventional protocols that induce LTP and LTD in the CA1 region. <ref type="bibr" target="#b36">38</ref> Much of these characteristics of the CA2 neurons are likely related to their differences from the CA1 neurons in handling Ca 2þ -mediated responses (Figure <ref type="figure" target="#fig_4">4</ref>). The boundary between CA1 and CA2 is not easily defined because mixed populations of cells are present. However, the current study clearly distinguished the CA1 from the CA2 neurons following treatment of the tissue slices with EGTA/ACSF.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>' METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Animals and Reagents.</head><p>All procedures for using animals were approved by the National Institute of Child Health and Human Development Animal Care and Use Committee. Mice (C57BL\6) were housed in standard cages on a 12-h light/dark cycle and provided a normal chow and water ad libitum. Antibody against Ng (Ab#2641) was raised in rabbit against the C-terminal sequence (GARGGAGGGPSGD) of the protein. The following materials were obtained from the indicated sources: mouse anti-CaM from Zymed Laboratories (South San Francisco, CA); ImmPRESS peroxidase-conjugated anti-mouse and anti-rabbit IgG, horse serum, and Vectashield from Vector Laboratories (Burlingame, CA); Fluo-4 a.m., pluronic acid, Alexa Fluor 594 carboxylic acid succinimidyl ester, and 5-(and-6)-carboxyfluorescein (FITC) succinimidyl ester from Invitrogen (Carlsbad, CA); and tyramine hydrochloride, sodium borate, and hydrogen peroxide-urea adduct tablet from Sigma-Aldrich (St. Louis, MO).</p><p>Preparation and Treatment of Hippocampal Slices. Transverse hippocampal slices (400 μm) were kept for recovery after slicing for ∼2 h in oxygenated (95% O 2 /5% CO 2 ) ACSF containing the following (in mM): 124 NaCl, 4.9 KCl, 1.3 MgSO 4 , 2.5 CaCl 2 , 1.2 KH 2 PO 4 , 25.6 NaHCO 3 , and 10 D-glucose, pH 7.4. The slices were submerged in a chamber superfused with oxygenated ACSF at a flow rate of ∼2 mL/min. Glass electrodes (1À4 MΩ) filled with ACSF were used both for stimulation of Schaffer collateral/commissural fibers and for recording of fEPSP from stratum radiatum and the amplitude of POPS from the cell layer of the CA1 area. The slope of fEPSP was calculated for indexing the synaptic response. After maintaining a stabled baseline at a current that gave ∼1/3 of the maximal fEPSP response for at least 20 min, the slice was perfused with Ca 2þ -free ACSF that contained 2.5 mM EGTA for a timed period as stated in the figure legend. Afterward, the perfusate was switched back to Ca 2þ -containing ACSF. At the end of incubation, the tissue slice was quickly removed from the recording chamber and fixed in 4% paraformaldehyde in PBS. Synaptic responses were amplified with an AxoClamp 2B or Multiclamp 700B apparatus, digitized by CED power 1401, and analyzed by Signal 4 software (Cambridge Electronic Design).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Immunochemical Staining.</head><p>Each fixed tissue slice was further sectioned with a vibratome into 50 μm thickness and placed in a 96-well plate for free-float staining. Tissue sections were treated sequentially with PBS containing 0.5% NP-40 and 3% H 2 O 2 each for a minimum of 15 min and blocked with 2.5% horse serum. Tissues were incubated with a mixture of primary antibodies (rabbit anti-Ng Ab#2641, 1/1250; mouse anti-CaM, 1/500) in PBS containing 0.025% horse serum and 0.1% thimerosal overnight at room temperature. CaM was first revealed by incubation with ImmPRESS peroxidase-conjugated anti-mouse IgG for 4 h and Alexa 594-tyramine/H 2 O 2 solution (one hydrogen peroxideurea adduct tablet and stock Alexa 594-tyramine in 10 mL of 50 mM Tris-Cl buffer, pH 8.0) at room temperature for 10 min; the reaction was terminated with 10 mM HCl for 30 min. Then, Ng was revealed by incubation with ImmPRESS anti-rabbit IgG for 4 h and FITC-tryamine/ H 2 O 2 for 10 min, and then terminated with 10 mM HCl. In between incubations, tissues were washed 10 min each with TTBS (20 mM Tris-Cl, pH 7.5, containing 0.5 M NaCl and 0.05% Tween 20) once and PBS twice. Tissues were placed on glass slides, spread with Vectashield containing DAPI, and covered with glass slip. Alexa 594-tyramine was synthesized by incubation of 1 mg of carboxylic acid succinimidyl ester of the dye in 12 μL of DMSO with 4 μL of 0.3 M tyramine hydrochloride and 40 μL of 0.1 M sodium borate buffer, pH 8.6, at room temperature in a dark vessel overnight. FITC-tyramine was similarly prepared by incubation of 10 mg of carboxylic acid succinimidyl ester of the dye in 70 μL of DMSO with 70 μL of 0.3 M tyramine and 15 μLof 0.2 M sodium borate buffer, pH 8.6.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Confocal Microscopy and Quantitative Analysis.</head><p>Stained tissue sections were examined in a Zeiss LSM 510 inverted microscope with a pinhole setting for red channel (543 nm) at 1 air unit, and the pin holes of other channels (488 and 405 nm) were optimized to achieve the same optical slice depth with each objective before scanning. Images were captured in 8-bit mode (256 scales) at a high resolution (1024 Â 1024 pixels). For quantification of fluorescent intensity, the acquired multichannel images were analyzed off-line using LSM 510 Live analysis software that measured the profiles along a straight line stretching from distal dendrites to the cell layer. The averaged fluorescence intensity of the dendrites was compared to that of the soma. The ratio of dendritic fluorescent intensity versus that of the soma in the same 10Â image was used as a measure for the extent of translocation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fluorescence Calcium Imaginging.</head><p>Hippocampal slices from 14 ( 3 day old mice were loaded with Ca 2þ -indicator, Fluo-4AM. (10 μM in 0.02% pluronic acid), by incubation in oxygenated ACSF at 30°f or 90 min. Images were acquired by using a Zeiss LSM 510 two-photon system fitted with a WPAPO 20Â 1.0 objective. Tissue slices were perfused with oxygenated ACSF (∼2 mL/min), changes in Fluo-4 signal were monitored by excitation at 805 nm, and emitting fluorescence was detected through a BP 500À550 filter. Images were collected at 1 min intervals with the laser transmission kept at a minimum while the detector gain was kept at 70À80% of the maximal sensitivity. Changes in the fluorescent intensity of individual cells were quantified using the LSM 510 Live analysis software based on ROI in the time-series experiments. The intensity of the first image was set as 100%, and the net changes at each time point following treatment were estimated against the control incubated with ACSF alone. The results were expressed as mean ( SE.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Calcium-Sensitive Translocation of Calmodulin and Neurogranin between Soma and Dendrites of Mouse Hippocampal CA1 Neurons Kuo-Ping Huang* and Freesia L. Huang Program of Developmental Neurobiology, National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, Maryland 20892, United States</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Subcellular localization of CaM and Ng in hippocampal CA1 pyramidal neurons. Control tissue sections were examined with 100Â objectives for CaM (Alexa 594) and Ng (FITC) IR, and nucleus (DAPI) of neurons in the CA1 region. CaM IR (A and E) of CA1 pyramidal neurons was largely confined to the nucleus and that of Ng was in the cytoplasm, nucleus, and dendrites (B and F). The nuclear staining of CaM and Ng could be seen in the merged images (D and H), where Ng-and CaM-IR coincide with that of DAPI (C and D). The dendritic staining of Ng in the stratum radiatum (Sr) was evident, and that in stratum oriens (So) was patchy. In comparison, the dendritic staining of CaM was very weak (compare E and F). Also noted that there were several DAPI-positive cells among these confocal images that did not stain positively with either CaM or Ng (indicated by the arrows); these cells are likely interneurons. The scale bars are 5 μm.</figDesc><graphic coords="2,129.77,67.63,348.09,199.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Reversible changes in synaptic transmission of hippocampal slices following perfusion with EGTA-and Ca 2þ -containing ACSF. Acute transverse hippocampal slices (400 μm) were perfused with Ca 2þcontaining ACSF for at least 20 min to achieve a stable baseline in the slope of fEPSP of the Schaffer collateral/commissural pathway of the CA1 region and switched to EGTA (2.5 mM)-containing ACSF for 5 (b, n = 4) or 20 min (O, n = 4). Subsequently, each of them was switched back to the Ca 2þ -containing ACSF. Test pulse was delivered at 20 s intervals with a current of ∼30% of the maximal response. Representative traces of the fEPSPs of control and those treated with EGTA for 20 min and with EGTA for 20 min and then back to Ca 2þ -containing ACSF for 40 min are shown.</figDesc><graphic coords="2,52.78,366.58,240.38,184.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Immunochemical staining of hippocampal slices sequentially treated with EGTA-and Ca 2þ -containing ACSF. Fixed tissue sections (50 μm) were doubly stained with antibodies against CaM (Alexa 594) and Ng (FITC) and the 5Â confocal images of the whole sections of control (A), treated with EGTA for 5 (B), 10 (C), 15 (D), and 20 (E) min, and that treated with EGTA for 20 min and back to Ca 2þcontaining ACSF for 40 min (F) are shown. Note that EGTA induced a prominent translocation of CaM from soma to apical dendrites located in stratum radiatum (Sr). The cell layer staining of CaM and Ng in the CA1 region progressively diminished, and these changes were reversed by re-perfusion with Ca 2þ -containing buffer. These experiments had been performed at least four times, and similar results were obtained. The scale bars are 200 μm.</figDesc><graphic coords="3,53.97,67.63,236.69,416.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Distinct responses among CA1, CA2, and CA3 neurons to treatment of EGTA/ACSF. Representative confocal images (10Â) show the control (AÀC) and EGTA-treated (15 min) (DÀF) samples doubly stained with antibodies against CaM (Alexa 594) and Ng (FITC).The CA3 region was identified by the appearance of stratum lucidem (SLu). Pyramidal neurons from CA2 and CA3 regions appeared slightly larger than those of the CA1. In the merged images of control (C), CaM was colocalized with Ng in the nucleus with a relatively low abundance in the cytoplasm and dendrites within stratum radiatum (Sr) and stratum oriens (So). In the EGTA/ACSF-treated tissue (F), CaM was greatly reduced in the soma of CA1 neurons, whereas those in the CA2 and CA3 retained CaM in the soma and proximal dendrites. Mixed populations of CA1 and CA2 neurons were distinguishable in this EGTA/ACSF-treated tissue. The scale bars are 50 μm.</figDesc><graphic coords="4,153.81,67.63,300.08,385.34" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Quantification of immunofluorescence intensity of tissue sections doubly stained with antibodies against CaM and Ng. Representative confocal images (10Â) of control (A) and that treated with EGTA/ACSF for 20 min (B) were scanned for the fluorescence intensity along distal apical dendrites (within Sr) to the pyramidal cell (Py) layer (depicted by the white arrow) in the midfield of the CA1 region. The distances in the intensity profiles of CaM (red) and Ng (green) represented the length of the white arrow. Similar scannings were also performed for those tissues treated with EGTA/ACSF for 5, 10, and 15 min, and those re-perfused with Ca 2þ for 40 min. In all cases, averaged fluorescence intensity of the dendrite was compared to that of the soma. (C) Ratios of mean fluorescence intensity between dendrites and soma of CaM (O, n = 4) and Ng (b, n = 4) among the treated samples are shown.</figDesc><graphic coords="5,80.05,67.63,184.59,378.82" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Calcium imaging of hippocampal CA1 neurons. Hippocampal slices loaded with Fluo-4AM Ca 2þ indicator were bathed in ACSF for 5 min and then switched to EGTA/ACSF for 15 min. Subsequently, tissue slices were perfused with EGTA/ACSF þ 4-Br-A23187 (10 μM) for 10 min. Changes in the Fluo-4 fluorescence intensity of the CA1 neurons (O, n = 13) were measured against the control (b, n = 8) (B). After 30 min the tissue slices were perfused with Ca 2þ -containing buffer and an image was acquired at 32 min. Representative images of two CA 1 neurons (indicated by the arrows) in the focus plane of the time-series experiments are shown in (A).</figDesc><graphic coords="5,315.78,67.63,240.09,249.17" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. Changes in the fEPSP and POPS following exposure to EGTA/ACSF. After establishing a stable test pulse baseline in ACSF at the Schaffer collateral/commissural pathway of the CA1 region, the tissue slices were perfused with EGTA/ACSF (at 10 min). Changes in the fEPSP (b, n = 14) measured at the stratum radiatum and POPS (O, n = 12) measured at the pyramidal cell layer were recorded (B). The evoked changes in the waveforms of the fEPSP and POPS are shown in (A). Note the emergence of epileptic activity following the exposure to the low-calcium conditions.</figDesc><graphic coords="6,52.78,67.63,240.38,274.62" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>dx.doi.org/10.1021/cn200003f |ACS Chem. Neurosci. 2011, 2, 223-230</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>' ACKNOWLEDGMENT</head><p>We thank <rs type="person">Drs. James T. Russell</rs> and <rs type="person">Vincent Schram</rs> for their help in confocal microscopy.</p></div>
+<div><head>' ABBREVIATIONS</head><p>CaM, calmodulin; Ng, neurogranin; ACSF, artificial cerebral spinal fluid; [Ca 2þ ] o , extracellular calcium; [Ca 2þ ] i , intracellular calcium; IR, immunoreactivity; DAPI, 4 0 ,6 0 -diamidino-2-phenylindole; LTP, long-term potentiation; fEPSP, field excitatory postsynaptic potential; POPS, population spike.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding Sources</head><p>This work was supported by the <rs type="funder">Intramural Program of NICHD, NIH</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+
+			<div type="contribution">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>K.-P.H. designed and performed experiments, analyzed data, and wrote the paper. F.L.H. designed and performed experiments, analyzed data, and wrote the paper.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">RC3/neurogranin, a postsynaptic calpacitin for setting the response threshold to calcium influxes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Gerendasy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Sutcliffe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Neurobiol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="131" to="163" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Involvement of neurogranin in the modulation of calcium/calmodulin-dependent protein kinase II, synaptic plasticity, and spatial learning: a study with knockout mice</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Pak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Balschun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Reymann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Westphal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U.S.A</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="11232" to="11237" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Neurogranin null mutant mice display performance deficits on spatial learning tasks with anxiety related components</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyakawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Yared</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Pak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Crawley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hippocampus</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="763" to="775" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Neurogranin/RC3 enhances long-term potentiation and learning by promoting calcium-mediated signaling</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Reymann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Balschun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="10660" to="10669" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Calmodulin: a prototypical calcium sensor</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Means</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Cell Biol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="322" to="328" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The role of calmodulin as a signal integrator for synaptic plasticity</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Storm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="267" to="276" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Subtractive cDNA cloning of RC3, a rodent cortexenriched mRNA encoding a novel 78 residue protein</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Battenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Bloom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Sutcliffe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Neurosci. Res</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="397" to="408" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Neurogranin: immunocytochemical localization of a brain-specific protein kinase C substrate</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Represa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Deloulme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sensenbrenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ben-Ari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baudier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="3782" to="3792" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Interactions between neurogranin and calmodulin in vivo</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Prichard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Deloulme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Storm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biol. Chem</title>
+		<imprint>
+			<biblScope unit="volume">274</biblScope>
+			<biblScope unit="page" from="7689" to="7694" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Characterization of a 7.5-kDa protein kinase C substrate (RC3 protein, neurogranin) from rat brain</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Biochem. Biophys</title>
+		<imprint>
+			<biblScope unit="volume">305</biblScope>
+			<biblScope unit="page" from="570" to="580" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Nitric oxide modification of rat brain neurogranin affects its phosphorylation by protein kinase C and affinity for calmodulin</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Sheu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Mahoney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Seki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biol. Chem</title>
+		<imprint>
+			<biblScope unit="volume">271</biblScope>
+			<biblScope unit="page" from="22407" to="22413" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">N-Methyl-D-aspartate induces neurogranin/RC3 oxidation in rat brain slices</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Pak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biol. Chem</title>
+		<imprint>
+			<biblScope unit="volume">274</biblScope>
+			<biblScope unit="page" from="1294" to="1300" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Calcium-sensitive interaction between calmodulin and modified forms of rat brain neurogranin/RC3</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schuck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mcphie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemistry</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="7291" to="7299" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Identification of a consensus amino acid sequence between neurogranin and neuromodulin (GAP43) that corresponds to the protein kinase C phosphorylation site and the calmodulin-binding domain</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baudier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Deloulme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Van Dorsselaer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Matthes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biol. Chem</title>
+		<imprint>
+			<biblScope unit="volume">266</biblScope>
+			<biblScope unit="page" from="229" to="237" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note>Purification and characterization of a brainspecific protein kinase C substrate, neurogranin (p17)</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Slow transmission of neural activity in hippocampal area CA1 in absence of active chemical synapses</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Konnerth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Heinemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yaari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">307</biblScope>
+			<biblScope unit="page" from="69" to="71" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Synchronous neural afterdischarges in rat hippocampal slices without active chemical synapses</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Dudek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">218</biblScope>
+			<biblScope unit="page" from="810" to="812" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Synchronized bursting of CA1 hippocampal pyramidal cells in the absence of synaptic transmission</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Jefferys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Haas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">300</biblScope>
+			<biblScope unit="page" from="448" to="450" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Nonsynaptic epileptogenesis in the mammalian hippocampus in vitro. I. Development of seizurelike activity in low extracellular calcium</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Konnerth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Heinemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yaari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Neurophysiol</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="409" to="423" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Extracellular free calcium and potassium during paroxsmal activity in the cerebral cortex of the cat</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Heinemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Lux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gutnick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp. Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="237" to="243" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Extracellular calcium and potassium concentration changes in chronic epileptic brain tissue</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Heinemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Konnerth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pumain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Wadman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Neurol</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="641" to="661" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Chemical synaptic transmission is not necessary for epileptic seizures to persist in the baboon Papio papio</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pumain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Menini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Heinemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Louvel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Silva-Barrat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp. Neurol</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="250" to="258" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Low-calcium field burst discharges of CA1 pyramidal neurones in rat hippocampal slices</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Haas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Jefferys</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Physiol</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="185" to="201" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Nonsynaptic modulation of neuronal activity in the brain: electric currents and extracellular ions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Jefferys</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physiol. Rev</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="689" to="723" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Ionic mechanisms underlying spontaneous CA1 neuronal firing in Ca 2þ -free solution</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shuai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bikson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Durand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biophys. J</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="2099" to="2111" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Low-calcium epileptiform activity in the hippocampus in vivo</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Durand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Neurophysiol</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="2253" to="2260" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Primary and secondary Ca 2þ concentration changes resulting from transmitter stimulation in dendrites of neurons from the mammalian hippocampus</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Muller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. N. Y. Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">635</biblScope>
+			<biblScope unit="page" from="100" to="113" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Somatostatin increases intracellular Ca 2þ concentration in cultured rat hippocampal neurons</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Miyoshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Katayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">U</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">489</biblScope>
+			<biblScope unit="page" from="361" to="364" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Synaptically released zinc triggers metabotropic signaling via a zinc-sensing receptor in the hippocampus</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Besser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Chorin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sekler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Silverman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Atkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hershfinkel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="2890" to="2901" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Nonsynaptic&quot; mechanisms in seizures and epileptogenesis</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Dudek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yasumura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Rash</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Biol. Int</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="793" to="805" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Calcium signalling in the cell nucleus</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Carafoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nicotera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Santella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Calcium</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="313" to="319" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Translocation of calmodulin to the nucleus supports CREB phosphorylation in hippocampal neurons</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Deisseroth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Heist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Tsien</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">392</biblScope>
+			<biblScope unit="page" from="198" to="202" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A two-state model for Ca 2þ /CaMdependent protein kinase II (alphaCaMKII) in response to persistent Ca 2þ stimulation in hippocampal neurons</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Best</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sanmugalingam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Alessio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Jama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Torok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Lein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Aston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Gage</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comp. Neurol</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="187" to="196" />
+			<date type="published" when="2001">2008. 2001</date>
+		</imprint>
+	</monogr>
+	<note>Transcriptional profiling reveals strict boundaries between hippocampal subregions Cell Calcium</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Redefining the boundaries of the hippocampal CA2 subfield in the mouse using gene expression and 3-dimensional reconstruction</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Lein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Callaway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Albright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Gage</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comp. Neurol</title>
+		<imprint>
+			<biblScope unit="volume">485</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Defining a molecular atlas of the hippocampus using DNA microarrays and highthroughput in situ hybridization</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Lein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Gage</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="3879" to="3889" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The effect of age and Alzheimer&apos;s disease on pyramidal neuron density in the individual fields of the hippocampal formation</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Horwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Isaacs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Neuropathol</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="510" to="517" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Differential distribution of 68 Kd and 200 Kd neurofilament proteins in the gerbil hippocampus and their early distributional changes following transient forebrain ischemia</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Araki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Oguro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Masuzawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp. Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="31" to="39" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Synaptic plasticity (and the lack thereof) in hippocampal CA2 neurons</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Obrietan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Dudek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="12025" to="12032" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

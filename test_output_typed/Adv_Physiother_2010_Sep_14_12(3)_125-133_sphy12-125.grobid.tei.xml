@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">What is the benefi t of a high-intensive exercise program on health-related quality of life and depression after stroke? A randomized controlled trial</title>
+				<funder>
+					<orgName type="full">Swedish Heart and Lung Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Northern Swedish Stroke fund</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Swedish Stroke Foundation</orgName>
+				</funder>
+				<funder ref="#_BDNfJ2N">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Swedish Institute for Health Sciences</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Erik and Anne-Marie Detlof Foundation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Eva</forename><surname>Holmgren</surname></persName>
+							<email>eva.holmgren@physiother.umu.see</email>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Community Medicine and Rehabilitation</orgName>
+								<orgName type="department" key="dep2">Section of Physiotherapy</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gunilla</forename><surname>Gosman-Hedstr</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Clinical Neuroscience and Rehabilitation</orgName>
+								<orgName type="department" key="dep2">Institute of Neuroscience and Physiology</orgName>
+								<orgName type="institution" key="instit1">The Sahlgrenska Academy</orgName>
+								<orgName type="institution" key="instit2">University of Gothenburg</orgName>
+								<address>
+									<settlement>Gothenburg</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Britta</forename><surname>Lindstr</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Community Medicine and Rehabilitation</orgName>
+								<orgName type="department" key="dep2">Section of Physiotherapy</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Public Health and Clinical Medicine</orgName>
+								<orgName type="institution" key="instit1">Ume å Stroke Center</orgName>
+								<orgName type="institution" key="instit2">Ume å University</orgName>
+								<address>
+									<addrLine>Ume å 3 V å rdalinstitutet</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Section of Physiotherapy</orgName>
+								<orgName type="department" key="dep2">Department of Community Medicine and Rehabilitation</orgName>
+								<orgName type="institution">Ume å University</orgName>
+								<address>
+									<addrLine>901 87 Ume å</addrLine>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">Swedish Institute for Health Sciences</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">What is the benefi t of a high-intensive exercise program on health-related quality of life and depression after stroke? A randomized controlled trial</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">3C846914159D8244C83A4D554D7E6D49</idno>
+					<idno type="DOI">10.3109/14038196.2010.488272</idno>
+					<note type="submission">Received 10 March 2010; accepted 20 April 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:05+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Accidental falls</term>
+					<term>cerebrovascular disorders</term>
+					<term>depression</term>
+					<term>exercise</term>
+					<term>quality of life</term>
+					<term>rehabilitation</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The aim of the study was to evaluate the impact of a high-intensive exercise program containing high-intensive functional exercises implemented to real-life situations together with group discussions on falls and security aspects in stroke subjects with risk of falls. This was a pre-specifi ed secondary outcome for this study. For evaluation, Short Form-36 (SF-36) health-related quality of life (HRQoL) and the Geriatric Depression Scale-15 (GDS-15) were used. This was a single-center, single-blinded, randomized, controlled trial. Consecutive Ն 55 years old stroke patients with risk of falls at 3 -6 months after fi rst or recurrent stroke were randomized to the intervention group (IG, n ϭ 15) or to the control group (CG, n ϭ 19) who received group discussion with focus on hidden dysfunctions but no physical fi tness training. The 5-week high-intensive exercise program was related to an improvement in the CG in the SF-36 Mental Component Scale and the Mental Health subscale at 3 months follow-up compared with baseline values while no improvement was seen in the IG at this time. For the SF-36 Physical Component Scale, there was an improvement in the whole study group at 3 and 6 months follow-up compared with baseline values without any signifi cant changes between the IG and CG. The GDS-15 was unchanged throughout the follow-up period for both groups. Based on these data, it is concluded that high-intensive functional exercises implemented in real-life situations should also include education on hidden dysfunctions after stroke instead of solely focus on falls and safety aspects to have a favorable impact on HRQoL.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>review, the authors state that too few studies have been done to explore any effects of physical fi tness training on mood (4). Improvement in activities of daily living (ADL) is known to enhance long-term health-related QoL (HRQoL) <ref type="bibr" target="#b4">(5)</ref>. According to the most recent Cochrane review on depression and exercise, physical activity seems to decrease depressive symptoms in people with a diagnosis of depression <ref type="bibr" target="#b6">(6)</ref>.</p><p>Health and QoL, the two components of HRQoL, have been linked together in many defi nitions but there is no universal defi nition for either QoL or HRQoL. The WHO defi nition of health is: " Health is a state not merely the absence of disease or infi rmity " <ref type="bibr" target="#b7">(7)</ref>. This is a well-cited and useful defi nition and it is Background A stroke is a life-breaking event that most often hits with no warning, giving no time for preparation for a new way of living the everyday life. It has been established that stroke has direct and/or secondary effects on the major aspects of health (physical, physiological and social) <ref type="bibr">(1,</ref><ref type="bibr">2)</ref>.</p><p>Moderate and high levels of physical activity have been showed to be associated with reduced risk of ischemic and hemorrhagic stroke (3). Physical activity has not been proven to enhance the quality of life (QoL) after stroke according to the Cochrane review on physical fi tness training for stroke patients (4). In the same Advances in <ref type="bibr">Physiotherapy, 2010;</ref><ref type="bibr">12: 125-133</ref> (in the IG) or group discussion about hidden dysfunctions after stroke and how to cope with these diffi culties (in the CG) on the HRQoL and on the presence of depressive symptoms among individuals with stroke and risk of falls.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>This randomized controlled intervention trial, designed for individuals with stroke and risk of falls, is described in the accompanying paper and is registered at <ref type="url" target="www.clinicaltrials.gov">www.  clinicaltrials.gov</ref> as NCT00377689.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects</head><p>Inclusion criteria were: current stroke, age Ն 55, fall risk assessed through clinical observations by an experienced PT, the ability to walk 10 m with or without a walking device, and the ability to understand and comply with instructions in Swedish. Individuals were excluded if they had the ability to walk outdoors independently (i.e. without assistance or walking device), severe aphasia, severe vision or hearing impairment, any medical condition that a physician determined was inconsistent with study participation, and living too far away ( Ͼ 100 km) from the training facilities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Screening and randomization processes</head><p>Inclusion to the study was done 3 -6 months after stroke onset. To identify all potentially eligible individuals with stroke, 391 individuals were consecutively screened during inpatient rehabilitation at the Ume å Stroke Unit (Figure <ref type="figure">1</ref>). After this initial screening, all eligible participants were contacted. Those still eligible for participation in the study a more thorough assessment was performed at the outpatient Clinical Research Center at the Ume å University Hospital. The fi nal judgment of participation in the study was made based on the inclusion/exclusion criteria during this assessment that was considered as the individual ' s baseline assessment. Figure <ref type="figure">1</ref> describes the screening/inclusion process.</p><p>The patient enrolment during the inclusion/exclusion assessments was followed by the randomization procedure. The two main investigators (EH and PW) were responsible for the randomization into the IG or CG. This was conducted with a minimization software program, MiniM (18) to avoid imbalances at baseline between the two groups. Two variables were taken into account: cognition, using the Mini Mental State Examination (MMSE Յ 24/ Ն 25) <ref type="bibr" target="#b19">(19)</ref>, and fall risk, using the Fall Risk Index (value Յ 1/ Ն 2) (20). applicable for everyone. There are many different definitions of HRQoL. According to the Swedish manual of the Short Form-36 (SF-36), HRQoL means a pragmatic delimitation and concerns mainly function and well-being during illness and treatment (8). According to the WHO, depression is a common mental disorder that presents with depressed mood, loss of interest or pleasure, feelings of guilt or low self-worth, disturbed sleep or appetite, low energy, and poor concentration <ref type="bibr" target="#b9">(9)</ref>. These problems can become chronic or recurrent and lead to substantial impairments in an individual ' s ability to take care of his or her everyday responsibilities (10). Depression also adversely affect adherence to treatment for other diseases and is among the leading causes of disability worldwide (10). Post-stroke depression is a common complication and has a prevalence of up to <ref type="bibr">33% (11,12)</ref>. Data from Riks-Stroke, the Swedish Stroke Register, shows that women are more likely to be depressed than men at 3 months after stroke onset <ref type="bibr" target="#b13">(13)</ref>. <ref type="bibr">Jorgensen et al. (14)</ref> showed in their study from 2002 that depressive symptoms predict falls after stroke. Depression is a common and important complication after stroke but is unclear (11).</p><p>A recently published review by Blake et al. concludes (15) that exercise intervention exerts a clinically relevant effect on depressive symptoms in older people (15). However, they do point out a gap of consistent results for the medium-term (3 -12 months) effect of exercise intervention on depression or depressive symptoms (15). A task-specifi c intervention designed to improve gait speed has been showed to have secondary ben efi ts by positively impacting depression, mobility and social participation for people post-stroke (16).</p><p>One could expect that many dimensions of a poststroke individual could be affected, not only the physical part. The psychological aspects are important for the entire rehabilitation process and for the individuals ' outcome of the same process. It is therefore important to preserve both functioning and well-being of people with stroke. Thus, there is a paucity of data from exercise intervention studies, on whether exercise/rehabilitation programs also have an effect on HRQoL and depression in elderly persons post-stroke.</p><p>The accompanying paper with the fi rst report from this intervention study evaluated the impact of a high-intensive exercise program after stroke on function and activity performance (17). The program could be benefi ciary in ADL 6 months after the intervention ended and for the Falls Effi cacy Scale International (FES-I) directly after and 3 months post-intervention for the intervention group (IG) compared with the control group (CG) ( p Ͻ 0.05).</p><p>The purpose of the present study was to evaluate the impact of a</p><p>5-week high-intensive exercise program The Consort Flowchart Assessed for eligibility (n=395) Excluded in total (n=361) Excluded patients with stroke (n=231) Not meeting inclusion criteria (n=186) Refused to participate (n=27) Other reasons (n=18) Analyzed (n=15) Excluded from analysis (n=0) Intention-to-treat Lost to 3 &amp; 6 month follow-up (n=1) 1 subject deceased Discontinued intervention (n=1) 1 subject deceased Allocated to intervention (n=15) Received allocated intervention (n=15) Lost to 3 month follow-up (n=1) 1 subject on vacation, Lost to 6 month follow-up (n=1) 1 subject, no reason given Discontinued control intervention (n=0) Allocated to control (n=19) Received allocated control intervention (n=19) Analyzed (n=19) Excluded from analysis (n=0) Intention-to-treat Allocation Analysis Follow-Up Enrollment 3 to 6 month post stroke Randomization Patients with stroke (n=265) Figure 1. Screening process, from stroke onset to fi nal inclusion in the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A high-intensive exercise program 127</head><p>Information about the study was communicated orally and via written materials to all potentially eligible individuals during inpatient rehabilitation, screening phone calls and at the time of inclusion in the study. All individuals provided informed written consent for study participation at the baseline assessments. The study protocol was approved by the local Ethics Committee for Human Research at Ume å University (Dnr 04-022).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessments</head><p>A protocol was completed at baseline concerning personal characteristics, living situation, medical history, medication and history of falls. All assessments, baseline, immediately after intervention and 3-month follow-up, were performed at the outpatient Clinical Research Center. The 6-month follow-up assessment was conducted by telephone interview using those instruments with the possibility to administer through telephone, e.g. the HRQoL questionnaire (SF-36) and the Geriatric Depression Scale-15 (GDS-15). A questionnaire was used to evaluate compliance with the home exercise program for the IG. The CG received a questionnaire for evaluation of the educational sessions. Both questionnaires included space for personal comments and evaluation of the intervention program by the participants, and were delivered to the assessment personnel at the 3-month follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blinding</head><p>The nurses and physiotherapist (PT) who performed the clinical test assessments were blinded to group allocation. The participants were instructed not to reveal anything from their 5 weeks in the study at the different assessment times. If the staff had any suspicion as to which group the participant belonged to they were told to fi ll out an incidence form. All participants were blinded as for the content of the two different groups before randomization. They only knew that the two groups met different number of days per week. At the time of the study, participants were open to their own group content but not the other group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intervention</head><p>Subjects in each group participated in a 5-week intervention program at a clinic. For the IG, the program consisted of seven sessions a week divided over 3 days with individualized group training, supervised by a PT; the focus was on physical activity and functional performance. They also received one session a week for 1 h with educational group discussions about fall risk and security aspects, led by a PT and an Occupational Therapist (OT). The control subjects program consisted of one session a week for 1 h each during the 5-week period. The session was an educational group discussion session led by one OT. The discussions were about hidden dysfunctions after stroke and how to cope with these diffi culties. The different themes discussed were chosen on the basis of being relevant to the individual ' s situation and interesting for them to participate in. The themes included communication diffi culties, fatigue, depressive symptoms, mood swings, personality changes and dysphagia. There was, however, no special focus on the risks of falling in these discussions. The intervention program for the IG is described in somewhat more detail in the accompanying paper (17).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcomes</head><p>The outcome measures in this study were HRQoL as measured by the SF-36 and symptoms of depression as measured by the GDS-15. The instruments used in this study have been tested for validity and reliability in populations similar to the population in this study <ref type="bibr">(21 -24)</ref>.</p><p>HRQoL was assessed with the SF-36, which is a generic instrument measuring self-reported physical and psychological aspects of health <ref type="bibr">(21,</ref><ref type="bibr" target="#b23">22,</ref><ref type="bibr" target="#b28">25)</ref>. The SF-36 includes eight subscales: Physical Functioning (PF), Role Functioning-physical (RP), Bodily Pain (BP), General Health (GH), Vitality (VT), Social Functioning (SF), Role Functioning-emotional (RE) and Mental Health (MH). The total score in each subscale is 100, which indicates a higher degree of perceived health. Besides the eight different scales, there are two dimensions, a Physical dimension (PCS) and a Mental dimension (MCS). The dimensions are calculated by weighing the different load of the eight scales in to these dimensions. These eight subscales are considered to be universal and to represent basal human function and well-being (8). A difference of fi ve points is considered to be of a clinical signifi cance in <ref type="bibr" target="#b25">23)</ref>. The results for the norm population of Sweden in the eight subscales of SF-36 are shown for the age group 75 ϩ , since the mean age for this entire study is 78. Regarding the two dimensions, PCS and MCS, the norm population compared is in another age group, 75 -79, since there is no norm fi gure for the group 75 ϩ consolidated, only 65 ϩ (26).</p><p>Symptoms of depression were assessed with the GDS-15, which is a basic screening measure for depression in older adults (24). The GDS-15 screens for depression using 15 questions with a yes/no answer alternative. Depending on age, education and complaints, the score 0 -4 indicates normal (no depression), 5 -8 mild depression, 9 -11 indicates moderate depression and 12 -15 a severe depression.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses</head><p>Power (80%) was calculated on the Berg Balance Scale (BBS) <ref type="bibr">(27,</ref><ref type="bibr" target="#b39">28)</ref> for the original study (17), which was the primary outcome measure to determine the sample size needed. The estimation was set to detect a signifi cant difference ( p ϭ 0.05, two-tailed test) of Ն 5 points in BBS . All analyses were performed according to the intention-to-treat principle (29). Descriptive statistics are presented in frequency as means Ϯ SD in Table <ref type="table">I</ref>. Groups were compared at baseline using the chi-squared or independent samples t -test. For chisquare test, either Pearson chi-square was used or, in applicable cases, Fisher ' s exact test. The participants ' data were used for analysis for as long as they participated in the study. Generalized estimating equations with repeated measure statistics were used to analyze the data over time and taken into consideration the fact that each individual had multiple assessments (Table <ref type="table">II</ref>). All data analyses were performed using the SPSS software package, version 17.0.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The study included 34 participants, 15 subjects in the IG and 19 subjects in the CG. There were no signifi cant differences in the baseline characteristics of the two groups (Table <ref type="table">I</ref>). There was a success of blinding the group allocation to the clinical test assessment staff.</p><p>All but one participant completed the 5-week intervention period. Two participants dropped out during follow-up; the reason for dropout was worsening overall medical condition in both cases. The participants in the IG participated in the home exercise program two or three times per week according to the self-reporting questionnaire.</p><p>Table II. Repeated measure analyses for all outcome measurements at all follow-up assessments; SF-36 and GDS-15. Baseline Post-Intervention 3 months post-intervention 6 months post-intervention Norms for the Swedish population aged 75ϩ Total study population, nϭ34 IG, nϭ15 CG, nϭ19 CI Total study population, nϭ33 IG, nϭ14 CG, nϭ19 CI Total study population, nϭ31 IG, nϭ13 CG, nϭ18 CI Total study population, nϭ31 IG, nϭ13 CG, nϭ18 CI SF-36 PCS 40.1Ϯ12.7 30.8Ϯ9.6 30.9Ϯ8.3 30.8Ϯ10.7 Ϫ6.9 to 6.8 32.8Ϯ11.3 32.2Ϯ10.6 33.2Ϯ12.0 Ϫ7.2 to 9.2 35.3Ϯ13.3 35.5Ϯ14.7 35.2Ϯ12.7 Ϫ10.4 to 9.8 35.3Ϯ12.8 35.3Ϯ13.3 35.4Ϯ12.9 Ϫ9.7 to 9.7 MCS 49.0Ϯ11.4 53.2Ϯ9.4 53.6Ϯ10.0 52.8Ϯ9.2 Ϫ7.5 to 5.9 54.6Ϯ10.0 54.4Ϯ10.3 54.8Ϯ10.0 Ϫ6.9 to 7.7 53.3Ϯ10.1 48.7Ϯ12.7 * 56.7Ϯ6.2 * 0.9 to 15.0 * 53.3Ϯ12.0 50.4Ϯ15.0 55.4Ϯ9.3 Ϫ3.9 to 13.9 SF-36 PF 59.0Ϯ30.1 45.8Ϯ20.8 45.7Ϯ21.7 45.8Ϯ20.6 Ϫ14.8 to 14.9 48.5Ϯ24.6 52.1Ϯ22.2 45.8Ϯ26.6 Ϫ24.2 to 11.5 52.1Ϯ26.1 56.5Ϯ25.5 48.9Ϯ26.8 Ϫ27.2 to 11.9 48.7Ϯ23.6 51.5Ϯ18.6 46.7Ϯ26.9 Ϫ22.6 to 12.9 RP 49.3Ϯ43.2 28.7Ϯ38.0 25.0Ϯ36.6 31.6Ϯ39.8 Ϫ20.5 to 33.6 33.3Ϯ37.9 21.4Ϯ27.5 42.1Ϯ42.5 Ϫ5.9 to 47.2 41.1Ϯ39.0 28.9Ϯ39.3 50.0Ϯ37.4 Ϫ7.3 to 49.6 47.6Ϯ41.5 44.2Ϯ41.0 50.0Ϯ42.9 Ϫ25.6 to 37.1 BP 63.2Ϯ30.2 64.6Ϯ26.6 62.0Ϯ19.5 66.6Ϯ31.5 Ϫ14.3 to 23.5 72.2Ϯ28.1 67.9Ϯ28.0 75.4Ϯ28.5 Ϫ12.9 to 27.8 70.7Ϯ33.2 66.2Ϯ32.4 74.0Ϯ34.4 Ϫ17.2 to 32.8 74.8Ϯ30.5 70.6Ϯ31.2 77.8Ϯ30.4 Ϫ15.7 to 30.1 GH 59.8Ϯ24.0 56.3Ϯ23.7 57.7Ϯ20.1 55.1Ϯ26.6 Ϫ19.5 to 14.2 56.3Ϯ26.8 57.8Ϯ28.8 55.3Ϯ26.1 Ϫ22.1 to 17.1 64.4Ϯ25.3 61.7Ϯ26.0 66.3Ϯ25.4 Ϫ14.5 to 23.7 62.0Ϯ25.1 60.8Ϯ24.1 62.8Ϯ26.4 Ϫ16.9 to 21.0 VT 54.2Ϯ30.0 50.6Ϯ18.7 51.0Ϯ14.7 50.3Ϯ21.8 Ϫ14.1 to 12.6 57.1Ϯ24.1 59.3Ϯ23.3 55.5Ϯ25.1 Ϫ21.3 to 13.7 53.2Ϯ23.5 46.2Ϯ19.0 58.3Ϯ25.7 Ϫ5.0 to 29.4 51.8Ϯ23.1 46.7Ϯ21.6 55.6Ϯ24.0 Ϫ8.3 to 26.0 SF 79.1Ϯ26.2 79.4Ϯ25.5 80.0Ϯ26.6 79.0Ϯ25.4 Ϫ19.3 to 17.2 86.0Ϯ23.5 84.8Ϯ29.1 86.8Ϯ19.3 Ϫ15.2 to 19.2 88.3Ϯ18.2 83.7Ϯ23.6 91.7Ϯ12.9 Ϫ5.5 to 21.5 90.3Ϯ20.3 85.6Ϯ25.9 93.8Ϯ15.0 Ϫ6.9 to 23.3 RE 64.0Ϯ41.8 81.4Ϯ35.0 73.3Ϯ42.2 87.7Ϯ27.7 Ϫ10.1 to 38.9 79.8Ϯ35.3 71.4Ϯ38.9 86.0Ϯ32.0 Ϫ10.7 to 39.7 81.7Ϯ35.3 66.7Ϯ43.0 92.6Ϯ24.4 1.1 to 50.8 83.0Ϯ34.3 71.8Ϯ40.5 90.7Ϯ27.6 Ϫ6.0 to 43.9 MH 76.1Ϯ23.1 77.2Ϯ17.3 82.1Ϯ13.6 73.3Ϯ19.2 Ϫ20.8 to 3.1 81.6Ϯ17.7 84.6Ϯ12.4 79.4Ϯ20.8 Ϫ18.0 to 7.6 78.7Ϯ18.1 74.5Ϯ21.6 * 81.8Ϯ14.9 * Ϫ6.1 to 20.7 79.0Ϯ17.8 81.2Ϯ11.9 77.3Ϯ21.2 Ϫ17.3 to 6.5 GDS-15 n/a 3.0Ϯ2.1 2.5Ϯ1.7 3.4Ϯ2.3 Ϫ0.6 to 2.4 4.2Ϯ2.7 3.1Ϯ2.1 5.0Ϯ2.8 Ϫ0.3 to 3.6 3.3Ϯ2.0 3.2Ϯ1.2 3.4Ϯ2.5 Ϫ1.4 to 1.7 3.4Ϯ2.4 3.0Ϯ1.5 3.7Ϯ2.9 Ϫ1.4 to 2.5 Results are presented as meanϮSD. GDS-15, Geriatric Depression Scale; SF-36, Short Form 36; IG, intervention group; CG, control group; CI, confi dence interval; PCS, Physical Component Scale; MCS, Mental Component Scale; PF, Physical Functioning; RP, Role Functioning-physical; BP, Bodily Pain; GH, General Health; VT, Vitality; SF, Social Functioning; RE, Role Functioning-emotional; MH, Mental Health.</p><p>Table I. Baseline characteristics of the participants. Intervention group, n ϭ 15 Control group, n ϭ 19 Sex (M/F) 9/6 12/7 Age 77.7 Ϯ 7.6 79.2 Ϯ 7.5 mRS a 2.1 Ϯ 0.6 2.1 Ϯ 0.6 Inpatient rehabilitation, days at stroke unit 12.5 Ϯ 5.0 10.9 Ϯ 5.3 Days from stroke onset to study start 139.7 Ϯ 37.3 126.8 Ϯ 28.2 Diagnosis of depression 3 2 Use of medication, SSRI or other anti-depressants 6 4 Use of sleeping pills 4 6 Home-help service 5 9 MMSE b 26.3 Ϯ 3.5 25.5 Ϯ 4.4 Fall risk index (19,37) No 14 16 Low 1 0 Medium 0 3 High 0 0 Results are presented as proportion or mean Ϯ SD. a mRS, modifi ed Rankin Scale. b MMSE, Mini Mental State Examination. SSRI, Selective Serotonin Reuptake Inhibitors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A high-intensive exercise program 129</head><p>Signifi cant difference between the two groups were detected in SF-36 MCS and MH subscale at the 3-month follow-up in favor of the CG ( p ϭ 0.02). There were no differences between the IG and the CG in presence of depressive symptoms as measured by GDS-15.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SF-36 Physical Component Scale (PCS)</head><p>The PCS levels are lower than in the norm population for this age bracket (norm population ϭ 40.1, total study population ϭ 30.8) (Table <ref type="table">II</ref>). There was no difference in SF-36 PCS at baseline between the IG and the CG. At the 3-and 6-month follow-up, there was partial normalization of the SF-36 PCS for the whole study group (IG ϩ CG) vs values at baseline ( p Ͻ 0.05, Table <ref type="table">II</ref>). However, there was no signifi cant difference for SF-36 PCS between the IG and CG over time (Table <ref type="table">II</ref>). For the individual components of the SF-36 PCS, PF, RP, BP and GH, there were no signifi cant differences between the IG and the CG at baseline or over time post-intervention (Table <ref type="table">II</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SF-36 Mental Component Scale (MCS)</head><p>There is a signifi cant difference in SF-36 MCS between the IG and CG at 3 months follow-up in favor for the CG ( p ϭ 0.02, Table <ref type="table">II</ref>). The subscale MH also showed a similar signifi cant difference at the 3-month follow-up ( p ϭ 0.02). The results for the remaining individual components of the SF-36 MCS, VT, SF and RE were without signifi cant differences between IG and CG at baseline and over time after intervention (Table <ref type="table">II</ref>).</p><p>There were no difference in SF-36 MCS at baseline between the IG and the CG. The MCS levels in whole study group (IG ϩ CG) were higher than in the norm population for this age bracket (53 vs 49 at baseline measurements, Table <ref type="table">II</ref>). In the whole study group (IG ϩ CG), there was no difference over time during the study period (Table <ref type="table">II</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Geriatric Depression Scale-15 (GDS-15)</head><p>There was no statistically signifi cant difference in GDS-15 between the IG and CG at baseline. There was no assured difference over time in the GDS-15 between the IG and CG. All levels of GDS-15 are without signs of depression.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This 5-week high-intensive exercise program did have an impact on HRQoL. The CG had a favorable outcome in the SF-36 MCS and MH subscale at 3 months post-intervention while no such improvement was observed in the IG. This was the only difference achieved between the two groups regarding HRQoL. For the SF-36 PCS, there was an improvement in the whole study group at 3 and 6 months postintervention compared with baseline values without any signifi cant changes between the IG and the CG. The presence of depressive symptoms was unchanged throughout the follow-up period for both groups.</p><p>The SF-36 MCS was higher for the whole study group compared with the norm population at baseline and directly post-intervention. This means that the stroke subjects in this study at this time point were mentally more vital compared with the general unaffected population. This could be an effect that the stroke patients were still in a stage of recovery and after all had survived. It may take longer than 3 -6 months after stroke to adapt to the situation of living with the consequences of the stroke. One year after stroke, many persons with even mild stroke still struggle to cope with these consequences, often hidden dysfunctions <ref type="bibr">(30,</ref><ref type="bibr">31)</ref>. There was a difference in SF-36 MCS and MH at 3-month follow between the IG and CG vs baseline measurements. The magnitude of these changes was 9 points for SF-36 MCS and 16 points for MH. The clinical signifi cance of SF-36 is set at 5 points or more (8), indicating in the present study that a clinically detectable and meaningful change has occurred.</p><p>The reason(s) for the difference between the IG and CG in SF-36 MCS and MH at 3 months post-intervention are unclear. Possible factors may include:</p><p>(i) Different content in the intervention program in the IG and the CG. The group discussions in the IG and the CG were equal in numbers and length but they had a completely different focus. The discussions in the IG concentrated solely on fall risk and security aspects, while the discussions in the CG contained group discussion on hidden dysfunctions after stroke as their complete intervention. The vast majority of the subjects in the CG reported in a questionnaire that they perceived the group discussions as interesting and meaningful with good and open-minded atmosphere within the group. (ii) Disappointment and frustration in the IG that the intervention had ended and thereby that the subjects had lost their intensive connections to the other participants in the study group as well as to attention loss of the personnel involved in the study. This is supported by the overwhelmingly positive feedback given by the majority of the subjects in the IG to the intervention staff in the study at the end of the 5-week intervention program. Also, many of these subjects expressed a desire to participate repeatedly in high-intensive exercise program rounds.</p><p>The main focus of the presently evaluated intervention study was not to investigate the impact on HRQoL and depression but rather to explore the effects on various physical outcomes. The evaluation of HRQoL and depressive symptoms was done in order to see if an " ordinary " exercise program did have an effect on these kinds of outcomes. The study was not designed for effect on these outcomes; therefore these results are in fact confi rmatory of this. If effect on these variables, HRQoL and depressive symptoms, are sought after, the study needs to be designed for that as well. It could, however, be considered as a strength in this study, that the different discussion topics in the CG seem to be of importance for HRQoL. For future interventions programs, this knowledge is valuable and needs to be added to the discussion sessions in order to have a possible effect on these outcomes.</p><p>It is known that the different invisible symptoms such as different cognitive problems are very common, but not often primary will be taken into account during the rehabilitation period. In persons 55 years and younger, cognitive problems are frequently perceived <ref type="bibr" target="#b44">(32)</ref>. This may be important to absorb and in the design of future programs add these topics to the theory sessions to demonstrate effects on HRQoL.</p><p>Regarding depressive symptoms, there was no signifi cant difference over time in the whole study group or between the IG and the CG. Five out of 34 subjects (three in the IG and two in the CG) had a previous history of depression whereas 27% in the IG and 32% in the CG were on antidepressant therapy at baseline measurements. This shows that the proportion of subjects in the present study with treated depression is in the range of previously published data on post-stroke depression (12). However, the average value of GDS-15 was 3.0 in the whole study group at baseline measurements (2.5 in the IG and 3.4 in the CG), indicating that depressive symptoms were not common. This suggests that many of the subjects in our study had a positive effect of their anti-depressive medication. Since the intervention study could have been considered demanding to the post-stroke individuals, both in time as well as physical and mental effort, it is likely that many of these individuals with more pronounced depressive symptoms declined the offer to participate in the study.</p><p>The SF-36 has been tested for validity and reliability in populations similar to the population in this study <ref type="bibr">(8,</ref><ref type="bibr">21,</ref><ref type="bibr" target="#b25">23,</ref><ref type="bibr">24)</ref>. However, there is a debate on some of its subscales, indicating imprecision and confounding when making summed scores (33). The results from the subscales of importance in this study nevertheless support the generation of summed scores from PF, RP, BP, VT, RE and MH (2). The Stroke Impact Scale (SIS) is another possible instrument that may be suitable for a post-stroke sample <ref type="bibr" target="#b32">(34)</ref>. The SIS instrument is disease-specifi c and results in values on physical symptoms, function, activity, ability/trouble in daily life, the impact of the disease, satisfaction and patient satisfaction <ref type="bibr" target="#b32">(34)</ref>. Both SIS and SF-36 are generic instruments, but in contrast to the SIS, the SF-36 is not limited to be diseasespecifi c. Generic instrument in general, evaluates the patient ' s general health and QoL. An advantage of using SF-36 is that it could be used to compare the results with other studies of other diseases using the SF-36. In our study population, the mean age was 79 years and the vast majority of the subjects had a high co-morbidity with illnesses, such as cardiovascular and other diseases. It might therefore be diffi cult to ensure the disease-specifi c origin of the symptoms. Therefore, a generic instrument rather than a diseasespecific instrument has been considered as best relevant to use in this study.</p><p>As has been discussed in the accompanying report, this sample was considered representative for individuals with post-stroke symptoms of fall risk and the length of the intervention program is realistic for implementation in clinic (17). Fatigue as a common complication after stroke was also given as the main reason not to participate by those who declined to participate in this study. Of those eligible for inclusion in the study but were not included in the study, some lived too far away from the rehabilitation facilities. A few others did not have the time to spend in the intervention program, while some others died during the time between inpatient care and study start. With these facts, it might be that our included study group is a bit more active than the average post-stroke individuals with risk of falls. However, many participants in the study group expressed a pronounced fatigue.</p><p>In the present study, the mean result of the SF-36 subscale VT (which is defi ned as either feeling tired all the time or having lots of energy all of the time ( <ref type="formula">8</ref>)) indicates that this proportion was higher than in the norm population. VT has been strongly associated with global ratings of health satisfaction and QoL (8).</p><p>There are several limitations in this study (17). The size of the study population is small. The power calculation was based on the BBS and estimated minimum size of 34 subjects. To reach a high precision in SF-36, there is a call for more than 200 subjects (8). This suggests that there is a possibility for a Type-2 statistical error in other subscales of SF-36 in the present study, i.e. there may be a difference that is non-detectable because of our small sample size.</p><p>We consider it a strength to try to evaluate HRQoL and depression, and not only functional and activity measures, even though the intervention study is focused on these outcomes. It is established that both physical and psychosocial well-being is greatly affected in stroke survivors (1). Many rehabilitation programs are focused on the physical outcome of the program. There is a need for evaluating rehabilitation programs in terms of HRQoL and the presence of depressive symptoms. It could also be concluded, to achieve an effect on depressive symptoms, that the program should have included exercise that focused on higher level of aerobic training <ref type="bibr">(33,</ref><ref type="bibr">36)</ref>.</p><p>Antidepressant drugs may be useful in treating depression after stroke, but can also cause side-effects, especially such as seizures, falls and delirium (37). Adding these side-effects to an already decreased functional ability may be problematic. Therefore, an alternative method as physical activity may be a useful way to ameliorate depressive symptoms. Ideally, in order to evaluate the effect of physical fi tness training on depression after stroke, the participating stroke individuals should be medication-free regarding anti-depressants. When designing the structured intervention program, the focus of the study was on functional rehabilitation, with an attention time of 30 h during the 5-week intervention program for the IG and 5 h for the CG and actually not to enhance the HRQoL. The psychosocial part was incorporated in the 1 h/week of education received by the individuals in both groups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>Our 5-week high-intensive exercise program was related to deterioration in the IG in SF-36 MCS and the MH subscale at 3 months post-intervention compared with baseline values while the CG improved at this time. For the SF-36 PCS, there was an improvement in the whole study group at 3 and 6 months postintervention compared with baseline values without any signifi cant difference between the IG and the CG. The presence of depressive symptoms was unchanged throughout the follow-up period for both groups. Based on these data, it is concluded that a modifi ed version of a high-intensive exercise program to be tested in the future should not entirely focus on falls and safety aspects, but should also include themes on hidden dysfunctions after stroke in order to have a favorable impact on HRQoL.</p></div>		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>This study was supported by grants from V å rdalinstitutet, the <rs type="funder">Swedish Institute for Health Sciences</rs>, the <rs type="funder">Swedish Stroke Foundation</rs>, the <rs type="funder">Swedish Heart and Lung Foundation</rs>, the <rs type="funder">Northern Swedish Stroke fund</rs>, the " Spjutspetsprojekt " at the County of V ä sterbotten, the <rs type="affiliation">Medical Faculty of Ume å University,Ume å University Hospital</rs> and the <rs type="funder">Erik and Anne-Marie Detlof Foundation</rs> at <rs type="institution">Ume å University</rs>. We thank the <rs type="institution">Clinical Research Center at the University Hospital of Ume</rs> å for use of their facilities for our assessments. We also thank the following staff for help with the study: <rs type="person">Rolf Backlund</rs>, <rs type="person">Maria H ä llgren</rs>, <rs type="person">Monica Edstr</rs> ö m, <rs type="person">Annelie Selling</rs>, <rs type="person">Mats Bergstr</rs> ö m, <rs type="institution">Lena Sj ö lund, StinaOlofsson, Josefi nCroxatto and Katarina Klingberg</rs>. We also thank the subjects and caregivers for their contributions and <rs type="person">Anders Lundquist</rs> for assistance with the statistical analyses.</p><p>The study is registered at <ref type="url" target="www.clinicaltrials.gov">www.clinicaltrials.gov</ref> (<rs type="grantNumber">NCT00377689</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_BDNfJ2N">
+					<idno type="grant-number">NCT00377689</idno>
+				</org>
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of interest:</head><p>The authors report no confl icts of interest. The authors alone are responsible for the content and writing of the paper.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Quality of life after stroke: The 1. importance of a good recovery</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Carod-Artal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Egido</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cerebrovasc Dis</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">Suppl 1</biblScope>
+			<biblScope unit="page" from="204" to="214" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Quality of 2. life measurement after stroke: Uses and abuses of the SF-36</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Hobart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Moran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1348" to="1356" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Physical activity and stroke 3. risk: A meta-analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Folsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Blair</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="2475" to="2481" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Physical fi t-4. ness training for stroke patients</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Saunders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Greig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Mead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Young</surname></persName>
+		</author>
+		<idno>CD003316</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cochrane Database Syst Rev</title>
+		<imprint>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Stroke unit treatment improves long-term quality of life: A randomized controlled trial</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Indredavik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bakke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Slordahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rokseth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Haheim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="895" to="899" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Mead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Morley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Greig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mcmurdo</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Exercise for depression. Cochrane Database Syst Rev. 2008(4):CD004366. WHO. WHO defi nition of Health</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lawlor</surname></persName>
+		</author>
+		<imprint>
+			<publisher>International</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<monogr>
+		<title level="m">Health Conference</title>
+		<imprint>
+			<date type="published" when="1946">1946</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Swedish manual and inter-8</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Karlsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Taft</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002. 2009. 2009</date>
+			<publisher>Sahlgrenska University Hospital</publisher>
+			<pubPlace>Gothenburg</pubPlace>
+		</imprint>
+	</monogr>
+	<note>pretation guide. 2nd ed</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Scaling up care for mental, neurological, and sub-10. stance use disorders</title>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+		<editor>Programme MHGA</editor>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>WHO Press</publisher>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Interven-11. tions for preventing depression after stroke. Cochrane Database Syst Rev</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Hackett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>House</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Halteh</surname></persName>
+		</author>
+		<idno>CD003689</idno>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Frequency of 12. depression after stroke: A systematic review of observational studies</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Hackett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yapa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Parag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="1330" to="1340" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<title level="m" type="main">RIKS-Stroke, annual report</title>
+		<author>
+			<persName><forename type="first">Tss</forename><surname>Register</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Higher incidence of falls 14. in long-term stroke survivors than in population controls: Depressive symptoms predict falls after stroke</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jørgensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Engstad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jacobsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="542" to="547" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">How effective are physical 15. activity interventions for alleviating depressive symptoms in older people? A systematic review</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Blake</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Malik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thomas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="873" to="887" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Treadmill training post stroke: Are 16. there any secondary benefi ts? A pilot study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="997" to="1002" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">What is the benefi t of a high intensive exercise program after stroke? -A randomized controlled trial</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Holmgren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gosman-Hedstr Ö M G, Lindstr Ö M</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nyberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">17</forename><surname>Wester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Physiother</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>submitted</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Allocation by minimisa-18</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Royston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Day</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Minim</surname></persName>
+		</author>
+		<ptr target="http://www-users.york.ac.uk/∼mb55/guide/minim.htm" />
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>tion in clinical trials</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Folstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Folstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Mchugh</surname></persName>
+		</author>
+		<title level="m">Mini-mental state</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A practical method for grading the cognitive state of patients for the clinician</title>
+	</analytic>
+	<monogr>
+		<title level="j">J Psychiatr Res</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="189" to="198" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Validation of a 20. fall risk index in stroke rehabilitation</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Olsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lofgren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gustafson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nyberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Stroke Cerebrovasc Dis</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="23" to="28" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Validation of the Short 21. Form 36 (SF-36) health survey questionnaire among stroke patients</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Laubscher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Burns</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1812" to="1816" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Karlsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Ware</surname><genName>Jr</genName></persName>
+		</author>
+		<idno>SF-36</idno>
+		<imprint/>
+	</monogr>
+	<note type="report_type">The Swedish</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Health Survey -I. Evaluation of data quality, scaling assumptions, reliability and construct validity across general populations in Sweden</title>
+	</analytic>
+	<monogr>
+		<title level="j">Soc Sci Med</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1349" to="1358" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<monogr>
+		<title level="m" type="main">The MOS 36-item short-form</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Ware</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Sherbourne</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">health survey (SF-36). I. Conceptual framework and item selection</title>
+	</analytic>
+	<monogr>
+		<title level="j">Med Care</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="473" to="483" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Development and validation of a geriatric depression screening scale: A preliminary report</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Yesavage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Brink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Adey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Psychiatr Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="37" to="49" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Ware</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Snow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kosinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gandek</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sf</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">36</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<monogr>
+		<title level="m">Health Survey: Manual and interpretation guide</title>
+		<meeting><address><addrLine>Boston, MA; New England Medical Center</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Health Institute</publisher>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">SF-36 H ä lsoenk ä t Swedish manual and 26</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Taft</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sahlgrenska University Hospital; 2002. stroke in men and women between 18 and 55 years of age -A national survey</title>
+		<meeting><address><addrLine>Gothenburg</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1092" to="1099" />
+		</imprint>
+	</monogr>
+	<note>interpretation guide. 2nd ed</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Guidelines to statistical evaluation of data from 33. rating scales and questionnaires</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Svensson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Rehabil Med</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="47" to="48" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wallace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Embretson</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The stroke impact scale version 2.0. Evaluation of reliability, validity, and sensitivity to change</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Laster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stroke</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="2131" to="2140" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Impact of exercise on patients with depression and anxiety</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Oeland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Laessoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Olesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Munk-Jorgensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nord J Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<date type="published" when="2010-01">Jan 2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Aerobic exercise training in stroke sur-36. vivors</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Rimmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Top Stroke Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="17" to="30" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Interventions 37. for treating depression after stroke</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Hackett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>House</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xia</surname></persName>
+		</author>
+		<idno>CD003437</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cochrane Database Syst Rev</title>
+		<imprint>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Fall prediction index for patients in 38</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nyberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gustafson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">stroke rehabilitation. Stroke</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="716" to="721" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The Balance Scale: 27. Reliability assessment with elderly residents and patients with an acute stroke</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wood-Dauphinee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Rehabil Med</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="27" to="36" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">O</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wood-Dauphinee</forename><surname>Sl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Maki</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Measuring balance in the elderly: Validation of an instrument</title>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">Suppl 2</biblScope>
+			<biblScope unit="page" from="7" to="11" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Practical Statistics for medical research</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Altman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="29" to="464" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">A qualitative study 30. of the consequences of &apos; hidden dysfunctions &apos; one year after a mild stroke in persons Ͻ 75 years</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Carlsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Moller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Blomstrand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Disabil Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1373" to="1380" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Managing an 31. everyday life of uncertainty -A qualitative study of coping in persons with mild stroke</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Carlsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Moller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Blomstrand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Disabil Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="773" to="782" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Glader</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Malm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eriksson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lindstrom</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Perceived impaired physical and cognitive functions after</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

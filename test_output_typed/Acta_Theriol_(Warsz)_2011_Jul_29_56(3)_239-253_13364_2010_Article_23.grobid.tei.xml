@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Drive counts as a method of estimating ungulate density in forests: mission impossible?</title>
+				<funder ref="#_n2abRwH">
+					<orgName type="full">Natural Environment Research Council</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">UK Population Biology Network (UKPopNet)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-01-29">29 January 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Jakub</forename><surname>Borkowski</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Stephen</forename><forename type="middle">C F</forename><surname>Palmer</surname></persName>
+							<email>s.palmer@abdn.ac.uk</email>
+						</author>
+						<author>
+							<persName><forename type="first">Zbigniew</forename><surname>Borowski</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jan</forename><forename type="middle">M</forename><surname>Wójcik</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Forest Ecology</orgName>
+								<orgName type="department" key="dep2">Forest Research Institute, Braci Leśnej 3</orgName>
+								<address>
+									<postCode>05-090</postCode>
+									<settlement>Raszyn</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Biological and Environmental Sciences</orgName>
+								<orgName type="institution">University of Aberdeen</orgName>
+								<address>
+									<addrLine>Zoology Building Tillydrone Avenue</addrLine>
+									<postCode>AB24 2TZ</postCode>
+									<settlement>Aberdeen</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Drive counts as a method of estimating ungulate density in forests: mission impossible?</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-01-29">29 January 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">978E8D60C0ED8E18F96759B8555B3F43</idno>
+					<idno type="DOI">10.1007/s13364-010-0023-8</idno>
+					<note type="submission">Received: 1 September 2010 / Accepted: 7 December 2010 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:07+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Aggregation</term>
+					<term>Capreolus capreolus</term>
+					<term>Cervus elaphus</term>
+					<term>Computer simulation</term>
+					<term>Density estimation</term>
+					<term>Drive counts</term>
+					<term>Virtual ecosystem</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Although drive counts are frequently used to estimate the size of deer populations in forests, little is known about how counting methods or the density and social organization of the deer species concerned influence the accuracy of the estimates obtained, and hence their suitability for informing management decisions. As these issues cannot readily be examined for real populations, we conducted a series of 'virtual experiments' in a computer simulation model to evaluate the effects of block size, proportion of forest counted, deer density, social aggregation and spatial auto-correlation on the accuracy of drive counts. Simulated populations of red and roe deer were generated on the basis of drive count data obtained from Polish commercial forests. For both deer species, count accuracy increased with increasing density, and decreased as the degree of aggregation, either demographic or spatial, within the population increased. However, the effect of density on accuracy was substantially greater than the effect of aggregation. Although improvements in accuracy could be made by reducing the size of counting blocks for lowdensity, aggregated populations, these were limited. Increasing the proportion of the forest counted led to greater improvements in accuracy, but the gains were limited compared with the increase in effort required. If it is necessary to estimate the deer population with a high degree of accuracy (e.g. within 10% of the true value), drive counts are likely to be inadequate whatever the deer density. However, if a lower level of accuracy (within 20% or more) is acceptable, our study suggests that at higher deer densities (more than ca. five to seven deer/100 ha) drive counts can provide reliable information on population size.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Population size and status assessment are important for game and wildlife management. In the case of rare species, wildlife managers often try to increase population size; in medium-sized, harvested populations, their densities determine hunting plans, while in populations considered overabundant, reduction of density may be judged necessary. According to <ref type="bibr" target="#b23">Leopold et al. (1938)</ref> 'any wildlife management worthy of the name will be difficult or impossible until we develop satisfactory methods of inventory'.</p><p>Although ungulate census may be relatively easy in open areas <ref type="bibr" target="#b24">(Lowe 1969)</ref>, it is much harder in forest habitats. A classic example of this difficulty was demonstrated by the study of <ref type="bibr" target="#b0">Andersen (1953)</ref>, in which roe deer (Capreolus capreolus L.) population size was estimated at 70 individuals, but shooting aimed at eliminating all individuals revealed that there were at least 213 roe deer (a few animals remained). Similar results were obtained by <ref type="bibr">Ueckermann (1964)</ref> and <ref type="bibr" target="#b30">Pielowski and Bresiński (1982)</ref>. Among existing methods, those considered reliable often require much effort (e.g. capture-mark-resighting <ref type="bibr" target="#b35">-Strandgaard 1967)</ref> or expensive equipment (e.g. thermal imaging- <ref type="bibr" target="#b12">Gill et al. 1997;</ref><ref type="bibr" target="#b33">Smart et al. 2004)</ref>.</p><p>One quite commonly used method is that of drive counts <ref type="bibr" target="#b18">(Hosely 1956;</ref><ref type="bibr" target="#b28">Overton 1969;</ref><ref type="bibr" target="#b31">Pucek et al. 1975;</ref><ref type="bibr" target="#b25">McCullough 1979;</ref><ref type="bibr" target="#b20">Koster and Hart 1988;</ref><ref type="bibr" target="#b32">Short and Hone 1988;</ref><ref type="bibr" target="#b19">Jędrzejewska et al. 1994;</ref><ref type="bibr" target="#b11">Dzięciołowski et al. 1995;</ref><ref type="bibr" target="#b21">Lancia et al. 1996;</ref><ref type="bibr" target="#b27">Noss et al. 2006)</ref>. Usually, an area having welldefined boundaries (e.g. forest roads) is driven by a line of beaters who start from one side of the area, and drive deer towards stationary observers placed along the remaining sides. The count within a given block is the number of animals leaving the block through the line of drivers plus those passing through the observers' lines. If population size rather than density is of interest (which is usually the case in wildlife or game management), the number of animals counted in all blocks is extrapolated to the total forest area.</p><p>In spite of the popularity of drive counts, so far there have been few attempts to evaluate their applicability for estimating animal density/population size. <ref type="bibr" target="#b25">McCullough (1979)</ref> used drive counts in his study of a white-tailed deer (Odocoileus virginianus Zimmermann) population. He compared results of drive counts with population size estimated from the age or death of individuals, and concluded that at low population density drive counts underestimated the population relative to age reconstruction, while at high densities it tended to overestimate. However, <ref type="bibr" target="#b25">McCullough (1979)</ref> tested drive counts on an enclosed population (driven individuals remained within the area), which probably limits his conclusions for freeranging populations. <ref type="bibr" target="#b31">Pucek et al. (1975)</ref> compared drive counts with snow tracking, and concluded that the latter provides lower density estimates than drive counts, although they did not test the efficiency of drive counts as such. <ref type="bibr" target="#b6">Cederlund et al. (1998)</ref> in general found that drive counts and other methods derived from hunting practices were unreliable, and pointed out that double counting, especially at high densities, is hard to avoid. <ref type="bibr" target="#b34">Staines and Ratcliffe (1987)</ref> found that deer could be hard to flush from cover, and suggested that drive counting be limited to small areas owing to difficulties in co-ordinating large numbers of beaters and counters. On the basis of existing knowledge, it is therefore hard to draw any clear conclusions regarding the effectiveness of drive counts. In Poland, the method is recommended for use by game managers <ref type="bibr" target="#b26">(Nasiadka 1994)</ref>, and is probably the most commonly used method for estimating deer populations and trends.</p><p>The total number of animals counted fleeing from a particular block when it is driven depends on the group sizes and the spatial locations of groups at the time of the count. These two factors cannot be distinguished from the counts, as groups may fragment or coalesce during the animals' flight. Roe and red deer (Cervus elaphus L.), the two most widely distributed deer species in Europe, differ in their social organization systems, and as a result, group sizes formed in forest environments typically differ (e.g. <ref type="bibr" target="#b10">Dzięciołowski 1979</ref>). Roe deer are usually solitary or form small family groups <ref type="bibr" target="#b16">(Hewison et al. 1998)</ref>, while red deer are gregarious and exhibit much larger group size <ref type="bibr" target="#b7">(Clutton-Brock et al. 1982)</ref>. Therefore, the statistical distribution of the numbers within each group will likely differ between species, as red deer are more aggregated. Aggregation within groups due to social behaviour may be further enhanced by spatial auto-correlation between groups due to differential habitat use <ref type="bibr">(Welch et al. 1990;</ref><ref type="bibr" target="#b29">Palmer and Truscott 2003;</ref><ref type="bibr" target="#b2">Borkowski 2004</ref>). On the other hand, deer group size tends to be affected by activity and period of day <ref type="bibr" target="#b3">(Borkowski and Furubayashi 1998)</ref>. Drive counts are conducted during daylight when deer are predominately inactive and rest in small groups <ref type="bibr" target="#b10">(Dzięciołowski 1979;</ref><ref type="bibr" target="#b39">Thirgood and Staines 1989;</ref><ref type="bibr" target="#b5">Carranza et al. 1991)</ref>, which may reduce the difference in aggregation between the two species.</p><p>Usually, at least 10% of the total forest area is recommended to be covered by drive counts <ref type="bibr" target="#b31">(Pucek et al. 1975;</ref><ref type="bibr" target="#b26">Nasiadka 1994)</ref>. However, little is in fact known of how the total area and number of blocks driven influence the results. Similarly, there is no information on how population density and group size affect the results of drive counts. Answering these questions through field studies, however, would be challenging. Even if it were logistically possible to conduct field experiments to examine the effects of such variables, their influence on accuracy cannot be determined unless the true population size is known, which is rarely the case (e.g. Daniels 2006). However, counting methods may be compared in a computer simulation in which total population size is controlled <ref type="bibr" target="#b33">(Smart et al. 2004)</ref>.</p><p>Here, we use computer simulation to evaluate effects of block size, proportion of forest counted, density, social aggregation, and spatial auto-correlation on accuracy of drive counts in a series of 'virtual experiments'. We base the experimental treatments on an analysis of drive count data from commercial forest districts in Poland.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study area</head><p>Drive counts were conducted within four commercial forest districts in Poland: Pszczyna, Rudy Raciborskie, Strzałowo, and Iława. Depending on the forest district, the counts were done for one to three consecutive years (</p><p>Table 1). Pszczyna and Rudy are located in the Silesian Upland near Gliwice city, south-western Poland (50°45′ N, 18°40′ E), while Iława and Strzałowo are in the Mazurian region near Olsztyn city, northern Poland <ref type="table" target="#tab_1">(53°47′N</ref>, <ref type="table" target="#tab_1">20°30′E</ref>). The climate of these regions is typical for central Europe, where oceanic and continental climate types meet. However, in the Silesian Upland, mean annual temperature is higher (ca. 9 C) than in the Mazurian Distict (ca. 6.6 C). Mean annual precipitation in both regions is similar (ca. 600 mm).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Field data from Polish forests</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Drive counts</head><p>Drive counts were used to estimate winter numbers (February-March) of red and roe deer. Each individual area driven was a block of one to a few adjacent forest compartments (on average ca. 60 ha). Usually there were 15-20 beaters and the same number of observers participating in the counts. The observers (either foresters or hunters) had sufficient experience to determine deer species, sex, and age (young/adult). Each observer recorded on an observation form the species and number of individuals of each group (and if possible also the group composition) leaving (or entering) the driven block on his right side. A coordinator collected the same information on animals seen by the beaters. After beating each block, the coordinator collated information from all observers and immediately resolved any possible inconsistencies, in order to minimise the likelihood of double counting and inaccurate group sizes. In the majority of cases, the same blocks were beaten from year to year.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analysis</head><p>We examined the degree of dispersion of red and roe deer block counts by fitting to generalised linear mixed models (GLMM) having a Poisson error term, logarithmic link function and the logarithm of block area (ha) as an offset. District was fitted as a fixed effect, and block and district× year as random effects. 'Year' was not the same at each site, and was therefore not included in the model as a fixed effect. The roe deer count was subsequently added to the red deer model, and similarly the red deer count to the roe deer model, to test whether there was an interrelation between the two species at the block level.</p><p>The suitability of the negative binomial distribution for representing aggregation in a population simulation model was assessed. To do so, block counts were standardised to a 60 ha block area (real block sizes ranged from 30 to 118 ha and district means from 45 to 81 ha) in order that the arithmetic mean, variances and coefficient of variation (c.v.) at the block scale could be estimated for the two species in each district/year combination. The mean and variance were then used to estimate the negative binomial aggregation parameter (k) using the method of moments <ref type="bibr" target="#b38">(Taylor et al. 1979)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The virtual forest simulation</head><p>We adapted the method of <ref type="bibr" target="#b40">Travis and Palmer (2005)</ref> to generate simulated populations of red and roe deer in a virtual forest comprising a set of contiguous square 20 ha compartments. The forest (total area 18,000 ha, similar to typical Polish forest districts) comprised 30×30 compartments. Two types of simulated population were generated using the Macro Facility of SAS (version 9.1):</p><p>1. Spatially unstructured. For each deer species independently, the first animal was located within a random compartment; all subsequent individuals were either placed in a random compartment with probability z or, with probability 1-z, placed within the same compartment as the previous individual. Thus, the parameter z controls the degree of demographic aggregation (i.e. within group), and the smaller its value, the greater the demographic aggregation (at the compartment scale) within the population. 2. Spatially auto-correlated. An additional spatial autocorrelation parameter s was introduced, which behaved in a similar manner to z, but controlled the aggregation between groups. If the animal was to be placed (as determined above) in a different compartment to the previous individual, then with probability s it was placed in a random compartment and with probability 1-s it was placed in a compartment adjoining that of the previous animal, one of the four cardinal directions being selected at random. Thus, the smaller the value of s, the greater the spatial auto-correlation of groups within the population. Values of s lower than 0.65 typically produced significant spatial auto-correlation as measured by Moran's I statistic (ArcGIS version 9.1).</p><p>Prior to conducting sample counts on the virtual populations, the effects of random variation and of the grouping probability z were examined in a series of trials on spatially unstructured populations to determine whether the simulation algorithm could generate realistically distributed deer populations.</p><p>A series of virtual counting experiments was then conducted by generating random sets of counting blocks akin to the blocks used in field counts. Each block comprised either a single compartment or a contiguous set of compartments of specified size running either east-west or north-south (selected at random), which constituted the simplest way to simulate blocks having odd numbers of compartments whilst avoiding irregular shapes. Blocks including a compartment previously allocated to another block were discarded; however, there was no bar to two or more blocks sharing a common edge (Fig. <ref type="figure" target="#fig_0">1</ref>). Adjacent blocks are unlikely in reality, but their presence in the simulation does not affect the results. Each experiment was replicated across 20 different simulated populations, each of which was counted 100 times to estimate the mean and range of two types of 'accuracy indicators' for each deer species: (1) the percentage of counts where the estimated total population fell within a specified range (±10%, 20%, or 30%) of the true total population and (2) the estimated population expressed as a percentage of the true population. Strictly speaking, the first of these reflects statistical precision (how close repeated measures are to each other) rather than accuracy (how close a measure is to the true value). However, from the point-of-view of the forest manager, who may have sufficient resources for only a single measurement, the difference is purely semantic, and he is interested in how close his estimate likely to be to the true value; hence, we here use the term 'accuracy'.</p><p>The first three experiments examined the effects on count accuracy of three factors forest managers cannot control when planning a count, namely deer density, demographic aggregation and spatial auto-correlation. The last two experiments tested whether two factors within managers' control, block size, and the total area counted, can reasonably be manipulated to improve count accuracy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experiment 1: the effect of density in spatially unstructured populations</head><p>Block size (three compartments, i.e. 60 ha), total area counted (10% of the forest, i.e. 30 blocks) and degree of aggregation (z=0.5 for red deer, 0.8 for roe deer, which were found to reproduce the degree of aggregation observed in field counts) were held constant. The population density of each species was varied between 2 and 22/100 ha in increments of 4/100 ha.</p><p>Experiment 2: the effect of demographic aggregation in spatially unstructured populations Block size (as Experiment 1), total area counted (as Experiment 1) and population density (red deer 10/100 ha, roe deer 7.5/100 ha) were held constant. The degree of aggregation z of each species was varied between 0.30 and 0.60 for red deer and between 0.60 and 0.90 for roe deer in increments of 0.05 to span the values used in Experiment 1.</p><p>Experiment 3: the effect of spatial auto-correlation Block size (as Experiment 1), total area counted (as Experiment 1), population density (as Experiment 2) and the aggregation parameter z (as Experiment 1) were all held constant. The spatial auto-correlation parameter s was varied between 0.1 and 0.9 for each species in increments of 0.2 to produce a wide range of possible spatial auto-correlation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experiment 4: the effect of altering block size to improve accuracy</head><p>The effect of increasing or decreasing the block size (and altering the number of blocks to count the same total area) was examined for low (red deer 4/100 ha, roe deer 3/100 ha) and high (red deer 12/100 ha, roe deer 20/100 ha) population densities (typical of Polish forests). The populations were (a) highly spatially aggregated (s=0.3 for both species, z=0.4 for red deer, and 0.7 for roe deer) or (b) relatively unaggregated spatially and with group sizes as applied in Experiment 1 (s=0.9 for both species, z=0.5 for red deer, and 0.8 for roe deer). Counting blocks of 1, 2, 3, 5, and 6 compartments (20, 40, 60, 100, and 120 ha, respectively) were employed. The total area counted was held constant at 10% of the forest, i.e. the number of counting blocks was set to 90, 45, 30, 18, and 12, respectively.</p><p>Experiment 5: the effect of increasing the total area counted to improve accuracy For populations in which there is a high degree of overdispersion due to demographic aggregation and/or spatial auto-correlation, count accuracy might be improved by increasing the proportion of the forest counted. In turn, that could be achieved by counting more blocks and/or increasing block size. To test this, we simulated block sizes of 60 and 100 ha to count 10%, 20% and 30% of the forest, at the low and high population densities and levels of aggregation specified for Experiment 4.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Deer density estimates based on the drive count method varied considerably between years in the three districts  <ref type="table">2</ref>). The GLMM residuals for roe deer were moderately over-dispersed (scale disper-sion=2.3; n=132) and for red deer were highly overdispersed (scale dispersion=7.4; n=132). When data were restricted to blocks with non-zero counts only, the same patterns were observed (roe 1.8; n=109, red 4.2, n=95). Thus, over-dispersion across all blocks was not simply due to some blocks being unoccupied (e.g. unsuitable habitat, disturbance) and deer being distributed between all occupied blocks at random. Rather, it was a genuine result of aggregation patterns at the block scale.</p><p>There was no difference in density between districts (having fixed the scale dispersion parameter at unity) for either species (red deer: F 3,4 =1.4, P=0.38; roe deer: F 3,6 =0.98, P=0.46). There was no evidence that the count of either species was related to the presence or count of the other species at the block level (effect of roe deer on red deer: F 1,83 =1.9, P=0.18; effect of red deer on roe deer: F 1,83 =0.95, P=0.33). There was no effect of block area on estimated density within the block for either red or roe deer (red deer: F 1,50 =0.55, P=0.46; roe deer: F 1,44 =0.75, P=0.39); nor was there any effect of block area on the probability that at least one animal was recorded within the block (red deer: F 1,31 =0.33, P=0.57; roe deer: F 1,30 =0.12, P=0.73). In nine of ten counts, the c.v. of the density estimate for red deer (range, 83-186%) was higher than for roe deer (58-120%) and k (the negative binomial aggregation parameter) was lower (red, 0.32-1.80 and roe, 0.94-4.55), reflecting the greater degree of aggregation amongst red deer (although the negative binomial parameters were not independent-see Appendix).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Simulation experiments</head><p>Replicated stochastic trials in which mean red deer density was set at 2.0/compartment (equivalent to 10/100 ha) and mean roe deer density at 1.5/compartment (7.5/100 ha) indicated that values of the aggregation parameter z in the range 0.25 to 0.60 for red deer and 0.60 to 0.85 for roe deer gave realistic values of k and c.v. within the ranges observed from field counts. The parameter z was then fixed at 0.45 for red deer and for roe deer at 0.70 and density was varied for each species between 0.5 and 4.0/compartment. For both species, simulated count data fitted Taylor's power law <ref type="bibr" target="#b37">(Taylor et al. 1978</ref><ref type="bibr" target="#b38">(Taylor et al. , 1979</ref>; see Appendix) closely (P &lt; 0.001, R 2 = 0.99 in each case). Neither estimated exponent differed significantly from unity, and estimates of the scaling parameter a were 3.35 and 1.81 for red and roe deer respectively. Thus, for both simulated species, the variance increased more rapidly than the mean, but linearly in relation to the mean, in a similar fashion to counts obtained from real forests (see Appendix). Thus we concluded that the simulation algorithm was able to generate population distributions which displayed the characteristics of real-forest deer populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experiment 1: the effect of density in spatially unstructured populations</head><p>For both deer species, count accuracy increased with density at all accuracy levels assessed, i.e. the proportion of estimates falling within 10, 20 or 30% of the true population (F 5,95 &gt;336, P&lt;0.001 in all cases; Fig. <ref type="figure">2</ref>). At all but the lowest density, 2 deer/100 ha, counts of both species fell within 20% of the true population most of the time (at least 81% for red deer and 92% for roe deer). However, the expectation of an estimated count falling within 10% of the true total declined quite sharply as density decreased. Below 5 deer/100 ha, fewer than around half of roe deer counts and fewer than 40% of red deer counts would be expected to be that accurate. In the worst-case forests (i.e. the individual population replicates having the lowest accuracy index at each deer density), only 19% of red deer and 31% of roe deer counts achieved the 10% accuracy threshold at the lowest density. Moreover, at low density, the estimates were highly inaccurate, ranging from 19% to 203% of the true total for red deer, and 42% to 169% for roe deer. In comparison, at the highest density (22 deer/ 100 ha), accuracy ranged from 72% to 132% for red deer and from 81% to 118% for roe deer. At the 10% level of assessment, the accuracy of counts differed between the two species at all densities (pairwise t tests implemented in linear mixed model: t 105 &gt;7.4, P&lt;0.0001 in all cases; compare solid lines in Fig. <ref type="figure">2</ref>).</p><p>Year Iława Pszczyna Rudy Strzałowo Red deer Roe deer Red deer Roe deer Red deer Roe deer Red deer Roe deer 1993 10. 0 6.9 ------1994 --10.2 3.5 10.3 8.3 12.7 7.4 1995 13.5 4.5 5.3 11.3 5.1 8.3 --1996 8.6 4.9 8.0 3.3 6.1 13.6 --Mean 10.7 5.4 7.8 6.0 7.2 10.1 --</p><p>Table 2 Deer density estimates (deer/100 ha) using drive counts in four Polish forests</p><p>Experiment 2: The effect of demographic aggregation in spatially unstructured populations</p><p>Increasing the degree of demographic aggregation (reducing the value of z) reduced the accuracy of the count at all levels of accuracy assessment (F 6,114 &gt;10.5, P&lt;0.001 in all cases; Fig. <ref type="figure" target="#fig_1">3</ref>). However, the magnitude of the effect of varying aggregation across its full range of likely values for each species at fixed density was substantially less than the magnitude of varying density across a tenfold range at fixed aggregation (Table <ref type="table" target="#tab_1">3</ref>). Overall, the worst-case estimates, occurring at the highest levels of aggregation, were 56% and 177% of the true red deer population and 62% and 146% of the true roe deer population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experiment 3: the effect of spatial auto-correlation</head><p>Increasing the degree of spatial auto-correlation (reducing the value of s) reduced the accuracy of the count at all levels of accuracy assessment (F 4,76 &gt;67.0, P&lt;0.001 in all cases; Fig. <ref type="figure" target="#fig_2">4</ref>). Although the accuracy of roe deer counts was significantly higher than that of red deer counts at the same level of spatial auto-correlation (owing to the lower degree of demographic aggregation in roe populations), the magnitude of the difference was quite small (Fig. <ref type="figure" target="#fig_2">4</ref>; Table <ref type="table" target="#tab_1">3</ref>), suggesting that there was no important interaction between demographic aggregation and spatial auto-correlation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experiment 4: the effect of altering block size to improve accuracy</head><p>Although there were significant improvements in accuracy by reducing the block size to 20 ha at all levels of assessment for both species at low-density and high spatial aggregation (F 4,76 &gt;4.5, P&lt;0.01 in all cases), the gains were limited (Fig. <ref type="figure" target="#fig_3">5a</ref>, <ref type="figure">b</ref>). For example, changing the block size from 60 to 20 ha (and increasing the number of blocks (a) Red deer 0 20 40 60 80 100 0 5 10 15 20 25 Deer density (animals / 100ha) 0 5 10 15 20 25 Deer density (animals / 100ha) Accuracy index (%) Within 30% -mean Within 20% -mean Within 10% -mean Within 10% -worst case (b) Roe deer 0 20 40 60 80 100 Accuracy index (%) Within 30% -mean Within 20% -mean Within 10% -mean Within 10% -worst case</p><p>Fig. <ref type="figure">2</ref> The accuracy of simulated estimated counts of a red deer and b roe deer in relation to density. The accuracy index shows the proportion of counts falling within a specified percentage of the true population total. Each count covered 10% of the forest using 30 blocks of 60 ha each. Means were derived from 20 replicate virtual forests threefold) would be expected to increase the percentage of total population estimates within 10% of the true red deer total from 27% to 32%; the corresponding figures for roe deer were 34% and 41%. In no case did increasing the block size to 100 or 120 ha make any difference in the accuracy attained with 60 ha blocks. Counts of roe deer (having the lower degree of demographic aggregation) were more accurate for a given block size than those of red deer, but only at the 20% level of assessment was there any significantly greater effect of altering block size on roe deer than on red deer counts (F 4,76 =4.2, P&lt;0.01). Even at the 20 ha block size, in these low-density forests with highly spatially aggregated populations, the proportion of counts falling within 10% of the true populations were as low as 20% for red deer and 34% for roe deer, and estimates ranged from 26% to 201% of the true red deer population and from 44% to 170% of the true roe deer population.</p><p>At a high density of red deer and high spatial aggregation, similar effects of changing block size were observed (Fig. <ref type="figure" target="#fig_3">5c</ref>), albeit at levels of accuracy approxi-mately 20% higher than for a low-density population. However, increasing block size to 100 or 120 ha had a small detrimental effect on count accuracy at high density, whereas it had no effect at low density. In contrast, as the high density of roe deer was substantially greater, density compensated for inaccuracies due to aggregation, and at all block sizes nearly all counts were within 20% of the true population (Fig. <ref type="figure" target="#fig_3">5d</ref>). Only at the 10% level of accuracy assessment was there a meaningful significant effect of block size (F 4,76 =27.0, P&lt;0.001); reducing block size from 60 to 20 ha would be expected to increase the number of estimates falling within 10% of the true population by about 9%.</p><p>In contrast, for populations of either species at low and at high density, and which were relatively unaggregated spatially, changing the block size had negligible beneficial effect on accuracy (not shown; F 4,76 &lt;2.6, P&gt;0.045 in all cases).  Experiment 5: the effect of increasing the total area counted to improve accuracy</p><p>Although there were significant differences in count accuracy between 60 and 100 ha block sizes (the former being more accurate, in line with the results of Experiment 4), they were relatively small compared with the effect of area counted (maximum difference of 5% between block sizes at the same total area at the 10% accuracy level), and have therefore been averaged for clarity. Increasing the proportion of forest counted increased accuracy for lowdensity populations of both species at high spatial aggregation (F 2,97 &gt;242, P&lt;0.001 in all cases; Fig. <ref type="figure" target="#fig_4">6a</ref>, <ref type="figure">b</ref>), although the absolute improvement in accuracy varied between species and accuracy level. For example, (1) doubling the area counted increased the mean proportion of red deer estimated counts falling within 10% of the true population from 28% to 41%, and (2) if a level of accuracy within 20% of the true roe deer population were considered acceptable, then increasing the proportion of forest counted from 10% to 20% gave a greater improvement in the frequency of accurate counts (by 28%) than increasing the proportion from 20% to 30% did (by 11%). For highdensity populations at high spatial aggregation, results were similar to those of Experiment 4, i.e. the gains in the proportions of estimates falling within 30% or 20% of the true total were limited because there was already a high degree of accuracy if only 10% of the forest were counted (Fig. <ref type="figure" target="#fig_4">6c</ref>, <ref type="figure">d</ref>). The only meaningful improvement in accuracy by increasing area counted occurred for the proportion of counts falling within 10% of the true total, and was greater for an increase in forest area from 10% to 20% than for an increase from 20% to 30%. Similar changes occurred in response to area counted for populations of both species which were relatively unaggregated spatially (not shown), although at the 30% accuracy level there was no improve-</p><p>(a) Red deer, low density 0 20 40 60 80 100 0 20 40 60 80 100 120 Block size (ha) 0 20 40 60 80 100 120 Block size (ha) 0 2 0 4 0 6 0 8 0 1 0 0 1 2 0 Block size (ha) 0 2 0 4 0 6 0 8 0 1 0 0 1 2 0 Block size (ha) Accuracy index (%) Within 30% -mean Within 20% -mean Within 10% -mean Within 10% -worst case (b) Roe deer, low density 0 20 40 60 80 100 Accuracy index (%) Within 30% -mean Within 20% -mean Within 10% -mean Within 10% -worst case (c) Red deer, high density 0 20 40 60 80 100 Accuracy index (%) Within 30% -mean Within 20% -mean Within 10% -mean Within 10% -worst case (d) Roe deer, high density 0 20 40 60 80 100 Accuracy index (%) Within 30% -mean Within 20% -mean Within 10% -mean Within 10% -worst case </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Our simulated experiments showed that deer density was the most important factor influencing accuracy of drive counts. For example, if accuracy to within 10% of the true population is expected, then this can vary by as much as 50% between very low and very high-density populations of both species, whereas differences due to demographic and spatial aggregation are likely to result in at most a 25% difference in accuracy (Table <ref type="table" target="#tab_1">3</ref>). At high densities (&gt;10 deer/100 ha), drive counts of spatially uncorrelated red and roe deer populations can be expected to be accurate to within 20% of the true value more than 90% of the time, but at lower densities they can be inaccurate. Nevertheless, it must be mentioned that, according to the simulations, even at low densities about 80% of estimates will fall within 30% of the true red and roe deer population. Using similar simulation methods, <ref type="bibr" target="#b33">Smart et al. (2004)</ref> investigated three monitoring methods (faecal standing crop, faecal accumulation rate and distance sampling using thermal imaging) and found that although they differed in accuracy, all performed more poorly at low densities. The results of our simulations do not confirm <ref type="bibr" target="#b25">McCullough's (1979)</ref> findings of underestimation at low density and overestimation at high density, since at all densities the true number could have been either under-or overestimated. However, our simulations assumed no measurement error (see below), while the probability of double counting in <ref type="bibr" target="#b25">McCullough's (1979)</ref> study could have been high, owing to the population being estimated in a relatively small (ca. 520 ha) fenced area. In the opinion of <ref type="bibr" target="#b26">Nasiadka (1994)</ref>, drive counts underestimate population size by about 20% and the author suggested adding 20% to the estimated population size. However <ref type="bibr" target="#b26">Nasiadka's (1994)</ref> recommendation is arbitrary and has no empirical basis. Our study has shown that at relatively high densities, drive count results are quite accurate and no correcting factor is needed. At low densities, the accuracy is lower and rather variable, and it is therefore difficult to propose any universal correcting factor. proportion of the forest counted. The accuracy index shows the proportion of counts falling within a specified percentage of the true population total. Means were averaged over 60 and 100 ha block sizes</p><p>The present study also indicates that drive count accuracy is influenced by demographic aggregation and spatial auto-correlation. At high levels of either, counts will be less accurate, although the effect of aggregation at moderate density (7.5 to 10 deer/100 ha) will not be as great as reducing density. It is not surprising that spatial auto-correlation had a similar effect on accuracy as did demographic aggregation, as both serve to increase variance between counting blocks, demographic aggregation at the scale of individual compartments, and spatial auto-correlation at the scale of neighbouring compartments. In reality, the scale at which spatial auto-correlation occurs could itself vary from one part of the forest to another, and auto-correlation could also be anisotropic (varying between directions, e.g. because of an environmental gradient). Analysis of red deer standing crop faecal counts from a Caledonian pine-wood in Scotland (raw means of 10 years' counts along permanently marked transects) indicated that habitat use by red deer was spatially auto-correlated within distances up to 2 km <ref type="bibr">(Palmer, unpublished data)</ref>. Spatial auto-correlation at larger scales than this will not pose a problem as long as the counting blocks are well spaced throughout the forest. It is spatial auto-correlation at scales close to the counting scale which serves to increase variance most, and hence decrease accuracy. Field counts record the combined effect of the two behavioural processes. Detailed radio-tracking data from many individuals would be required to determine how demographic aggregation and spatial autocorrelation interact to produce the patterns of numbers observed at the block scale. It should also be noted that we simulated aggregation processes at the compartment scale, whereas observed counts were at the block scale. That will tend to reduce apparent block-scale aggregation. Hence, since we applied observed block-scale aggregation to compartments, we have probably reduced the level of aggregation, and that would mean that real counts would be more inaccurate than we have estimated (but probably not by much).</p><p>As already mentioned, our simulations took no account of measurement error, owing to lack of empirical data. In real counts, deer theoretically could be either over-or underestimated. However, when 10% of the area is counted and the blocks are driven towards blocks previously counted, it seems that the risk of double counting is minimal. If blocks are distributed regularly throughout the forest, they will be far enough from each other that fleeing individuals are unlikely to stop in as-yet undriven blocks. Alternatively, there are two sources of error that could lead to underestimation. Firstly, some animals may leave a block if disturbed by observers and beaters taking up position around the edge of the block. If this were so, recorded deer density in larger blocks, in which animals should less likely be disturbed (as there is less edge per unit area), should on average be higher than in smaller ones, all other factors being equal. In such a situation, driving of larger blocks might be recommended. Flight behaviour can vary considerably between, and even within, individuals <ref type="bibr" target="#b36">(Sunde et al. 2009</ref>), but flight distances of roe deer have been found generally to be less than 100 m on average <ref type="bibr" target="#b9">(de Boer et al. 2004)</ref>, substantially less than the dimension of typical counting blocks. Moreover, as we found no effect of block area on estimated density within the block for either species in our analysis of data from Polish forests, nor any effect on the probability of recording at least one animal within the block, underestimation due to observer disturbance seems unlikely. Secondly, animals might remain undetected within a driven block. Unfortunately, we have no data on this issue. This may occur especially in areas where animals are accustomed to human presence and therefore reluctant to flee. On the other hand, even in areas where animals tolerate people well and flight distance is short, flight frequency increases when people behave in an unusual way (for instance walk away from trails) <ref type="bibr" target="#b1">(Borkowski 2001)</ref>. Moreover, owing to their relative sizes, we consider that this issue may be much less important for red deer that for roe deer. No matter how animals behave in reality, maintaining close proximity between beaters to maintain visual contact between them, even in blocks with relatively poor visibility, and using a dog to flush deer from dense cover, should reduce the chance of this sort of error (but see <ref type="bibr" target="#b34">Staines and Ratcliffe 1987)</ref>. As the size of blocks has little effect on drive count accuracy, block size should be adjusted depending on visibility and number of participants. Poor-visibility blocks should be smaller and driven by a relatively large number of beaters, while surrounded by fewer observers. To compensate, the number of blocks should be increased to maintain the total proportion of forest counted. In addition, drive counts should be organized during the leafless winter period, when visibility in most areas is better.</p><p>Our field data showed that levels of aggregation of red and roe deer differ markedly. Red deer distributions were more clumped than those of roe deer, even though daytime counts probably represented mostly inactive individuals. As the more gregarious species, the degree of aggregation of red deer is probably higher than that of roe deer even in the case of inactive individuals. To some extent, differences in the distributions of both species may arise from dissimilarities in habitat use (spatial auto-correlation) evoked by availability of food <ref type="bibr" target="#b29">(Palmer and Truscott 2003)</ref> and/or cover <ref type="bibr" target="#b2">(Borkowski 2004;</ref><ref type="bibr" target="#b4">Borkowski and Ukalska 2008)</ref>. It has been demonstrated, for instance, that red deer as the larger species may be more demanding toward cover condition than smaller roe deer <ref type="bibr" target="#b4">(Borkowski and Ukalska 2008)</ref>. This may be especially important for resting individuals during day time, i.e. for animals predominately recorded using drive counts.</p><p>One may suggest that drive counts are a more reasonable method for roe than for red deer. Firstly, owing to the lower degree of aggregation in roe deer, drive counts are expected to be slightly more accurate than in the case of red deer. Secondly, at least in some areas within the range of both species, roe deer probably occur at higher densities than red deer, though comparative data are rather limited. For instance, in nearly 200 different hunting districts managed by the State Forest Agency in Poland, according to official statistics, an estimated density of 5 deer/100 ha or higher (our simulations suggest that at density &gt;5 deer/100 ha drive count accuracy increases) was recorded only in 3% of districts for red deer, but in 43% for roe deer <ref type="bibr">(Borkowski, unpubl. data)</ref>. However, according to drive count results, red deer densities are higher (e.g. see Table <ref type="table">2</ref>). Moreover, in three forest districts of Białowieża Forest, Poland, where red deer densities are known to be among the lowest in the country, red deer density was recently estimated (by drive counts) at between 5.1 and 7.2 individuals/100 ha <ref type="bibr">(Borkowski et al. unpubl. data)</ref>. Also, in 20 Scottish forests, densities of both species were more similar, and a density &gt;5 deer/100 ha was recorded only slightly more often for roe deer (13 forests) than for red deer (ten forests) <ref type="bibr">(Latham et al. 1996, Tab. VI, p. 295)</ref>. Therefore, it can be concluded that the method seems suitable for both deer species in areas where they occur at densities of at least five to seven animals/100 ha. Due to difference in size between both deer species, as mentioned earlier, the method may be even less accurate for roe deer due to measurement error, but no data on this issue are available. Thus, we urge caution when estimating population density by drive counts, especially at low densities. In such cases, it may be appropriate to assess the accuracy of trend detection by drive counts, in a similar manner to that of <ref type="bibr" target="#b33">Smart et al. (2004)</ref>.</p><p>We have demonstrated in this paper how a 'virtual ecosystem' can be used to examine the effects of system parameters on the behaviour of a clearly defined but complex system for which real experiments would be logistically or economically difficult or impossible. We used a 'virtual ecologist' to obtain replicate samples using simulated field counting techniques from a known population <ref type="bibr" target="#b13">(Green and Sadedin 2005)</ref>. Virtual ecosystems, frequently incorporating an individual-based model (IBM), are increasing in use and application in ecology <ref type="bibr" target="#b14">(Grimm et al. 1999;</ref><ref type="bibr" target="#b17">Hirzel et al. 2001;</ref><ref type="bibr">Tyre et al. 2001;</ref><ref type="bibr" target="#b15">Harris et al. 2008)</ref>. Here, we did not employ an IBM as such, although we did allocate the virtual deer to specific compartments on an individual basis. However, it is straightforward to recognise how an IBM might be incorporated, for example to model the spatial behaviour of individual deer in response to conspecifics and/or disturbance. The use of virtual experiments to inform forest management appears to be in its infancy, although <ref type="bibr">Wunder et al. (2008)</ref> have recently used the technique to examine how well alternative sampling strategies could estimate growth-mortality relationships. <ref type="bibr" target="#b33">Smart et al. (2004)</ref> performed a similar computerbased simulation to ours, but did not refer to it as a virtual experiment.</p><p>So, could forest managers improve the accuracy of counts by manipulating block size and the total area counted? At the lowest densities likely to be encountered in Polish forests, reducing block size and increasing the number of blocks counted can compensate to a limited extent for inaccuracies inherent in counting low-density spatially aggregated populations. However, it is unlikely that the limited improvement would justify the increases in logistic effort. Enlarging the size of blocks and decreasing their number would not improve count accuracy. Thus, for high-density populations, we do not recommend increasing the block size, as it would have detrimental effects. Decreasing block size would improve the accuracy of red deer counts slightly, but would have little effect for high-density roe deer populations. Increasing the total area of forest counted would compensate more for inaccuracies in estimating the total population, especially for highly aggregated, low-density populations. Whether the gains in accuracy could justify the extra effort required would have to be evaluated on a case-by-case basis, and would depend on available resources, cost, logistical issues, etc. However, our study suggests that at higher deer densities, drive counts can provide reliable information on population size, subject to appropriate correction for measurement error. Drive counts are also expected to be more accurate in forests where spatial aggregation is likely to be low (owing to either large-scale uniformity or high heterogeneity at small scales) than in forests where it is likely to be higher (comprising large block of uniform structure).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>1. Drive counts can be recommended in forests with relatively high deer densities, but are expected to be less reliable in areas with low deer densities. The threshold density for the use of drive counts depends on the level of accuracy which is deemed acceptable. 2. It seems sufficient to drive 10% of the total area for relatively high-density populations. Driving up to 30% of the area brings some increase in accuracy, especially at low deer densities, but whether the gain in accuracy justifies the extra effort required needs careful evaluation. In addition, high total forest area counted may increase the risk of double counting.</p><p>3. For a given percent of total area counted, driving more blocks of small size provides slightly higher accuracy than driving fewer larger blocks.</p><p>correlated with the true density (Spearman r = 0.58, P&lt;0.10). For roe deer, the estimated exponent was greater at 1.37 (and there was insufficient evidence to be sure that this differed from 1.0, F 1,8 =2.8, P=0.13; Fig. <ref type="figure" target="#fig_5">7</ref>). This was also indicative of a type I response, but for roe deer there was no significant relationship between 1/k and the mean (Fig. <ref type="figure" target="#fig_5">7</ref>). Thus, for red deer at least, as overall density increases, we expect apparent aggregation, as measured by 1/k, to decrease; i.e. k and the mean are not independent parameters for real-forest deer populations. Our data for red deer, and to a lesser extent for roe deer, support the power law relationship of the variance to the mean <ref type="bibr" target="#b38">(Taylor et al. 1979</ref>), although we acknowledge that our estimates of its parameters were made from small samples, which were not fully independent. The negative binomial aggregation parameter is not independent of the mean, and the negative binomial does not therefore constitute a sound basis for analysing deer count or faecal count data <ref type="bibr">(White and Eberhardt 1980;</ref><ref type="bibr">White and Bennetts 1996)</ref>. The power law relationships arise from a combination of within-and between-compartment variation in group size, the former principally due to herding behaviour and the latter to spatial auto-correlation. Although we might ships of a, b the count variance and c, d the negative binomial aggregation parameter k with the mean count. Count data were standardised to a 60 ha block size</p><p>expect the herding behaviour of a deer species to relate to density in the same way across different sites (provided that habitat and perceived predation threats were similar), spatial auto-correlation could be site dependent.</p><p>Tyre AJ, Possingham HP, Lindenmayer DB (2001) Inferring process from pattern: can territory occupancy provide information about life history parameters? Ecol Appl 11:1722-1737 Ueckermann E (1964) Der Rehwildabschuss. Verlag Paul Parey, Berlin, pp 1-76 Welch D, Staines BW, Catt DC, Scott D (1990) Habitat usage by red (Cervus elaphus) and roe (Capreolus capreolus) deer in a Scottish Sitka spruce plantation. J Zool Lond 221:453-476 White GC, Bennetts RE (1996) Analysis of frequency count data using the negative binomial distribution. Ecology 77:2549-2557 White GC, Eberhardt LE (1980) Statistical analysis of deer and elk pellet-group data. J Wildl Manage 44:121-131 Wunder J, Reineking B, Bigler C, Bugmann H (2008) Predicting tree mortality from growth data: how virtual ecologists can help real ecologists. J Ecol 96:174-187</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig.1Examples of randomly generated simulated deer populations and counting blocks in an 18,000 ha virtual forest: spatially unstructured, moderately aggregated populations of a red deer at 10/100 ha and b roe deer at 7.5/100 ha; spatially auto-correlated and demographically aggregated low-density populations of c red deer at 5/100 ha and d roe deer at 2.5/100 ha. Individual squares represent</figDesc><graphic coords="5,84.70,53.86,426.19,522.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3</head><label>3</label><figDesc>Fig.3The accuracy of estimated counts of a red deer at 10/100 ha and b roe deer at 7.5/100 ha in relation to demographic aggregation (low parameter values cause greater aggregation). The accuracy index shows the proportion of counts falling within a specified percentage of the true population total</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4</head><label>4</label><figDesc>Fig.4The accuracy of estimated counts of a red deer at 10/100 ha and b roe deer at 7.5/100 ha in relation to the degree of spatial autocorrelation (low parameter values cause greater auto-correlation). The accuracy index shows the proportion of counts falling within a specified percentage of the true population total</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 5</head><label>5</label><figDesc>Fig. 5 The accuracy of estimated counts of low-density populations of a red deer (4/100 ha) and b roe deer (3/100 ha) and high-density populations of c red deer (12/100 ha) and d roe deer (20/100 ha) in relation to the size of counting blocks. Populations were demograph-</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 6</head><label>6</label><figDesc>Fig.6The accuracy of estimated counts of low-density spatially aggregated populations of a red deer (4/100 ha) and b roe deer (3/100 ha) and high-density spatially aggregated populations of c red deer (12/100 ha) and d roe deer (20/100 ha) in relation to the</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 7</head><label>7</label><figDesc>Fig. 7 Aggregation at the block scale of drive counts of red deer (a, c) and roe deer (b, d) in four Polish forest districts (diamonds Iława, squares Pszczyna, triangles Rudy, and cross Strzałowo): the relation-</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Characteristics of study areas</figDesc><table><row><cell>Forest district</cell><cell>Total area (ha)</cell><cell>Study period</cell><cell>Mean±SD block size (ha)</cell><cell>Number of blocks</cell></row><row><cell>Pszczyna</cell><cell>14,400</cell><cell>1994-1996</cell><cell>72±20</cell><cell>11</cell></row><row><cell>Rudy Raciborskie</cell><cell>17,500</cell><cell>1994-1996</cell><cell>58±10</cell><cell>17</cell></row><row><cell>Iława</cell><cell>20,400</cell><cell>1993; 1995-1996</cell><cell>45±10</cell><cell>15</cell></row><row><cell>Strzałowo</cell><cell>19,500</cell><cell>1996</cell><cell>81±12</cell><cell>10</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Summary of variation in accuracy index in simulation experiments 1-3</figDesc><table><row><cell cols="2">Experiment Effect varied</cell><cell>Deer</cell><cell>Accuracy</cell><cell cols="3">Accuracy level:</cell></row><row><cell></cell><cell></cell><cell>species</cell><cell>index at</cell><cell cols="3">within X% of</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">true value</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">30% 20% 10%</cell></row><row><cell>1</cell><cell>Deer density</cell><cell>Red</cell><cell>Highest</cell><cell cols="2">100 99</cell><cell>78</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Lowest</cell><cell>70</cell><cell>55</cell><cell>27</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Difference 30</cell><cell>44</cell><cell>51</cell></row><row><cell></cell><cell></cell><cell>Roe</cell><cell>Highest</cell><cell cols="3">100 100 91</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Lowest</cell><cell>85</cell><cell>70</cell><cell>38</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Difference 15</cell><cell>30</cell><cell>53</cell></row><row><cell>2</cell><cell>Demographic</cell><cell>Red</cell><cell>Lowest</cell><cell cols="2">100 94</cell><cell>65</cell></row><row><cell></cell><cell>aggregation (z)</cell><cell></cell><cell>Highest</cell><cell>93</cell><cell>78</cell><cell>45</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Difference 7</cell><cell>16</cell><cell>20</cell></row><row><cell></cell><cell></cell><cell>Roe</cell><cell>Lowest</cell><cell cols="2">100 98</cell><cell>73</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Highest</cell><cell>99</cell><cell>90</cell><cell>57</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Difference 1</cell><cell>8</cell><cell>16</cell></row><row><cell>3</cell><cell>Spatial auto-</cell><cell>Red</cell><cell>Lowest</cell><cell>98</cell><cell>90</cell><cell>58</cell></row><row><cell></cell><cell>correlation (s)</cell><cell></cell><cell>Highest</cell><cell>88</cell><cell>69</cell><cell>38</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Difference 10</cell><cell>21</cell><cell>20</cell></row><row><cell></cell><cell></cell><cell>Roe</cell><cell>Lowest</cell><cell cols="2">100 95</cell><cell>67</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Highest</cell><cell>91</cell><cell>75</cell><cell>43</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Difference 9</cell><cell>20</cell><cell>24</cell></row><row><cell cols="7">For each experiment and each deer species, the accuracy index is</cell></row><row><cell cols="7">presented for the highest and lowest value of the range of the effect</cell></row><row><cell cols="7">varied in the experiment, together with the improvement in accuracy</cell></row><row><cell cols="7">(i.e. difference) across the effect range. The accuracy index represents</cell></row><row><cell cols="7">the mean percentage of counts (across 20 simulated populations) for</cell></row><row><cell cols="7">which the estimated population fell within a specified range (30%,</cell></row><row><cell cols="4">20%, or 10%) of the true population total</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements SCFP was supported by the <rs type="funder">UK Population Biology Network (UKPopNet)</rs> and funded by the <rs type="funder">Natural Environment Research Council</rs> (Agreement <rs type="grantNumber">R8-H12-01</rs>) and Natural England. We thank <rs type="person">Justin Travis</rs>, <rs type="person">Justin Irvine</rs> and three anonymous reviewers for useful comments on previous versions of the manuscript.</p><p>Open Access This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_n2abRwH">
+					<idno type="grant-number">R8-H12-01</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix</head><p>The variance of red deer block counts was related to the mean by a power law relationship whose exponent was estimated to be 1.03 (Fig <ref type="figure">7</ref>), indicating a type I response curve of <ref type="bibr" target="#b38">Taylor et al. (1979)</ref>, having a single turning point. Such a relationship typically results in an inverse correlation between 1/k and the mean, and this was observed (Spearman r=-0.67, P&lt;0.05; Fig. <ref type="figure">7</ref>). Hence k was also</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Analysis of a Danish roe deer population (Capreolus capreolus) based on the extermination of the total stock</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Andersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dan Rev Game Biol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="127" to="155" />
+			<date type="published" when="1953">1953</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Flight behavior and observability in humandisturbed sika deer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Borkowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Theriol</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="195" to="208" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Distribution and habitat use by red and roe deer following a large forest fire in South-western Poland</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Borkowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">For Ecol Manage</title>
+		<imprint>
+			<biblScope unit="volume">201</biblScope>
+			<biblScope unit="page" from="287" to="293" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Seasonal and diel variation in group size among Japanese sika deer in different habitats</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Borkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Furubayashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Zool Lond</title>
+		<imprint>
+			<biblScope unit="volume">245</biblScope>
+			<biblScope unit="page" from="29" to="34" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Winter habitat use by red deer in pinedominated forest</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Borkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ukalska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">For Ecol Manage</title>
+		<imprint>
+			<biblScope unit="volume">255</biblScope>
+			<biblScope unit="page" from="468" to="475" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Space use by red deer in a Mediterranean ecosystem as determined by radio-tracking</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carranza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hedalgo</forename><surname>De Trucios</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Medina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Valencia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Delgado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Anim Behav Sci</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="363" to="371" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Managing roe deer and their impact on the environment: maximising the net benefits to society</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cederlund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bergqvist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kjellander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gaillard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Boisaubert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ballon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Duncan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The European roe deer: the biology of success</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Duncan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jdc</forename><surname>Linnell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oslo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Scandinavian University Press</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="337" to="372" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Red deer: behavior and ecology of two sexes</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Clutton-Brock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Guinness</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Albon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>University of Chicago Press</publisher>
+			<biblScope unit="page" from="1" to="378" />
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Estimating red deer Cervus elaphus populations: an analysis of variation and cost-effectiveness of counting methods</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Daniels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mamm Rev</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="235" to="247" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Flight distance in roe deer Capreolus capreolus and fallow deer Dama dama as related to hunting and other factors</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>De Boer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Van Breukelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mjm</forename><surname>Hootsmans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Van Wieren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wildl Biol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="35" to="41" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Structure and spatial organization of deer populations</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dzięciołowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Theriol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="3" to="21" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Numbers of red deer in the Słowiński National Park</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dzięciołowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Goszczyński</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wasilewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Babińska-Werka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Theriol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="45" to="51" />
+			<date type="published" when="1995">1995</date>
+			<pubPlace>Poland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The use of portable thermal imaging for estimating deer populations density in forest habitats</title>
+		<author>
+			<persName><forename type="first">Rma</forename><surname>Gill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Stocker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Ecol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1273" to="1286" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Interactions matter-complexity in landscapes and ecosystems</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sadedin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol Complex</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="117" to="130" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Individualbased modelling and ecological theory: synthesis of a workshop</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Grimm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wyszomirski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aikman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Uchmański</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol Modell</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="275" to="282" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Evaluating the influence of epidemiological parameters and host ecology on the spread of phocine distemper virus through populations of harbour seals</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jmj</forename><surname>Travis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Harwood</surname></persName>
+		</author>
+		<idno type="DOI">2710.1371/journal.pone.0002710</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">2710</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Social organisation of European roe deer</title>
+		<author>
+			<persName><forename type="first">Maj</forename><surname>Hewison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Vincent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Reby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The European roe deer: the biology of success</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Duncan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jdc</forename><surname>Linnell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oslo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Scandinavian University Press</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="189" to="219" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Assessing habitat-suitability models with a virtual species</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Hirzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Helfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Metral</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol Modell</title>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="page" from="111" to="121" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Management of the white-tailed deer in its environment</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">W</forename><surname>Hosely</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The deer of North America</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Taylor</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Harrisburg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Stackpole Co</publisher>
+			<date type="published" when="1956">1956</date>
+			<biblScope unit="page" from="187" to="259" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Effects of exploitation and protection on forest structure, ungulate density and wolf predation in Białowieża Primeval Forest</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jędrzejewska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Okarma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Jędrzejewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Miłkowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Poland. J Appl Ecol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="664" to="676" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Methods of estimating ungulate populations in tropical forests</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Koster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Afr J Ecol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="117" to="126" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Estimating the number of animals in wildlife populations</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Lancia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Nichols</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Pollock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Research and management techniques for wildlife and habitats</title>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Bookhout</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bethesda</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Wildlife Society</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="215" to="253" />
+		</imprint>
+	</monogr>
+	<note>Fifthth edn</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The relative densities of red (Cervus elaphus) and roe (Capreolus capreolus) deer and their relationship in Scottish plantation forests</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Latham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Staines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Gorman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Zool Lond</title>
+		<imprint>
+			<biblScope unit="volume">240</biblScope>
+			<biblScope unit="page" from="285" to="299" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Wildlife research: is a practical and necessary basis for management?</title>
+		<author>
+			<persName><forename type="first">Leopold</forename><forename type="middle">A</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chapman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans N Am Wildl Conf</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="42" to="55" />
+			<date type="published" when="1938">1938</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Population dynamics of red deer (Cervus elaphus, L.) on Rhum</title>
+		<author>
+			<persName><forename type="first">Vpw</forename><surname>Lowe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Anim Ecol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="425" to="457" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<monogr>
+		<title level="m" type="main">The George reserve deer herd: population ecology of K-selected species</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Mccullough</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>University of Michigan Press</publisher>
+			<biblScope unit="page" from="1" to="271" />
+			<pubPlace>Ann Arbor</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Metody i techniki inwentaryzacji zwierząt łownych</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nasiadka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biblioteczka Leśniczego</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="1" to="25" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Drive counts for grey brocket deer Mazama gouazoupira in the Bolivian Chaco</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Noss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leny</forename><surname>Cuéllar Salidas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ayala</forename><surname>Crespo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mammalia</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="64" to="69" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Estimating the numbers of animals in wildlife populations</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Overton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Wildlife management techniques manual</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Giles</surname><genName>Jr</genName></persName>
+		</editor>
+		<meeting><address><addrLine>Washington</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Wildlife Society</publisher>
+			<date type="published" when="1969">1969</date>
+			<biblScope unit="page" from="403" to="455" />
+		</imprint>
+	</monogr>
+	<note>Thirdth edn</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Seasonal habitat use and browsing by deer in Caledonian pinewoods</title>
+		<author>
+			<persName><forename type="first">Scf</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Truscott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">For Ecol Manage</title>
+		<imprint>
+			<biblScope unit="volume">174</biblScope>
+			<biblScope unit="page" from="149" to="166" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Population characteristics of roe deer inhabiting a small forest</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Pielowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Bresiński</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Theriol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="409" to="425" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Estimates of density and number of ungulates</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Pucek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bobek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Łabudzki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Miłkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Morow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tomek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Theriol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="21" to="135" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Calibrating aerial surveys of kangaroos by comparison with drive counts</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Short</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust Wildl Res</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="277" to="284" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Monitoring woodland deer populations in the UK: an imprecise science</title>
+		<author>
+			<persName><forename type="first">Jcr</forename><surname>Smart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pcl</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mamm Rev</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="99" to="114" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Estimating the abundance of red deer (Cervus elaphus L.) and roe deer (Capreolus capreolus L.) and their current status in Great Britain</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Staines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Ratcliffe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Symp Zool Soc Lond</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="131" to="152" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Reliability of the Petersen method tested on a roe deer population</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Strandgaard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Wildl Manage</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="643" to="651" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Behavioural responses of GPS-collared female red deer Cervus elaphus to driven hunts</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sunde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Olesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Madsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Haugaard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wildl Biol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="454" to="460" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The density-dependence of spatial behaviour and the rarity of randomness</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">P</forename><surname>Woiwod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Perry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Anim Ecol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="383" to="406" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The negative binomial as a dynamic ecological model for aggregation, and the density dependence of k</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">P</forename><surname>Woiwod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Perry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Anim Ecol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="289" to="304" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Summer use of young stands of restocked sitka spruce by red and roe deer</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Thirgood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Staines</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scott Forest J</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="183" to="191" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Spatial processes can determine the relationship between prey encounter rate and prey density</title>
+		<author>
+			<persName><forename type="first">Jmj</forename><surname>Travis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Scf</forename><surname>Palmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol Lett</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="136" to="138" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

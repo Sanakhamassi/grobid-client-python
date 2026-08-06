@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Participatory Action Research (PAR) in Middle School: Opportunities, Constraints, and Key Processes</title>
+				<funder ref="#_8WuaUn4">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2010-07-30">30 July 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Emily</forename><forename type="middle">J</forename><surname>Ozer</surname></persName>
+							<email>eozer@berkeley.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Miranda</forename><forename type="middle">L</forename><surname>Ritterman</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Maggie</forename><forename type="middle">G</forename><surname>Wanis</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Community Health and Human Development</orgName>
+								<orgName type="department" key="dep2">School of Public Health</orgName>
+								<orgName type="institution">University of California at Berkeley</orgName>
+								<address>
+									<addrLine>50 University Hall</addrLine>
+									<postCode>94720-7360</postCode>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of Epidemiology</orgName>
+								<orgName type="department" key="dep2">School of Public Health</orgName>
+								<orgName type="institution">University of California at Berkeley</orgName>
+								<address>
+									<addrLine>50 University Hall</addrLine>
+									<postCode>94720-7360</postCode>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Participatory Action Research (PAR) in Middle School: Opportunities, Constraints, and Key Processes</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-07-30">30 July 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BF90E2C7B423087BDEC65215A0EBDA14</idno>
+					<idno type="DOI">10.1007/s10464-010-9335-8</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:15+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Participatory action research</term>
+					<term>Middle school</term>
+					<term>Children</term>
+					<term>Adolescents</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Late childhood and early adolescence represent a critical transition in the developmental and academic trajectory of youth, a time in which there is an upsurge in academic disengagement and psychopathology. PAR projects that can promote youth's sense of meaningful engagement in school and a sense of efficacy and mattering can be particularly powerful given the challenges of this developmental stage. In the present study, we draw on data from our own collaborative implementation of PAR projects in secondary schools to consider two central questions: (1) How do features of middle school settings and the developmental characteristics of the youth promote or inhibit the processes, outcomes, and sustainability of the PAR endeavor? and (2) How can the broad principles and concepts of PAR be effectively translated into specific intervention activities in schools, both within and outside of the classroom? In particular, we discuss a participatory research project conducted with 6th and 7th graders at an urban middle school as a means of highlighting the opportunities, constraints, and lessons learned in our efforts to contribute to the high-quality implementation and evaluation of PAR in diverse urban public schools.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Participatory Action Research (PAR) can be broadly characterized as a ''theoretical standpoint and collaborative methodology that is designed to ensure that those who are affected by the research project have a voice in that project'' <ref type="bibr">(Langhout and Thomas, this issue, p. xx)</ref>. With longstanding practice in community psychology, public health, adult education, and international development as a means of engaging marginalized populations in projects that address conditions of oppression, PAR approaches are becoming more common in other fields such as youth development. Other terminologies are used across disciplines, such as community-based participatory research (CBPR) in public health, Freireian models in adult education, and youth-led participatory research in youth development <ref type="bibr" target="#b7">(Checkoway et al. 2003;</ref><ref type="bibr" target="#b15">Freire 1970;</ref><ref type="bibr" target="#b19">Ginwright et al. 2006;</ref><ref type="bibr" target="#b24">Israel et al. 1994</ref><ref type="bibr" target="#b25">Israel et al. , 2003;;</ref><ref type="bibr" target="#b32">London et al. 2003;</ref><ref type="bibr" target="#b37">Minkler and Wallerstein 2003;</ref><ref type="bibr" target="#b45">Schensul et al. 2004)</ref>.</p><p>Common across these approaches is a focus on engaging in a cooperative, iterative process of research and action in which non-professional community members are trained as researchers and change agents, and power over decisions affecting all phases of the research and action are shared equitably among the partners in the collaboration <ref type="bibr" target="#b24">(Israel et al. 1994</ref><ref type="bibr" target="#b25">(Israel et al. , 2003))</ref>. This process intends to provide opportunities for (typically disenfranchised) community members to work together to solve problems of concern to them, develop relevant skills, increase their understanding of their sociopolitical environment, and create mutual support systems <ref type="bibr" target="#b24">(Israel et al. 1994</ref><ref type="bibr" target="#b25">(Israel et al. , 2003;;</ref><ref type="bibr" target="#b62">Zimmerman 1995)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PAR with Youth: Core Principles</head><p>There has been recent attention to PAR as a promising practice in the youth development field. The majority of case reports and other literature have focused on the involvement of youth as evaluators or co-evaluators of after-school and other programs intended to serve youth <ref type="bibr" target="#b7">(Checkoway et al. 2003;</ref><ref type="bibr" target="#b6">Checkoway and Richards-Schuster 2004;</ref><ref type="bibr" target="#b23">Holden et al. 2004;</ref><ref type="bibr" target="#b32">London et al. 2003;</ref><ref type="bibr" target="#b51">Suleiman et al. 2006</ref>). There has also been growth in efforts to promote youth ''voice'' and engagement in improving schools, particularly with youth whose families and communities are politically marginalized due to racism and poverty <ref type="bibr">(Cammarota and Fine 2007;</ref><ref type="bibr" target="#b5">Cargo et al. 2003;</ref><ref type="bibr" target="#b27">Kirshner 2007;</ref><ref type="bibr" target="#b35">Mediratta et al. 2008;</ref><ref type="bibr" target="#b38">Mitra 2004;</ref><ref type="bibr" target="#b39">Morrell 2007;</ref><ref type="bibr" target="#b40">Nieto 1996;</ref><ref type="bibr" target="#b45">Schensul et al. 2004;</ref><ref type="bibr" target="#b46">Shor 1996)</ref>. The principles of PAR with youth parallel those for adults, with some variation to reflect the diminished power of youth in adult-supervised settings. Given the heavy skill demands of research and advocacy, a major degree of ''scaffolding'' and alliance-building with adults is expected to occur for youth in the PAR process <ref type="bibr" target="#b29">(Larson et al. 2005;</ref><ref type="bibr" target="#b54">Vygotsky 1978</ref>).</p><p>Core processes of youth PAR involve the training of young people to identify major concerns in their schools and communities, conduct research to understand the nature of the problems, and take leadership in influencing policies and decisions to enhance the conditions in which they live <ref type="bibr" target="#b32">(London et al. 2003)</ref>. Key features include an emphasis on promoting youth's sense of ownership and control over the process, and promoting the social and political engagement of youth and their allies to help address problems identified in the research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PAR and Schools as Settings for Youth Development</head><p>Schools are a critical setting for child development, and are intricately related to key developmental milestones in late childhood and adolescence, including academic achievement, peer relationships, pro-social conduct, and involvement in athletics and clubs <ref type="bibr" target="#b13">(Eccles and Roeser 2003;</ref><ref type="bibr" target="#b34">Masten and Coatsworth 1998)</ref>. Since the early 20th century, theorists and researchers have made cogent critiques regarding the shortcomings of U.S. schools as contexts for the development of children as learners, thinkers, and members of a democratic society <ref type="bibr">(Dewey 1938</ref><ref type="bibr">(Dewey /1997;;</ref><ref type="bibr" target="#b28">Kozol 1991;</ref><ref type="bibr" target="#b44">Sarason 1996;</ref><ref type="bibr" target="#b58">Weinstein 2002a</ref>). As Sarason observed, the typical classroom is one in which teachers rather than students ask questions, adults are rendered <ref type="bibr">''insensitive to what their [children's]</ref> interests, concerns and questions are…and children are viewed as incapable of self-regulation'' <ref type="bibr">(Sarason 1996, p. 363)</ref>. These features of school culture and teacher practices have proven highly resistant to change in public schools, despite the efforts of educational reform movements.</p><p>Recent analyses of schools have also emerged from the growing field of youth development. With the goal of informing the practices of school and other youth-serving organizations, reviews of the child development literature have identified the qualities of settings-and the types of transactions between youth and their environments-that are associated with positive development <ref type="bibr" target="#b11">(Eccles and Gootman 2002;</ref><ref type="bibr" target="#b20">Granger 2002)</ref>. These dimensions are summarized in terms of physical and psychological safety, appropriate structure, supportive relationships, opportunities to belong, positive social norms, support for efficacy and mattering, opportunities for skill building, and the integration of family, school, and community efforts.</p><p>As evident from the above discussion, conducting PAR with youth in schools is a process that could potentially target virtually all of the setting-level features that have been linked with healthier development. PAR most explicitly addresses the dimensions of opportunities for developmentally-appropriate and meaningful youth participation, support for efficacy and mattering, the development of relevant skills; and supportive relationships. Examined in light of Sarason's critique of typical classrooms, the PAR process is clearly counter-cultural insofar as it is fundamentally about student-led inquiry, the valuing of students' concerns and expertise, and the opening up of opportunities for students to take on tasks and roles that involve self-regulation as well as participation in governance.</p><p>Although PAR presents both developmental opportunities and challenges to school culture in any traditional school environment, we submit that this is particularly the case in middle school settings. There is extensive literature establishing that the transition to middle school in late childhood and early adolescence is a crucial period in the trajectory of intellectual and psychosocial development. This period of development has been associated with reductions in academic motivation and achievement <ref type="bibr" target="#b12">(Eccles et al. 1993;</ref><ref type="bibr" target="#b47">Simmons 1987</ref>) as well as increases in depression and other psychological problems <ref type="bibr" target="#b8">(Compas et al. 1997;</ref><ref type="bibr" target="#b17">Galaif 2007)</ref>. The theoretical and empirical work of Eccles and colleagues provides support for the ''developmental mismatch'' hypothesis-that is, that at least some proportion of the problems in motivation and engagement in school that emerge in early adolescence may be attributable to poor person-environment fit for children at the transition to middle school or junior high <ref type="bibr" target="#b12">(Eccles et al. 1993)</ref>. Although older children and young adolescents demonstrate growing capacity and desire for autonomy, longitudinal research indicates that youth perceive fewer opportunities to exercise autonomy and participate in making decisions and rules in junior high than they did in elementary schools <ref type="bibr" target="#b36">(Midgley and Feldlaufer 1987)</ref>. Further, there is evidence that appropriate levels of decision-making and control are particularly salient for motivation and learning in adolescence <ref type="bibr" target="#b12">(Eccles et al. 1993)</ref>.</p><p>The literature on identity formation in childhood and adolescence highlights the importance of a sense of purpose <ref type="bibr" target="#b9">(Damon 2003)</ref>, and the role of responsibility and service for helping to foster a sense of moral identity <ref type="bibr" target="#b61">(Youniss and Yates 1997)</ref>. Theoretical frameworks that specifically consider the identity development of youth of color highlight the importance of social position, racism and discrimination, and the influence of their immediate environments <ref type="bibr" target="#b18">(Garcı ´a Coll et al. 1996)</ref> as well as youth's appraisals of themselves and of the risk and protective factors that affect their life trajectories <ref type="bibr" target="#b49">(Spencer et al. 1997;</ref><ref type="bibr" target="#b50">Spencer et al. 2003</ref>). PAR's emphasis on engaging marginalized groups in research and action as a means of achieving social justice and equity goals enhances the potential developmental relevance of PAR processes for ethnic minority youth. PAR processes that involve youth of color in analyzing and having an impact on the social, economic, and political conditions that shape their schools and communities provide key developmental opportunities for youth to appraise themselves as leaders with a meaningful sense of purpose <ref type="bibr" target="#b9">(Damon 2003;</ref><ref type="bibr" target="#b50">Spencer et al. 2003)</ref> as opposed to internalizing the negative stereotypes held by others <ref type="bibr" target="#b2">(Cahill et al. 2008)</ref>. Further, PAR processes should push youth beyond individual-level explanations of problems faced by communities of color to investigate broader explanatory factors, thereby influencing their appraisal of risk and protective factors.</p><p>Thus, in our view, middle schools appear to be settings that could benefit from PAR interventions to help reduce the ''developmental mismatch'' and promote positive identity development for diverse youth. However, in light of extensive evidence for the difficulties in enacting meaningful changes in schools as organizations <ref type="bibr" target="#b14">(Evans 1996;</ref><ref type="bibr" target="#b44">Sarason 1996)</ref>, we would expect to encounter significant challenges to successfully implementing and sustaining PAR efforts in such settings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Operationalization of PAR in School Settings</head><p>As discussed above, there is extensive theory that broadly informs PAR and other empowerment-oriented interventions <ref type="bibr" target="#b16">(Freire 1994;</ref><ref type="bibr" target="#b62">Zimmerman 1995)</ref> and a rich theoretical and empirical literature on the social ecology of schools <ref type="bibr" target="#b44">(Sarason 1996;</ref><ref type="bibr" target="#b53">Trickett and Todd 1972;</ref><ref type="bibr" target="#b58">Weinstein 2002a)</ref>. There is a small but growing field of research on PAR projects implemented with young people in after-school or summer ''institute'' settings, some of which explicitly involve youth in research and advocacy to improve their schools <ref type="bibr" target="#b39">(Morrell 2007;</ref><ref type="bibr" target="#b60">Wilson et al. 2007)</ref> or to address health, social justice, or employment issues that are relevant to their school experiences (Cammarota and Fine 2007; <ref type="bibr" target="#b55">Wallerstein et al. 2004)</ref>. This existing literature has presented curricula, documented meaningful narratives about the value of YPAR for the youth, adult collaborators, and communities, discussed challenges involved in implementing YPAR given the diverse capacities it demands for youth and adult facilitators, and provided initial evaluation of outcomes for individual participants <ref type="bibr" target="#b0">(Berg et al. 2009;</ref><ref type="bibr" target="#b55">Wallerstein et al. 2004)</ref>.</p><p>The present study builds on and provides a unique contribution to this literature by specifically considering the integration of PAR into the social ecology of classrooms and schools during the ''regular'' school day. Here, we draw on data from our own collaborative implementation of PAR projects in secondary schools to consider two central questions: (1) How do features of middle school settings and the developmental characteristics of the youth promote or inhibit the processes, outcomes, and sustainability of the PAR endeavor? and (2) How can the broad principles and concepts of PAR be effectively translated into key processes to guide intervention activities in schools, both within and outside of the classroom?</p><p>In section ''PAR in an Urban Middle School'', as a means of illustrating key opportunities and challenges regarding the implementation of PAR with youth in school settings, we discuss a participatory action research (PAR) project conducted with 6th and 7th graders at an urban middle school (''Tubman''). <ref type="foot" target="#foot_0">1</ref> This project represented the initial year in a multi-year effort involving the collaboration of the school staff, students, staff of a communitybased organization, and a university research team. In the ''Discussion'', building on the existing literature and our own research, we delineate a set of core processes of PAR interventions in schools that we are currently using to assess our work and offer as a potential contribution to this growing field. We then examine the strengths and weaknesses of the Tubman middle school project through the lens of this process framework, and discuss how our implementation and evaluation of our school-based PAR projects has evolved as a result of this early work.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PAR in an Urban Middle School</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Overview of Project</head><p>The project discussed here was conducted at ''Tubman,'' a majority-Latino middle school located in a high-SES urban neighborhood in the San Francisco Bay Area. Tubman is in the small to medium range of size for the district, with *500 students in 6th through 8th grades. Two-thirds of the students are economically disadvantaged and one-third is classified by the school district as English language learners. The majority of students who attend the school do not live in the surrounding neighborhood. The intended outcomes of the PAR project, with respect to the school setting, were to establish opportunities for students to participate in school governance and shape school practices, via the sharing of research-based recommendations with administrators aimed at improving the school in areas of concern to the students. Other intended school-level effects included improving alliances between students and adult staff, creating opportunities for students and adults to engage together in inquiry about issues relevant to the school and to students, and enhancing the collective efficacy of students to enact thoughtful and high-quality research and advocacy activities. The intended outcomes for students included the strengthening of knowledge and skills regarding research, communication, strategic thinking, collaborative group work, and advocacy, enhanced sense of positive ethnic identity, sense of purpose, and connection to school, and increased motivation to influence the school setting. These targeted outcomes were part of a conceptual model (see Fig. <ref type="figure" target="#fig_0">1a</ref>, <ref type="figure">b</ref>) developed by the first author on the basis of the literature on adolescent development, PAR, and psychological empowerment <ref type="bibr" target="#b11">(Eccles and Gootman 2002;</ref><ref type="bibr" target="#b32">London et al. 2003;</ref><ref type="bibr" target="#b43">Rappaport et al. 1984;</ref><ref type="bibr" target="#b63">Zimmerman 2000)</ref> as well as prior school-based pilot work conducted by the first author in which students provided their perspective on the benefits of the YPAR process for them.</p><p>The project was part of a larger collaborative research effort to develop and evaluate PAR projects at 6 sites; it was undertaken by a partnership primarily consisting of a local community-based organization (CBO), the university-based team led by the 1st author of this paper, and the school site staff (see <ref type="bibr" target="#b41">Ozer et al. 2008</ref> for a discussion of the partnership and capacity-building efforts). The first author, a European American female from a middle-class background, lives near the school and had conducted research at the school several years prior as part of a prior study on stress and mental health.</p><p>We focus here on Year 1 of the collaborative project, a pilot phase in the overall study, in which our universitybased team consulted with a CBO to support the initial implementation of the PAR project in an elective peer counseling class at Tubman and at five high school sites. After 1 year of providing technical assistance and capacity building efforts directly to the teacher and her CBO-based supervisor at Tubman, the plan was for the PAR project at the school to continue-pending feasibility and teacher interest-with direct support from her CBO supervisor but not the university team. The university team continued to engage in an ongoing consultation and technical assistance relationship with the supervisor and the CBO. The CBO's goal was to infuse PAR into its existing youth development programs at 20 middle and high school sites in the school district.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Collection Methods</head><p>The university team (1 European American male graduate student and 1 Latina female undergraduate, both trained in PAR and in observational research methods) made weekly visits to the Tubman classroom throughout Year 1 to provide technical support and help facilitate the PAR project. The research team also documented the process using observational field notes, which were summarized and excerpted to inform this case discussion. As discussed in detail below, a smaller group of 8 female students in the class were selected to participate in an additional series of small group meetings. Consistent with the policy of the school district and the university IRB, the parents/guardians of these students had provided their signed consent. In recruiting students for the group, the first author worked with the teacher to identify consented students that would reflect a range of academic achievement and whom would likely have some exposure to the problems to be addressed by the group. These meetings took place in the empty school cafeteria during their regular class time. These meetings were audio-taped and transcribed; transcriptions were reviewed to create summaries and quotes for this report.</p><p>One year after the end of the Year 1 consultation, the first author conducted follow-up interviews with the principal and teacher to learn about activities that were continued at the site after the consultation ended, the potential impact of the process, and challenges encountered. The first author also conducted an interview with the CBObased supervisor to elicit her insights regarding this project as well as broader lessons learned in supervising teachers conducting PAR projects in 20 middle and high schools. Unfortunately, it was not feasible to conduct follow-up interviews with the students who had participated in the project due to limitations in the initial consenting process that did not allow for re-contacting of the students.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Project Implementation</head><p>The ethnically-diverse (Latino, Asian American, African American, and European American) class consisted of 32 students, and met daily as an elective class. The classroom space was very small, providing little space for movement or re-grouping of students in the classroom. This was the teacher's first year in a regular teaching position.</p><p>The curriculum used by the teacher had been adapted by the CBO, using the structure and activities from two published curricula developed by established youth-led PAR organizations <ref type="bibr" target="#b31">(London 2001;</ref><ref type="bibr" target="#b52">Sydlo et al. 2000)</ref>. The teacher and university team guided the students in mapping the resources and problems of the school and community, and identifying issues of concern for possible research and action. A range of problems were identified by the students, including drugs, pressure to join gangs, school food, and areas in need of physical improvement at the school (e.g., water fountains did not work, no nets on the basketball court, unclean bathrooms). The teacher and university team then facilitated class discussions to assist them in reaching a group decision about which issues to study more in-depth in their research project. The class ultimately chose to focus their efforts on improving school food and the physical plant of the school with the rationale that these issues affect most students and were potentially ''winnable.'' The class engaged in a photo-voice process <ref type="bibr" target="#b57">(Wang and Burris 1994)</ref> to document the problem areas at the school site and develop a storyboard with photographs to share with the principal and other stakeholders. The products of this project were presented to the principal by representatives of the class near the end of the school year. Most of the class members also presented their methodology and findings to a conference sponsored by the CBO in which classes from all 6 schools that were part of the university-CBO-school partnership came together to share their PAR projects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Challenges in Implementation</head><p>Several challenges were encountered in the implementation of this project in Year 1. First, although observations by the research team suggested that students' cognitive maturity</p><p>Psychological and political empowerment Perceived school connection Intervention Key Processes Youth-level Outcomes Expanded social networks and support Positive ethnic identity, Sense of purpose Skills, efficacy in research, communication, advocacy Positive class climate (e.g. engagement, student perspectives) Group work Opportunities for skill development (e.g. research, advocacy) Networking opportunities Teacher-student power-sharing Classroom PAR Settings Targeted School-Level Outcomes Classroom Alliances between students and adult staff Student -adult inquiry and learning Meaningful student roles in school policies and practices Collective efficacy of students for research, advocacy School PAR was a good fit for the PAR curriculum insofar as they demonstrated language and critical thinking skills that were ''as high or higher than in the high schools,'' the students' social maturity was noted to be uneven:</p><p>The challenge here isn't getting the students engaged, but managing their engagement….There is a marked difference between the boys and girls in the class….the boys are…poking each other, talking over each other, seeking attention; the girls are much calmer and more mature seeming. We may need different strategies for each group. (research memo) These and other comments in the research memos reflect the challenge confronted in this project of how to transfer appropriate levels of control to the students. Because the observers were also documenting PAR projects in 9th grade high school classrooms, there were comparisons drawn between the conditions in the middle school versus high school classroom:</p><p>The vibe in the class is drastically different than in HS classes. The students are more energetic and unfocused…with constant goofing around…it may be difficult to get them to buy into action research. It may be that we have to construct a series of activities that lead them to investigate, but that they aren't given the level of control of the HS students. (research memo)</p><p>The effectiveness of efforts to meaningfully engage less receptive students in this PAR project was undermined by the specific features of limited space and large class size in this urban middle school. The classroom space was inadequate for the class size, which contributed to poor conditions for high-quality discussion, particularly given the teacher's lack of experience in managing classroom dynamics. To increase engagement and student control over the projects, the PAR curricular activities called for dividing the class into small groups for interactive activities at multiple stages of the project. For example, in this research memo excerpt, a graduate student describes a small group exercise in which students drew a map of their school and what affects their health at school and then reported back to the larger class; the students identified as ''difficult'' by the teacher are Latino and African-American: [The teacher] had identified the three boys I was working [with] to all be difficult, and it was hard to get them on task. [Two students] were poking each other with pencils until I got serious and told them I ''didn't want to see it anymore.'' [One student] started out drawing the school and after asking them a lot of questions (…''do you think students here are healthy?'') they started to get into it. They got particularly energetic when talking about the food (''Man, the food is nasty. Why do we have to have the same stuff everyday''), the litter (''people leave their trash all outside and that's why the birds come and then they poop on us'') and the basketball hoops (''The hoop is all bent with no net, no that's not it, give me the pencil, I'll draw it.'')…. Everyone finished for the most part and it was time to pres-ent…The students had a lot of trouble speaking one at a time. It made it difficult to hear everything. [The teacher]…brought out a little sandbag thing -only the student holding it was supposed to be able to speak. It worked more or less. (research memo)</p><p>The small group format with students playing a more active role was generally effective in engaging students who appeared not to pay attention to whole-class activities and discussions. Simultaneous discussions, however, created an even higher noise level in the small space.</p><p>The memos above indicate that the research team initially attributed the need for more focused attention in engaging several of the Latino and African-American male students to lower maturity levels among boys. This interpretation did not consider the role of teacher capacity and the classroom physical space, nor did it consider how the broader social ecology of the school with respect to differential expectations and treatment for boys of color may have set the stage for their responses to the curriculum and the research team (see p. 23 for a deeper consideration of these issues). As discussed more fully later, the design of the present study does not enable us to disentangle the influence of students' development on the implementation of the YPAR project, versus the influence of the classroom and school conditions in which it was embedded.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adaptation of Implementation</head><p>Because the classroom size and environment were not conducive to in-depth discussion, the first author and the classroom teacher came up with a strategy to conduct more intensive work with a subgroup of students in the class. In the second semester of Year 1, the first author initiated additional weekly meetings with a group of 8 girls in the class (7 of whom were Latina) to understand more deeply several problems not being addressed by the whole class, and to come up with recommendations for policies or programs to address these issues.</p><p>These small group meetings were, not surprisingly, more fruitful than the discussions in the regular classroom context. Excellent rapport was developed between the first author and the students, and among the students, and there appeared to be substantially less concern with self-presentation in the all-female group than in the regular classroom. The teacher expressed to the first author that the students enjoyed having a group for only girls, and they appeared to relish the special role of meeting with the first author and being asked their opinions. A side benefit of this approach was that it temporarily relieved the overcrowding in the regular classroom for that session. Early on in the meetings, the first author shared that she also lived in the neighborhood and was a parent of a child in the public school system. Several of the students responded to this information by expressing surprise that a resident of the surrounding neighborhood would be interested in the students at the school; one said, ''I thought that all of the people in the neighborhood hated us.'' Class, ethnic, and language issues were raised at other times, most notably when the girls were discussing family relationships and several shared their view, learned from TV, that all ''White people were rich'' and that ''White families always sit down and eat dinner together,'' unlike their own families. Almost all of the students were bilingual, as is the first author, and there was some discussion about the value of both languages in the group that was prompted by some exchanges in Spanish by group members.</p><p>The small group meetings focused on several mental and physical health issues that had been identified as problems by students in the issue selection phase in the larger class project, but were not studied in the photo-voice project because of their complexity. For each issue, the first author facilitated the students' mapping of ''root'' causes in which they used the metaphor of a tree to name and depict the sources of the problem (the ''leaves'') in terms of factors on the level of the individual, family, school, community, and society. The first author then assisted the students in identifying and reflecting on existing efforts to address it, and in generating ideas for suggested improvement or novel interventions to address it further. These students continued to participate in the full-class photo-voice project on the days that they were not in the small group. The topics considered by the small group included the perceived pressure to join gangs for some Latino students at the school, substance use, and family conflict. Gangs and substance use were the issues that generated the most engagement and interest on the part of the students; we discuss the gang issue below to illustrate the process and the type of insights and recommendations that emerged from the group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gang Membership</head><p>Pressure to join gangs or ''claim colors'' in gang rivalries in their neighborhoods were perceived as highly relevant to the group. Multiple girls reported that relatives or friends had claimed colors or had been pressured to join a gang. Although the school had a strict dress code to prevent the wearing of gang-related colors, students reported that they noticed peers starting to claim colors by ''small things…a hair tie or something, or shoes, or belt. I think the belt shows more, or carrying a bandana out of your pocket. <ref type="bibr">''</ref> Students discussed what they understood to be the root causes of gang involvement, as well as additional conditions that contributed to the problem. They cited a need for protection for recent immigrant youth, lack of awareness of how hard it is to get out of a gang, and lack of connection at home and school as major factors: They don't feel special at home or at school -and the gangs make people feel special and impor-tant…Sometimes parents tell them that they aren't going to do much in their life, that they don't have much to look forward to.</p><p>Students also noted that, for a small number of youth, adult family members are already gang-affiliated and membership is a natural thing: If ''part of your family is in a gang -they think it's in their blood.'' One of the lowerachieving students provided her view as to how the Latino honor roll, a school practice designed to encourage the academic engagement and success of Latino students, actually undermined the motivation of Latino students who were below the cut-off, saying that ''you feel like a moron'' if you don't make the list.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recommendations</head><p>As indicated above, students identified a lack of meaningful connection to school and families as enhancing the perceived benefits of gang involvement, although they also acknowledged that even students who did have good ties to home and school might feel the need to claim colors because of pressure and threats. They expressed that hearing messages from adults about not joining gangs might actually make gangs seem more appealing because of ''reverse psychology'' and some youth's desire to do the opposite of what adults tell them to do. They therefore suggested that educational experiences that entailed hearing from young adults in their late teens or early '20's who ''have gone through this kind of thing'' and can talk about how hard it was to get out of gangs would be a good program for the school. The group also suggested ideas for rewarding students for academic improvement, even if they do not make the honor roll, so that they feel that this effort is acknowledged.</p><p>Having young adults to talk to at the school was a theme that cut across the group's recommendations for gang prevention, substance abuse, and other areas. They reported that, despite the presence of a school counselor, students feel that ''they have no one to talk to about their problems.'' Two main concerns about talking with teachers or counselors were raised: that the adult will tell their parents, because they think it will be for their own good, ''but this could make it a lot worse.'' The second reason that they expressed is that the counselor and many of the teachers ''wouldn't really understand because they are too old,'' and that they need a younger person whom they feel would really understand what they are going through.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Principal Meeting</head><p>This group, accompanied by the first author, met with the principal near the end of the school year to present their analyses of the issues facing students at Tubman and to share their suggested recommendations for addressing these problems. The principal listened attentively to the students' presentation and expressed appreciation for their feedback; he suggested that there be future meetings in which he could hear the perspectives of students. The students were initially nervous in their presentation but were able to articulate their views and participate in backand-forth exchanges with the principal that were respectful and substantive. Afterwards, they appeared excited and reported being pleased with having had the opportunity to talk with the principal in this way.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow-Up: Reflections on Longer-Term Impact and Sustainability</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Year 1 PAR Project</head><p>Interviews with the teacher, principal, and supervisor (all European American) conducted 1 year after the end of the university consultation in Year 1 of the project suggested several insights regarding PAR at Tubman. The teacher, who had fortunately moved to a much larger classroom space, reported that she had continued with the PAR efforts in the subsequent year by initiating a photo-voice project with her new cohort of students. The new project was not directly based on the work of the prior year's students but instead originated with the new cohort. She enthusiastically discussed plans to engage students in film as well as photography as part of their photo-voice project in her next cohort. She continued to engage youth in peer education and conflict resolution efforts at the school through the regular curriculum, although she did not articulate if or how the photo-voice project informed these educational and service efforts. After the Year 1 project, there was no follow up between the principal and teacher to define or implement specific objectives raised in his prior meeting with the students. Based on our interview and the teacher's planned curriculum, it appears to us that the teacher viewed photo-voice as a valuable tool for promoting the critical thinking and skills of students, but that the potential of PAR for increasing the participation of students in addressing concerns and improving the school was either not understood or was not a priority given limited resources and competing demands.</p><p>The principal, in his follow-up interview, reported that several of the problems that the students had identified in the Year 1 PAR project had improved. He attributed these improvements, however, not to suggestions made by the students but rather to broader efforts to improve school safety and climate across the district and at the school: ''Back then it was pretty rough…now…there are no hallways with garbage, the climate has changed. We still do have a lot of trash outside after lunch, and other prob-lems…getting high is a problem.'' In Year 2, the school had initiated a district-wide program to improve school climate that involved the training of students as peer leaders, but, according to the principal, it was difficult to sustain because the 8th graders were trained in the Spring just before graduation and then ''moved on.'' He reported being unaware that the photo-voice project had continued beyond Year 1. Despite the interest he had expressed earlier about having more regular meetings with students like the one in Year 1 with the PAR group, no additional meetings had occurred.</p><p>Although he observed that many middle school students are not as comfortable as high school students with ''getting serious'' in talking with adults, he expressed optimism about the PAR process as providing a formal means of student participation beyond the daily conversations that he has with students as a hands-on middle school principal with a regular physical presence at the site: ''I see value in student voice, and that adults are needed to structure the conversation, to express what it is that needs improvement. For students to think and speak like they are growing up. I think it can have an impact here, but hasn't really yet.'' Drug use and ''tagging'' (graffiti using writing and symbols) were two areas in which the principal expressed that he could benefit from PAR-generated data and recommendations:</p><p>Substance use is a big area. I would like to know the what and the when. When I talk to students this age about 'why,'' the why isn't too clear. Maybe using it as an escape from a bad home life, or from no home life. But to have them talk truthfully about this… Another area that I really don't understand why is tagging. It has zero redeeming value aestheticallyit's not graffiti -there is no pretense to art. I see it as vandalism. And when I find out who it is sometimes, it's like, ''they did all that?'' It's almost like it's random who did it.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>We see several conditions illuminated at Tubman and at other sites that likely influenced the impact and sustainability of PAR, and that may be informative for the conceptualization and implementation of PAR in other school settings. Below, we discuss several features of the school setting that have a bearing on the PAR process for young people and their adult allies in schools, including: constraints on student autonomy, the academic calendar, the size and social network of the adults at the school, and the resources-physical, financial, and time-for nonacademic classes. Although these features would be expected to influence the implementation of any schoolbased intervention, our discussion highlights the ''innovation-specific'' <ref type="bibr" target="#b56">(Wandersman et al. 2008)</ref> salience of these conditions for the diffusion of PAR in schools because of its emphasis on research and action intended to make change and disrupt the status quo <ref type="bibr" target="#b41">(Ozer et al. 2008)</ref>. Following our consideration of PAR within the social ecology of the Tubman case, we draw on the existing literature and our experiences to propose a set of key processes for the implementation of PAR in schools, examine the Tubman experience in light of these key processes, and propose next steps for research and practice.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Constraints of Existing School Climate and Culture</head><p>As noted earlier, middle schools have generally been noted for their emphasis on behavioral control, adult-driven inquiry, and the lack of opportunities for youth to exercise developmentally-appropriate levels of autonomy. Implementing PAR with youth in this context is intended to address these conditions by providing youth-driven inquiry and the opening up of meaningful opportunities for youth to influence school policies and practices. There is a risk, however, that PAR projects within middle school settings will instead reinforce or replicate the ''adultist'' power dynamics that they are trying to address. In the Tubman example, the PAR project was implemented as part of an elective class that students theoretically ''chose'' to take; when they chose the class however, it was not clear to them that they would be conducting PAR. Even when they agreed to participate in the PAR project, it is likely that they did not fully understand what it would entail, and it would be difficult to change their class schedule mid-semester. Thus, although many students expressed enthusiasm for working to improve the school via the PAR project, the Tubman project-like other classroom-based PAR implementations that do not select a small group of motivated youth-faced the challenge of engaging students who were not fully invested in the project. <ref type="foot" target="#foot_1">2</ref>Classroom observations suggested that the primary challenges to eliciting the active participation of some students-primarily boys of color-appeared to center on general issues of classroom engagement than objections to the PAR process itself. That is, observations of students who appeared to resist participation in the class activities at various times suggested that they became motivated once they were able to focus on the task at hand. There is extensive evidence for the differential expectations for and treatment of youth in color, particularly males, in U.S. schools <ref type="bibr" target="#b21">(Gregory and Weinstein 2008;</ref><ref type="bibr" target="#b48">Skiba et al. 2002;</ref><ref type="bibr" target="#b59">Weinstein 2002b</ref>). Clearly, PAR projects must be differentiated from typical classroom relationships and curricula to avoid ''business as usual'' interactions and role demands from teachers and students alike.</p><p>As noted earlier, most of the adults directly involved in the project were from European American backgrounds; nearly all of the students were from ethnic minority backgrounds with a high proportion of Latino youth. It is possible that these differences, which roughly mirror the general demographics of the adults and youth in the school district, may have set the stage for replication of regular classroom dynamics for some students of color who were already experiencing disconnection and disinvestment from classroom activities. Working with students in smaller groups both within and outside of the classroom, however, at times enabled the Tubman project to create interactions that disrupted the typical pattern of engagement and offered opportunities for lower-achieving students to express themselves and contribute meaningfully to the larger project. These small group activities set the stage for peer-to-peer discussion and learning as opposed to questions and answers from the adult teacher.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Academic Policies and Structures</head><p>Although lack of time is likely an issue for nearly every PAR project, whether conducted with adult community members or youth, the academic calendar and competing demands represent formidable challenges for school-based PAR. Unlike adult-led PAR and some youth-led PAR projects enacted in afterschool or other CBO settings, projects implemented in schools must operate within the hard deadlines and ''black-out periods'' of the academic calendar. As noted above, competing interests are particularly strong in schools that are under pressure to improve standardized test scores, where all instructional time must be mapped onto specific state standards. Although the inquiry methods and communication skills integral to PAR curricula likely strengthened learning of basic standards, the PAR process in the elective class at Tubman and other sites was not organized around state learning standards. An additional challenge inherent in the academic structure involves limitations in working with the same cohort over time. Although re-engaging students who have not graduated is possible (unlike an afterschool program, attendance is not optional), students' scheduling limitations may not permit them to re-enroll in the same elective class. This is particularly true for academically underperforming students with limited opportunities for electives.</p><p>Conducting PAR projects in after-school youth development programs or other community-based organizations rather than during the school day is an alternative that carries with it potential benefits and disadvantages. On the positive side, PAR projects implemented in afterschool settings likely benefit from greater freedom from the demands of instructional time (if not of homework completion) and from having longer blocks of time to conduct the work. In addition, an organization that continues to work with youth over several years can have greater continuity of effort over time. This structure can potentially minimize the challenges faced by the teacher at Tubman and at other school sites regarding how to promote the sense of ''ownership'' for the PAR process of new cohorts of youth while not abandoning the follow-up activities needed to turn the previous cohort's work into actual change <ref type="bibr" target="#b41">(Ozer et al. 2008)</ref>.</p><p>PAR projects located in after-school or CBO settings are likely to work with a selected group of students that may be less representative of the school. If the focus of the PAR effort is on change within the school, the project will be limited by a more restricted perspective on the school site (although this can potentially be addressed via research conducted by the youth with representative samples of students at the school). PAR programs with self-selected youth-as is the case in the overwhelming majority of programs studied in the existing literature-will also encounter challenges in quantitative evaluations of the impact of PAR on their youth participants because of selection bias.</p><p>Size and Social Network of School Tubman is a relatively small school, and the students benefited from access to the principal; he was frequently observed by our team to be interacting with students in the hallways and outside of the school immediately after the school day. In considering the implementation of PAR across 20 district sites, the CBO supervisor further emphasized the size of the school as a critical factor in terms of ''what you can pull off'' in middle school:</p><p>The smaller the middle school, the more likely you are to actually do something. They are tighter communities -the teachers know each other -it's easier to get the access you might want. The only way a small school isn't an advantage is if students want structural change. Small schools don't have much capacity for that -for example, if they come up with wanting more electives. At small schools, there is less flexibility on big issues than in big schools. But middle school projects don't tend to focus on structural issues. At a big middle school, there is such a focus on managing the behavior of students, that they aren't that into changes to the system, they are less open to it…and they don't want students in the hallways doing action research.</p><p>Another key factor cited by the supervisor beyond the size of the school was the existence of a group of teachers who were already interested in issues like school climate. Because students ''need a lot of adult support,'' this gives the students a committee or group whom they could immediately identify as potential allies. There was no such group at Tubman that was identified by the teacher in Year 1. This would have provided an excellent resource for the students and the teacher to engage other stakeholders, hear their perspectives, strategize about how to bring about desired changes, and provide continuity of effort from 1 year to the next.</p><p>The social ties and power of the specific teacher or other adult who facilitates the PAR process can shape it in several ways. First, elective teachers (like the teacher at Tubman) may be more isolated and lack a department of colleagues and potential allies that could help create receptive conditions for the PAR project. This would be expected to be a particular challenge for a new teacher, although prior research on the social organization of schools indicates that even an experienced teacher may have few opportunities to collaborate or exchange ideas with other teachers at the same site <ref type="bibr" target="#b30">(Little and McLaughlin 1993;</ref><ref type="bibr" target="#b33">Lortie 1975)</ref>. Second, as discussed in detail below, a teacher of an elective subject may be more likely to have a tenuous job at some school sites. Job insecurity can undermine long-range planning from 1 year to the next. It can also create concerns for teachers that they might experience negative repercussions if the students raise politically-sensitive issues in their PAR project.</p><p>The size and social network of schools would be expected to be relevant conditions that may influence the implementation of any school-based intervention; however, PAR's focus on increasing the power of youth in shaping school conditions, policies, and practices means that alliances with other stakeholders in the school and community and the capacity to sustain efforts over time are particularly crucial. Students engaging in PAR projects that seek to make changes in schools are operating with limited power in a politically-sensitive environment; forming alliances with more powerful stakeholders such as teachers and administrators and getting them ''bought in'' early on thus improves the likelihood of having a positive impact.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Space for ''Non-Academic'' Activities</head><p>Although conducting PAR via an elective class already focused on youth development was an excellent fit and enabled most of class time to be devoted to the PAR project, it also created challenges in follow-through because of uncertain funding for electives at the case report site and other schools in this under-resourced urban district. At Tubman, there were ongoing negotiations about the role and resources of the elective peer resources program at the site. With the teacher and her supervisor focused on the role and sustainability of the basic program after Year 1, there was less time and focus available to promote the sustainability and impact of the PAR project. According to the supervisor, the issue of program stability is highly salient in determining the scope of work across their 10 middle school sites in the district: Most middle schools barely have electives. Because of test scores, many students are taking double English and double Math. Every principal is super under the gun to deliver test scores. What is possible [in a PAR project] depends on if the school has turned it around or not. Very little is possible with declining enrollment and flat test scores as these schools are shut down for weeks before the test.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Developmental Considerations</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Student Development</head><p>How did the developmental level of the youth in our project influence the PAR process, and how was the process adapted to respond to these developmental issues? Uneven social maturity of the students, particularly the boys, was noted in our team's observations of the Tubman classroom in Year 1. This factor represented a challenge in engaging the class in the PAR curriculum, although the inadequate physical space and the inexperience of the teacher also played contributing roles. The combination of these factors was primarily responded to by creating more structure in the regular class and also by creating the additional small group meetings. The latter format enabled in-depth exchange in a quiet place, with sufficient structure to develop relationships and get beyond the ''silliness'' that sometimes ensued before the students settled into a more serious discussion. Prior PAR research with slightly younger students than our sample (5th and 6th graders) also identified group dynamics and social maturity as major challenges in implementation, attributing behaviors such as clowning, put-downs, and ''silly'' responses to questions as part of the early adolescent developmental tasks of identity formation <ref type="bibr" target="#b60">(Wilson et al. 2007)</ref>. As discussed earlier, some of the challenges in engaging students in PAR activities are probably not solely a function of the developmental level of the students but also of doing PAR in institutional settings in which many students have likely not had access to developmentally-appropriate opportunities to foster students' capacity to express themselves, think critically, and work together in more mature roles.</p><p>In reflecting across the 20 middle and high school sites at which the CBO was conducting some type of PAR project, the supervisor of the Tubman project provided additional insights regarding how the process can respond to the developmental needs of the older child and younger adolescent: They [middle school students] need to look for more short-term change. It's hard enough with high school -''that this change might not happen this year'' -but in middle school if they don't see some sort of progress, they are going to lose steam very quickly. Without changing the issue every single time, [we ask]: What are super-concrete actions that all build towards this same thing?… An example from [another middle school] right now is that they did a short survey and found out that racism and stereotypes are a problem. So they are doing three standalone events that were all about racism: A lunchtime activity where students talked to those they wouldn't ordinarily talk to, a multicultural assembly, and an assembly where they put together a game about different people's experiences.</p><p>One way to build on this model, consistent with the iterative nature of PAR, would be to integrate formative evaluation research into the action phase that would enable the youth to assess if their actions actually yielded any benefits. As articulated by the supervisor, a clear advantage of more quickly engaging the students in action steps that are relevant to the problem but do not necessarily involve a change in policies or practices is that they can feel that they are making something happen. This can be problematic, however. Presentations and other events are time-consuming; while they raise awareness, they can create the sense that something is being done about the problem without any meaningful mechanisms for change being implemented <ref type="bibr" target="#b27">(Kirshner 2007)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Teacher Development</head><p>It is also important to recognize that adults' effective implementation of PAR requires substantial experience and support. In contrast to the typical training and skill set of classroom teachers for the instruction of content ''standards,'' facilitation of PAR requires that classroom teachers share power with students and guide them in a flexible process in which the teacher does not have the answers ahead of time and likely needs ongoing technical assistance regarding research and advocacy activities [please see <ref type="bibr" target="#b41">Ozer et al. (2008)</ref> for an extensive consideration of technical support and capacity-building for teachers implementing PAR projects in schools and the California Center for Civic <ref type="bibr">Participation and Youth Development (2004)</ref> for more general planning for youth participation.] Other research has noted the considerable challenges in effectively training facilitators to lead PAR projects, although in these cases the facilitators were university students or adult volunteers <ref type="bibr" target="#b22">(Helitzer et al. 2000;</ref><ref type="bibr" target="#b60">Wilson et al. 2007)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Key Processes in School-Based PAR</head><p>The existing literature provides an explication of broad principles and several curricula to guide PAR in schools. To our knowledge, however, the field is lacking specific guidelines about how to assess the processes that reflect a high-quality implementation of PAR. We are mindful that PAR projects are inherently flexible and will unfold in differing ways across settings and in response to the particular questions and parameters of each project; however, a common framework may inform practice and guide the assessment of implementation quality necessary for both ''continuous improvement'' and traditional evaluation efforts of PAR interventions. Our collaborative work in supporting and evaluating PAR at multiple school sites has necessitated assessment of processes that reflect a highquality operationalization of PAR with students in classroom and school settings. Building on our initial work with Tubman and other sites, our multi-method intervention research utilizes a design that compares the process and outcomes of classrooms engaged in PAR versus classrooms engaged in a direct-service youth development program. This endeavor has further required us to delineate central PAR processes. Our specification of processes build on prior theory and curriculum development in the PAR field <ref type="bibr" target="#b5">(Cargo et al. 2003;</ref><ref type="bibr" target="#b7">Checkoway et al. 2003;</ref><ref type="bibr" target="#b26">Jennings et al. 2006;</ref><ref type="bibr" target="#b31">London 2001;</ref><ref type="bibr" target="#b45">Schensul et al. 2004;</ref><ref type="bibr" target="#b62">Zimmerman 1995)</ref>; they further reflect dimensions suggested to us by youth in our own research.</p><p>Processes that we view as central to PAR in our assessment system are the iterative integration of research and action, the training and practice of research skills, the teacher's sharing of power with students in the research and action process, and the practice of strategic thinking and strategies for influencing change. Examples of the specific activities we characterize as part of the strategic thinking process include discussion of: root causes to social or health problems, information about how rules or policies are made, how to develop recommendations based in research, and how to develop alliances with various stakeholders.</p><p>Processes that promote a high-quality implementation of PAR but are not unique to it include: expansion of the social network of the youth, opportunities and guidance for working in groups to achieve goals, and the development of skills to communicate with other youth and adult stakeholders. All of these processes were reported by the youth participants in our PAR classes as constituting very different experiences from their regular classroom activities, and meaningful aspects of their learning in the PAR process. Class climate has been studied extensively as a key factor in prior educational research; in our evaluation work, we are assessing classroom climate dimensions that we believe facilitate effective implementation of PAR, including the teacher's emphasis on student perspectives, the teacher's flexibility regarding classroom projects or structure, and the engagement of the students in the classroom activities <ref type="bibr" target="#b42">(Pianta et al. 2006)</ref>. Efforts to measure PAR processes through the development of a reliable and valid observational tool are currently in progress.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Looking at the Tubman Project Through Key Processes Framework</head><p>The Tubman project experienced mixed success. In light of the challenges faced by this 1st year teacher and her students in Year 1, having this class effectively engage in several phases of the PAR process and make meaningful presentations to their principal and to a conference of high school students were legitimately viewed as major achievements by the students and the adults involved in the project. Further, the teacher continued to implement and value the photo-voice process beyond the initial consultation and the principal remained optimistic about the potential for youth ''voice'' in the school. No specific improvements in the problems identified by the students or the school site, however, could be attributed to the project.</p><p>The Tubman project represents an initial effort that provided multiple lessons useful for the evolution of our work in school-based PAR. With respect to research, students were trained in and practiced photo-voice as a research method and learned about the strengths and limitations of other methods such as surveys and interviews as part of their conference with other students engaged in PAR in the district. With respect to practicing strategies for strategic thinking and influencing change, all students in the Tubman project analyzed the roots of issues of concern to them although the girls' group received more intensive practice in both analysis of problems and generation of possible solutions. The recommendations of the girls' group, however, would ideally have been grounded by further research. In terms of students' sharing of power, the students exercised power in their choice of topics and research methods used; they chose what to photograph and organized their own presentation. As discussed earlier, however, the teacher provided much direction and structure over the classroom activities.</p><p>Regarding general processes that support but are not unique to PAR implementation, the Tubman project provided guidance for group work and opportunities for participants to develop their skills in communicating with youth and adult stakeholders. Beyond the meeting with the principal, the first year of the project fell short in its expansion of the participants' social network and in the building of alliances with school faculty, administrators, and the student body to address the problems identified and promote the implementation of recommended changes in policies or practices. Not surprisingly, ending Year 1 without achieving clear agreements among the principal, teacher, students, and supervisor about specific action steps, a timeline, and accountability for follow-up undermined the potential impact. Finally, the importance of class climate dimensions such as student engagement for effective implementation was highlighted previously.</p><p>In retrospect, it is clear that more attention should have been paid to long-range planning and building alliances with teachers and others during the Year 1 initial implementation of the project at Tubman. Long-range planning was challenging to enact, however, for several reasons. First, with the university team in the role of consultant, the issue of planning for next year can be raised (as it was at Tubman), but the power to establish these agreements and commitments remains with the CBO and school sites, who are often in reactive rather than proactive stances when dealing with pressing funding and staffing uncertainties. Second, as evident at Tubman and at other sites where we have worked, the students' successfully engaging in the PAR process to the point of developing research-driven recommendations and events are legitimately experienced as ''wins'' for the youth and adults. Given all of the challenges at the sites, it is sometimes difficult for all of those involved in the project to see beyond the specifics of the project to think deeply about sustainable change.</p><p>Third, although it would be ideal to engage potential adult allies within and outside of the school for students' research-driven change efforts earlier in the project, to help pave the way for receptiveness in the action phases, it is our experience that it takes time before students build the skills and confidence to engage with adults in a collegial manner. That is, once students have engaged in the research and have findings to share, they tend to realize the expertise that they are bringing to the table to discuss with adults; these data presentations also help to legitimize their expertise in the eyes of the adults. Thus, preparing the ground with potential adult allies early in the process, before research recommendations are ready, is a key role for the adult facilitators and for youth who feel ready for this; we have also seen effective approaches in our projects in which data-gathering from potential adult allies is used to build relationships and buy-in. Reflections on lessons learned with Tubman and other sites have spurred the CBO and university team to emphasize alliance-building and planning for continuity in the training of teachers, curriculum, and supervision throughout the PAR process.</p><p>The kinds of potential allies that youth might want to engage will partially depend on the issue they choose to address; for example, the issue of safety and violence in specific neighborhoods might include meeting with neighborhood and ethnic associations, elected officials, local CBO's, health care providers, and the police and transportation departments. Issues focused on school equity and conditions would likely engage the site council, school board, PTA, and CBO's focused on the educational system. Progress on some issues may be aided by these external alliances; in some cases, however, the involvement of outsiders may not be helpful (e.g., involving non-school members in students' inquiry and action regarding teaching practices or hiring might increase defensiveness and limit constructive collaboration).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Questions Raised and Next Steps</head><p>This discussion emphasizes the promise of PAR in middle schools, providing a case example that illustrates multiple opportunities and challenges for PAR practice in middle school. In this case, PAR appeared to be developmentallyappropriate and meaningful for students when basic classroom dynamics were addressed, and was particularly fruitful in a small-group context that facilitated the strengthening of relationships among the youth and with the adult facilitator. Infusing this program into an elective program supervised by a local CBO committed to youth development practice, and providing ongoing technical assistance to the CBO, utilized an existing niche and strengthened existing resources in the school and district. This approach helped the sustainability of PAR efforts because of the CBO's long-term relationships with the school sites. It also provided an elective ''space'' for the implementation of PAR in low-performing schools, where implementation in regular academic classes would not have been feasible due to the great demands on instructional time. Elective ''spaces,'' however, were more tenuous than expected, and uncertain funding for electives undermined longer-term planning.</p><p>In our ongoing research, we are studying in-school PAR classes over multiple years at diverse urban sites to help understand the conditions that support effective implementation of this complex intervention <ref type="bibr" target="#b1">(Biglan et al. 2000)</ref>. Of particular interest is how to strengthen the continuity of effort across semesters and years while allowing for each new cohort to ''own'' the project, and how youth can impact the climate and governance of their schools despite multiple challenges and competing demands. Our current research further emphasizes the perspectives of the youth participants (as well as adults) on PAR implementation and impact; a limitation of the Tubman project described here was its lack of student perspectives regarding impact. As alluded to earlier, we are working to develop reliable and valid measures of processes and outcomes of school-based PAR with the goal of contributing to research and practice in this growing field. PAR holds tremendous potential for providing the means by which students can initiate inquiry, develop skills, and provide recommendations to improve the developmental quality and fit of middle schools for their development as thinkers and citizens.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 a</head><label>1</label><figDesc>Fig. 1 a School-based PAR: youth-level effects model, b School-based PAR: schoollevel effects model</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Place and participant names are masked in this article.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>The authors acknowledge the contributions of an anonymous reviewer regarding this issue of student autonomy and how the existing expectations for students' behavior may create challenges for PAR in middle school settings.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgments This research was supported by a <rs type="grantName">William T. Grant Scholars' Award</rs> to the first author, and by funding from the <rs type="institution">Centers for Disease Control and Prevention Center as part of the Center of Excellence for Youth Violence Prevention (Center for Culture, Immigration and Youth Violence Prevention at UC-Berkeley</rs>). The authors express appreciation to <rs type="person">Thomas Cook</rs>, <rs type="person">Tom Weisner</rs>, <rs type="person">Meredith Minkler</rs>, <rs type="person">Lawrence Green</rs>, and <rs type="person">Marc Zimmerman</rs> for their consultation; <rs type="person">Elizabeth Hubbard</rs>, <rs type="person">Marieka Schotland</rs>, <rs type="person">Sarah Jones</rs>, and <rs type="person">Carmelo Sgarlato</rs> for collaboration with the research, and <rs type="person">Jeremy Cantor</rs> and <rs type="person">Jessica Camacho</rs> for their assistance in data collection.</p><p>Open Access This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_8WuaUn4">
+					<orgName type="grant-name">William T. Grant Scholars&apos; Award</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Youth action research for prevention: A multi-level intervention designed to increase efficacy and empowerment among urban youth</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Coman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Schensul</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Community Psychology</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="345" to="359" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The value of interrupted time-series experiments for community intervention research</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Biglan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Wagenaar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prevention Science</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="49" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Open eyes-different eyes: PAR as a process of personal and social transformation</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cahill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rios-Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Threatts</surname></persName>
+		</author>
+		<editor>J. Cammarota &amp; M. Fine</editor>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Revolutionizing education: Youth participatory action research in motion</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<monogr>
+		<title level="m">Youth voices in community design</title>
+		<meeting><address><addrLine>CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sacramento</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Revolutionizing education: Youth participatory action research</title>
+		<editor>Cammarota, J., &amp; Fine, M.</editor>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Empowerment as fostering positive youth development and citizenship</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cargo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Grams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ottoson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Green</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Health Behavior</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="66" to="S79" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Youth participation in evaluation and research as a way of lifting new voices</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Checkoway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Richards-Schuster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Children Youth and Environments</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="84" to="98" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Youth participation in community evaluation research as an emerging social movement</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Checkoway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dobbie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Richards-Schuster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Community Youth Development Journal</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Gender Differences in depressive symptoms in adolescence: Comparison of national samples of clinically-referred and non-referred youth</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Compas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Oppedisano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Connor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Gerhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Hinden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Achenbaach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consulting and Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="617" to="626" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The development of purpose during adolescence</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Damon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Developmental Science</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="119" to="128" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Experience and education</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dewey</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1938">1938/1997</date>
+			<publisher>Simon and Schuster</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Community programs to promote youth development</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Eccles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Gootman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>National Academy Press</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Development during adolescence: The impact of stage/environment fit on young adolescents&apos; experiences in schools and families</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Eccles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Midgley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Buchanan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wigfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Reuman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Maciver</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Psychologist</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="90" to="101" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Schools as developmental contexts In</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Eccles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Roeser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Blackwell handbook of adolescence</title>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Adams</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Berzonsky</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Malden, Massachusetts</addrLine></address></meeting>
+		<imprint>
+			<publisher>Blackwell Publishing</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="129" to="148" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The human side of school change: Reform, resistance, and the real-life problems of innovation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Evans</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Jossey-Bass</publisher>
+			<pubPlace>San Francisco</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Pedagogy of the oppressed</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Freire</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1970">1970</date>
+			<publisher>Continuum Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Pedagogy of hope: Reliving pedagogy of the oppressed</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Freire</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Continuum Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Suicidality, depression, and alcohol use among adolescents: A review of empirical findings</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Galaif</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International journal of adolescent medicine and health</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="35" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">An integrative model for the study of developmental competencies in minority children</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Garcı ´a Coll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lamberty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Mcadoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Crnic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Wasik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Development</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1891" to="1914" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Beyond resistance! Youth activism and community change: New democratic possibilities for practice and policy for America&apos;s youth</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ginwright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Noguera</surname></persName>
+		</author>
+		<editor>, &amp; Cammarota, J.</editor>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Creating the conditions linked to positive youth development</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Granger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Directions for Youth Development</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="149" to="164" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The discipline gap and African Americans: Defiance or cooperation in the high school classroom</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gregory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Weinstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of School Psychology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="455" to="475" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The role of process evaluation in the training of facilitators for an adolescent health education program</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Helitzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wallerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Garcia-Velarde</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of School Health</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="141" to="153" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Quantifying the impact of participation in local tobacco control groups on the psychological empowerment of involved youth</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Holden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Crankshaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nimsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Hinnant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Education &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="615" to="628" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Health education and community empowerment: Conceptualizing and measuring perceptions of individual, organizational, and community control</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Israel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Checkoway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schulz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zimmerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Education Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="149" to="170" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Critical issues in developing and following community based participatory research principles</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Israel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schulz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alllen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Guzman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Community-based participatory research for health</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Minkler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Wallerstein</surname></persName>
+		</editor>
+		<meeting><address><addrLine>San Francisco</addrLine></address></meeting>
+		<imprint>
+			<publisher>Jossey-Bass</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="53" to="76" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Toward a critical social theory of youth empowerment</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jennings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Parra-Medina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hilfinger Messias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mcloughlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Community Practice</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="31" to="55" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Supporting youth participation in school reform: Preliminary notes from a university-community partnership</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kirshner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Children Youth and Environments</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="354" to="363" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Savage inequalities: Children in America&apos;s schools</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kozol</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>HarperCollins</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A comparison of youthdriven and adult-driven youth programs: Balancing inputs from youth and adults</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pearce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Community Psychology</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="57" to="74" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Teachers&apos; work: Individuals, colleagues, and contexts</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Little</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mclaughlin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Teachers College Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Youth REP: Step by step: An introduction to youthled evaluation and research</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>London</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<pubPlace>Oakland, CA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Youth in Focus</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>London</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zimmerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Erbstein</surname></persName>
+		</author>
+		<title level="m">Youth-led research and evaluation: Tools for youth, organizational, and community development. New Directions in Evaluation</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="33" to="45" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<monogr>
+		<title level="m" type="main">School teacher: A sociological study</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lortie</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1975">1975</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Masten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Coatsworth</surname></persName>
+		</author>
+		<title level="m">The development of competence in favorable and unfavorable environments. American Psychologist</title>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="205" to="220" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Organized communities, stronger schools: A preview of research findings</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mediratta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mcalister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Fruchter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mokhtar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lockwood</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Brown University</publisher>
+			<pubPlace>Providence, RI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Students&apos; and teachers&apos; decision-making fit before and after the transition to junior high school</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Midgley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Feldlaufer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Early Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="225" to="241" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Community-based participatory research for health</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Minkler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wallerstein</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Jossey-Bass</publisher>
+			<pubPlace>San Francisco</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The significance of students: Can increasing student voice in schools lead to gains in youth development?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Mitra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Teachers College Record</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="651" to="688" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Revolutionizing education: Youth participatory action research in motion</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Morrell</surname></persName>
+		</author>
+		<editor>J. Cammarota &amp; M. Fine</editor>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Six summers of YPAR: Learning, action, and change in urban education</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Lessons from students on creating a chance to dream</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nieto</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Harvard Education Review</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The diffusion of youth-led participatory research in urban schools: The role of the prevention support system in implementation and sustainability</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Ozer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Cantor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hubbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Moret</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Community Psychology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="278" to="289" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Classroom assessment scoring system (CLASS) manual: Middle/secondary version pilot</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Pianta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Hamre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Haynes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mintz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>La Paro</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<pubPlace>Charlottesville, VA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Virginia</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rappaport</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Swift</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hess</surname></persName>
+		</author>
+		<title level="m">Studies in empowerment: Steps toward understanding and action</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Haworth</publisher>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Revisiting &apos;&apos;the culture of the school and the problem of change&apos;&apos;</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Sarason</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Teachers College Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Core elements of participatory action research for educational empowerment and risk prevention with urban youth</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Schensul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sydlo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Practicing Anthropology</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="5" to="9" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<monogr>
+		<title level="m" type="main">When students have the power: Negotiating authority in critical pedagogy</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Shor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Moving into adolescence: The impact of pubertal change and school context</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Simmons</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Aldine de Gruyter</publisher>
+			<pubPlace>Hawthorne, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The color of discipline: Sources of racial and gender disproportionality in school punishment</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Skiba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Nardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Peterson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Urban Review</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="317" to="342" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b49">
+	<monogr>
+		<title level="m" type="main">A phenomenological variant of ecological systems theory (PVEST): A selforganization perspective in context. Development and Psychopathology</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dupree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hartmann</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="817" to="833" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b50">
+	<analytic>
+		<title level="a" type="main">A theoretical and empirical examination of identity as coping: Linking coping resources to the self processes of African American youth</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Fegley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Harpalani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Developmental Science</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="181" to="188" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Youth action for health through youth-led research</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Suleiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Soleimanpour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>London</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Community Practice</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1/2</biblScope>
+			<biblScope unit="page" from="125" to="145" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Participatory action research curriculum for empowering youth</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Sydlo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Schensul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Owens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Brase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Wiley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Berg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>The Institute for Community Research</publisher>
+			<pubPlace>Hartford, CT</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The high school culture: An ecological perspective</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Trickett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Todd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theory into Practice</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="28" to="37" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Mind and society: The development of higher mental processes</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Vygotsky</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Freirian praxis in health education and community organizing: A case study of an adolescent prevention program</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wallerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Velarde</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Community organizing &amp; community building for health</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Minkler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New Brunswick, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Rutgers University Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Bridging the gap between prevention research and practice: The interactive systems framework for dissemination and implementation</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wandersman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Duffy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Flaspohler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Noonan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lubell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Stillman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Community Psychology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="171" to="181" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Empowerment through photo novella: Portraits of participation</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Education Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="171" to="186" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Overcoming inequality in schooling: A call to action for community psychology</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Weinstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Community Psychology</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="42" />
+			<date type="published" when="2002">2002a</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Reaching higher: The power of expectations in schooling</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Weinstein</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002b</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Engaging young adolescents in social action through photovoice: The youth empowerment strategies (YES!) project</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dasho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wallerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Minkler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Early Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="241" to="261" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Community service and social responsibility in youth</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Youniss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yates</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Psychological empowerment: Issues and illustrations</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Zimmerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Community Psychology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="581" to="599" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Empowerment theory: Psychological, organizational, and community levels of analysis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Zimmerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of community psychology</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Rappaport</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Seidman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kluwer/Plenum Press</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

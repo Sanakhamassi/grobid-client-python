@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The impact of informal care-giving networks on adult children&apos;s care-giver burden</title>
+				<funder ref="#_sPyHar7">
+					<orgName type="full">Netherlands Organization for Scientific Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Netherlands Institute for Social Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Dutch Ministry of Health, Welfare and Sport</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Natalia</forename><surname>Tolkacheva</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Sociology</orgName>
+								<orgName type="institution">VU University</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marjolein</forename><surname>Broese Van Groenou</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Alice</forename><surname>De Boer#</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Sociology</orgName>
+								<orgName type="institution">VU University</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">The Netherlands Institute for Social Research</orgName>
+								<orgName type="institution">The Hague</orgName>
+								<address>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Theo</forename><surname>Van Tilburg</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Sociology</orgName>
+								<orgName type="institution">VU University</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The impact of informal care-giving networks on adult children&apos;s care-giver burden</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DCBE1C6CACB7EE913A3DA3731E7BF684</idno>
+					<idno type="DOI">10.1017/S0144686X10000711</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>informal care-giving network</term>
+					<term>support</term>
+					<term>disagreement</term>
+					<term>adult child care-giver</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Previous research on the care-giver burden experienced by adult children has typically focused on the adult child and parent dyad. This study uses information on multiple informal care-givers and examines how characteristics of the informal care-giving network affect the adult child's care-giver burden. In 2007, 602 Dutch care-givers who were assisting their older parents reported on parental and personal characteristics, care activities, experienced burden and characteristics of other informal care-givers. A path model was applied to assess the relative impact of the informal care-giving network characteristics on the care-giver burden. An adult child experienced lower care-giver burden when the informal care-giving network size was larger, when more types of tasks were shared across the network, when care was shared for a longer period, and when the adult child had no disagreements with the other members of the network. Considering that the need for care of older parents is growing, being in an informal care-giving network will be of increasing benefit for adult children involved in long-term care. More caregivers will turn into managers of care, as they increasingly have to organise the sharing of care among informal helpers and cope with disagreements among the members of the network.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Long-term dependencies and high care-giving demands cause distress for many care-givers as they are confronted with role overload and disruptions in regular daily routines <ref type="bibr" target="#b21">(Sales 2003)</ref>. Given that after spouses, adult children are important sources of care for older people, an adult child care-giver runs a high risk of becoming overburdened. At the same time, adult children seldom provide care on their own <ref type="bibr" target="#b29">(Szinovacz and Davey 2007)</ref>. They usually share care activities with others, including their spouse, siblings, other kin, friends or neighbours <ref type="bibr" target="#b10">(Ingersoll-Dayton et al. 2003;</ref><ref type="bibr" target="#b30">Szinovacz and Davey 2008;</ref><ref type="bibr" target="#b34">Wolf, Freedman and Soldo 1997)</ref>. The presence of other informal care-givers suggests that the adult child caregiver is embedded in an informal care-giving network in which that person has to interact regarding care and co-ordinate his or her own care-giving with that provided by others. It is likely that a well-functioning care-giving network reduces the adult child's care-giver burden, but if disruptions in the network or co-ordination problems occur, the network may cause the care-giver additional stress. We will examine whether and how various characteristics of the informal care-giving network affect adult children's care-giver burden.</p><p>Care-giver burden has been extensively studied in previous research as one of the negative outcomes of care-giving. The ' stress process model' developed by <ref type="bibr" target="#b18">Pearlin et al. (1990)</ref> is one of the most cited theoretical frameworks to explain variations in care-giver burden, stress and wellbeing and its determinants. The model views care-giver burden as the outcome of a process that varies with the characteristics and resources of care-givers and the stressors to which they are exposed. Most studies seek to identify the burden determinants among the care recipient's or the caregiver's characteristics, which emphasises the core dyad in the care-giving. Care-giver burden has been shown to become aggravated by the higher severity of needs in care for the care recipient as well as by the frequency of performance of care-giving tasks or a care-giver's lower mastery and self-esteem <ref type="bibr" target="#b3">(Chappell and Reid 2002;</ref><ref type="bibr" target="#b6">Dwyer, Lee and Jankowski 1994;</ref><ref type="bibr" target="#b23">Sherwood et al. 2005;</ref><ref type="bibr" target="#b35">Yates, Tennstedt and Chang 1999)</ref>. Furthermore, gender is a factor in determining care-giver burden; female care-givers often experience more burden than male care-givers <ref type="bibr" target="#b27">(Stuckey and Smyth 1997)</ref>.</p><p>Research on adult children's burden often overlooks the facts that multiple informal helpers may be around and that an adult child frequently belongs to a wider care-giving network. We believe there should be more attention to networks in the care-giving burden literature. One facet of the network perspective is reflected in the care-giver stress model. Emotional support provided to a care-giver by friends and family is associated with reduced distress <ref type="bibr" target="#b15">(Miller et al. 2001;</ref><ref type="bibr" target="#b35">Yates, Tennstedt and Chang 1999)</ref>. The current study extends the examination of the stress process from the network angle, and we expand the stress process model by examining the impact of various aspects of care-giving networks on the adult child's care-giver burden.</p><p>Several studies have investigated care-giving networks, and many have considered their gender composition (e.g. Matthews 2002; <ref type="bibr" target="#b14">Matthews and Rosner 1988)</ref>. <ref type="bibr" target="#b5">Coward and Dwyer (1990)</ref>, for example, showed that in mixed-gender families, daughters provided more hours of daily care and engaged in more care-giving activities than sons. Others have examined the probability of network members participating in care-giving <ref type="bibr" target="#b34">: Wolf, Freedman and Soldo (1997)</ref> reported a negative association between the hours of parent care given by a child and the number of the child's sisters, but few studies have investigated sources of support and interpersonal stress in care-giver's personal networks. <ref type="bibr" target="#b28">Suitor and Pillemer (1993)</ref> demonstrated that for daughters caring for parents with dementia, siblings and friends were equally important sources of support, whereas siblings were overwhelmingly the greatest source of inter-personal stress. Generally, these findings imply that a care-giver's network members, either participating in care-giving or not, have the potential to provide instrumental support (such as helping with care-giving tasks) and emotional support, or to be a source of strain for the care-giver. There has been no systematic research that examines how existing care-giving networks influence the care-giver and whether being part of a network affects the care-giver's burden.</p><p>Examining care-giving networks and how they affect an adult child's burden prompts us to consider the general notion of social capital and, more particularly, the trusted ties that provide social, emotional and practical support <ref type="bibr" target="#b7">(Gray 2009)</ref>. Personal networks reflect the availability of persons with whom an individual maintains interpersonal relations and upon whom that individual may rely for support and care. In general, social contact and positive interactions make individuals feel better about themselves and their social world. These interactions provide them a sense of security and a potential support base. People who feel more supported cope better with stress and difficult situations <ref type="bibr" target="#b0">(Antonucci 2001)</ref>. We assume that the supportive mechanism of personal networks is by analogy applicable to care-giving networks. Being part of a care-giving network, caring for a parent together, and having positive interactions with other care-givers all signify support for a care-giver and may reduce her or his burden. Disruptive interactions with other care-givers probably increase a care-giver's burden. Dependent upon how supportive is the caregiving network, adult children's perceptions regarding care-giving burden may vary.</p><p>We distinguish network characteristics that are indicative of support potential for an adult child. First, we expect that an adult child who designates the availability of support and appreciation from other caregivers will experience lower levels of care-giver burden (Hypothesis 1). Second, the size of the care-giving network is likely to be important. The larger it is, the more helpers an adult child can count on and the more emotionally secure an adult child will feel because he or she does not have to respond to care-giving demands alone. Moreover, care can be divided among care-givers, which suggests a lower caring requirement on the child, which in turn might reduce care-giving burden. We hypothesise that as the number of informal care-givers involved with helping an adult child's parent increases, the lower the care-giver burden (Hypothesis 2).</p><p>Third, the composition of the care-giving network also seems important. An adult child might feel more secure about the care-giving network when it comprises family members rather than non-kin care-givers. As a result of normative solidarity, family members are less likely to give up the caring role when other responsibilities interfere. As demonstrated by <ref type="bibr" target="#b24">Silverstein, Conroy and Gans (2008)</ref>, full-time employment or having children in the household does not lessen the time adult siblings provided care to their parents. Friends, for example, may be less likely to take on care responsibilities when they conflict with other roles: working reduces the chance of caring for a friend compared to caring for a family member <ref type="bibr" target="#b8">(Himes and Reidy 2000)</ref>. Involvement of a family member in the caregiving network probably results in lower care-giver burden compared to involvement of a non-kin care-giver (Hypothesis 3).</p><p>Furthermore, the network members' actual contributions to care-giving are critical to whether a network is supportive. As participants in caregiving, network members not only support a care recipient but also the adult child responsible for a parent. Such support can be expressed in two ways: sharing tasks means decreasing the number of care-giving hours (instrumental support), and simultaneously generates an understanding of a responsibility shared -the adult child care-giver is not solely responsible for the care (emotional support). As proposed by a principle of equity and putting other factors aside, multiple care-givers will tend to share care responsibilities equally because unequal involvement is likely to create stress <ref type="bibr" target="#b10">(Ingersoll-Dayton et al. 2003)</ref>. This suggests that the longer care-givers work together, the more time they have to create, balance or maintain equity in care and to realise the support potential of the care-giving network. Also derived from the principle of equity, network members are likely to agree joint responsibility for each type of task. Sharing these responsibilities should be supportive for the care-giver. We expect that the longer an adult child shares care with other informal care-givers, the lower the burden that an adult child experiences (Hypothesis 4) ; and the more types of care-giving tasks an adult child shares with others, the lower the care-giver burden (Hypothesis 5).</p><p>The care-giving network can, however, be disruptive and create or worsen burden. We know that interaction between the adult child and other informal helpers about the provision of care can negatively affect an individual. Earlier research has demonstrated that negative social interactions harm one's wellbeing <ref type="bibr" target="#b20">(Rook 2001)</ref>. Negative interactions may be present in an informal care-giving network, as when care-givers disagree about the type and the amount of care that should be given and about how care-giving responsibilities should be divided. <ref type="bibr" target="#b26">Strawbridge and Wallhagen (1991)</ref> showed that of 100 studied care-givers, 40 per cent had conflict with other family members because they failed to provide sufficient care. Furthermore, conflicts in a network (e.g. because others do provide enough care) can also be associated with providing more hours of care, which aggravates the care-giver's burden. Hypothesis 6 is then that having disagreements with other informal care-givers increases care-giver burden.</p><p>To test the hypotheses, we adopted the care-giver stress process model <ref type="bibr" target="#b18">(Pearlin et al. 1990</ref>) as modified by <ref type="bibr" target="#b35">Yates, Tennstedt and Chang (1999)</ref>. Analytically, we developed a specific part of the model and linked three elements (Figure <ref type="figure" target="#fig_0">1</ref>). Parental needs in care influence adult child's hours of informal care and adult child's care-giver burden <ref type="bibr" target="#b3">(Chappell and Reid 2002 ;</ref><ref type="bibr" target="#b35">Yates, Tennstedt and Chang 1999)</ref>. As a new element, we added informal care-giving network characteristics as factors that influence caregiver burden, and examined the effects of six network characteristics on an adult child's care-giver burden. We modelled the association between network characteristics and adult child's care-giver burden both directly and indirectly through hours of care, as shown in Figure <ref type="figure" target="#fig_0">1</ref>. Two dependent variables were considered, and we controlled for the adult child's and the parent's characteristics: parent's gender, age, parent's availability of a spousal care-giver, adult child's gender and discretionary time available for care-giving. All these factors are potential predictors of how many hours the adult child provided care to the parent <ref type="bibr" target="#b1">(Barrett and Lynch 1999 ;</ref><ref type="bibr" target="#b4">Cicirelli 1983)</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The data</head><p>The data were collected in two steps for the study 'Informal Care' by Statistics Netherlands and The Netherlands Institute for Social Research in 2007. At the first step, informal care-givers were identified with four screening questions included in the Statistics Netherlands' Labour Force Survey of 2007. A representative sample of 54,451 Dutch adults drawn from different areas (i.e. rural, urban and mixed), aged 18 or more years and living in a household were asked whether they had provided care for two weeks or longer during the last 12 months for a family member who was severely ill or needed assistance because of an illness, accident, hospital admission or other reasons. Of the identified 4,484 care-givers, 2,813 participated in the follow-up written questionnaire on informal care-giving. To adjust for selective non-response, the remaining sample was weighted for a number of characteristics (i.e. gender, age, marital status and level of urbanisation of the residential area). The respondents selfcompleted the information on their own characteristics and on the characteristics of their care recipients, including needs for help and various aspects of care-giving.</p><p>For the current analysis, we examined the data for 1,112 respondents who helped their older parents (including parents-in-law) who were aged from 55 to 103 years. We excluded 207 parents living in institutions, the 25 respondents who lived with the care recipient, and 10 people who provided no information about their care-giving activities. Five respondents who accomplished two or more tasks less than the other members of their informal network were also excluded. Because we focused on the informal care-giving network, the analyses relied on the cases in which the respondent identified other informal care-givers. A preliminary analysis demonstrated that respondents without an informal care-giving network did not experience a higher care-giver burden, and in these cases the care recipients had significantly less mental and physical impairment. The final analysis sample comprised 602 care-givers with informal care-giving networks (479 women and 123 men aged 21-78 years).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The measures</head><p>The main dependent variable, experienced care-giver burden, was measured using an extended version of the Self-Perceived Pressure from Informal Care Scale <ref type="bibr" target="#b19">(Pot, Van Dyck and Deeg 1995;</ref><ref type="bibr" target="#b31">Timmermans et al. 2001)</ref>. The scale takes into account both low and high (or intense) pressure, and measures only subjectively experienced pressure. Psychical complaints or stressors, such as the amount of help provided, are excluded. This scale was modified from the burden scale of nine items suggested by <ref type="bibr" target="#b36">Zarit, Reever and Bach-Peterson (1980)</ref> with five additional items. The respondents were asked whether they agreed with 14 statements on perceived time and emotional pressure, such as: ' Generally speaking I felt very pressured because of the situation of my care receiver' ; ' My independence suffered' ; 'I was too tired to do anything in my free time in the period that I was providing help'. The answers were coded as dichotomies (' 0 ' for any level of disagreement, ' 1' for any level of agreement). The sum scale scores for the 14 items were computed and varied from 0 (not burdened) to 14 (highly burdened). The hierarchical order of the burden items was tested with the Mokken scale analysis (H-value 0.47) and the scale was moderately homogeneous <ref type="bibr" target="#b16">(Molenaar and Sijtsma 2000)</ref>. As the additive scale was skewed, we considered transformation by using an alternative coding of the dependent variable. Preliminary regression analysis did not reveal different results and we kept the original scale in the analysis.</p><p>The second dependent variable in the model was the average number of hours of informal care given per week during the 12 months prior to the interview. The question asked was, ' How many hours did you give care on average per week when the need for care was highest? ' Respondents who mentioned more than 112 hours per week were recoded as giving 112 hours per week, as that is the maximum possible number of hours per week allowing for eight hours of sleep per day.</p><p>A measure of the parent's cognitive impairment was obtained from the adult child's assessment of whether the parent had (early stage) dementia or other mental problems (0 or 1), and whether care was required in connection with other psychiatric problems (0 or 1). Physical limitations of the care recipient were measured on the basis of 13 items of functional limitations to perform activities of daily living (ADL), such as being able to dress and bathe, use the restroom without assistance, walk up and down stairs, do household chores and shop for groceries. The scale of physical limitations was based on the <ref type="bibr" target="#b11">Katz et al. (1970)</ref> ADL scale but with household activities and mobility items added. The response codes were ' 1 ' ' can do without difficulty', ' 2 ' 'can do with difficulty', '3 ' 'can do only with help/no, or unable to do because of health conditions'. Mokken scale analysis was performed to test the homogeneity of the scale (H-value 0.66). The scores for all answers were aggregated and the scores ranged from 13 to 39. Last, the adult child reported whether the parent could be left alone longer than half-an-hour (0 or 1).</p><p>To measure the designation of support and appreciation of other informal care-givers, the respondents were asked whether they agreed with the following statement : 'I receive a lot of support and appreciation from other care-givers'. The answers varied from ' 1 ' ' fully agree' to ' 4' ' fully disagree ' and recoded into ' 1 ' 'agree or fully agree ' and ' 0 ' 'disagree or fully disagree '. The respondents reported on the number of other care-givers giving help to a care recipient (range 1-9). If there were more than three, the respondents were asked to identify no more than three that provided most care (excluding themselves). Most (78%) respondents did not identify more than three care-givers. For the three, information was collected regarding the relationship with the respondent (i.e. adult child's partner, adult child's own child, adult child's parent or parent-in-law, adult child's sibling or sibling-in-law, other family member, a friend of care-recipient or adult child's friend). These relationships were grouped into four categories : adult child's parent, sibling (including sibling-in-law), other kin and non-kin care-giver. We created four dummy variables indicating the presence of each of these four relationships in the network (0 or 1).</p><p>Adult children provided information about the duration of care provision (in months) during the past 12 months as well as the duration of care provision (in months) by each of the other informal care-givers. We calculated the number of months that a respondent gave care together with at least one other informal care-giver. Furthermore, the respondents provided information about whether they provided six types of care: household tasks, personal care, nursing care, emotional support, administrative help and helping with visits (yes/no). They also reported whether each of the network members performed those six task types. We calculated the proportion of task types respondents shared with at least one other care-giver of the total number of task types performed by the respondent (ranging from 0 to 1).</p><p>The respondents were asked how often they experienced disagreements with other care-givers in the informal network of the following kinds : the type of care that should be given, how often care should be given, the division of the care-giving tasks, and placing an older adult in an institution. The response categories were 'seldom to never', ' regularly ' and ' often'. Because the answers had a skewed distribution, we created a variable that indicated whether respondents had disagreements (regularly or often) with other care-givers on at least one item (0 or 1).</p><p>We used the information on care-giver and care recipient characteristics as control variables. Respondents reported on their age (age difference between adult child and parent was used in the analysis to avoid multi-colinearity with the parent's age), gender (0 male, 1 female), partner status (0 no partner, 1 has a partner), the number of children in the household (range 0-6), paid work in the last 12 months (0 no work, 1 having paid work), travel time to parent's place of residence in minutes (range 0-240) and the number of task types an adult child accomplished (range 0-6). Care-givers also reported on the characteristics of care recipients, such as age, gender (0 male, 1 female) and partner status (0 no partner, 1 has a partner).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure</head><p>Parameters for the associations between parental needs in care, hours of informal care provided by an adult child, adult child's care-giver burden, characteristics of the care-giving network and control variables (i.e. adult child and parental characteristics) were estimated in a path model using structural equation modelling with AMOS <ref type="bibr" target="#b12">(Kline 1998)</ref>. The hours of informal care and adult child's care-giver burden were modelled as dependent variables. The independent variables were parent's cognitive and physical impairments, six network characteristics (support and appreciation from other care-givers, the number of other care-givers, type of relationship with other care-givers, the duration of sharing care, the proportion of task types shared with others and disagreements among care-givers) and control variables (parent and adult child characteristics). We estimated the final trimmed model after eliminating all insignificant covariance among the independent variables <ref type="bibr" target="#b12">(Kline 1998)</ref>. To assess the fit between the model and the data we calculated the Comparative Fit Index (CFI) and the Root Mean-Squared Error of Approximation (RMSEA). CFI values greater than 0.95 are considered acceptable. A RMSEA value less than 0.05 is acceptable <ref type="bibr" target="#b9">(Hu and Bentler 1999)</ref>. The six hypotheses were tested by regressing the adult child's care-giver burden on six caregiving network variables. Hours of an adult child's care-giving were also regressed on six network variables, on parental care needs, and on the control variables (Figure <ref type="figure" target="#fig_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The average burden score was 4.3 (standard deviation (SD) 3.7), and scores ranged from 0 to 14. About 17 per cent of the care-givers were not burdened at all and about 8 per cent were heavily burdened, meaning they scored at least 10 on the scale. As shown in Table <ref type="table">1</ref>, the care-givers' ages varied greatly with a mean of about 48 years. The sample of care-givers was mostly female (80 %). Most (73%) had partners and carried out paid work (71 %). They had, on average, about one child in the household and needed on average about half-an-hour to get to the parent's residence, and they performed on average almost four tasks out of six. The care recipients were aged between 55 and 103 years but the majority were elderly (mean 79.6 years, SD 9.0). The sample of care recipients was composed mostly of mothers (or mothers-in-law); about one-third of the care recipients had partners. Almost one-third of care recipients had (early stage) dementia, and 9 per cent had psychiatric problems ; 14 per cent of parents could not be left alone longer than half-an-hour. The estimates of parental physical limitations were relatively high (mean 30.8, SD 6.4, range 13-39).</p><p>Most (89%) of the adult children reported that they perceived support and appreciation from other care-givers. The average size of the</p><p>T A B L E 1. Characteristics of the sample of adult care-givers with informal care-giver networks, The Netherlands, 2007 Variables and categories % Mean SD Range Dependent variables: Hours of informal care per week 15.39 18.69 1-112 Caregiver burden 4.29 3.67 0-14 Care-giver attributes : Age 48.62 0.38 21-78 Gender (female) 80 0 or 1 Have a partner (yes) 73 0 or 1 Number of own children in household 0.90 0.04 0-6 Paid work in the last 12 months (yes) 71 0 or 1 Travel time to parent's residence (in minutes) 28.44 35.80 0-240 Number of task types 3.89 0.05 0-6 Care recipient attributes: Age (years) 79.61 9.02 55-103 Gender (female) 70 0 or 1 Have a partner (yes) 33 0 or 1 Needs in care: Having dementia (yes) 28 0 or 1 Having psychiatric problems (yes) 9 0 or 1 Physical limitations 30.82 6.39 13-39 Cannot be left alone 14 0 or 1 Network characteristics: Support and appreciation from network members (yes) 89 0 or 1 Care-giving network size 2.76 1.92 1-9 Having a parent within a network (yes) 13 0 or 1 Having a sibling within a network (yes) 75 0 or 1 Having other family within a network (yes) 30 0 or 1 Having non-kin within a network (yes) 21 0 or 1 Duration of shared care provision (in months) 7.77 4.16 1-12 Proportion of shared task types 0.74 0.29 0-1 Disagreement between child care-giver and network members (yes) 22 0 or 1 Sample size 602 Note : SD : standard deviation.</p><p>care-giving network was 2.8 and ranged from one to nine. Of all adult children, 13 per cent mentioned a parent among the three other caregivers, 75 per cent mentioned a sibling (including sibling-in-law), 30 per cent mentioned another immediate family member, such as partner, own child or others, and 21 per cent mentioned a non-kin care-giver. Adult children shared care with at least one other care-giver for on average 7.8 months out of 12. Most of the tasks that an adult child carried out were shared with at least one other care-giver. The proportion of shared tasks was on average 0.74 (SD 0.3). About one-fifth (22%) of the adult children reported disagreements with other care-givers.</p><p>The fit statistics of the path model were both acceptable (CFI 0.96 and RMSEA 0.03). The estimated unstandardised model parameters derived from the path model are presented in Table <ref type="table">2</ref>. The results show that the adult children who gave more hours of informal care were older, did not have partners, performed a large number of tasks, and had parents that could not be alone for more than half-an-hour. Regarding network characteristics, only the number of months over which an adult child shared care with others significantly affected adult children's care-giving hours ; in other words, an adult child provided less hours of care per week if the care was shared for a longer period. In total, the model explained 21.4 per cent of the variance in adult children's care-giving hours.</p><p>More cognitive and physical impairments, as well as more hours of informal care, were positively correlated with an adult child's care-giver burden. From an additional bivariate analysis (not detailed here), we know that there was a significant negative correlation between a child care-giver reporting appreciation and support by other care-givers and her or his perceived burden. Despite the significant correlation, perceiving appreciation and support from other care-givers did not influence care-giver burden in the path model, which does not support Hypothesis 1. As postulated in Hypothesis 2, a higher number of care-givers associated with lower care-giver burden although the effect was relatively small given that burden ranged from 0 to 14 (B=x0.24, p&lt;0.05). Contrary to Hypothesis 3, however, the type of relationship an adult child had with other caregivers had no significant effect on her or his care-giver burden. The duration of shared care provision did not directly affect adult child care-giver burden (Hypothesis 4), but sharing a larger number of tasks with others did (Hypothesis 5) : the higher the proportion of the adult child's care tasks that were shared with others, the lower the burden (B=x1.15, p&lt;0.05). The duration of the shared care provision influenced the number of caregiving hours (B=x0.51, p&lt;0.001), and there was a significant correlation between hours of care and care-giver burden (B=0.05, p&lt;0.001). The results suggest an indirect effect (b=x0.03) : the longer that others shared in the responsibility for care, the lower an adult child's care-giving burden. As stated in Hypothesis 6, having disagreements with other care-givers increased an adult child's care-giver burden by 1.37 ( p&lt;0.001). When comparing all network characteristics, having disagreements with other care-givers had the largest effect on adult child's care-giver burden; it had the highest standardised regression weight coefficient (b=0.16)</p><p>T A B L E 2. Regression of hours of informal care and child's care-giver burden on care-giver's and care-recipient's characteristics and the characteristics of the care-giving network Hours of informal care (b 1 ) Child's care-giver burden Direct effects (b 1 ) Indirect effects (b ) Care-giver: Hours of informal care per week -0.05*** -Age difference x0.32* -x0.03 Gender (female) 2.58 -0.01 Have a partner (yes) x4.39* -x0.03 Number of own children in household 0.24 -0.01 Paid work in the last 12 months (yes) x1.07 -x0.01 Travel time to parent's residence 0.01 -0.01 Number of types of tasks 4.59*** -0.08 Care recipient: Age 0.01 -0.00 Gender (female) x2.48 -x0.02 Have a partner (yes) x3.28 -x0.02 Care recipient needs: Having dementia x0.85 0.81** x0.01 Having psychiatric problems x2.56 2.01*** x0.01 Physical limitations 0.16 0.06* 0.01 Cannot be left alone 9.75*** 0.71 0.05 Network characteristics: Support and appreciation from network members 2.68 x0.55 0.01 Care-giving network size x0.05 x0.24** 0.00 Having a parent within a network x2.10 0.26 x0.01 Having a sibling within a network x0.38 x0.22 x0.01 Having other family within a network 1.29 x0.15 0.01 Having non-kin within a network 1.43 0.60 0.01 Duration of shared care provision x0.51*** 0.02 x0.03 Proportion of shared task types x2.99 x1.15* x0.01 Disagreement between child care-giver and network members x0.87 1.37*** x0.01 R 2 21.4% 20.0% Notes: 1. The figures are unstandardised regression coefficients and represent direct effects. b: standardised regression coefficient. The sample size was 602. The correlation matrix of all variables is available upon request. Significance levels : * p&lt;0.05, ** p&lt;0.01, *** p&lt;0.001.</p><p>(not detailed in Table <ref type="table">2</ref>). The model explained about 20 per cent of variance in care-giver burden.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This study has focused on the impact of the informal care-giving network on an adult child's care-giver burden. Whereas much previous research has focused on the characteristics of the parent-child dyad to account for the adult child's care-giver burden, it has been shown that attributes of the informal care-giving network are important. The findings not only corroborate the care-giver stress process model's prediction that the parent's impairments influence the adult child's care-giver burden, as previous investigators have shown <ref type="bibr" target="#b3">(Chappell and Reid 2002;</ref><ref type="bibr" target="#b6">Dwyer, Lee and Jankowski 1994;</ref><ref type="bibr" target="#b35">Yates, Tennstedt and Chang 1999)</ref>, they also add new knowledge. It has been shown that the informal care-giving network plays an essential role for an adult child care-giver, as his or her care-giver burden partly depends on how supportive it is. The idea of social capital, defined as the array of ties giving access to various forms of support <ref type="bibr" target="#b7">(Gray 2009)</ref>, proved important in care-giving situations. We demonstrated that an adult child experiences lower levels of care-giver burden when he or she can count on a larger care-giving network, shares tasks with others for a longer period, and shares more types of tasks with others. At the same time, the findings also suggest that the informal care-giving network can increase care-giver burden if there are disagreements among the network members.</p><p>The model explored to what degree the impact of the informal caregiving network on burden is influenced by the number of hours of care provided. It seems plausible that when more care-givers are involved and more tasks are shared, an adult child will provide fewer hours of care and, consequently, experience lower care-giver burden. <ref type="bibr" target="#b25">Spitze and Logan (1990)</ref> studied sibling care-givers and suggested that the greater the number of siblings, the greater the amount of sharing. The Netherlands data, in contrast, revealed that network size did not affect an adult child's caregiving hours, but nonetheless that both care-giving network size and the number of shared task types directly affected the adult child's burden, consistent with Hypotheses 2 and 5. <ref type="bibr">Wallsten et al. (1999: 145)</ref> stated that ' one's perception of the network's helpfulness appears to be more potent than the actual help provided by friends and family'. This suggests that a larger care-giving network and sharing more tasks with others might in themselves be sufficient for an adult child to feel supported and to experience lower care-giver burden, even if she or he provides the same amount of care. There was one indication that the care-giving network affected burden by decreasing the hours of care: the longer an adult child had shared care with others, the fewer the hours of care she or he provided and the lower the experienced care-giver burden. It seems that it takes some time before care-givers come to an agreement on how to divide care among them, or in other words for the predictions of equity theory to take effect <ref type="bibr" target="#b33">(Walster, Walster and Berscheid 1978)</ref>. This suggests that the informal care-giving network decreases an adult child's care-giver burden, either directly by providing the emotional support of sharing the care with others, or, in the case of extended durations of care, by enabling the adult child eventually to provider fewer hours of care.</p><p>Unexpectedly the results did not support the hypothesis that an adult child experienced lower burden when there were family members in the informal care-giving network. It might be that the care-giving network is already highly selected: the adult child had to choose three other caregivers who provided the most care. Given such a selection, one can imagine that any nominated non-kin are people with whom close and supportive relationships exist. Their presence may then be comparable to the presence of siblings or other relatives. The results suggest that it does not matter who is involved in the network of informal helpers, as long as there are multiple helpers. It may be that single adult-child care-givers consider the assistance of non-kin just as valuable as assistance from the family, whereas adult children with siblings may consider their involvement intrinsically important. The data did not have information about the availability of siblings or family composition, so we could not distinguish between adult-child care-givers who do and do not have siblings.</p><p>The results support Hypothesis 6 that an adult child experiencing disagreements with other care-givers has higher care-giver burden, which corroborates earlier research showing that a family conflict affects caregiver strain <ref type="bibr" target="#b22">(Scharlach, Li and Dalvi 2006)</ref>. The bivariate analysis indicated that support and appreciation from others decreased care-giver burden. When disagreement was added to the total model, the effect of perceived network support disappeared. The impact of negative interactions on burden seems larger than the impact of positive interactions. These findings are in line with those of previous studies on the impact of negative interaction on one's psychological wellbeing: negative exchanges occur less often but the consequences exceed those of positive exchanges (e.g. <ref type="bibr" target="#b17">Newsom et al. 2005;</ref><ref type="bibr" target="#b20">Rook 2001</ref>). Our results suggest that the negative influence of disagreements in a care-giving network exceeded the positive influence of feeling supported and appreciated by others.</p><p>Several comments should be made about the study's methodological limitations. Some measures used in the questionnaire could have been more precise, e.g. parents and parents-in-law were not distinguished. It is possible that caring for a parent-in-law involves a lower contribution than caring for one's own parent, so the care-giver burden might be slightly under-estimated for the latter. Furthermore, we did not obtain much information about interactions within the care-giving network, and are not sure whether communications about care-giving and sharing tasks are through the parent or directly among the members of the care-giving network, or both. We inferred that there is communication across the network and that an adult child is fully aware of all available support. Studying care-giving network members' inter-communication in more detail would make a valuable contribution to the care-giving literature. Another limitation is that our cross-sectional study had no depth information about the processes by which care-giving is shared. Disagreements among care-givers could be a determinant of care-giver burden, but could also be a result of care-giver burden and indeed of sharing tasks. A longitudinal design would clarify how care-giving networks and the process behind sharing care affect an adult child's burden. Finally, many care-giving networks involve a larger group of care-givers with both informal and formal help, which may multiply the potential sources of both support and disagreement <ref type="bibr" target="#b2">(Carpentier and Ducharme 2003)</ref>. We did not take into account formal care in the current research, but almost all the care recipients received care from professional care-givers.</p><p>The study has implications for care-givers, professional helpers and policy makers. First, adult children who provide long-term care to a frail older parent clearly benefit from the availability of an informal care-giving network. This implies that, along with the provision of care, adult child care-givers have to spend time organising the informal care-giving network, co-ordinating care activities, and coping with disagreements among the informal helpers. For primary care-givers, particularly the daughters of single parents, this may imply a mental shift from actually performing care activities to organising an informal structure in which care activities are more equitably distributed among multiple helpers. Given the longterm increase in labour-force participation among women, those who might be future parental care-givers should realise that parent-care is better and more sustainable over time when shared with other informal and formal helpers. Secondly, professional care-givers are accustomed to dealing with one primary care-giver ; usually a spouse or one of their adult children, and preventing care-giver burden is one of their professional activities. Their support to care-givers needs to be extended to the informal care-giving network. This could involve helping to organise the network, co-ordinating its tasks, and intervening when disagreements occur. Finally, policy makers need to realise that the informal care-giving network comprises both kin and non-kin. Increasing numbers of friends and neighbours assist frail older adults who are single or whose adult children do not live close by. Support programmes, financial arrangements or arrangements for work-leave to provide care are generally targeted or restricted to the relatives of people in need of care. An extension of these programmes to non-kin care-givers would acknowledge that informal care for frail older adults has a more variable network perspective.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. The conceptual model.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Natalia Tolkacheva et al.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements This study was funded by the <rs type="funder">Netherlands Organization for Scientific Research</rs> (file number <rs type="grantNumber">400-04-200</rs>). The data were collected by <rs type="person">Statistics Netherlands</rs> (<rs type="affiliation">Labour Force Survey</rs>) and the <rs type="funder">Netherlands Institute for Social Research</rs> in 2007, as commissioned by the <rs type="funder">Dutch Ministry of Health, Welfare and Sport</rs>. The authors would also like to thank <rs type="person">Merril Silverstein PhD</rs>, <rs type="affiliation">Professor of Gerontology and Sociology</rs>, for his feedback on an earlier version of the paper.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_sPyHar7">
+					<idno type="grant-number">400-04-200</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Social relations : an examination of social networks, social support, and sense of control</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Antonucci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of the Psychology of Aging</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Binstock</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Shanas</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="427" to="453" />
+		</imprint>
+	</monogr>
+	<note>Fifth edition</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Caregiving networks of elderly persons : variation by marital status</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lynch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Gerontologist</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="695" to="704" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Care-giver network transformations : the need for an integrated perspective</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Carpentier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ducharme</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ageing &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="507" to="523" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Burden and well-being among caregivers : examining the distinction</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Chappell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Reid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Gerontologist</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="772" to="780" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Adult children&apos;s attachment and helping behavior to elderly parents : a path model</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">G</forename><surname>Cicirelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="815" to="825" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The association of gender, sibling network composition, and patterns of parent care by adult children</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Coward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Dwyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research on Aging</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="158" to="181" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Reciprocity, elder satisfaction, and caregiver stress and burden : the exchange of aid in the family caregiving relationship</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Dwyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Jankowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="35" to="43" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The social capital of older people</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ageing &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="5" to="31" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The role of friends in caregiving</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Himes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Reidy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research on Aging</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="315" to="335" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Cutoff criteria for fit indexes in covariance structure analysis : conventional criteria versus new alternatives</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Bentler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Structural Equation Modeling</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1" to="55" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Redressing inequity in parent care among siblings</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ingersoll-Dayton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Neal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Hammer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and Family</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="201" to="212" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Progress in development of the index of ADL</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Downs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Cash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Grotz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Gerontologist</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="20" to="30" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Principles and Practice of Structural Equation Modeling</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Kline</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<pubPlace>Guilford, New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Matthews</surname></persName>
+		</author>
+		<title level="m">Sisters and Brothers/Daughters and Sons: Meeting the Needs of Old Parents</title>
+		<meeting><address><addrLine>Bloomington, Indiana</addrLine></address></meeting>
+		<imprint>
+			<publisher>Unlimited Publishing</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Shared filial responsibilities : the family as the primary caregiver</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Rosner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="185" to="195" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Social support and caregiver distress : a replication analysis</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Townsend</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J V</forename><surname>Montgomery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Stull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journals of Gerontology : Social Sciences</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="249" to="256" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<monogr>
+		<title level="m" type="main">User&apos;s Manual Msp5 for Windows : A Program for Mokken Scale Analysis for Polytomous Items, Version 5.0. Iec ProGAMMA</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">W</forename><surname>Molenaar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sijtsma</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<pubPlace>Groningen, The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Understanding the relative importance of positive and negative social exchanges: examining specific domains and appraisals</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Newsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Rook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nishishiba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Sorkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Mahan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journals of Gerontology : Psychological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="304" to="312" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Caregiving and the stress process : an overview of concepts and their measures</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">I</forename><surname>Pearlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Mullan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Semple</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Skaff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Gerontologist</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="583" to="594" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Ervaren druk door informele zorg: constructie van een schaal [Perceived stress caused by informal care-giving : construction of a scale]</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Pot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van Dyck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J H</forename><surname>Deeg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tijdschrift voor Gerontologie en Geriatrie</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="214" to="219" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Emotional health and positive versus negative social exchanges : a daily diary analysis</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Rook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Developmental Science</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="86" to="97" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Family burden and quality of life</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sales</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quality of Life Research</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="33" to="41" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Family conflict as a mediator of caregiver strain</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Scharlach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Dalvi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Family Relations</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="625" to="635" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Caregiver burden and depressive symptoms : analysis of common outcomes in caregivers of elderly patients</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Sherwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Given</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Given</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Von Eye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Aging and Health</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="125" to="147" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Commitment to caring : filial responsibility and the allocation of support by adult children to older mothers</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Silverstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Conroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Caregiving Contexts : Cultural, Familial, and Societal Implications</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Szinovacz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Davey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Publishing Company</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="71" to="91" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Sons, daughters, and intergenerational social support</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Spitze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Logan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marriage and the Family</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="420" to="430" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Impact of family conflict on adult child caregivers</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Strawbridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Wallhagen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Gerontologist</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="770" to="777" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The impact of social resources on the Alzheimer&apos;s disease caregiving experience</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Stuckey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Smyth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research on Aging</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="423" to="441" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Support and interpersonal stress in the social networks of married daughters caring for parents with dementia</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Suitor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pillemer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journals of Gerontology : Social Sciences</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Changes in adult child caregiver networks</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Szinovacz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Davey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Gerontologist</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="280" to="295" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The division of parent care between spouses</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Szinovacz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Davey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ageing &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="571" to="597" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Timmermans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>De Boer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Van Campen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M Y</forename><surname>De Klerk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S J</forename><surname>De Wit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">B</forename><surname>Woittiez</surname></persName>
+		</author>
+		<title level="m">Vrij om te helpen</title>
+		<meeting><address><addrLine>The Hague</addrLine></address></meeting>
+		<imprint>
+			<publisher>Netherlands Institute for Social Research</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>Free to Help</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Disability and depressive symptoms in the elderly : the effects of instrumental support and its subjective appraisal</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Wallsten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Tweed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Blazer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>George</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Aging and Human Development</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="145" to="159" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Walster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Walster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Berscheid</surname></persName>
+		</author>
+		<title level="m">Equity : Theory and Research. Allyn and Bacon</title>
+		<meeting><address><addrLine>Boston, Massachusetts</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The division of family labor: care for elderly parents</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Freedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Soldo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journals of Gerontology : Social Sciences</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="102" to="109" />
+			<date type="published" when="1997">1997</date>
+			<publisher>Special Issue</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Contributors to and mediators of psychological well-being for informal caregivers</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Yates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tennstedt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Chang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journals of Gerontology : Psychological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="12" to="22" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Relatives of the impaired elderly : correlates of feelings of burden</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Zarit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Reever</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bach-Peterson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Gerontologist</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="649" to="655" />
+			<date type="published" when="1980-06-26">1980. 26 June 2010</date>
+			<pubPlace>The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+	<note>first published online 17 September 2010 Address for correspondence: N. Tolkacheva, De Boelelaan 1081, 1081 HV Amsterdam</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">E-Mail</forename></persName>
+		</author>
+		<ptr target="n.tolkacheva@fsw.vu.nl" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

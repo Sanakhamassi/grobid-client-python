@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The solar eclipse and associated atmospheric variations observed in South Korea on 22 July 2009</title>
+				<funder>
+					<orgName type="full">Cater</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Korean Air Force</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2010-01-08">8 January 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Yong</forename><surname>Seung</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Korea Centre for Atmospheric Environment Research</orgName>
+								<address>
+									<addrLine>Khangnae, Cheongwon-Cheongju 363-891</addrLine>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hak</forename><forename type="middle">Sung</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Korea Centre for Atmospheric Environment Research</orgName>
+								<address>
+									<addrLine>Khangnae, Cheongwon-Cheongju 363-891</addrLine>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Seung</forename><forename type="middle">Ho</forename><surname>Choo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Korea Centre for Atmospheric Environment Research</orgName>
+								<address>
+									<addrLine>Khangnae, Cheongwon-Cheongju 363-891</addrLine>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">Korea Centre for Atmospheric Environment Research</orgName>
+								<address>
+									<addrLine>Khangnae, Cheongwon-Cheongju 363-891</addrLine>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The solar eclipse and associated atmospheric variations observed in South Korea on 22 July 2009</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-01-08">8 January 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">96E90FD50ECFD8D8F3EF4823AC0AB3DD</idno>
+					<idno type="DOI">10.1007/s11869-009-0060-0</idno>
+					<note type="submission">Received: 15 September 2009 / Accepted: 8 December 2009 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:11+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A partial solar eclipse occurred in South Korea on 22 July 2009. It started at 09:30 a.m. and lasted until 12:14 LST with coverage of between 76.8% and 93.1% of the sun. The observed atmospheric effects of the eclipse are presented. It was found that from the onset of the eclipse, solar radiation was reduced by as much as 88.1∼ 89.9% at the present research centre. Also, during the eclipse, air temperature decreased slightly or remained almost unchanged. After the eclipse, however, it rose by 2.5 to 4.5°C at observed stations. Meanwhile, relative humidity increased and wind speeds were lowered by the eclipse. Ground-level ozone was observed to decrease during the event.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Atmospheric effects of solar eclipses have been discussed in earlier studies <ref type="bibr" target="#b0">(Anderson and Keefer 1975;</ref><ref type="bibr" target="#b7">Mims and Mims 1993;</ref><ref type="bibr" target="#b8">Segal et al. 1996;</ref><ref type="bibr" target="#b4">Founder et al. 2007;</ref><ref type="bibr" target="#b5">Hakan 2009)</ref> and relatively accurate predictions of solar eclipses in the near future have been provided by astronomers (e.g. <ref type="bibr" target="#b2">Espenak and Anderson 2006)</ref>.</p><p>As predicted, a partial solar eclipse occurred in Korea on 22 July 2009. The phases of the solar eclipse are shown in Fig. <ref type="figure" target="#fig_0">1</ref>. The purpose of the present study is to describe atmospheric disturbances produced by the partial solar eclipse which occurred in South Korea.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Observations</head><p>The solar eclipse began at the southernmost island, Jeju, at 09:30 Local Standard Time (LST), and it ended at 12:14 LST at Dok-dho Island in the Korea East Sea. At the research centre (KCAER) in Cheongju-Cheongwon, in central South Korea, the eclipse started at 09:34 and it lasted until 12:08 LST, a total of 2 h and 42 min. The percentage coverage of the sun by the moon was recorded as ranging from 76.8% to 93.1%. In Cheongju-Cheongwon, the maximum coverage of the sun was 81.3%. The largest part of the sun was hidden as seen from the southernmost island at 10:48 LST, shown in Fig. <ref type="figure" target="#fig_0">1</ref>. It was the first significant eclipse in Korea for 61 years in which such a large part of the sun was covered. A total eclipse was seen in Korea on 19 August 1887.</p><p>A meteorological map of 22 July 2009 is included in Fig. <ref type="figure">2</ref>. Korea was under the influence of an anticyclone and fair weather with variable low clouds prevailed during the period of the partial eclipse. There were more clouds in southern Korea than in central Korea (cloud amount in Table <ref type="table">1</ref>). This was related to a stationary and rainy front situated along the line from Shanghai, China to the south of Japan. Likewise, there were considerable amounts of clouds over the Korea South Sea (Fig. <ref type="figure">3</ref>).</p><p>Meanwhile, satellite monitoring was carried out at the research centre, and satellite images are shown in Fig. <ref type="figure">3</ref>. It can be seen that the visible Channel 1 image from the geostationary satellite MTSAT (Fig. <ref type="figure">3b</ref>) clearly shows an extended dark area in Shanghai, the East China Sea and the Korea South Sea areas during the solar eclipse; sunlight in the dark phase of the solar eclipse, the visible Channel 1 camera could not detect low-level clouds in these areas. Nevertheless, the IR Channels in Fig. <ref type="figure">3a</ref> indicate a cloud band over these areas. The long cloud band in Fig. <ref type="figure">3a</ref> is associated with the stationary weather front shown in Fig. <ref type="figure">2</ref>. The polar-orbiting NOAA satellite image (not shown) also indicates fair weather over the Korean Peninsula after the solar eclipse.</p><p>Figure <ref type="figure" target="#fig_1">4</ref> shows variations of solar radiation (W m -2 ) and air temperature (°C). The meteorological elements were measured with standard instruments at the KCAER. The centre is located in a rural area 80 m above sea level. We found that the amplitude of radiation variations was large in comparison with air temperature. On the morning of 22 July, in Cheongwon, there were scattered stratus clouds and fair weather prevailed during the eclipse.</p><p>The radiation curve in Fig. <ref type="figure" target="#fig_1">4</ref> suggests that radiation was very sensitive to the eclipse and low-level stratus clouds, whereas there were gaps and delays in air temperature variations from radiation. A small jump of radiation energy between 10:05 and 10:20 LST resulted from diffusive radiation under stratus clouds. Otherwise a steep reduction in radiation was recorded during the eclipse. Radiation was measured with Pyranometer (Li-cor PY45671). At 09:40 LST, solar radiation was 760.0 Wm -2 , and a minimum value of 90.1 Wm -2 was observed at 10:35 LST. With the recovery of the full sun it went up to 887.0 Wm -2 at 12:10 LST. The minimum value and satellite images clearly show the striking negative impact on atmospheric radiation to which the lower atmosphere is exposed.</p><p>Air temperature at the research centre at 09:25 and 09:30 LST was steady at 22.2°C, and it went up to 22.9 and 23.0°C at 09:40 and 09:45 LST, respectively. At 09:55, however, air temperature decreased to 22.2°C, and at 10:00 it was 22.3°C <ref type="bibr" target="#b4">(Founder et al. 2007;</ref><ref type="bibr" target="#b8">Segal et al. 1996)</ref>. At 10:35 and 10:40 LST, air temperature was 22.3°C, coinciding with the smallest phase of the sun. Air temperature was slowly increasing from 11:30 LST, and a quasi-steady air temperature was maintained by the eclipse in the range of 22.2∼23.0°C for about 2 h. Around the time that the eclipse ended at 12:00 LST, air temperature at the research centre rose promptly to 24.7°C (and at 13:00 LST it was 25.7°C). This translates to the partial eclipse Fig. 2 A surface meteorological map (of the Korean Meteorological Administration) at 09:00 LST, 22 July 2009</p><p>preventing the air temperature from increasing by at least 2.5°C. The estimation was done with the actual data between pre-and post-eclipse air temperature. Moreover, from 01:00 to 06:00 LST, 21 July, KCAER received rainfall as much as 48.3 mm, and this could have resulted in the smaller decrease in air temperature as the radiation used for evaporation. Meanwhile, it should be noted that the maximum air temperature at the research centre was 28.6°C at 17:00 LST.</p><p>Furthermore, at two nearby air bases, air temperature from 10:00 to 11:00 LST decreased by 0.2 and 0.7°C, respectively. From 11:00 to 13:00 LST, two air bases recorded an increase of 4.3 and 3.7°C, respectively. In turn the air temperature decreases at the air bases during the eclipse were 4.5 and 4.4°C, respectively. These are comparable with the 2.5°C decrease observed at the research centre in Cheongwon.</p><p>Until 09:00 LST, it was misty and visibility was 4∼5 km in the Cheongwon area. Observed relative humidity at 09:00 LST was 88% and it went down gradually to 79% at 09:45. When the eclipse was in progress, the relative humidity slowly increased to over 79% until 11:15 LST. From this time on, relative humidity decreased steadily with the increase in radiation and air temperature. Relative humidity depends strongly on the air temperature. This relation is seen in Fig. <ref type="figure" target="#fig_2">5</ref>, but is reversely correlated <ref type="bibr" target="#b5">(Hakan 2009)</ref>. When air temperature was low prior to the eclipse, relative humidity was recorded at a high level. This reverse correlation is also observed after 11:20 LST. During the mid-stage of the eclipse, the changes in relative humidity were in the opposite direction to the changes in air temperature.</p><p>The atmospheric pressure was steady at 1,003 hPa with no change during the eclipse, but we found that surface wind speed decreased from 1.2 to 0∼0.2 ms -1 (Fig. <ref type="figure" target="#fig_3">6</ref>). In the earlier part of eclipse until 10:00 LST, measured winds were 0.8∼1.5 ms -1 . After 11:40 LST, observed horizontal winds increased to 0.4∼1.3 ms -1 . In general, solar heating in the morning hours generates advective and convective airflows, and in turn these were negligible during the eclipse without radiation energy inputs. Also, the air during the morning hours was relatively stable with stratus clouds for the decrease in winds.</p><p>Atmospheric ozone is produced by solar radiation and, in the warm air, ozone precursors, like NO x , hydrocarbons etc., are agents for the generation of ground-level ozone <ref type="bibr" target="#b1">(Chung 1977;</ref><ref type="bibr" target="#b3">Finlayson-Pitts and Pitts 2000)</ref>. In order to find negative effects of solar eclipse on ozone production, measured values with ozone monitors (TECO 49C) were examined with regression estimates. Figure <ref type="figure" target="#fig_4">7a</ref> shows an irregular increase in ozone values, but ozone values at KCAER during the eclipse were lower than on a regression curve, especially around 10:40 to 12:20 LST. It should be</p><p>Element Radiation (MJ m -2 ) Temperature (°C) RH (%) Cloud amt (*/10) Station 11-10h 13-11h 11-10h 13-11h 11-10h Seoul -0.93 -2.31 -0.6 -2.2 0 3∼4 Cheongju -0.10 -2.18 -0.1 -3.9 0 3∼5 Busan -1.25 -2.35 -1.9 -1.9 10 5∼8 Mokpo -0.92 -2.72 -0.8 -2.1 6 5∼6 Seogwipo ---0.8 -3.6 1 7∼8 Mean -0.80 -2.39 -0.84 -2.74 3.4 5.4 Table 1 Atmospheric impacts of the solar eclipse observed at five KMA stations in Korea Fig. 3 Satellite images of 22 July 2009: a MTSAT composite image of Channels 1, 2 and 4 at 10:30 LST. b MTSAT image of visible Channel 1 at 10:30 LST noted that in general ozone values do not necessary to vary linearly. According to 5-min average ozone value at 10:40 LST; however, it was at 49 ppb and decreased to 41∼ 42 ppb until 11:15 LST.</p><p>During the morning hours, NO and NO 2 values were in the range of 1∼2 ppb and CO values were in the range of 380∼420 ppb. Concentrations were all measured with TECO analysers <ref type="bibr" target="#b6">(Kim and Chung 2008)</ref>. With ozone precursors not high enough, during the afternoon hours 96 ppb of ozone were still produced under conditions of high radiation, above 800 Wm -2 with the south-westerly air warmer than 28.0°C at KCAER. Scientists are generally concerned about ozone levels above 80 ppb. KCAER also measured ozone at the western coastal site in the Tae-ahn Peninsula (TAP). This site is located 120 km west of KCAER in central Korea. Observed ozone in TAP at 09:00 LST was 60 ppb, and ozone value measured there at 11:00 LST decreased to 51 ppb with the eclipse. In addition, ozone data obtained in Cheongju City by the provincial government were also studied. According to Fig. <ref type="figure" target="#fig_4">7b</ref>, hourly ozone values in the city also decreased during the period of partial eclipse.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Atmospheric variables observed at the research centre were studied in detail along with the data provided from two airforce bases in Cheongwon.</p><p>In order to investigate national disturbances caused by the partial eclipse, we obtained additional data from the Korean Meteorological Administration (KMA). Table <ref type="table">1</ref> lists observed meteorological elements from five KMA stations. The observed cloud amounts (amt) varied from 3/ 10 to 8/10, and the average cloud amount was 5.4/10 for all stations. From 10:00 to 11:00 LST, mean values of solar radiation at the KMA stations decreased to 0.80 MJ m -2 and mean air temperature decreased to 0.84°C. Meanwhile, in comparison with the observed values at 13:00 LST, mean solar radiation at 11:00 LST was as much as 2.39 MJ m -2 lower. This change can be compared with the maximum value of 3.42 MJ m -2 observed at 14:00 LST.</p><p>From 10:00 to 11:00 LST observed mean air temperature at the five KMA stations decreased by 0.84°C <ref type="bibr" target="#b8">(Segal et al. 1996)</ref> i.e. around the time of maximum eclipse at 10:50 LST. Therefore, we have used the observed mid-eclipse  data at 11:00 LST. By 13:00 LST mean air temperature had increased rapidly by as much as 2.74°C (Table <ref type="table">1</ref>). In turn, from 10:00 to 13:00 LST, the mean air temperature during the eclipse decreased by 3.58°C at the five KMA stations.</p><p>On the other hand, observed mean relative humidity from 10:00 to 11:00 LST increased by 3.4% at five stations in relation to the decrease in air temperature. The observed trends of variations in weather variables at the five KMA stations agree well with the trends of weather variables observed at the research centre.</p><p>From air quality analyses, we have found that the concentrations of ground-level ozone decreased during the  eclipse. During the eclipse period of about 2.5 h, clearly the destruction of ozone occurred with the lack of solar radiation in Cheongju-Cheongwon.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concluding remarks</head><p>The partial eclipse that took place on 22 July 2009 generated significant atmospheric disturbances in South Korea. The solar coverage by the moon that morning was chiefly in the range 76.8∼93.1%.</p><p>The observed minimum radiation at Cheongwon in central Korea was 90.1 Wm -2 compared with 760.0 just before and 887.0 Wm -2 just after the eclipse. In turn, the radiation energy was down by a mere 10.1∼11.9% from the expected radiation without the eclipse. At the KMA Cheongju station, however, this stood at 15.8%, whereas the northern station in Seoul recorded 31.7% of the expected value. The average minimum radiation at all four KMA stations at the peak of the eclipse was 22.9% from the highest value of hourly radiation received during the day.</p><p>During the partial eclipse, the air temperature was lowered by as much as 2.5°C at the research centre. At nearby airforce stations, air temperature decreased by 4.4∼ 4.5°C. On the other hand, at five KMA stations the magnitude of mean air temperature decrease was 2.74°C.</p><p>It was also observed that relative humidity increased by up to 3.4% at the research centre during the period of the partial eclipse. Owing to the lack of advection and convection during the eclipse, winds, in general, decreased <ref type="bibr" target="#b0">(Anderson and Keefer 1975)</ref> below 0.2 from 0.8∼1.5 ms -1 during the eclipse.</p><p>There is, however, a certain discrepancy in observed values of meteorological variables from several stations. This was largely the result of clouds and different types of instruments and observational practices at the various stations.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Phases of the solar eclipse on 22 July 2009 over southern Korea (photo courtesy of the Chosun Ilbo daily newspaper)</figDesc><graphic coords="2,178.58,53.86,366.65,89.63" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 4</head><label>4</label><figDesc>Fig. 4 Variations of solar radiation and air temperature observed at Cheongwon (KCAER), Korea during the solar eclipse on 22 July 2009</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 5</head><label>5</label><figDesc>Fig. 5 Variations of air temperature and relative humidity observed at Cheongwon (KCAER), Korea during the solar eclipse on 22 July 2009</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 6</head><label>6</label><figDesc>Fig. 6 Same as Fig. 4, but for wind speeds and solar radiation</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 7</head><label>7</label><figDesc>Fig. 7 Ozone concentrations observed during the solar eclipse on 22 July 2009: a 5-min average values at Cheongwon (KCAER); b hourly average values at Naedeok site in Cheongju city, Korea</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><graphic coords="3,51.02,350.59,238.53,326.27" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements Research fund is provided by the <rs type="funder">Cater</rs> . The data obtained from the <rs type="institution">KMA</rs> and from the <rs type="funder">Korean Air Force</rs> bases in Cheongwon are appreciated.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Observation of the temperature and pressure changes during the 30 June 1973 solar eclipse</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Keefer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Atmos Sci</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="228" to="231" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Ground-level ozone and regional transport of air pollutants</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Chung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Meteor</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1127" to="1136" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Predictions for total solar eclipses of 2008</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Espenak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1027/S1743921306002547</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the Int&apos;l Astronomical Union</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="495" to="502" />
+			<date type="published" when="2006">2006. 2009. 2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Atmospheric chemistry: fundamentals and experimental techniques</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Finlayson-Pitts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Pitts</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Academic</publisher>
+			<biblScope unit="page">969</biblScope>
+			<pubPlace>San Diego</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The effect of the total solar eclipse of 29 March 2006 on meteorological variables in Greece</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Founder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Melas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lykoudis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Lisaridis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gerasopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kouvarrakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Petrakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zerefos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atmos Chem Phys Discuss</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="10631" to="10667" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Observations of temperature and air humidity during the total solar eclipse 29 March 2006 at Side</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hakan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Turkey. Meteorol Z</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="107" to="109" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Satellite and ground observations for large-scale air pollution transport in the Yellow Sea region</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Chung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Air Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="103" to="116" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Fluctuations in column ozone during the total solar eclipse of July 11</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Mims</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Mims</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geophys Res Lett</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="367" to="370" />
+			<date type="published" when="1991">1993. 1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Solar eclipse effect on shelter air temperature</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Segal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prusa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Bitzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Finley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull Amer Meteor Soc</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="89" to="99" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

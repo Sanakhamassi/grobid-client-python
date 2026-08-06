@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Expectancies and Intentions to Use Snus Among Norwegian First-Year Students</title>
+				<funder>
+					<orgName type="full">Norwegian Extra Foundation for Health and Rehabilitation through EXTRA</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">University of Oslo</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Norwegian Heart and Lung Patient Organization</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Research Council of Norway</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-02-07">February 7, 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>M.Sc</roleName><forename type="first">Elisabeth</forename><surname>Larsen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">The Norwegian Institute for Alcohol and Drug Research</orgName>
+								<address>
+									<settlement>Oslo</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jostein</forename><surname>Rise</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">The Norwegian Institute for Alcohol and Drug Research</orgName>
+								<address>
+									<settlement>Oslo</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anne</forename><forename type="middle">Nordrehaug</forename><surname>Astrom</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Clinical Density</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<settlement>Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">The Norwegian Institute for Alcohol and Drug Research</orgName>
+								<address>
+									<postBox>P.O. 565 Sentrum</postBox>
+									<postCode>0105</postCode>
+									<settlement>Oslo</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Expectancies and Intentions to Use Snus Among Norwegian First-Year Students</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-02-07">February 7, 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">77AAAE4C98C41C3D8D762D8492D020B9</idno>
+					<idno type="DOI">10.1093/ntr/ntq256</idno>
+					<note type="submission">Received January 12, 2010; accepted December 22, 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-04T10:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Directorate of Health, 2005). Thus, 20% of boys aged 13-14 years stated that they smoke cigarettes daily or occasionally, while the corresponding figure for use of snus were 29%. The figures for boys aged 12-13 years were 12% (cigarettes) and 15% (snus: Norwegian Directorate of Health, 2005). Other research reports among Norwegian adolescents indicate that fewer adolescents start to smoke, while at the same time, there is an increase in the use of snus (M. <ref type="bibr" target="#b21">Lund &amp; Lindbak, 2007;</ref><ref type="bibr" target="#b25">Øverland, Hetland, &amp; Aarø, 2008)</ref>. Furthermore, the use of snus is becoming more widespread among experienced smokers, indicating that snus may be used as an alternative nicotine delivery system either as a temporary substitute for cigarettes or as a quitting product (M. <ref type="bibr" target="#b21">Lund &amp; Lindbak, 2007;</ref><ref type="bibr" target="#b20">K. E. Lund, Tefre, Amundsen, &amp; Nordlund 2008)</ref>.</p><p>This development has raised concern for the Norwegian health authorities. The possible effect of snus at the population level has also led to a debate about whether the ban on sale of snus in the European Union has resulted in a loss or gain for public health (Scientific Committee on Emerging and Newly-Identified Health Risks [SCENIHR], 2008). On one hand, it could be argued that snus may attract new nicotine users who would otherwise not have started to use tobacco at all. Furthermore, snus may lead to later uptake of cigarettes among those who would not have started to smoke if not for their experience as snus users (the gateway hypothesis; <ref type="bibr" target="#b28">Tomar, Fox, &amp; Severson, 2009)</ref>. On the other hand, compared with smoking cigarettes, the use of snus is found to be considerably less harmful (Royal College of Physicians [RCP], 2007; SCENIHR,  2008). It can thus be argued that snus is a better alternative for those who otherwise would have started to smoke cigarettes (a possible immunization effect) and that snus could be a quitting alternative for cigarette users who are not able or willing to quit (see <ref type="bibr" target="#b19">K. E. Lund, 2009)</ref>.</p><p>Given that one would like either to promote or to prevent the use of snus, for example, by targeting young people by means of persuasive communications, it is crucial to have information about the determinants of use of snus. However, few studies have provided insight into why adolescents start to use snus, and it might thus be worthwhile to explore the processes underlying the decision to use snus. One theoretical perspective that has been widely applied to explore the cognitive and</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The use of snus (low-nitrosamine smokeless tobacco, Swedish type) is increasing in the United States <ref type="bibr">(Alpert, Koh, &amp; Conolly, 2008)</ref> as well as in Northern Europe <ref type="bibr" target="#b12">(Gilljam &amp; Lund, 2009)</ref>. For example, in Norway, the use of snus is more prevalent than that of cigarettes in some segments of young men (Norwegian motivational underpinnings of addictive behaviors is derived from the concept of expectancies. Expectancies are defined as individuals' beliefs that a specific action will lead to specific consequences <ref type="bibr" target="#b5">(Bandura, 1986)</ref>. While perceived positive expectancies are anticipated to reinforce the particular behavior, negative expectancies are believed to restrain involvement in the behavior. In research on addictive behaviors, expectancies have traditionally been related to the use of a particular substance (see <ref type="bibr" target="#b8">Brandon, Herzog, Irvin, &amp; Gwaltney, 2004)</ref>, including smoking <ref type="bibr" target="#b9">(Brandon, Juliano, &amp; Copeland, 1999)</ref>. With regard to cigarette smoking, it has been documented that smokers have established a number of strong specific expectancies, and several versions of the Smoking Consequences Questionnaire (SCQ) have been developed assessing the role of smoking outcome expectancies <ref type="bibr" target="#b7">(Brandon &amp; Baker, 1991;</ref><ref type="bibr" target="#b11">Copeland, Brandon, &amp; Quinn, 1995;</ref><ref type="bibr" target="#b18">Lewis-Esquerre, Rodrigue, &amp; Kahler, 2005)</ref>. In a recent study, <ref type="bibr" target="#b14">Juliano and Brandon (2004)</ref> modified the SCQ-Adult <ref type="bibr" target="#b11">(Copeland et al., 1995)</ref> by incorporating a number of different outcomes expected to be associated with the following products containing nicotine in addition to cigarettes: nicotine chewing gum, nicotine patch, and nicotine nasal spray, so-called nicotine replacement therapy products (NRTs). At a conceptual level, the range of items related to expected outcomes included five distinct expectancy scales: (a) "negative affect reduction" (the expectation that the particular nicotine product would help overcome unwanted affective states), (b) "craving reduction" (the expectation that the product would help control cravings), (c) "weight control" (the expectation that the product would be an efficient weight watcher), (d) "health risks" (the expectation that the particular product would be a risk to one's health), and (e) "quitting facilitation" (the expectation that the product would help during an attempt to quit smoking). The latter scale concerned only the NRTs.</p><p>The five expectancy scales showed high internal consistencies in terms of Cronbach's coefficient alpha, and it was also found that the higher the level of expectations of NRTs, the higher the level of immediate plans to quit smoking <ref type="bibr" target="#b14">(Juliano &amp; Brandon, 2004)</ref>. The role of expectancies in the use of snus has yet to be established. In this study, we wanted to utilize the ideas of Juliano and Brandon in relation to the use of snus and test the factor structure of the five dimensional model using confirmatory factor analysis (CFA). We also wanted to investigate the role of the expectancy dimensions in the prediction of intentions to use snus applying a full structural equation model (SEM). Thus, we extended the work of Juliano and Brandon by using a CFA to investigate the hypothesized underlying structure of the expectancy items in relation to use of snus and by applying SEM analysis to estimate the predictive power of the expectancy factors for intentions to use snus. Finally, drawing on research of the Theory of planned behavior (TPB; <ref type="bibr" target="#b1">Ajzen, 1991)</ref>, we extended previous research on expectancies and nicotine products by examining the role of current (snus) behavior in the context of intentions to use snus. This research has shown that past behavior typically predicts behavioral intentions above the three TPB components: attitude, subjective norms, and perceived behavioral control (see <ref type="bibr" target="#b24">Norman &amp; Conner, 2006)</ref>. In the present study, we had two categories available in terms of whether the respondents used snus "daily" versus "sometimes." Thus, we wanted to explore the possibility that there was a direct effect of "current (snus) behavior" on intentions in additions to the expectancy variables.</p><p>The present study had two objectives. First, we wanted to test how well the hypothesized five-factor solution fitted the data in terms of a set of expectancy items derived from <ref type="bibr" target="#b14">Juliano and Brandon (2004)</ref> related to the use of snus using a CFA. Second, we wanted to explore the role of the snus expectancies in predicting intentions to use snus the next six months applying a full SEM. We also included current behavior in the analysis to investigate a possible direct effect on intentions. Furthermore, we controlled for the predictive role of age, sex, and smoking behavior.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subject and Procedure</head><p>The data stem from a questionnaire survey among first-year students at the University in Bergen and at the Norwegian School of Economics and Business Administration in 2004. Altogether, 858 students responded to the questionnaire, which constituted 25.6% of 3,344 registered first-year students who were invited to participate in the study. Among the respondents, 151 (17.6% of the total sample) were snus users. A relatively low percentage (6.6%) of the sample contained missing data on all the expectancy variables, and we thus decided to remove them from further analysis. Thus, the respondents in the present study consisted of 141 snus users, with a mean age of 20.9 years (SD = 2.1) and 71% were male. Thirty-eight percent were daily users, and 62% were occasional users of snus. The occasional users were on an average using 0.4 (SD =.5) boxes of snus per week, while the daily users were on an average using 2.2 (SD = 1.33) boxes of snus per week. The mean debut age of snus use was 17 years (SD = 2.6), while the mean age for becoming a regular user of snus was 18.3 years (SD = 3.3). Furthermore, 31% reported to have tried quitting using snus. Fifty-two percent reported that they were also smoking cigarettes (32% on a daily basis and 68% less frequently), and 12% reported to be former smokers.</p><p>Only the respondents who were using snus were asked to respond to the questions concerning snus expectancies. Participation was voluntary, and the project was approved by the National Committees for Research Ethics in Norway and reported to the Norwegian Social Science Data Services.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Thirteen expectancy items derived from the study of <ref type="bibr" target="#b14">Juliano and Brandon (2004)</ref> were selected for the use of snus (see Table <ref type="table">1</ref>) and measured on a 5-point probability scale using response categories ranging from very unlikely (1) to very likely (5). The expectancy model involved five latent factors: negative affect reduction (four items, e.g., "snus helps me to relax"), craving reduction (two items, e.g., "snus satisfies my nicotine cravings"), weight control (three items, e.g., "snus keeps me from overeating"), health risks (two items, e.g., "snus is hazardous to my health"), and quitting facilitation (two items, e.g., "snus makes quitting smoking easier"; see Table <ref type="table">1</ref>).</p><p>Current snus behavior was measured in terms of (1) daily use and (0) occasional use. Intention to use snus was assessed with the following items "I expect to use snus the next six months" and "I intend to use snus the next six months." A 5-point probability scale with response categories ranging from 1 (very unlikely) to 5 (very likely) was used. The two intention items correlated strongly (r = .91) and were subsequently added to constitute a sum score of snus intentions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analyses</head><p>The analyses were conducted in three steps applying SEM methodology in AMOS 17.0. First, we analyzed the dataset for missing values, skewness, and kurtosis. If maximum one negative error variance was detected, the variance was set to 0. Second, a CFA was used to test the hypothesized factor structure using maximum likelihood estimation. Various goodness-of-fit indices in the terms of c 2 , comparative fit index (CFI), and root mean squared error of approximation (RMSEA) were reported in the analysis <ref type="bibr" target="#b23">(Mulaik et al., 1989)</ref>. Model fit criteria have been a subject for discussions and have typically been set to CFI ≥.90 with &gt;.95 representing a good fit and RMSEA ≤.08 with &lt;.05 interpreted as a good fit (see <ref type="bibr" target="#b22">Marsh, 2007</ref> for a discussion). We also investigated the internal consistency of the individual scales using Cronbach's coefficient alpha (SPSS 17.0). Third, a full SEM analysis was applied by combining the measurement model with a structural model. The expectancy scales hypothesized to predict intentions to use snus the next six months were included in the model, and current use of snus, age, gender, and smoking behavior (smoker vs. nonsmoker) were included as control predictors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CFA and Internal Consistency</head><p>Examination of the expectancy measures showed acceptable kurtosis and skewness (±2; <ref type="bibr" target="#b15">Kline, 2005)</ref>. The results of the CFAs are presented in Table <ref type="table">1</ref> with a number of goodness-of-fit indices; c 2 (64) = 105.2, p = .00, CFI = 0.95; RMSEA = 0. 07, 90% CI = 0.04-0.09. The different indices showed that the hypothesized five-factor model provided a moderate fit to the data <ref type="bibr" target="#b6">(Bentler, 1990;</ref><ref type="bibr" target="#b15">Kline, 2005)</ref>. Internal consistencies (Cronbach's coefficient alpha) were satisfactory for all the five scales ranging from .66 to .87 (Table <ref type="table">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Predicting Intentions to Use Snus in the Future</head><p>In the full structural model, age, sex, smoking behavior, and snus intensity were included in addition to the expectancy variables, and all the observed and latent variables were allowed to correlate; c 2 (96) = 179.24, p = .00, CFI = 0.91; RMSEA = 0.08, 90% CI = 0.06-0.09. Post-hoc modifications were performed in order to develop a better fitting model. As a result, four covariances were included. The residuals between expectancies of the use of snus to prevent overeating and expectancies of snus to be hazardous to health were allowed to correlate. As they both tap into concerns for healthiness and well-being, it seems reasonable that they are related. Furthermore, the residuals between expectancies of the use of snus to satisfy smoking urge and expectancies of the use of snus to increase the chance of quitting smoking were correlated as they both are associated with the use of snus as an alternative delivery source of nicotine. Also, the residuals between expectancies of the use of snus to keep weight and expectancies of snus to make quitting smoking easier were allowed to correlate, suggesting that both items tap into health concerns. Finally, the residual related to expectancies of the use of snus to satisfy nicotine craving and sex was allowed to correlate, indicating that there are gender differences concerning the role of snus as a craving device. The model fit was significantly improved with the addition of these four paths; Dc 2 (4) = 35.76, p = .00; c 2 (92) = 143.48, p = .00, CFI = 0.95, RMSEA = 0.06, 90% CI = 0.04-0.08. The results presented in Table <ref type="table">2</ref> shows that (negative) expectancies of health risks using snus (b = -.22,</p><p>Table 1. Factor Loadings, Cronbach's Coefficient Alpha (bold) for the Five-Factor Solution Expectancy items Negative affect Craving reduction Weight control Health risks Quitting facilitation Snus . . . Negative affect reduction .85 . . . helps me to relax .67 . . . helps me deal with anger .71 . . . calms me down when I feel nervous .87 . . . helps me reduce or handle tension .87 Craving reduction .77 . . . satisfies my nicotine cravings .76 . . . satisfies my urge to smoke .83 Weight control .87 . . . keeps me from overeating .81 . . . keeps my weight down .96 . . . keeps me from eating more than I should .76 Health risks .66 . . . is hazardous to my health .50 . . . increases the risk of cancer 1 Quitting facilitation .81 . . . increases my chances of quitting smoking .97 . . . makes my quitting smoking easier .71</p><p>Note. Goodness-of-fit statistics: c 2 (64) = 105.2, p = .00, CFI = 0.95, RMSEA = 0.07. CFI = comparative fit index; RMSEA = root mean squared error of approximation. p =.01) and current snus behavior (b = .18, p = .05) turned out to be the only two significant predictors of intentions to use snus. Thus, the lower the level of expectation that snus was harmful to one's health, the stronger the intentions to use snus in the next six months. In addition, daily snus users demonstrated stronger intentions to use snus in the future than occasional users. Furthermore, a chi-square difference test revealed that entering current behavior significantly improved the model Dc 2 (11) = 32.7, p &lt; .00. The full model was able to explain 27% of the variance in intentions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>To our knowledge, this is the first study to explore expectancies associated with the use of snus and to examine their role in the prediction of intention to use snus. The study was based on the ideas and results from a previous study by <ref type="bibr" target="#b14">Juliano and Brandon (2004)</ref> on expectancies related to cigarettes and different NRT products: nicotine gum, nicotine spray, and nicotine patch. On conceptual grounds, they introduced five different expectancy concepts related to different NRT products: (a) reduce negative affect, (b) fulfill a craving for nicotine, (c) facilitate quitting smoking, (d) health risks, and (e) effective weight control. The present study extended these results to the area of snus in two directions. First, we used a CFA to test the dimensionality of 13 expectancy items in relation to another nicotine product, namely snus. The five-factor model showed an acceptable fit to the data. The internal consistency of the five scales was good, but craving reduction, quitting facilitation, and health risks might benefit from adding more items to the scales. This indicates that the hypothesized five-factor model was fully applicable in another behavioral area. Second, we combined a measurement model with a structural model to identify the predictive ability of the expectancy scales in the formation of intentions to use snus in the next six months, thus providing increased insight into the cognitive and motivational underpinnings of the behavior. The expectancy scales, sex, age, snus intensity, and smoking behavior were able to account for 27% of the variance in intentions to use snus. Of the expectancy measures, only expectancies of health risks of using snus turned out to be a significant predictor of intentions so that the lower the expectation that snus constitutes a health risk, the stronger the intentions to continue to use snus. Furthermore, the study showed that current snus behavior significantly explained variance in intentions in the direction of stronger intentions among those of the respondents who were daily users of snus.</p><p>The predictive role of health risks parallels the predictive power of perceived health risks in the area of quitting smoking <ref type="bibr" target="#b27">(Rise &amp; Kovac, 2009;</ref><ref type="bibr" target="#b29">Wetter et al., 1994)</ref>. Although it is documented that the health hazard associated with the use of snus is considerably less than for cigarette smoking, the use of snus is not without risks <ref type="bibr" target="#b16">(Lee &amp; Hamling, 2009;</ref><ref type="bibr" target="#b17">Levy et al., 2004;</ref><ref type="bibr">RCP, 2007;</ref><ref type="bibr">SCENIHR, 2008)</ref>. Given that health authorities want to encourage adolescents quit using snus, the results suggest that it might be useful to target expectancies related to health risks in persuasive communications.</p><p>In contrast to previous expectancy research on NRTs where intentions to quit smoking were correlated with expectancies of NRTs to facilitate quitting <ref type="bibr" target="#b14">(Juliano &amp; Brandon, 2004)</ref>, expectancies of snus to help quit smoking did not predict snus intentions in the present study. For the prediction of intention to use snus, expectancies of snus to facilitate quitting smoking are primarily relevant among current smokers. Thus, difference in smoking experience might explain the lack of effect of the predictor. This should be addressed in future studies.</p><p>The direct effect of current snus behavior beyond the effects of the expectancy components on the intention formation process may be explained in two different ways. First, it may be that the intention measure is partly a self-prediction, that is, snus users do not make a decision whether or not to continue to use snus but rather make a likelihood judgment of what they are going to do in the specified period based on a simple extrapolation from recent performances: "If I have used snus on a daily basis before, I will probably do it in the next 6 months" (see <ref type="bibr">Rise, Åstrøm, &amp; Sutton, 1998)</ref>. Second, it may be that central predictors of intentions are left out of the equation (see <ref type="bibr" target="#b10">Conner &amp; Armitage, 1998)</ref>. For example, aspects of social influence along the line proposed by social expectancy scales in the area of alcohol in terms of social facilitation <ref type="bibr" target="#b13">(Goldman, Greenbaum, &amp; Darkes, 1997</ref>) may represent a potential predictor candidate. In a similar vein, a recent study among Norwegian adolescents showed that young men in Norway perceive snus as trendy and attractive <ref type="bibr" target="#b30">(Wiium, Aarø, &amp; Hetland, 2009)</ref>.</p><p>It may be argued that 27% explained variance is a relatively low figure as compared with those analyses obtained using the TPB. In this context, a meta-analysis showed that the three theoretical components, attitude, subjective norm, and perceived behavioral control accounted for an average of 39% of the variance in intentions across 185 studies <ref type="bibr" target="#b4">(Armitage &amp; Conner, 2001)</ref>. The difference in explained variance may partly be explained by the fact that we did not adhere to the principle of compatibility as proposed by the TPB <ref type="bibr" target="#b2">(Ajzen, 2002)</ref>. While the target variable specifies the time aspect (e.g., "I intend to use snus in the next six months"), the expectancy measures lack the</p><p>Table 2. Standardized Regression Coefficients on Intentions to Use Snus the Next Six Months From the Expectancy Variables "Negative Affect," "Weight Control," "Quitting Facilitation," "Health Risks," "Craving Reduction," "Current Behaviour," "Age," "Sex," and "Smoking Behaviour" (N = 141) Model Predictors b p values Negative affect .10 .39 Weight Control -.15 .13 Quitting facilitation .10 .33 Health risks -.22 .01 Craving reduction .18 .33 Current behaviour .18 .05 Age .00 .99 Sex -.16 .07 Smoking behaviour .02 .80 Explained variance .27</p><p>Note. Goodness-of-fit statistics: c 2 (92) = 143.48, p = .00, CFI = 0.95, RMSEA = 0.06. CFI = comparative fit index; RMSEA = root mean squared error of approximation.</p><p>specification of time and are thus phrased in more global terms (e.g., "snus is harmful for me"). Nevertheless, this is a common way of operationalizing expectancies in current expectancy research.</p><p>Because the response rate in the present study was low as well as the fact that snus users as a group were underrepresented in this study (see K. E. <ref type="bibr" target="#b20">Lund et al., 2008)</ref>, extrapolation of the results to snus users in general should be done with caution. Nevertheless, generalizations based on underlying processes in terms of associations between variables have been found to be less vulnerable to sampling procedures than those of prevalence <ref type="bibr" target="#b0">(Aaberge &amp; Laake, 1984)</ref>.</p></div>		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We would like to thank <rs type="person">Pål Ulleberg</rs> from the <rs type="funder">University of Oslo</rs> for helpful assistance with the SEM analyses.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by the <rs type="funder">Norwegian Heart and Lung Patient Organization</rs>, the <rs type="funder">Norwegian Extra Foundation for Health and Rehabilitation through EXTRA</rs> funds, and the <rs type="funder">Research Council of Norway</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Interests</head><p>None declared.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Om statistiske teoriar for tolking av data (On theories for statistical interpretation of data. Summary in English)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Aaberge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Laake</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tidsskrift for Samfunnsforskning</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="165" to="186" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The theory of planned behavior</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ajzen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organizational Behavior and Human Decision Processes</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="179" to="211" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Perceived behavioural control, self efficacy, locus of control and the theory of planned behaviour</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ajzen</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1559-1816.2002.tb00236.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="113" to="127" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Free nicotine content and strategic marketing of moist snuff tobacco products in the United States: 2000-2006</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Alpert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Koh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N</forename><surname>Connolly</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/tc.2008.025247</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tobacco Control</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="332" to="338" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Efficacy of the theory of planned behavior: A meta-analytic review</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Armitage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Conner</surname></persName>
+		</author>
+		<idno type="DOI">10.1348/014466601164939</idno>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="471" to="499" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Social foundations of thought and action: A social cognitive theory</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bandura</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>Prentic Hall</publisher>
+			<pubPlace>Englewood Cliffs, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Comparative fit indexes in structural models</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Bentler</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.107.2.238</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="238" to="246" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Smoking consequences questionnaire: The subjective expected utility of smoking in college students</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Brandon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Baker</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/1040-3590.3.3.484</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Assessment</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="484" to="491" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Cognitive and social learning models of drug dependence: Implications for the assessment of tobacco dependence in adolescents</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Brandon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Herzog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Irvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Gwaltney</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1360-0443.2004.00737.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="51" to="77" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<monogr>
+		<title level="m" type="main">How expectancies shape experience</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Brandon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Juliano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Copeland</surname></persName>
+		</author>
+		<editor>I. Kirsch</editor>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>American Psychological Association</publisher>
+			<biblScope unit="page" from="263" to="299" />
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Expectancies for tobacco smoking</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Extending the theory of planned behaviour: A review and avenues for further research</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Conner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Armitage</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1559-1816.1998.tb01685.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1430" to="1464" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The Smoking Consequences Questionnaire-Adult: Measurement of smoking outcome expectancies of experienced smokers</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Copeland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Brandon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Quinn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Assessment</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="484" to="494" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gilljam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Lund</surname></persName>
+		</author>
+		<title level="m">Smokeless tobacco use in Europe</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>Manuscript submitted for publication</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A confirmatory test of hierarchical expectancy structure and predictive power: Discriminant validation of the alcohol expectancy questionnaire</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Goldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Greenbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Darkes</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/1040-3590.9.2.145</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Assessment</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="145" to="157" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Smokers&apos; expectancies for nicotine replacement therapy vs. cigarettes</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Juliano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Brandon</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14622200410001696574</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nicotine &amp; Tobacco Research</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="569" to="574" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Principles and practice of structural equation modelling</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Kline</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>The Guilford Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Systematic review of the relation between smokeless tobacco and cancer in Europe and North America</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hamling</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1741-7015-7-36</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Medicine</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">36</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The relative risk of a low-nitrosamine smokeless tobacco product compared with smoking cigarettes: Estimates of a panel of experts</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Mumford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Cummings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Gilpin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Giovino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hyland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Epidemiologic Biomarkers Preview</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="2035" to="2042" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Development and validation of an adolescent smoking consequences questionnaire</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lewis-Esquerre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Rodrigue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Kahler</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14622200412331328475</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nicotine &amp; Tobacco Research</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="81" to="90" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Lund</surname></persName>
+		</author>
+		<title level="m">A tobacco-free society or harm reduction? Which objective is best for the remaining smokers in Scandinavia? SIRUS-report</title>
+		<meeting><address><addrLine>Oslo, Norway</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009-02">2009. 2/2009</date>
+		</imprint>
+		<respStmt>
+			<orgName>The Norwegian Institute for Alcohol and Drug Research</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Røyking, bruk av snus og annen risikoatferd blant studenter (Smoking, the use of snus and other risk behaviour among students)</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Tefre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Amundsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nordlund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Tidsskrift for Den norske legeforening</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="1808" to="1811" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Norwegian tobacco statistics 1973-2006</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lindbak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">SIRUS-report 3/2007 Oslo</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+		<respStmt>
+			<orgName>The Norwegian Institute for Alcohol and Drug Research</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Application of confirmatory factor analysis and structural equation modeling in sport and exercise psychology</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Marsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of sport psychology</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Tenenbaum</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Eklund</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New Jersey</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="774" to="798" />
+		</imprint>
+	</monogr>
+	<note>rd ed.</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Evaluation of goodness-of-fit indices for structural equation models</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Mulaik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Alstine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Stilwell</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.105.3.430</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="430" to="445" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The theory of planned behavior and binge drinking: Assessing the moderating role of past behavior within the theory of planned behavior</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Norman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Conner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Health Psychology</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="55" to="70" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Røyking og snusbruk blant ungdommar i 2004 og 2007. (Smoking and the use of snus among adolescents in</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Øverland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hetland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Aarø</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Tidsskrift for Den norske legeforening</title>
+		<imprint>
+			<publisher>Norwegian Directorate of Health</publisher>
+			<date type="published" when="2004">2005. 2008. 2004 and 2007</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1820" to="1824" />
+		</imprint>
+	</monogr>
+	<note>Norwegian tobacco statistics 1973-2006. Lower secondary school.) Unpublished raw data</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Predicting intentions and use of dental floss among adolescents: An application of the theory of planned behavior</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Astrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sutton</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08870449808406748</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology &amp; Health</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="223" to="236" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The relationship between cognitive and affective aspects of perceived risk of smoking and intention to quit smoking in a sample of Norwegian smokers. Manuscript in preparation. Royal College of Physicians</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">B</forename><surname>Kovac</surname></persName>
+		</author>
+		<ptr target="http://ec.europa.eu/health/ph_risk/committees/04_scenihr/docs/scenihr_o_013.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">London: Author. Scientific Committee on Emerging and Newly-Identified Health Risks</title>
+		<imprint>
+			<date type="published" when="2007">2009. 2007. 2008</date>
+		</imprint>
+	</monogr>
+	<note>Harm reduction in nicotine addiction: Helping people who can&apos;t quit. A report by the Tobacco Advisory Group of the Royal College of Physicians Scientific opinion on the health effects of smokeless tobacco products</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Is smokeless tobacco use an appropriate public health strategy for reducing social harm from cigarette smoking?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Tomar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Severson</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph6010010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Environmental Research and Public Health</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="10" to="24" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Smoking outcome expectancies: Factor structure, predictive validity, and discriminant validity</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Wetter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Kenford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Jorenby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Fiore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Hurt</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0021-843X.103.4.801</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Abnormal Psychology</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="801" to="811" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Subjective attractiveness and perceived trendiness in smoking and snus use: A study among young Norwegians</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wiium</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Aarø</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hetland</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/her/cyn047</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Health Education Research</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="162" to="172" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

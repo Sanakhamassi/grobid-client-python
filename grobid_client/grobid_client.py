@@ -720,7 +720,9 @@ class GrobidClient(ApiClient):
                     except Exception as e:
                         self.logger.warning(f"Failed to save typed-area JSON to {json_path}: {e}")
 
-                    return json.dumps(json_data)
+                    # Extract just the elements array if present, as GROBID expects a JSON Array
+                    payload = json_data.get("elements", json_data) if isinstance(json_data, dict) else json_data
+                    return json.dumps(payload)
                 else:
                     self.logger.warning(
                         f"Typed-area server returned {resp.status_code} for {pdf_file}"
@@ -739,7 +741,8 @@ class GrobidClient(ApiClient):
             try:
                 with open(json_path, "r", encoding="utf-8") as f:
                     json_content = json.load(f)
-                    return json.dumps(json_content)
+                    payload = json_content.get("elements", json_content) if isinstance(json_content, dict) else json_content
+                    return json.dumps(payload)
             except Exception as e:
                 self.logger.warning(f"Failed to read typed-area JSON {json_path}: {e}")
                 return None

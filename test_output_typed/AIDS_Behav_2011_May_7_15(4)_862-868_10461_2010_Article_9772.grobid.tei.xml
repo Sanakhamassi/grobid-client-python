@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Latent Class Analysis of Sexual Risk Patterns Among Esquineros (Street Corner Men) a Group of Heterosexually Identified, Socially Marginalized Men in Urban Coastal Peru</title>
+				<funder ref="#_j2AEbsW">
+					<orgName type="full">NIMH</orgName>
+				</funder>
+				<funder ref="#_7phzUAf">
+					<orgName type="full">NIH/NIMH</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">NIMH Collaborative HIV/STD Prevention Trial in Peru</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2010-08-07">7 August 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Kelika</forename><forename type="middle">A</forename><surname>Konda</surname></persName>
+							<email>kkonda@jhsph.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><forename type="middle">D</forename><surname>Celentano</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Susan</forename><surname>Kegeles</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Thomas</forename><forename type="middle">J</forename><surname>Coates</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Carlos</forename><forename type="middle">F</forename><surname>Caceres</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Nimh</forename><surname>Collaborative</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Hiv</forename><forename type="middle">/</forename><surname>Std</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Prevention</forename><forename type="middle">Trial</forename><surname>Group</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Á</forename><forename type="middle">D D</forename><surname>Celentano</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Epidemiology</orgName>
+								<orgName type="laboratory">S. Kegeles Center for AIDS Prevention Studies</orgName>
+								<orgName type="institution">Johns Hopkins Bloomberg School of Public Health</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Infectious Diseases David Geffen School of Medicine</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">Universidad Peruana Cayetano Heredia</orgName>
+								<address>
+									<settlement>Lima</settlement>
+									<country key="PE">Peru</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">K. A. Konda (&amp;) C/Diez</orgName>
+								<address>
+									<addrLine>Canseco 333</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution">Oficina A</orgName>
+								<address>
+									<addrLine>Lima 18</addrLine>
+									<settlement>Miraflores</settlement>
+									<country key="PE">Peru</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Latent Class Analysis of Sexual Risk Patterns Among Esquineros (Street Corner Men) a Group of Heterosexually Identified, Socially Marginalized Men in Urban Coastal Peru</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-08-07">7 August 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">03866F2BA54255F6DEE32A574EA099EA</idno>
+					<idno type="DOI">10.1007/s10461-010-9772-2</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:04+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Sexual risk behavior</term>
+					<term>HIV/STI risk</term>
+					<term>Peru</term>
+					<term>HIV prevention</term>
+					<term>Latent class analysis</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We explored patterns of sexual risk behavior among esquineros, heterosexually-identified, sociallymarginalized Peruvian men using latent class analysis. We used data from the Peru site of the National Institute of Mental Health (NIMH) Collaborative HIV/STD Prevention Trial which included n = 2,109 heterosexually-identified men. The latent class analysis used seven risk behaviors to group esquineros into risk classes. We identified four latent classes, of which two classes had lower probabilities and two classes had higher probabilities of these risk behaviors. Comparing the two lower risk classes to the two higher risk classes yielded significantly more unprotected sex acts (Chi square P value \ 0.001). The risk behaviors in two of the latent classes identified were primarily related to alcohol and drug use. Future HIV/STI prevention interventions may benefit from this information by tailoring messages to fit the observed risk patterns and should focus on drug and alcohol use.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Human Immunodeficiency Virus (HIV) and sexually transmitted infections (STIs) are an important source of morbidity, and can be associated with HIV mortality among young people in the developing world <ref type="bibr" target="#b0">[1]</ref>. In resource limited settings, establishing interventions with persons at high-risk for HIV/STI infection can be difficult. In Peru, most of the resources are rightly focused on men who have sex with men, the population most affected by both HIV and STIs <ref type="bibr" target="#b1">[2]</ref> and on female sex workers. Other populations, including low-income, socially marginalized, young men have been overlooked and deserve greater attention as they have higher risk for HIV/STI infection than the general population <ref type="bibr" target="#b2">[3]</ref>.</p><p>As behavioral theory and HIV/STI prevention interventions become more specified, understanding the patterns of risk behavior within a population may help to effectively tailor interventions. The concept of audience segmentation posits that a population of interest be composed of different sub-groups and that the message for each subset is more effective if properly tailored to their needs and interests <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>. In HIV prevention interventions, the message and manor of intervention delivery also need to be tailored to the sub-group of interest based on patterns of risk behavior in that population. Previous studies using this strategy have based their segmentation on HIV risk and perceived risk <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>.</p><p>In this analysis, we look at segmenting a population of high-risk heterosexually identified men, esquineros, based on their risk behaviors for HIV and STI transmission and acquisition. From ethnographic analysis, we understand that the common connection among the esquineros is their marginalization from society. They are not in school, they do not have traditional jobs, and they are often involved in gangs. Although they may have respect from their peers, other esquineros, in their communities they are often seen as troublemakers, 'vagos' or vagrants <ref type="bibr" target="#b6">[7]</ref>. They have been described previously as being the victims of structural violence, whose vulnerability stems from their lack of education, opportunities, with limited advantages or ability to take advantage of the limited opportunities that may present themselves <ref type="bibr" target="#b6">[7]</ref>. Their higher risk for HIV/STI may also stem from other behaviors such as drug and alcohol use prior to sex, having sex for compensation, and having multiple partners, among other risk behaviors. Additionally, they report more sex with men than other populations <ref type="bibr" target="#b7">[8]</ref>. These behaviors increase risk for HIV/STI among the esquineros <ref type="bibr" target="#b2">[3]</ref>; however, how these behaviors relate to one another is not known, it is only clear that these behaviors do not occur uniformly in this population. Therefore, understanding the pattern of these behaviors would be important information to have in order to tailor interventions to specific risk groups.</p><p>This population was identified ethnographically and their increased vulnerability to STI/HIV has been documented and is higher than that of the general population of young men in Peru <ref type="bibr" target="#b2">[3]</ref>; however, HIV/STI prevention strategies for this sub-population have not been devised. The only intervention to date was unsuccessful <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10]</ref>, in part this lack of success may have stemmed from an inadequate adaptation of the intervention to this population <ref type="bibr" target="#b8">[9]</ref>. From ethnographic and previous epidemiologic data, we know that HIV risk was not a primary concern of this population and high-risk behavior was ubiquitous, but varied <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8]</ref>. Given the ethnographic identification and evidence of varied risk behaviors latent class analysis was devised as a method to better understand the patterns of risk behavior within this population in order to improve subsequent prevention interventions with them.</p><p>There is renewed interest in behavioral prevention for both HIV and STIs <ref type="bibr" target="#b10">[11]</ref>. However, behavioral prevention efforts have primarily focused on the promotion of condom use and have focused their efforts either on very high-risk sub-populations (men who have sex with men (MSM), commercial sex workers (CSW), etc) or on women. In Peru, several strategies have been tried with general population targets including training pharmacists, internet outreach to MSM, and mobile HIV testing campaigns <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref>. However, these campaigns have not been targeted to the behaviors and needs of specific high-risk sub-populations. No interventions to date have focused on young, male, high-risk individuals who are not exclusively MSM.</p><p>As the epidemic moves into its third decade in Peru, a more focused understanding of groups peripheral to MSM is needed. Understanding patterns of risk behavior can help to design more tailored interventions to identified at-risk subpopulations. This paper investigates patterns of risk behaviors among a large population of young, low-income men enrolled in the National Institute of Mental Health (NIMH) Collaborative HIV/STD Prevention Trial to determine what behavioral patterns exist in this population. The patterns of risk identified may help to improve targeted and tailored HIV/STI prevention interventions for this population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Population and Data Collection Procedures</head><p>The data for this paper are taken from the baseline assessment of esquineros a group of socially marginalized men enrolled in the Peru site of the NIMH HIV/STD Collaborative Prevention Trial. The trial has been described elsewhere in detail <ref type="bibr" target="#b14">[15]</ref>. Briefly, populations at highrisk for HIV and STI infection from five countries were recruited in areas of high social interaction to participate in a behavioral HIV prevention intervention based on diffusion of innovations <ref type="bibr" target="#b15">[16]</ref> and past successes with this strategy for HIV prevention <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>. In Peru, the participants included esquineros and women as well as gayidentified men <ref type="bibr" target="#b2">[3]</ref>. The study in Peru was conducted in three coastal cities and peri-urban areas including Lima, the capital of Peru, and Trujillo and Chiclayo, mid-sized cities in northern Peru. Low-income urban and peri-urban communities were chosen based on an index of unmet basic needs and information from key informants regarding the presence of the three sub-populations of interest at venues of social interaction. Project recruiters conducted a census of potential participants belonging to these three sub-populations and enrolled those who were willing to participant in the 2-year trial. Subjects were eligible if they were between 18 and 40 years old, spent time at the sites of social interaction at least twice a week, planned to stay in the study area for the duration of the study (2 years), reported sex in the past 6 months, and provided voluntary informed consent to participate in the trial. The study was approved by the Committee of Human Subjects Research of the University of California at Los Angeles, the San Francisco Department of Public Health, the Universidad Peruana Cayetano Heredia, Johns Hopkins Bloomberg School of Public Health, and the U.S. Naval Medical Research Center in Bethesda, MD in compliance with all federal regulations regarding the protection of human subjects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Population Description</head><p>This analysis is limited to the esquineros who participated in the NIMH trial. In the ethnographic formative research that was conducted prior to the trial, this population was referred to as 'esquineros' (corner men) or 'vagos' (vagrants) <ref type="bibr" target="#b6">[7]</ref>. These are young men who are un-or underemployed and congregate in areas of social exchange in their neighborhoods, such as street corners, soccer fields, parks, bars, etc. Many are members of local gangs that conduct the local drug trade. Although these men are primarily heterosexually-identified, they often have sex with gay men or transvestites from their communities, sometimes in exchange for money or goods such as clothing, haircuts, or alcohol and drugs <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures Used</head><p>The data in this paper come from the baseline assessment for the NIMH trial, which was conducted between 2003 and 2005 in three coastal Peruvian cities. The baseline assessment included informed consent, a behavioral interview, pre-test counseling, specimen collection and subsequent laboratory testing for HIV (EIA: BioRad and Biomerieux; WB: BioRad), Herpes Simplex Virus Type 2 (HSV-2) (Herpes Select, Focus Technologies, Cypress, CA) using the cutoff optical density of 3.21. Syphilis testing was conducted using (RPR Biomerieux, Boxtel, The Netherlands) with Treponema pallidum Particle Agglutination Testing (TPPA) confirmation (Fujirebio Diagnostics Inc, Toyko, Japan), gonorrhea, and Chlamydia (CT/NG Amplicor PCR, Roche Diagnostics, Branchburg, NJ, USA).</p><p>All data collection procedures were conducted in temporary project offices in the communities under study. The behavioral interview was conducted by trained personnel in Spanish, using Computer Assisted Personal Interview (CAPI) technology, where the interviewer read the questions to the participant and entered their responses into a laptop computer. The interview included questions regarding socio-demographics, health care seeking, sexual behavior in the past 6 months, and detailed behavioral questions regarding the last 5 sex partners, as well as the use of alcohol and drugs. Laboratory results were given to the participants at a subsequent visit approximately 2 weeks after the initial assessment, where participants received personalized post-test counseling, treatment for curable STIs and referral for HIV care, as needed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>Seven variables from the behavioral assessment were used in latent class analysis (LCA). Latent class analysis categorizes binary items into like classes based on the underlying assumption of a common latent variable <ref type="bibr" target="#b19">[20]</ref>. LCA is similar to cluster analysis, with the goal of grouping like individuals; however, LCA has the assumption of an underlying latent variable. The outcomes of LCA are the number of latent classes, the probability of each item in each latent class, and posterior probability of latent class membership for each individual. The last outcome classifies individuals by their risk behaviors. In this analysis, the underlying latent variable is risk that could lead to unprotected sex and subsequently STI/HIV infection. The seven items included in the LCA were reporting three or more sex partners in the past 6 months (SEXPART3), having concurrent sex partners in the past 6 months, defined as having at least 2 partners with a temporal overlap in the past 6 months (CONCUR), drug use in the past 30 days (marijuana or cocaine paste) (DRUGUSE), drugs use prior to sex with any of the past 5 sex partners (DRUGSEX), using alcohol prior to sex with any of the past 5 sex partners (ALSEX), reporting a male sex partner among any of the past 5 sex partners (MALE), and reporting sex in exchange for goods or services in the past 6 month (MONEY). Throughout this report, these variables will be referred to using the abbreviated form in parentheses. These items were chosen as they have been shown to be related to unprotected sex in past epidemiologic studies with this population <ref type="bibr" target="#b7">[8]</ref>.</p><p>For the latent class analysis, we fit models with increasing numbers of latent classes specified until reaching the lowest Bayesian Information Criteria (BIC) value. BIC has been favored by researchers given its reliance on both the loglikelihood and the adjusted sample size <ref type="bibr" target="#b20">[21]</ref>. Once the number of latent classes was established, to validate the classes, the posterior probabilities for the latent class membership for each participant were exported to Stata to determine the relationship between probable class membership and unprotected sex as well as prevalent STI infection. Entropy, which measures how well each individual fits into a specific class, was also taken into account to determine the fit of the model. The validation of the classes was approached comparing unprotected sex with all and with non-primary partners only reported by members of each class as well as STI prevalence in each class. To assess the stability of the LCA results, the LCA was conducted with random samples of half of the data <ref type="bibr" target="#b21">[22]</ref>. The latent class analysis was conducted in MPLUS Version 5 (L. Muthe ´n and <ref type="bibr">Muthe ´n, 1998</ref><ref type="bibr">Muthe ´n, -2006))</ref>; data management and descriptive statistics were conducted in Stata 9 (College Station, TX).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Description of the Population</head><p>A total of 2,146 esquineros participated in the baseline assessment for this trial. Of these 2,109 (98.3%) were used for the analysis as they had complete information on the 7 risk variables of interest. The median age of the men was 22 years with an interquartile range of 20-26, the majority of the men are single (66.7%), approximately half have graduated from high school (49.2%), few report having stable work (22.1%), and 35.6% report not having sufficient food at least once a week or once a month (see Table <ref type="table" target="#tab_0">1</ref>). Table <ref type="table" target="#tab_1">2</ref> shows the prevalence of each risk behavior of interest in this sample. Using alcohol prior to sex was the most common risk behavior (67.0%) and reporting a male partner among one of the last 5 sex partners was the least common (12.6%). The Cronbach's alpha among these variables is 0.58 showing only moderate internal consistency, suggesting that there is variability in individual responses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Latent Class Analysis</head><p>The number of possible patterns given the combinations of the seven variables used in the latent class analysis is 2 7 or 128; 100 of these possible patterns appear in the data. Among the participants, 367 (17.4%) had none of the risk behaviors and 10 (0.5%) had all 7 risk behaviors. The majority of the sample lies between these two extremes. While most of the remaining response patterns showed less than 4% of the sample, there were some more frequent patterns. Other than reporting no risk behaviors, the most prominent patterns of risk behavior were only reporting the use of alcohol prior to sex 386 (18.3%), 114 (5.4%) reported alcohol prior to sex and concurrent sex partners, and 97 (4.6%) reported both alcohol prior to sex and drug use in the past 30 days.</p><p>The results of the latent class analysis are shown in Table <ref type="table">3</ref>. The models were fit with increasing class sizes until reaching the lowest Bayesian Information Criteria (BIC), reached in the 4-class model. Although the entropy for the 5 class model is slightly better than for the 4 class model, they are very comparable (0.838 vs. 0.855, perfect entropy = 1.0) and both show much higher entropy than the models with fewer or greater numbers of latent classes. The 4-class model was selected based on parsimony and as it has the lowest BIC, it will therefore be use for the remainder of the analysis.</p><p>The four-class model yields distinct risk profiles based on class; Table <ref type="table">4</ref> shows the probability of each of the seven items by latent class. Classes 3 and 4 each show higher probability of the seven risk behaviors and classes 1 and 2 have lower probability of the seven risk behaviors. The risk behaviors that are much higher in classes 3 and 4 include exchanging sex for money or goods, reporting a male partner in the past 6 months, reporting 3 or more partners in the past 6 months, and reporting concurrent sex partners.</p><p>Each class has a different pattern of risk behaviors, the first class primarily has alcohol related risk behavior, this is the most prevalent risk behavior in the sample and is the baseline risk for the population. The second class has this baseline risk and drug related risk behaviors. The third class has the baseline risk plus high-risk sexual behavior (sex with men and sex for money) and the fourth class has the baseline behavior, drug related behaviors and high-risk sexual behaviors (see Table <ref type="table">4</ref>). So although there are two higher risk and two lower risk classes, the risks behaviors in each class are distinct. The types of risk behaviors taken by members of each class appear to be related to the types of sex partners they have. Classes 1 and 2 reported a higher number unprotected sex acts in the past 6 months; however, this is related to having sex with a primary partner. The first two classes mainly have sex with primary sex partners, while classes 3 and 4 have many more non-primary sex partners (See Table <ref type="table" target="#tab_2">5</ref>). While most members of each class report having unprotected sex with a non-primary partner, this is much higher among classes 3 and 4 and these classes also report many more of this type of sex act.</p><p>The stability of the latent class structure was confirmed in the latent class analysis on random halves of the data. In each random half, the four-class model had the lowest BIC. The class structure of the random halves of the data also remained stable; the probability of each item in the four classes identified in each random half of the data remained similar to the probabilities found in the overall analysis (data not shown).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Validation of the Latent Class Analysis</head><p>The differences in the proportion or median of each variable by class membership are shown in Table <ref type="table" target="#tab_2">5</ref>. Classes 1 and 2 showed lower STI prevalence and unprotected sex. For each of the variables related to sex acts and unprotected sex, there are significant differences between the 4 classes. Additionally, if classes 1 and 2 (lower risk) are combined and compared to the combined classes 3 and 4 (higher risk) there are significant differences for the variables related to sex acts and unprotected sex (See Table <ref type="table" target="#tab_2">5</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The latent class analysis conducted among this population of esquineros from the NIMH Collaborative HIV/STI</p><p>Table 4 Probabilities of reporting each item and prevalence of each class based on the 4 class solution of the latent class analysis Item Class 1 Class 2 Class 3 Class 4 Probability Used alcohol prior to sex, past 6 months (ALSEX) 0.534 0.772 0.867 0.880 Used drugs, past 30 days (DRUGUSE) 0.175 0.840 0.000 1.000 Used drugs prior to sex, past 6 months (DRUGSEX) 0.000 1.000 0.106 0.663 Exchanged money for sex, past 6 months (MONEY) 0.055 0.000 0.354 0.371 Reported a male sex partner, last 5 sex partners last 6 months (MALE) 0.042 0.008 0.301 0.257 Reported 3? sex partners, last 6 months (SEXPART3) 0.060 0.000 0.750 0.728 Reported sex partners within the same time frame, last 6 months (CONCUR) 0.134 0.192 0.680 0.477 Prevalence of each class 0.59 0.08 0.20 0.13 Prevention Trial showed different patterns of risk behavior in the population. The most common class among the esquineros (class 1) showed risk behaviors primarily related to the use of alcohol prior to sex. Two classes (classes 2 and 4) showed substantial risk related directly to drug and alcohol use prior to sex and drug use in the past month. This is an important finding as these behaviors lead to risk taking behaviors such as unprotected sex, although they have not been included as an integral part of HIV/STI interventions in the past <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b14">15]</ref>. The fourth class, which showed high probability of risk behaviors related to both substance use as well as sexual risk, was also the second largest class, showing the high level of risk behaviors in this population. The observed patterns of risk behavior show risk within all of the classes of esquineros and that all classes need the attention of HIV/STI interventions, as prevalence was high among all classes. However, the patterns of behavior offer insight into segments of the population. Risk with primary partners is also an important issue to address via intervention. Although all classes reported sex with non-primary partners, the number of acts this was much lower among classes 1 and 2 and most of the unprotected sex reported in these classes appeared to occur with primary partners. This is a key point for future interventions that should address risk within primary partnerships, potentially related to alcohol and drug use prior to sex.</p><p>The esquineros in this study display a constellation of risk behaviors, even in the lower risk classes. Multiple problem behaviors have previously been described in adolescent populations in the United States <ref type="bibr" target="#b22">[23]</ref>, pointing to an underlying factor that explains the correlation between problem behaviors. However, this was based on research in a general population sample; in this study, the esquineros are already a sub-sample of the general population with risky behaviors. Additional research has shown that HIV-related interventions targeted to effect one behavior have an influence on other behaviors as well <ref type="bibr" target="#b23">[24]</ref>. However, to achieve this, effective interventions for esquineros are needed.</p><p>Given that this population is difficult to recruit, their growing use of cheaply available internet in Peru <ref type="bibr" target="#b24">[25]</ref>, may indicate that the internet could be an important way to establish contact and to target interventions to this population <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27]</ref>. Internet-based HIV prevention interventions have been successful with similar populations in the past and may be useful to consider in subsequent studies <ref type="bibr" target="#b26">[27]</ref>.</p><p>LCA has been used extensively by market research firms to better design marketing campaigns, this approach can be incorporated into the design of more effective HIV prevention interventions for at-risk populations. Thus far, LCA has primarily been used to tailor alcohol and drug use interventions, however with the growing recognition that for HIV interventions to be effective they should be more focused to the target population <ref type="bibr" target="#b27">[28,</ref><ref type="bibr" target="#b28">29]</ref>; this strategy could be timely and highly beneficial.</p><p>This analysis has several limitations. The data come from the cross-sectional baseline assessment of a larger trial. Although behaviors tend to be established and stable, given the cross-sectional nature, there is no way to establish if they precede the measure of prevalent STIs. Additionally, the STIs measured include genital herpes, which may have been present years prior the assessment. Although the remaining STIs may also represent long standing infection, this is less likely with bacterial infections that can spontaneously clear or cause symptoms that facilitate medical intervention especially among men <ref type="bibr" target="#b29">[30,</ref><ref type="bibr" target="#b30">31]</ref>. Despite these limitations, the study included a large sample of esquineros, the methods used were highly standardized and controlled, and participation in the study was very high.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>This analysis serves to better quantify the risk profiles of the esquineros who have been previously identified as at higher risk of STI/HIV than others in their communities. The patterns of risk behavior are important to improve the focus of HIV/STI prevention efforts and to make them more relevant to the lives of these men. With these risk behavior profiles, it becomes clear that focusing on drug and alcohol use especially prior to sex are important risk factors to be focused on in future prevention efforts.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Socio-demographics among esquineros, 2003-2005 urban, coastal Peru</figDesc><table><row><cell>Demographics</cell><cell>Esquineros</cell><cell></cell></row><row><cell></cell><cell>n = 2109</cell><cell></cell></row><row><cell>Age (years)</cell><cell></cell><cell></cell></row><row><cell>Median (IQR) a</cell><cell>22 (20-26)</cell><cell></cell></row><row><cell>Relationship status</cell><cell></cell><cell></cell></row><row><cell>Single</cell><cell>1406</cell><cell>66.7%</cell></row><row><cell>Primary partner</cell><cell>596</cell><cell>28.3%</cell></row><row><cell>Formerly married</cell><cell>106</cell><cell>5.0%</cell></row><row><cell>Graduated high school</cell><cell>1038</cell><cell>49.2%</cell></row><row><cell>Had a child/children</cell><cell>703</cell><cell>33.3%</cell></row><row><cell>Employment</cell><cell></cell><cell></cell></row><row><cell>Stable work</cell><cell>467</cell><cell>22.1%</cell></row><row><cell>Occasional work</cell><cell>1229</cell><cell>58.3%</cell></row><row><cell>Help from family/friends/other</cell><cell>413</cell><cell>19.6%</cell></row><row><cell>Frequency lack of sufficient food</cell><cell></cell><cell></cell></row><row><cell>At least once a week</cell><cell>419</cell><cell>19.8%</cell></row><row><cell>At least once a month</cell><cell>333</cell><cell>15.8%</cell></row><row><cell>Rarely</cell><cell>875</cell><cell>41.5%</cell></row><row><cell>Never</cell><cell>482</cell><cell>22.9%</cell></row></table><note><p>a Interquartile range</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Prevalence of each item used in the latent class analysis</figDesc><table><row><cell>Risk behavior</cell><cell>Prevalence</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>(%)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Used alcohol prior to sex, past 6 months</cell><cell>67.0</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(ALSEX)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Used drugs, past 30 days (DRUGUSE)</cell><cell>30.2</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Used drugs prior to sex, past 6 months</cell><cell>18.4</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(DRUGSEX)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Exchanged money for sex, past 6 months</cell><cell>16.0</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(MONEY)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Reported a male sex partner, last 5 sex</cell><cell>12.6</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>partners last 6 months (MALE)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Reported 3? sex partners, last 6 months</cell><cell>29.9</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(SEXPART3)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Reported sex partners within the same</cell><cell>30.3</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>time frame, last 6 months (CONCUR)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="6">Table 3 Model fit and entropy of latent class analysis with increasing</cell></row><row><cell></cell><cell cols="2">numbers of classes</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="6">Criteria 2 Classes 3 Classes 4 Classes 5 Classes 6 Classes</cell></row><row><cell></cell><cell>BIC</cell><cell cols="5">15046.064 14650.728 14621.947 14643.953 14667.781</cell></row><row><cell></cell><cell>Entropy</cell><cell>0.614</cell><cell>0.755</cell><cell>0.838</cell><cell>0.855</cell><cell>0.689</cell></row></table><note><p>Bold values indicate the lowest BIC and entropy, these are both measures of model fit and the lowest value denotes the best model fit</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 5</head><label>5</label><figDesc>Differences between classes based on having a positive STI and unprotected sex</figDesc><table><row><cell>Variable</cell><cell>Class 1</cell><cell>Class 2</cell><cell>Class 3</cell><cell>Class 4</cell><cell>4 Class</cell><cell>Comparison classes</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>comparison</cell><cell>1/2 to classes test</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>test statistic, P value</cell><cell>statistic, P value</cell></row><row><cell>Positive for any STI</cell><cell>19.9%</cell><cell>16.5%</cell><cell>21.1%</cell><cell>25.6%</cell><cell>6.09, 0.107 a</cell><cell>3.11, 0.078 a</cell></row><row><cell>Positive for a recent STI b</cell><cell>7.4%</cell><cell>7.7%</cell><cell>9.1%</cell><cell>8.9%</cell><cell>1.69, 0.639 a</cell><cell>1.65, 0.199 a</cell></row><row><cell>No. unprotected sex acts,</cell><cell cols="5">11 (2-40) 21.5 (8.5-60) 15 (4-43) 16 (4-40) 2.70, \0.001 c</cell><cell>2.645, \0.01 c</cell></row><row><cell>6 months median (IQR)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. sex acts w/non-primary partner,</cell><cell cols="5">15 (4-14) 28 (11.5-61.5) 22 (10-52) 24 (8-51) 5.81, \0.001 c</cell><cell>13.522, \0.001 c</cell></row><row><cell>6 months median (IQR)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. unprotected sex acts w/non-primary</cell><cell cols="2">1 (0-10) 3 (0-18)</cell><cell>8 (3-21)</cell><cell cols="2">8 (3-26) 16.29, \0.001 c</cell><cell>17.791, \0.001 c</cell></row><row><cell>partner, 6 months median (IQR)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Any unprotected sex w/non-primary</cell><cell>58.4%</cell><cell>66.7%</cell><cell>87.6%</cell><cell>87.8%</cell><cell>176.47, \0.001 a</cell><cell>171.785, \0.000 a</cell></row><row><cell>partner, 6 months</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>a P value from Chi-square</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>b Excludes viral STIs (HSV-2 and HIV) and includes only syphilis if the RPR C 1:8 c P value from Wilcoxon rank sum</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We would like to thank the study participants and study staff of the <rs type="funder">NIMH Collaborative HIV/STD Prevention Trial in Peru</rs>. This study was funded by <rs type="funder">NIH/NIMH</rs> grant number <rs type="grantNumber">U10 MH61536</rs>, this was a 5-Country Cooperative Agreement being conducted in China, <rs type="person">India, Peru</rs>, <rs type="person">Russia</rs>, and <rs type="person">Zimbabwe. Each</rs> site has selected a different venue and population with which to implement the prevention program entitled Community Public <rs type="person">Opinion Leader</rs> (<rs type="projectName">C-POL) Intervention</rs>. <rs type="person">Kelika A. Konda</rs> was supported by <rs type="funder">NIMH</rs> <rs type="grantNumber">F31 MH084765</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_7phzUAf">
+					<idno type="grant-number">U10 MH61536</idno>
+					<orgName type="project" subtype="full">C-POL) Intervention</orgName>
+				</org>
+				<org type="funding" xml:id="_j2AEbsW">
+					<idno type="grant-number">F31 MH084765</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Young people: the centre of the HIV epidemic</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Monasch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mahy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Health Organ Tech Rep Ser</title>
+		<imprint>
+			<biblScope unit="volume">938</biblScope>
+			<biblScope unit="page" from="317" to="341" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Ana ´lisis de la situacio ´n epidemiolo ´gica del VIH/SIDA en el Peru ´. Analysis of the epidemiologic situation of HIV/AIDS in Peru</title>
+	</analytic>
+	<monogr>
+		<title level="j">Report. Lima: Direccio ´n General de Epidemiologia</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Ministerio de Salud</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">New populations at high risk of HIV/STIs in low-income, urban coastal Peru</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Caceres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Konda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Salazar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Leon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Klausner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Lescano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Behav</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="544" to="551" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Social marketing sexually transmitted disease and HIV prevention: a consumer-centered approach to achieving behaviour change</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Lamptey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Price</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aids</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">Suppl 2</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Audience segmentation as a social-marketing tool in health promotion: use of the risk perception attitude framework in HIV prevention in Malawi</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Rimal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mkandawire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Folda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Creel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2224" to="2229" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Targeting the audience for AIDS messages by actual and perceived risk</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Snyder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Rouse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Educ Prev</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="143" to="159" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Vulnerability and sexual risks: vagos and vaguitas in a low income town in Peru</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Salazar</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ca ´ceres Cf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rosasco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kegeles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Maiorana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ga ´rate</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cult, Health Sex</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="375" to="387" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">High rates of sex with men among high-risk, heterosexually-identified men in low-income, coastal Peru</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Konda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Lescano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Leontsini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Klausner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Coates</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Behav</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="483" to="491" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Effect of the NIMH Collaborative HIV/STD Intervention Trial on socially marginalized men in urban, coastal Peru</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Konda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Lescano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Celentano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Coates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Caceres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kegeles</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Johns Hopkins University</publisher>
+			<pubPlace>Baltimore</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">STD Prevention Trial Group. Results of the NIMH collaborative HIV/sexually transmitted disease prevention trial of a community popular opinion leader intervention</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Pequegnat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hiv</forename><surname>Collaborative</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Acquir Immune Defic Syndr</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="204" to="214" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Putting prevention at the forefront of HIV/ AIDS</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Horton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Das</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="issue">9637</biblScope>
+			<biblScope unit="page" from="421" to="422" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Training pharmacy workers in recognition, management, and prevention of STDs: district-randomized controlled trial</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Carcamo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Holmes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull World Health Organ</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="806" to="814" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Implementing innovative strategies to increase HIV testing and treatment among Peruvian MSM</title>
+		<author>
+			<persName><forename type="first">Santos</forename><surname>Alegria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eulatth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Blas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cabello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+		<idno>CDC0991</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IAS</title>
+		<imprint>
+			<date type="published" when="2008">2008. 2008</date>
+			<pubPlace>Mexico City, Mexico</pubPlace>
+		</imprint>
+	</monogr>
+	<note>IAS</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Green: an E-counseling experience for promoting HIV/AIDS prevention among MSM in Peru</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">E</forename><surname>Alva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Blas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Orellana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Davila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cabello</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dr</surname></persName>
+		</author>
+		<idno>THPE0361</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IAS</title>
+		<imprint>
+			<date type="published" when="2008">2008. 2008</date>
+			<pubPlace>Mexico City, Mexcio</pubPlace>
+		</imprint>
+	</monogr>
+	<note>IAS</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Methodological overview of a five-country community-level HIV/sexually transmitted disease prevention trial</title>
+		<author>
+			<persName><forename type="first">Hiv</forename><surname>Nimh Collaborative</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aids</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">Suppl 2</biblScope>
+			<biblScope unit="page" from="3" to="18" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+		<respStmt>
+			<orgName>STD Prevention Trial Group</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Rogers</surname></persName>
+		</author>
+		<title level="m">Diffusion of innovations</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Free Press</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>th ed</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Randomised, controlled, community-level HIV-prevention intervention for sexual-risk behaviour among homosexual men in US cities</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Sikkema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Mcauliffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Roffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Solomon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Community HIV Prevention Research Collaborative. Lancet</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="issue">9090</biblScope>
+			<biblScope unit="page" from="1500" to="1505" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">HIV risk behavior reduction following intervention with key opinion leaders of population: an experimental analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">St</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Diaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">E</forename><surname>Stevenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Y</forename><surname>Hauth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Brasfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="168" to="171" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Community AIDS/HIV risk reduction: the effects of endorsements by popular people in three cities</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">St</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Stevenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Y</forename><surname>Hauth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Kalichman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Diaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1483" to="1489" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Latent class analysis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mccutcheon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Newbury Park, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Muthe ´n B. Deciding on the number of classes in latent class analysis and growth mixture modeling: a Monte Carlo Simulation Study</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nylund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Asparouhov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Struct Equ Model</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="535" to="569" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Good item or bad-can latent class analysis tell?: the utility of latent class analysis for the evaluation of survey questions</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kreuter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tourangeau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J R Statist Soc A</title>
+		<imprint>
+			<biblScope unit="volume">171</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="723" to="738" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Structure of problem behavior in adolescence and young adulthood</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Donovan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jessor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Consult Clin Psychol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="890" to="904" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Four-year behavioral outcomes of an intervention for parents living with HIV and their adolescent children</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Rotheram-Borus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Leonard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Franzke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Turner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aids</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1217" to="1225" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Opportunities for providing web-based interventions to prevent sexually transmitted infections in Peru</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Curioso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Blas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nodell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">E</forename><surname>Alva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Kurth</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pmed.0040011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Med</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">11</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Efficacy of computer technology-based HIV prevention interventions: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Noar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Pierce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aids</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="107" to="115" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Internet as a tool to access high-risk men who have sex with men from a resource-constrained setting: a study from Peru</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Blas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">E</forename><surname>Alva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cabello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Carcamo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Redmon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sex Transm Infect</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="567" to="570" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Achieving the global goals on HIV among young people most at risk in developing countries: young sex workers, injecting drug users and men who have sex with men</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Boler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Health Organ Tech Rep Ser</title>
+		<imprint>
+			<biblScope unit="volume">938</biblScope>
+			<biblScope unit="page" from="317" to="341" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Effectiveness of interventions to prevent sexually transmitted infections and human immunodeficiency virus in heterosexual men: a systematic review</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Elwy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Hart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hawkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Petticrew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="1818" to="1830" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Gonococcal infections in the adult</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Handsfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sexually transmitted diseases</title>
+		<editor>
+			<persName><forename type="first">Kkmp</forename><surname>Holmes</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Sparling</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>rd ed</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The natural history of untreated Chlamydia trachomatis infection in the interval between screening and returning for treatment</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Geisler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Morrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Bandea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Hook</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sex Transm Dis</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="119" to="123" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

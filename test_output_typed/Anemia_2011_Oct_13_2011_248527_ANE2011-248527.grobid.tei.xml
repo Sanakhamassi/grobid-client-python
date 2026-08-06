@@ -1,0 +1,1798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Properties of Red Blood Cells from Patients Heterozygous for HbS and HbC (HbSC Genotype)</title>
+				<funder>
+					<orgName type="full">British Heart Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Medical Research Council</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Wellcome Trust</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">A</forename><surname>Hannemann</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Veterinary Medicine</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<addrLine>Madingley Road</addrLine>
+									<postCode>CB3 0ES</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">E</forename><surname>Weiss</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Veterinary Medicine</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<addrLine>Madingley Road</addrLine>
+									<postCode>CB3 0ES</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Rees</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Molecular Haematology</orgName>
+								<orgName type="institution">King&apos;s College Hospital</orgName>
+								<address>
+									<postCode>SE5 9RS</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Dalibalta</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Physiology, Anatomy &amp; Genetics</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<addrLine>Parks Road</addrLine>
+									<postCode>OX1 3PT</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Physiology, Anatomy &amp; Genetics</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<addrLine>Parks Road</addrLine>
+									<postCode>OX1 3PT</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gibson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Veterinary Medicine</orgName>
+								<orgName type="institution">University of Cambridge</orgName>
+								<address>
+									<addrLine>Madingley Road</addrLine>
+									<postCode>CB3 0ES</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Properties of Red Blood Cells from Patients Heterozygous for HbS and HbC (HbSC Genotype)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1CCEB010F708D577C10CCC61A781CBFA</idno>
+					<idno type="DOI">10.1155/2011/248527</idno>
+					<note type="submission">Received 5 August 2010; Revised 2 September 2010; Accepted 8 September 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:04+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Sickle cell disease (SCD) is one of the commonest severe inherited disorders, but specific treatments are lacking and the pathophysiology remains unclear. Affected individuals account for well over 250,000 births yearly, mostly in the Tropics, the USA, and the Caribbean, also in Northern Europe as well. Incidence in the UK amounts to around 12-15,000 individuals and is increasing, with approximately 300 SCD babies born each year as well as with arrival of new immigrants. About two thirds of SCD patients are homozygous HbSS individuals. Patients heterozygous for HbS and HbC (HbSC) constitute about a third of SCD cases, making this the second most common form of SCD, with approximately 80,000 births per year worldwide. Disease in these patients shows differences from that in homozygous HbSS individuals. Their red blood cells (RBCs), containing approximately equal amounts of HbS and HbC, are also likely to show differences in properties which may contribute to disease outcome. Nevertheless, little is known about the behaviour of RBCs from HbSC heterozygotes. This paper reviews what is known about SCD in HbSC individuals and will compare the properties of their RBCs with those from homozygous HbSS patients. Important areas of similarity and potential differences will be emphasised.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Like homozygous HbSS individuals, individuals heterozygous for HbS and HbC (HbSCs) suffer from sickle cell disease (SCD) <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref>. The condition in HbSC patients (here called HbSC disease cf. HbSS disease in homozygotes) not only has some overlap with that seen in HbSS patients, but also has distinctive laboratory and clinical features identifying it as a separate entity <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>. Although HbSC disease is one of the commonest significant genetic diseases worldwide, it is comparatively neglected with very few laboratory or clinical studies addressing the condition directly. Thus, whilst extensive research has been carried out on understanding SCD in HbSS patients, little relates specifically to the pathogenesis in HbSC patients. In clinical trials of potential novel therapies for SCD, HbSC patients are often specifically excluded. Furthermore, most clinical and laboratory features of HbSC disease have been inferred from studies of HbSS, which may not be appropriate. This paper addresses the pathophysiological differences shown by SCD in HbSS and HbSC patients and the diversity in their clinical complications. Particular reference is paid to the transport abnormalities of the RBC membrane.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Genotypic Variants of SCD</head><p>All SCD patients have the abnormal haemoglobin HbS in their red cells instead of the normal adult HbA <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref>. HbS results from a single base mutation in codon 6 of the βglobin gene which causes a single amino acid substitution in position β6 (glutamic acid → valine, with net loss of one negative charge). Homozygous HbSS patients have two copies of the altered gene. The mutation arose in West Africa, where the high prevalence of HbS appears to be due to selection pressure conferred by a relative resistance to malaria. Malaria resistance has also increased the prevalence Anemia of a second abnormal Hb, HbC, which like HbS represents one of the most prevalent forms of abnormal human Hb. HbC also has a single mutation/amino acid change at the same position in β-Hb, but with lysine replacing glutamic acid (hence net loss of two negative charges). These changes in protein charge may alter how the different Hbs interact and modulate transporter function at the RBC membrane <ref type="bibr" target="#b12">[13]</ref>. The charge differences are also used for electrophoretic tests for abnormal Hb, although care must be exercised to exclude certain non-SCD haemoglobinopathies which may mimic HbSC. Homozygous HbCC individuals show few disease symptoms apart from a mild haemolytic anaemia <ref type="bibr" target="#b5">[6]</ref>. Heterozygotes of HbA with either HbS or HbC are also largely asymptomatic. Coinheritance of HbS and HbC to produce HbSC heterozygotes, however, results in a clinically significant disease similar, but not identical, to that in HbSS individuals <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>. Although globally HbSC heterozygotes represent about a third of SCD cases, their distribution is by no means uniform. HbC appears to have originated in Burkina Faso <ref type="bibr" target="#b5">[6]</ref> where HbSC cases may outnumber those of HbSS. In other areas, such as the Middle East and India, HbSC cases are rare. In this context, it is worth pointing out that estimates of the frequency of different haemoglobinopathies are likely to be inexact, relying on outdated or incorrect information <ref type="bibr" target="#b13">[14]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">HbSC Disease as a Unique Clinical Entity</head><p>All cases of SCD, including those of HbSC disease, are characterised by shortened red cell life span and chronic anaemia, together with recurrent episodes of more acute vaso-occlusion, tissue ischaemia, and increased mortality <ref type="bibr" target="#b11">[12]</ref>. Affected individuals have a poor quality of life with numerous complications, for example, pain, cerebrovascular disease (strokes), renal and pulmonary damage, leg ulcers, and priapism <ref type="bibr" target="#b1">[2]</ref>. An important feature of SCD is that the clinical scenario is notably heterogeneous-patients may present with mild forms of the disease which rarely require medical intervention or alternatively with more severe complications warranting frequent hospitalisation and aggressive management. Presumably modifier genes and/or environmental factors are significant, but although this area is now receiving considerable attention, it remains poorly understood at present <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref>.</p><p>In most cases, HbSC disease is clinically milder than HbSS disease and the various complications of SCD usually occur less often or later in life <ref type="bibr" target="#b7">[8]</ref>. For example, leg ulcers and other chronic vascular manifestations occur infrequently. Loss of splenic function is relatively delayed, preserving red cell scavenging and thereby possibly affecting disease complications. Nevertheless, HbSC disease still has a significant impact on patients who show haemolytic anaemia, organ failures (stroke, renal failure, chronic lung disease.), and increased mortality (with a median survival of 60 years for males in USA) <ref type="bibr" target="#b14">[15,</ref><ref type="bibr" target="#b17">18]</ref>. Pregnant women sometimes develop complications having been hitherto asymptomatic <ref type="bibr" target="#b18">[19]</ref>. Complications also occur in children with the risk of stroke in childhood being about 100 times greater than that in the general population <ref type="bibr" target="#b17">[18]</ref>. Furthermore, in HbSC heterozygotes, some of the serious complications of SCD (such as osteonecrosis) are as common as for HbSS patients and some (e.g., proliferative sickle retinopathy and possibly acute chest syndrome) occur more frequently <ref type="bibr" target="#b7">[8]</ref>. This is also apparent for some central auditory and vestibular problems <ref type="bibr" target="#b18">[19]</ref>.</p><p>Additionally, HbSC is haematologically distinct from HbSS, with higher Hb levels (but lower levels of HbF), lower rates of haemolysis and lower white cell counts <ref type="bibr" target="#b7">[8]</ref>. Some of these features are well illustrated in clinical and haematological observations on patients from our clinics (see <ref type="bibr" target="#b19">[20,</ref><ref type="bibr">Table 1]</ref>). These distinctive features imply that individuals with HbSC disease should be treated as a discrete subset of SCD patients.</p><p>Currently there is very little specific information on the pathophysiology and management of HbSC disease, with much being inferred from studies of HbSS patients. Differences in pathogenesis between HbSC and HbSS disease are expected, however. Understanding them will be important in the management of HbSC patients and may also contribute to a better appreciation of the condition in homozygous individuals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Pathogenesis of SCD</head><p>Although the underlying molecular defect of SCD is long established, how HbS results in the clinical complications remains poorly understood. The chronic anaemia and acute ischaemic episodes both are associated with altered rheology and increased adhesiveness of both RBCs and vascular endothelium <ref type="bibr" target="#b20">[21]</ref>. RBCs are more fragile and more readily scavenged from the circulation, contributing to the chronic anaemia, whilst microvascular occlusion is also encouraged causing the acute ischaemic events characteristic of SCD. Intravascular haemolysis is observed and the consequent release of Hb to circulate freely in plasma contributes to the vasculopathy, probably by scavenging nitric oxide (NO) and causing a functional deficiency of that molecule <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b22">23]</ref>. Some authors divide the disease complications of SCD into two broad categories, with sequelae caused either predominantly by altered RBC rheology and elevated blood viscosity (e.g., pain, osteonecrosis, and acute chest syndrome) or by intravascular haemolysis and NO scavenging (e.g., pulmonary hypertension, stroke, priapism, and leg ulceration) <ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref>. In any event, polymerisation of HbS on deoxygenation is central to anaemia, vaso-occlusion, and haemolysis-although complete deoxygenation may not be needed, especially in the case of hyperdense RBCs with high cell <ref type="bibr">[Hb]</ref>, such as some of those found in HbSC individuals. Formation of long rods of HbS distorts RBC shape, reduces deformability, and increases viscosity, thus compromising vascular red cell rheology <ref type="bibr" target="#b26">[27]</ref>. Other key events in the pathogenesis have been identified. First, red cell volume is critically important <ref type="bibr" target="#b27">[28]</ref>. The increased cation permeability of HbS-containing red cells results in solute loss with water following osmotically. Consequently, [HbS] increases. As the rate of HbS polymerisation upon In RBCs from homozygous HbSS individuals, high cation permeability is accounted for by three main pathways <ref type="bibr" target="#b27">[28,</ref><ref type="bibr" target="#b36">37]</ref>. Under oxygenated conditions, the KCl cotransporter (KCC) is highly active. It is overexpressed in HbSS cells compared to HbAA ones and does not become quiescent as RBCs mature. It is stimulated further by low pH (reduction in extracelluar pH from 7.4 to 7). Under deoxygenated conditions, KCC remains active-again unlike the situation in HbAA RBCs <ref type="bibr" target="#b39">[40]</ref>. In addition, two other pathways are observed. The deoxygenation-induced cation conductance (or P sickle ) is activated as HbS polymerises. It mediates entry of Ca 2+ . Elevation in intracellular Ca 2+ then leads to activation of the third pathway, the Ca 2+ -activated K + channel, or Gardos channel. These three pathways result in solute loss, cell shrinkage and dehydration, and consequent increase in [HbS]. They thereby contribute to pathogenesis of sickle cell disease. They are also likely to be involved in solute loss from RBCs of patients heterozygous for HbS and HbC (HbSC genotype), though details are lacking and differences in their behaviour compared to that in HbSS cells are expected.</p><p>deoxygenation is proportional to a very high power of [HbS], a small reduction in cell volume and hence increase in [HbS] markedly encourages HbS polymerisation <ref type="bibr" target="#b26">[27]</ref>. Second, red cell stickiness is also increased <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref>. This results, at least in part, from exposure of phosphatidylserine (PS) on the outer bilayer of the membrane <ref type="bibr" target="#b31">[32]</ref>. Exposed PS is prothrombotic and increases adherence of red cells to macrophages and endothelium, contributing to chronic anaemia, haemolysis, and vaso-occlusion <ref type="bibr" target="#b32">[33]</ref>. Again, the cause of PS exposure is not clear, but sickling-induced Ca 2+ entry may play an important role <ref type="bibr" target="#b33">[34]</ref>. Third, SCD represents an inflammatory state with raised levels of cytokines, chronic elevation of leukocyte counts, shortened leukocyte half-life, and abnormal activation of granulocytes, monocytes, and endothelium <ref type="bibr" target="#b34">[35,</ref><ref type="bibr" target="#b35">36]</ref>. The resulting cytokine stimulation of endothelial cells increases their adhesiveness to sickle RBCs <ref type="bibr" target="#b34">[35,</ref><ref type="bibr" target="#b35">36]</ref>. How these various changes interact to produce the symptoms of SCD represents a major research challenge. In addition, the extent to which these various mechanisms are involved in disease pathogenesis would be expected to differ between HbSS homozygotes and HbSC heterozygotes. For example, reduced intravascular haemolysis in the latter may ameliorate NO scavenging.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Altered Membrane Transport in Homozygous HbSS Cells</head><p>Increased membrane permeability of HbS-containing red cells contributes to SCD pathogenesis by promoting Ca 2+ entry, KCl loss with water following osmotically, and hence RBC dehydration <ref type="bibr" target="#b27">[28,</ref><ref type="bibr" target="#b33">34,</ref><ref type="bibr" target="#b36">37]</ref>. In HbSS cells, the involvement of three pathways has been proposed: the KCl cotransporter (KCC), the deoxygenation-induced cation conductance (or P sickle ), and the Ca 2+ -activated K + channel Anemia (or Gardos channel, KCNN4) <ref type="bibr" target="#b27">[28]</ref>. These three systems are illustrated schematically in Figure <ref type="figure" target="#fig_0">1</ref>. The first of these, KCC (likely KCC1 and KCC3 isoforms), is more active and abnormally regulated in HbSS cells <ref type="bibr" target="#b37">[38]</ref><ref type="bibr" target="#b38">[39]</ref><ref type="bibr" target="#b39">[40]</ref>. Mean activity is enhanced &gt;10-fold in unstimulated cells with several stimuli increasing activity further. In normal RBCs, cell swelling is an important trigger of KCC activity <ref type="bibr" target="#b40">[41]</ref>. For HbSS cells, however, intracellular pH is probably the most important stimulus in vivo, with KCC activity reaching a peak at about pH 7 <ref type="bibr" target="#b37">[38,</ref><ref type="bibr" target="#b41">42]</ref>. The transporter also responds to O 2 tension <ref type="bibr" target="#b42">[43]</ref>. In normal red cells, high levels of O 2 are required for KCC activity, with the transporter becoming inactivated at low O 2 . By contrast, in HbSS cells, the transporter remains active during full deoxygenation, thereby allowing it to respond to low pH in hypoxic areas (like active muscle beds) <ref type="bibr" target="#b39">[40]</ref> (Figures <ref type="figure" target="#fig_0">1</ref> and <ref type="figure" target="#fig_1">2</ref>). KCC is regulated by phosphorylation, through cascades of conjugate protein kinases and phosphatases <ref type="bibr" target="#b43">[44]</ref>, with differences apparent in HbSS cells compared with HbAA ones, but at present these are poorly defined. The relative deficiency of intracellular Mg 2+ in HbSS cells <ref type="bibr" target="#b44">[45,</ref><ref type="bibr" target="#b45">46]</ref> probably acts to increase KCC activity by altering the activity of these regulatory enzymes.</p><p>The second pathway, P sickle , is apparently unique to HbS-containing red cells <ref type="bibr" target="#b27">[28,</ref><ref type="bibr" target="#b33">34]</ref>. It is activated to a variable extent by deoxygenation, HbS polymerisation, and shape change <ref type="bibr" target="#b46">[47,</ref><ref type="bibr" target="#b47">48]</ref> (Figures <ref type="figure" target="#fig_0">1</ref> and <ref type="figure" target="#fig_1">2</ref>). P sickle has the characteristics of a nonspecific cation channel <ref type="bibr" target="#b33">[34]</ref>. An anion permeability is controversial, whilst, more recently, it has been proposed as permeable under certain conditions to nonelectrolytes <ref type="bibr" target="#b48">[49]</ref>. The main effect of P sickle is probably the increased Ca 2+ entry <ref type="bibr" target="#b48">[49,</ref><ref type="bibr" target="#b49">50]</ref> and possibly the Mg 2+ loss <ref type="bibr" target="#b44">[45]</ref>. Raised intracellular Ca 2+ has several roles which include phospholipid scrambling <ref type="bibr" target="#b50">[51]</ref>. It will also activate the third pathway responsible for HbS cell dehydration, the Gardos channel <ref type="bibr" target="#b51">[52]</ref> (Figures <ref type="figure" target="#fig_0">1</ref> and <ref type="figure" target="#fig_2">3</ref>). The Gardos channel is then capable of mediating very rapid efflux of K + with Cl -following for electroneutrality and water osmotically.</p><p>These mechanisms cause solute loss and HbSS cell shrinkage. Episodes may be short lived and produce only modest degrees of solute loss. But they may occur repeatedly during the lifetime of the RBCs, often during deoxygenationinduced sickling events. Accordingly, HbSS cells show an increase in MCHC of a few percent compared to normal red cells (c.34 g•dL -1 cf. 33 in HbAA cells, density approx 1.085 g•mL -1 ), but importantly there is a large range about this mean with many dense cells (&gt;1.095 g•ml -1 , MCHC c.38 g•dl -1 ), some of which are exceedingly dense (1.125 g•ml -1 , c.50 g•dl -1 ) <ref type="bibr" target="#b52">[53]</ref>. A significant feature of HbSS RBCs is their marked heterogeneity, with certain subpopulations possibly more important in pathogenesis <ref type="bibr" target="#b27">[28]</ref>. The densest HbSS cells are mainly older ones, presumably following repeated episodes of solute loss <ref type="bibr" target="#b53">[54]</ref>. Reticulocytes are mostly low density (c.26 g•dl -1 ), as they are in normal individuals <ref type="bibr" target="#b54">[55]</ref>. However, there is a small fraction of young, dense HbSS cells, the so-called fast-track reticulocytes, which become rapidly dehydrated on deoxygenation while still young <ref type="bibr" target="#b27">[28,</ref><ref type="bibr" target="#b55">56]</ref>. Although this technique measures a K + influx, because of the high K + content of RBCs, net solute movement through the transport systems will be outwards. KCl cotransport activity was calculated as the Cl -dependent K + influx, Gardos channel activity as the clotrimazole (5 μM)-sensitive K + influx, and P sickle as the Cl --independent K + influx (Cl -substituted with NO 3 -). Sickling, P sickle , and Gardos channel activation occurs in deoxygenated conditions-as for HbSS RBCs-but KCC activity is low when O 2 is removed (as in RBCs from HbAA cells). Data taken from <ref type="bibr" target="#b63">[64]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Altered Properties of HbSC Cells</head><p>RBCs from HbSC patients also show K + loss, raised MCHC and haemolytic anaemia with reticulocytosis <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b56">[57]</ref><ref type="bibr" target="#b57">[58]</ref><ref type="bibr" target="#b58">[59]</ref>. The properties of HbSC RBCs, however, differ in important respects from those of HbSS cells. In HbSC cells, K + loss and dehydration are markedly more pronounced <ref type="bibr" target="#b57">[58,</ref><ref type="bibr" target="#b58">59]</ref>. MCHC is particularly high, at about 37 g•dl -1 (cf. 33 g•dl -1 in HbAA individuals; 33-34 g•dl -1 for the reversibly sickled fraction of HbSS patients) <ref type="bibr" target="#b56">[57,</ref><ref type="bibr" target="#b57">58]</ref>. Whilst most reticulocytes from normal HbAA and HbSS are characteristically low density (26 g•dl -1 ), HbSC reticulocytes are mainly high density (MCHC c.34 g•dl -1 ) <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b57">58]</ref>. Usually older RBCs are denser; however the monotonic decrease in reticulocyte count with increasing cell density observed for red cells from HbSS patients (as well as HbAA and HbAS individuals) does not occur in HbSC patients <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b59">60]</ref>. Instead, HbSC reticulocytes are fairly evenly distributed across the different RBC densities <ref type="bibr" target="#b4">[5]</ref>, or perhaps even more concentrated in the denser fractions <ref type="bibr" target="#b59">[60]</ref>. This has been taken as evidence that a significant proportion of young HbSC cells begin their lives with a high density <ref type="bibr" target="#b4">[5]</ref>, rather than undergoing a more gradual dehydration observed in HbSS cells upon repeat Test potentials from -80 to +80 mV were applied for 300 ms in 10 mV increments from a holding potential of -10 mV. Measurements were made using Na + -containing bath and pipette solutions. Data taken from <ref type="bibr" target="#b19">[20]</ref>. See <ref type="bibr" target="#b65">[66]</ref> for experimental details. The conductance of RBCs from HbSC patients is high and increases further on deoxygenation.</p><p>episodes of sickling. In this respect, perhaps the majority of HbSC reticulocytes behave like the "fast-track" reticulocytes of HbSS patients <ref type="bibr" target="#b55">[56]</ref>-cells which dehydrate rapidly on leaving the bone marrow-but this remains to be established. It also raises the question as to what constitutes RBCs in the less dense HbSC fractions. Can shrunken HbSC cells regain lost solute and increase their volume? If so, what is the mechanism and what are transport systems involved?</p><p>As heterozygotes, HbSC cells contain both HbS and HbC, in approximately equal amounts (i.e., 50%). This contrasts with the lower HbS content (c.40%) found in sickle trait HbAS cells <ref type="bibr" target="#b4">[5]</ref>. Crystals of HbC are sometimes present in oxygenated RBCs. In contrast to HbS polymers, these deposits are lost on deoxygenation <ref type="bibr" target="#b59">[60]</ref>. Because of the high HbS content and polymerisation, HbSC cells also show a deoxygenation-induced sickling shape change. In this case, however, rather than the HbSS sickles and holly leaf forms, deoxygenated HbSC cells show multifolded shapes such as "pita breads" and "tricorns" <ref type="bibr" target="#b59">[60]</ref>, perhaps because of the high surface area to volume ratio subsequent to their more marked dehydration. How HbS and HbC interact has also received some attention. Using different Hb mixtures, a direct interaction between the two Hbs appears to only slightly enhance HbS polymerisation. Much more important in HbSC disease is RBC dehydration and consequently the high MCHC <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b60">61,</ref><ref type="bibr" target="#b61">62]</ref>. High MCHC and lower levels of HbF may have an effect on the extent and kinetics of HbS polymerisation whilst concurrent Hb mutations (such as βthalassaemia) may also play a significant role.</p><p>It is therefore critical to understand fully the mechanisms by which these RBCs shrink, but our understanding of the mechanisms involved remains uncertain. Oxygenated HbSC cells have elevated KCC activity that is stimulated by low pH and swelling <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b59">60]</ref>. Cytoplasmic protein concentration has been suggested as the "volume" sensor of RBCs <ref type="bibr" target="#b62">[63]</ref>. It is therefore intriguing to speculate that high KCC activity in oxygenated HbSC cells may result from the presence of HbC crystals which would lower the total concentration of soluble Hb, as occurs in swollen RBCs. In effect, the cells "think" that they are swollen and so activate mechanisms to lose solutes and water, namely, KCC. On the other hand, deoxygenated HbSC cells also show increased K + efflux, to an extent Anemia apparently greater than that observed in deoxygenated HbSS cells <ref type="bibr" target="#b57">[58]</ref>. Which pathway mediates the flux in deoxygenated conditions, however, has not been established. If P sickle is involved, given the lower [HbS] of HbSC cells, it is not clear why it should be activated to a greater extent than in HbSS cells. KCC and the Gardos channel represent obvious alternative pathways.</p><p>A number of manoeuvres which reduce reticulocyte density may provide evidence for the transport pathways involved in their dehydration. Both Cl -removal and deoxygenation shift HbSC reticulocytes to lower densities, consistent with solute retention following inhibition of KCC <ref type="bibr" target="#b59">[60]</ref>. Hypotonic swelling of HbSC cells also reduces the deoxygenation-induced K + loss <ref type="bibr" target="#b57">[58]</ref>, perhaps through reduction in [HbS] removing a P sickle -like element of K + flux.</p><p>In preliminary studies, we have observed high KCC activity in oxygenated unfractionated HbSC cells, which was almost completely inhibited on deoxygenation <ref type="bibr" target="#b63">[64]</ref>. Thus, KCC in HbSC cells behaved like that in HbSS cells at high O 2 tension and like that in HbAA cells when tension was reduced <ref type="bibr" target="#b63">[64]</ref> (Figure <ref type="figure" target="#fig_2">3</ref>). We also found activation of a deoxygenation-induced Cl --independent K + flux <ref type="bibr" target="#b63">[64]</ref>, a deoxygenation-induced nonelectrolyte permeability <ref type="bibr" target="#b64">[65]</ref> and a deoxygenation-induced rise in K + conductance in patch-clamp experiments <ref type="bibr" target="#b65">[66]</ref> (Figure <ref type="figure" target="#fig_3">4</ref>), namely, a P sicklelike permeability, together with activation of the Gardos channel. In this context, it is interesting that HbC has a higher affinity for the RBC membrane than either HbA or HbS <ref type="bibr" target="#b58">[59]</ref> leading to an early suggestion that HbSC interaction is involved in modulating RBC permeability.</p><p>It is apparent, however, that our understanding of the permeability of HbSC cells requires further investigation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.">Conclusion: The Importance of Cell Dehydration in HbSC Disease</head><p>Understanding dehydration is particularly relevant for HbSC cells. The solubility of deoxygenated HbS is about 17 g•dl -1 compared to 70 g•dl -1 for HbA. As HbS represents only about half the total Hbs in HbSC cells, a relatively small decrease in MCHC (from an RBC total of 37 to 33 g•dl -1 ) will prevent HbS polymerisation <ref type="bibr" target="#b60">[61]</ref> while retaining the functionally important discocyte morphology. As HbS constitutes about half the Hbs in these RBCs, this would mean a fall in [HbS] from 18.5 to 16.5. In comparison, in HbSS cells, a reduction of MCHC to &lt;25 g•dl -1 is required, by which time RBCs will be spherocytic, and cell swelling per se will adversely affect rheology <ref type="bibr" target="#b57">[58]</ref>. Notwithstanding their relevance to dehydration and sickling, the permeability of HbSC cells has not been well studied nor compared in detail with that of HbSS cells. Several areas require more careful investigation. The interaction between different Hbs, membrane target sites regulating permeability, the transport pathways involved, the role of cell density, oxygenation, volume, and pH presents a complex pattern of modalities controlling solute content and hence cell density and MCHC. Control by phosphorylation remains mainly unexplored. The challenge ahead lies to define the most important stimuli and how they interact to determine cell volume. A major therapeutic goal is the ability to prevent HbSC cell dehydration or to promote rehydration.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 :</head><label>1</label><figDesc>Figure1: Schematic diagram of the main transport pathways activated in red blood cells (RBCs) from sickle cell patients. In RBCs from homozygous HbSS individuals, high cation permeability is accounted for by three main pathways<ref type="bibr" target="#b27">[28,</ref><ref type="bibr" target="#b36">37]</ref>. Under oxygenated conditions, the KCl cotransporter (KCC) is highly active. It is overexpressed in HbSS cells compared to HbAA ones and does not become quiescent as RBCs mature. It is stimulated further by low pH (reduction in extracelluar pH from 7.4 to 7). Under deoxygenated conditions, KCC remains active-again unlike the situation in HbAA RBCs<ref type="bibr" target="#b39">[40]</ref>. In addition, two other pathways are observed. The deoxygenation-induced cation conductance (or P sickle ) is activated as HbS polymerises. It mediates entry of Ca 2+ . Elevation in intracellular Ca 2+ then leads to activation of the third pathway, the Ca 2+ -activated K + channel, or Gardos channel. These three pathways result in solute loss, cell shrinkage and dehydration, and consequent increase in [HbS]. They thereby contribute to pathogenesis of sickle cell disease. They are also likely to be involved in solute loss from RBCs of patients heterozygous for HbS and HbC (HbSC genotype), though details are lacking and differences in their behaviour compared to that in HbSS cells are expected.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2: Effect of oxygen tension on the activity of KCl cotransport (KCC) or P sickle in red blood cells (RBCs) from normal individuals or patients with sickle cell disease. The activity of each transport pathway is normalised-to the value in oxygenated cells (150 mmHg O 2 ) for KCC activity and for that in deoxygenated RBCs (0 mmHg) in the case of P sickle -and given as a percentage. Solid circles give KCC activity in RBCs from normal HbAA individuals; open symbols give KCC activity (open circles) or P sickle activity (open triangles) in RBCs from sickle cell patients (HbSS homozygotes). In these experiments, total magnitude of KCC activity was about 10-fold greater in RBCs from HbSS individuals compared with HbAA ones. Note how the deoxygenation-induced KCC activity and activation of P sickle follow a similar dependence on O 2 tension. Data taken from [67].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 :</head><label>3</label><figDesc>Figure3: Components of K + transport pathways and sickling in red blood cells (RBCs) from sickle cell disease patients heterozygous for HbS and HbC (HbSC genotype). K + influxes are given as flux units [mmol•(l cells•h) -1 ] measured at 5 mM [K + ] o and numbers of sickled cells as a percentage of total RBCs in fully oxygenated (150 mmHg O 2 ) or deoxygenated (0 mmHg) conditions. Although this technique measures a K + influx, because of the high K + content of RBCs, net solute movement through the transport systems will be outwards. KCl cotransport activity was calculated as the Cl -dependent K + influx, Gardos channel activity as the clotrimazole (5 μM)-sensitive K + influx, and P sickle as the Cl --independent K + influx (Cl -substituted with NO 3 -). Sickling, P sickle , and Gardos channel activation occurs in deoxygenated conditions-as for HbSS RBCs-but KCC activity is low when O 2 is removed (as in RBCs from HbAA cells). Data taken from<ref type="bibr" target="#b63">[64]</ref>.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 :</head><label>4</label><figDesc>Figure 4: Conductance of red blood cells (RBCs) from sickle cell patients heterozygous for HbS and HbC (HbSC genotype). (a), (b) Representative whole-cell recordings from (a) oxygenated and (b) deoxygenated RBCs. (c) Mean whole-cell currents + S.E.M., n = 5.Test potentials from -80 to +80 mV were applied for 300 ms in 10 mV increments from a holding potential of -10 mV. Measurements were made using Na + -containing bath and pipette solutions. Data taken from<ref type="bibr" target="#b19">[20]</ref>. See<ref type="bibr" target="#b65">[66]</ref> for experimental details. The conductance of RBCs from HbSC patients is high and increases further on deoxygenation.</figDesc></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgment</head><p>The authors thank the <rs type="funder">Medical Research Council</rs>, the <rs type="funder">British Heart Foundation</rs>, and the <rs type="funder">Wellcome Trust</rs> for financial support.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Abbreviations</head><p>Here we term red cells from HbSS patients as HbSS cells, those from HbSC individuals as HbSC cells.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Sickle-cell disease</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Serjeant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Lancet</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="issue">9079</biblScope>
+			<biblScope unit="page" from="725" to="730" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Management of sickle cell disease</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Steinberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">340</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1021" to="1030" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Mapping the prevalence of sickle cell and beta thalassaemia in England: estimating and validating ethnic-specific rates</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hickman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Modell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Greengross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Haematology</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="860" to="867" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<monogr>
+		<title level="m">NHS sickle cell &amp; thalassaemia screening programme</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Molecular and cellular pathogenesis of hemoglobin SC disease</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename><surname>Bunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Noguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hofrichter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Schechter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Schechter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Eaton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences of the United States of America</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="7527" to="7531" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">disease and HbC disorders</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Nagel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Steinberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Hemoglobin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Disorders of</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Hemoglobin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Steinberg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Forget</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Higgs</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Nagel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="756" to="785" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The distinct pathobiology of sickle cell-hemoglobin C disease: therapeutic implications</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Nagel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lawrence</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hematology/Oncology Clinics of North America</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="433" to="451" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The paradox of hemoglobin SC disease</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Nagel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Fabry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Steinberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood Reviews</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="167" to="178" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Sickle cell anemia, a molecular disease</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pauling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Itano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Singer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">C</forename><surname>Wells</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">2865</biblScope>
+			<biblScope unit="page" from="543" to="548" />
+			<date type="published" when="1949">1949</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Gene mutations in human haemoglobin: the chemical difference between normal and sickle cell haemoglobin</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Ingram</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">180</biblScope>
+			<biblScope unit="issue">4581</biblScope>
+			<biblScope unit="page" from="326" to="328" />
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Human β globin messenger RNA. III. Nucleotide sequences derived from complementary DNA</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Marotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Forget</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Weissman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Biological Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">252</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="5040" to="5053" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename><surname>Bunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Forget</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hemoglobin: Molecular, Genetic and Clinical Aspects</title>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>WB Saunders</publisher>
+			<pubPlace>Philadelphia, Pa, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Hemoglobin variants and activity of the (K + Cl -) cotransport system in human erythrocytes</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Olivieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vitoux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Galacteros</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="793" to="797" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The inherited diseases of haemoglobin are an emerging global health burden</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Weatherall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="4331" to="4336" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Genetic etiologies for phenotypic diversity in sickle cell anemia</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Steinberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">TheScientificWorldJournal</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="46" to="67" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Genetic modifiers of the severity of sickle cell anemia idenitified through a genome-wide association study</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sebastini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Solovieff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Hartley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Hematology</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="29" to="35" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Discovering the genetics underlying foetal haemoglobin production in adults</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Thein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Menzel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Haematology</title>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="455" to="467" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The variable expression of sickle cell disease is genetically determined</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Powars</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Schroeder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Seminars in Hematology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="360" to="376" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Clinical aspects of sickle cell anemia in adults and children</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ohene-Frempong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Steinberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Disorders of</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Hemoglobin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Steinberg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Forget</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Higgs</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Nagel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="611" to="670" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Novel permeability characteristics of red blood cells from sickle cell patients</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dalibalta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Browning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Wilkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Rees</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gibson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood Cells, Molecules, and Diseases</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="46" to="52" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Beyond hemoglobin polymerization: the red blood cell membrane and sickle disease pathophysiology</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Hebbel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="214" to="237" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Cell-free hemoglobin limits nitric oxide bioavailability in sickle-cell disease</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Reiter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Tanus-Santos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Medicine</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1383" to="1389" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Lactate dehydrogenase as a biomarker of hemolysis-associated nitric oxide resistance, priapism, leg ulceration, pulmonary hypertension, and death in patients with sickle cell disease</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mcgowan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Machado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2279" to="2285" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Sickle-cell disease</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stuart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Nagel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Lancet</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="issue">9442</biblScope>
+			<biblScope unit="page" from="1343" to="1360" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The clinical sequelae of intravascular hemolysis and extracellular plasma hemoglobin: a novel mechanism of human disease</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Rother</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hillmen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Gladwin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Medical Association</title>
+		<imprint>
+			<biblScope unit="volume">293</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1653" to="1662" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Sickle cell disease vasculopathy: a state of nitric oxide resistance</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Gladwin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Free Radical Biology and Medicine</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1506" to="1528" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Hemoglobin S gelation and sickle cell disease</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Eaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hofrichter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1245" to="1266" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Ion transport pathology in the mechanism of sickle cell dehydration</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Lew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Bookchin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physiological Reviews</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="179" to="200" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Adhesion of normal and sickle erythrocytes to endothelial monolayer cultures</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Warren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="872" to="876" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Erythrocyte adherence to endothelium in sicklecell anemia. A possible determinant of disease severity</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Hebbel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A B</forename><surname>Boogaerts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Eaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Steinberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">302</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="992" to="995" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Peptides based on αV-binding domains of erythrocyte ICAM-4 inhibit sickle red cell-endothelial interactions and vaso-occlusion in the microcirculation</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Kaul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X.-D</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American The Journal of Physiology</title>
+		<imprint>
+			<biblScope unit="volume">291</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="922" to="C930" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Role of erythrocyte phosphatidylserine in sickle red cell-endothelial adhesion</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Yamaja Setty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kulkarni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stuart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1564" to="1571" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Red cell membrane lipids in hemoglobinopathies</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Kuypers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Molecular Medicine</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="633" to="638" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Cation transport and volume regulation in sickle red blood cells</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Joiner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American The Journal of Physiology</title>
+		<imprint>
+			<biblScope unit="volume">264</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="251" to="C270" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Microvascular endothelial cells express a phosphatidylserine receptor: a functionally active receptor for phosphatidylserine-positive erythrocytes</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Yamaja Setty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Betal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="905" to="914" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Heme induces endothelial tissue factor expression: potential role in hemostatic activation in patients with hemolytic anemia</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N Y</forename><surname>Setty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Betal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Stuart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Thrombosis and Haemostasis</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2202" to="2209" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Membrane transport in sickle cell disease</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood Cells, Molecules, and Diseases</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="303" to="314" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Regulation of erythrocyte cation and water content in sickle cell anemia</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brugnara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename><surname>Bunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Tosteson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">232</biblScope>
+			<biblScope unit="issue">4748</biblScope>
+			<biblScope unit="page" from="388" to="390" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Volume-dependent and NEM-stimulated K + , Cltransport is elevated in oxygenated SS, SC and CC human red cells</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Canessa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Spalvins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Nagel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FEBS Letters</title>
+		<imprint>
+			<biblScope unit="volume">200</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="197" to="202" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Differential oxygen sensitivity of the K + -Clcotransporter in normal and sickle human red blood cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Speake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Physiology</title>
+		<imprint>
+			<biblScope unit="volume">511</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="225" to="234" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Evidence for the presence of volume-sensitive KCl transport in &apos;young&apos; human red cells</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochimica et Biophysica Acta</title>
+		<imprint>
+			<biblScope unit="volume">858</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="317" to="320" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Is acid a more potent activator of KCl co-transport than hypotonicity in human red cells?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Ody</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Physiology</title>
+		<imprint>
+			<biblScope unit="volume">420</biblScope>
+			<biblScope unit="page">149</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Oxygen-sensitive membrane transporters in vertebrate red cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Cossins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Biology</title>
+		<imprint>
+			<biblScope unit="volume">203</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1395" to="1407" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main">K + -Clcotransport in vertebrate red cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Red Cell Membrane Transport in Health and Disease</title>
+		<editor>
+			<persName><forename type="first">I</forename><surname>Bernhardt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="197" to="220" />
+			<date type="published" when="2004">2004</date>
+			<publisher>Springer</publisher>
+			<pubPlace>New York, NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Deoxygenation permeabilizes sickle cell anaemia red cells to magnesium and reverses its gradient in the dense cells</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">E</forename><surname>Ortiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Lew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Bookchin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Physiology</title>
+		<imprint>
+			<biblScope unit="volume">427</biblScope>
+			<biblScope unit="page" from="211" to="226" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Simultaneous determination of low free Mg2+ and pH in human sickle cells using 31P NMR spectroscopy</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Willcocks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Mulquiney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Veech</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Radda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Clarke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Biological Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">277</biblScope>
+			<biblScope unit="issue">51</biblScope>
+			<biblScope unit="page" from="49911" to="49920" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Association between morphologic distortion of sickle cells and deoxygenation-induced cation permeability increase</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mohandas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="450" to="454" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Stochastic nature and red cell population distribution of the sickling-induced Ca 2+ permeability</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Lew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">E</forename><surname>Ortiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Bookchin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Clinical Investigation</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2727" to="2735" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Deoxygenation-induced non-electrolyte pathway in red cells from sickle cell patients</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Browning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gibson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cellular Physiology and Biochemistry</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1-4</biblScope>
+			<biblScope unit="page" from="165" to="174" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>Anemia</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Ca 2+ permeability in deoxygenated sickle cells</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Rhoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Apovo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Beuzard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Giraud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2453" to="2458" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Ca 2+ sensitivity of phospholipid scrambling in human red cell ghosts</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Woon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Holland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P W</forename><surname>Kable</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Roufogalis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Calcium</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="313" to="320" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b51">
+	<analytic>
+		<title level="a" type="main">The function of calcium in the potassium permeability of human erythrocytes</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gárdos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochimica et Biophysica Acta</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="653" to="654" />
+			<date type="published" when="1958">1958</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b52">
+	<analytic>
+		<title level="a" type="main">General pathophysiology of sickle cell anemia</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Nagel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Platt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Disorders of</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Hemoglobin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Steinberg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Forget</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Higgs</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Nagel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="494" to="526" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b53">
+	<analytic>
+		<title level="a" type="main">KCl cotransport activity in light versus dense transferrin receptor-positive sickle reticulocytes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Franco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Palascak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Joiner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Clinical Investigation</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2573" to="2580" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Dehydration of transferrin receptor-positive sickle reticulocytes during continuous or cyclic deoxygenation: role of KCl cotransport and extracellular calcium</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Franco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Palascak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Rucknagel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Joiner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="4359" to="4365" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Evidence for a direct reticulocyte origin of dense red cells in sickle cell anemia</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Bookchin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">E</forename><surname>Ortiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Lew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Clinical Investigation</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="113" to="124" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b56">
+	<analytic>
+		<title level="a" type="main">A comparison of erythrocyte characteristics in sickle cell syndromes in Jamaica</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Serjeant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Serjeant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Haematology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="205" to="213" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b57">
+	<analytic>
+		<title level="a" type="main">SC erythrocytes have an abnormally high intracellular hemoglobin concentration. Pathophysiological consequences</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Fabry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Kaul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Raventos-Suarez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Clinical Investigation</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1315" to="1319" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b58">
+	<analytic>
+		<title level="a" type="main">The xerocytosis of HbSC disease</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Ballas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Larner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Surrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Rappaport</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="124" to="130" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b59">
+	<analytic>
+		<title level="a" type="main">The unique red cell heterogeneity of SC disease: crystal formation, dense reticulocytes, and unusual morphology</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Fabry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Nagel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2104" to="2112" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Critical contribution of cell density to the pathophysiology of SC cells</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fabry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Nagel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Research</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note>article 559a</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Ionic strength dependence of the polymer solubilities of deoxyhemoglobin S + C and S + A mixtures</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Bookchin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Balazs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="887" to="892" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Influence of macromolecular crowding on intracellular association reactions: possible role in volume regulation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Minton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cellular and Molecular Physiology of Cell</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Strange</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">Regulation</biblScope>
+			<biblScope unit="page" from="181" to="190" />
+			<date type="published" when="1994">1994</date>
+			<publisher>CRC Press</publisher>
+			<pubPlace>Boca Raton, Fla, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b63">
+	<analytic>
+		<title level="a" type="main">K + transport in HbSC-containing human red blood cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Muzyamba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Ball</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</author>
+		<idno>S008</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Physiology</title>
+		<imprint>
+			<biblScope unit="volume">535</biblScope>
+			<biblScope unit="page">27</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Non-electrolyte permeability of deoxygenated sickle cells compared</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sequeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Constantine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Wilkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gibson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood Cells, Molecules, and Diseases</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="44" to="49" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b65">
+	<analytic>
+		<title level="a" type="main">The effect of deoxygenation on whole-cell conductance of red blood cells from healthy individuals and patients with sickle cell disease</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Browning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Staines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Powell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gibson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2622" to="2629" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b66">
+	<analytic>
+		<title level="a" type="main">O 2 dependence of K + transport in sickle cells: effect of different cell populations and the substituted benzaldehyde 12C79</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Speake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellory</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The FASEB Journal</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="823" to="832" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

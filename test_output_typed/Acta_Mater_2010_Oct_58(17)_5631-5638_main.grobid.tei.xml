@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Structural modifications during heating of bulk nanocrystalline FeAl produced by high-pressure torsion</title>
+				<funder ref="#_k2vueTs">
+					<orgName type="full">University of Vienna</orgName>
+				</funder>
+				<funder ref="#_k8ppCRK #_2sEQN7Z">
+					<orgName type="full">Austrian Science Fund (FWF)</orgName>
+				</funder>
+				<funder ref="#_fxDG489">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_DQmRdmw">
+					<orgName type="full">HPT deformation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">C</forename><surname>Mangler</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Physics of Nanostructured Materials</orgName>
+								<orgName type="institution">University of Vienna</orgName>
+								<address>
+									<addrLine>Boltzmanngasse 5</addrLine>
+									<postCode>A-1090</postCode>
+									<settlement>Wien</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><surname>Gammer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Physics of Nanostructured Materials</orgName>
+								<orgName type="institution">University of Vienna</orgName>
+								<address>
+									<addrLine>Boltzmanngasse 5</addrLine>
+									<postCode>A-1090</postCode>
+									<settlement>Wien</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Karnthaler</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Physics of Nanostructured Materials</orgName>
+								<orgName type="institution">University of Vienna</orgName>
+								<address>
+									<addrLine>Boltzmanngasse 5</addrLine>
+									<postCode>A-1090</postCode>
+									<settlement>Wien</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><surname>Rentenberger</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Physics of Nanostructured Materials</orgName>
+								<orgName type="institution">University of Vienna</orgName>
+								<address>
+									<addrLine>Boltzmanngasse 5</addrLine>
+									<postCode>A-1090</postCode>
+									<settlement>Wien</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Acta</forename><surname>Materialia</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Physics of Nanostructured Materials</orgName>
+								<orgName type="institution">University of Vienna</orgName>
+								<address>
+									<addrLine>Boltzmanngasse 5</addrLine>
+									<postCode>A-1090</postCode>
+									<settlement>Wien</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Structural modifications during heating of bulk nanocrystalline FeAl produced by high-pressure torsion</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D377073CCD2AF7E4E1D2129FB3C2B800</idno>
+					<note type="submission">Sponsored Document Sponsored Document</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:16+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Nanocrystalline materials</term>
+					<term>High-pressure torsion</term>
+					<term>Recovery</term>
+					<term>Ordering</term>
+					<term>Transmission electron microscopy (TEM) Â© 2010 Elsevier Ltd</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The deformation-induced nanostructure developed during high-pressure torsion of B2 long-range ordered FeAl is shown to be unstable upon heating. The structural changes were analyzed using transmission electron microscopy, differential scanning calorimetry and microhardness measurements. Heating up to 220 °C leads to the recurrence of the chemical long-range order that is destroyed during deformation. It is shown that the transition to the long-range-ordered phase evolves in the form of small ordered domains homogeneously distributed inside the nanosized grains. At temperatures between 220 and 370 °C recovery of dislocations and antiphase boundary faults cause a reduction in the grain size from 77 to 35 nm. Grain growth occurs at temperatures above 370 °C. The evolution of the strength monitored by microhardness is discussed in the framework of grainsize hardening and hardening by defect recovery.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">Introduction</head><p>Nanocrystalline materials containing a large volume fraction of grain boundaries are of great interest as they frequently exhibit improved mechanical and new physical properties <ref type="bibr">[1,</ref><ref type="bibr">2]</ref>. One widely used approach to produce nanocrystalline (NC) structures is severe plastic deformation (SPD) of coarse-grained materials, as achieved, for example, by high-pressure torsion (HPT) of bulk materials <ref type="bibr">[3]</ref>. To understand the properties of NC materials, their physics and thermodynamics have to be studied. A detailed knowledge of the processes occurring during the thermal treatment is of prime importance not only for applications but also for a deeper understanding of the stability of the deformation-induced metastable phases. It has been shown that multiple changes in structure occur during annealing of SPD-processed nanocrystalline metals and alloys since they contain, in addition to small grains, a high dislocation density and high internal strains <ref type="bibr">[4]</ref><ref type="bibr">[5]</ref><ref type="bibr">[6]</ref><ref type="bibr">[7]</ref>.</p><p>For intermetallic alloys the formation of the nanocrystalline structure during ball milling is accompanied by loss of the long-range order (LRO) present in the initial coarse-grained material <ref type="bibr">[8]</ref>. For B2-ordered FeAl, the destruction of LRO also induces a transition from the paramagnetic to the ferromagnetic state <ref type="bibr">[9]</ref><ref type="bibr">[10]</ref><ref type="bibr">[11]</ref><ref type="bibr">[12]</ref>. Therefore, modifications during annealing of nanocrystalline disordered FeAl are manifold. The modifications at low annealing temperatures (below 250 °C) have been studied by several authors using different integral methods, like differential scanning calorimetry (DSC), X-ray and neutron diffraction, as well as magnetometer measurements <ref type="bibr">[13,</ref><ref type="bibr">14,</ref><ref type="bibr">9,</ref><ref type="bibr">15]</ref>. The corresponding processes causing structural modifications are very sensitive to impurities. Consequently, in the studies of ball-milled FeAl powders. different behavior during annealing was revealed that can be attributed to contamination occurring during milling. For instance, mechanically milled FeAl powders annealed for 1 h exhibit a continuous decrease in microhardness <ref type="bibr">[15]</ref> or a peak at 500 °C <ref type="bibr">[16]</ref>; the latter was attributed to the precipitation and growth of fine oxide particles. In order to eliminate the effect of contamination on the processes causing structural modification, SPD of bulk materials has to be applied. To date, there have been few studies of intermetallic FeAl alloys deformed severely in the bulk due to their usually inherent brittleness. In addition, the structural state of nanocrystalline FeAl as a function of temperature has not been studied in detail using transmission electron microscopy (TEM), nor has a correlation with the DSC signal over the whole interesting temperature range been established. A few TEM studies have been conducted of disordered FeAl, though only for milled powders after compaction (e.g. <ref type="bibr">[17]</ref>).</p><p>Recently, we have successfully achieved the production of bulk nanocrystalline disordered FeAl of high purity by high-pressure torsion of B2-ordered FeAl. Therefore, it was the aim of this paper to investigate the temperature-dependent structural modifications of the SPDinduced metastable state using integral methods, like DSC measurements and microhardness testing, in correlation with local systematic TEM studies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">Experimental procedure</head><p>Fe-45 at.% Al single crystals were grown from high-purity Fe (99.99%) and Al (99.9997%) under argon in alumina crucibles using the Bridgman technique at a growth rate of about 10 mm h -1 followed by an annealing treatment for 1 week at 400 °C. This treatment was used to achieve a defined initial state of order and of vacancy concentration <ref type="bibr">[18]</ref>.</p><p>HPT samples (8 mm in diameter, 0.8 mm thick) were cut from a single crystal by spark erosion. Several samples were HPT deformed by up to three rotations under a pressure of 8 GPa to achieve deformation grades larger than 10,000%. The deformation was done at room temperature, which corresponds to a temperature of 0.18 T m (T m being the melting temperature). For DSC and subsequent TEM investigations, discs of 2.3 mm diameter were prepared from the outer rim of the HPT samples using spark erosion.</p><p>DSC studies of the nanocrystalline samples were carried out using a Netsch DSC 204 Phoenix device in aluminum crucibles under argon flux at a heating rate of 20 K min -1 and the samples were heated up to 500 °C. Each sample was subjected to two subsequent heating runs and the second one was used as baseline.</p><p>For a systematic study of the evolution of microhardness and grain size, as well as the state of order, additional samples were heated in the DSC device to 130, 170, 220, 370 and 500 °C (corresponding to homologous temperatures of 0.24, 0.26, 0.29, 0.38 and 0.46T m ) at a heating rate of 20 K min -1 followed by an immediate cooling process at a cooling rate of 20 K min -1 . Measurements of the microhardness were carried out at room temperature using the Vickers technique with a Paar MHT-4 indentor. Indentation was done at a gradient of 0.1 N s -1 , with a final force of 2 N being applied for 10 s. Subsequently, the imprints were measured by digital imaging techniques after recording with a Zeiss Axioplan Optical microscope equipped with a CCD camera.</p><p>TEM samples were prepared by twin-jet electropolishing in a solution of methanol with 33% nitric acid at -25 °C <ref type="bibr">[19]</ref>. TEM studies were carried out using a Phillips CM200 operating at an acceleration voltage of 200 kV.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">Experimental results</head><p>Fig. <ref type="figure">1</ref> shows the signal obtained from the DSC measurements containing three exothermic peaks. The onset of the pronounced first peak (I) was measured by putting a tangent at the slope of the peak. The first exothermic peak (I) has an onset at about 130 °C, the end is at about 220 °C and the center at about 170 °C; from the area an enthalpy change of about 54 J g -1 (4.5 kJ mol -1 ) was deduced. The other two exothermic peaks (II and III) are centered around 320 and 410 °C, respectively. They are strongly overlapping and too small for a proper analysis of their areas, onset-and endpoints.</p><p>To identify the processes causing these exothermic peaks, individual samples were annealed to selected temperatures between the peaks (cf. the temperatures marked by the crosses in Fig. <ref type="figure">1</ref>). The samples were then studied by TEM, always taking bright-field and dark-field images in combination with diffraction patterns. Fig. <ref type="figure">2</ref> shows the TEM images and the corresponding selected area diffraction (SAD) patterns obtained from a sample of the as-deformed state and from samples heated to 170, 220, 370 and 500 °C. In all cases the same size of SAD aperture (1.2 μm) was used. The dark-field image of the as-deformed sample shows a bright area, which reveals a grain. To measure the grain size by TEM methods, special care is needed to identify the large-angle (&gt;15°) grain boundaries since the contrast caused by dislocation networks and subgrain boundaries can be complex. In addition, in the case of nanograins, their overlap is frequent even in TEM foils, and this leads to the formation of moiré contrast fringes <ref type="bibr">[20]</ref>. Therefore, to get an unambiguous identification of the grains, it is necessary to tilt the beam or the specimen slightly (a few degrees) in different directions. In Fig. <ref type="figure">2a</ref> the grain boundary is marked by a dashed line, which means that the contrast variations inside the grain are caused by dislocations and subgrain boundaries. The SAD pattern of the as-deformed sample (cf. Fig. <ref type="figure">2b</ref>) shows diffraction rings corresponding to the body-centered cubic structure only since the superlattice reflections of the B2 structure are missing. The intensity along the rings is rather homogeneous, indicating that there is no pronounced texture. It should be noted that the same results in real and reciprocal space are obtained for samples heated up to 130 °C. Even for samples heated to 170 and 220 °C (cf. Fig. <ref type="figure">2c</ref>), the grains observed in the TEM images do not change significantly in size or morphology compared to the as-deformed sample, and the larger grains show similar substructures caused by subgrain boundaries. However, the diffraction patterns of the samples annealed to 170 and 220 °C (cf. Fig. <ref type="figure">2d</ref>) show the appearance of additional rings that are caused by the B2 superstructure. Therefore, the process responsible for peak I in the DSC curve can be identified unambiguously as chemical reordering. The TEM images obtained from samples heated to 370 °C (cf. Fig. <ref type="figure">2e</ref>) show that most of the grains are nearly defect free, with clear grain boundaries, and the corresponding SAD pattern (cf. Fig. <ref type="figure">2f</ref>) reveals sharp diffraction rings. Therefore, the broad second peak (II) in the DSC signal can be correlated to the recovery of defects inside the grains and at the grain boundaries. The third exothermic peak (III) is related to grain growth, which can be deduced from a comparison of the grain sizes of the samples annealed to 370 and 500 °C (cf. Fig. <ref type="figure">2e</ref> and <ref type="figure">g</ref>), respectively. The bright-field image shows large grains with a very low density of dislocations (cf. Fig. <ref type="figure">2g</ref>) and the corresponding diffraction pattern reveals sharp rings (cf. Fig. <ref type="figure">2h</ref>).</p><p>The results of the evolution of the SAD patterns are summarized in the intensity profiles shown in Fig. <ref type="figure">3</ref>. The integration along the rings as well as an automatic background subtraction was performed using the PASAD software package <ref type="bibr">[21]</ref>. The profiles confirm that both the intensity and the sharpness of the superlattice reflections ((1 0 0), (1 1 1), (2 1 0) and (3 0 0)) increase during heating. As shown by the intensity profiles, the superlattice reflections are emerging at 170 °C. It should be pointed out that the subgrain structure present in the form of scattering domain size increases with temperature (as can be concluded from the change in the intensity profile shown in Fig. <ref type="figure">3</ref>), whereas the grain size measured in the TEM dark-field images decreases.</p><p>To analyze the thermally induced process of reordering, TEM dark-field images were taken with fundamental reflections and compared with those of superlattice reflections (cf.Fig. <ref type="figure" target="#fig_4">4</ref>). In the case of the fundamental reflection (2 0 0) (cf. Fig. <ref type="figure" target="#fig_4">4a</ref>), the variation in contrast inside the imaged grain is caused by structural defects leading to small changes in the orientation of the lattice with respect to the incoming beam. In the case of the dark-field image taken with the corresponding superlattice reflection (1 0 0) (cf. Fig. <ref type="figure" target="#fig_4">4b</ref>), small nanosized domains show up that are not visible in Fig. <ref type="figure" target="#fig_4">4a</ref>. Since the intensity of the superlattice reflections is sensitive to the chemical LRO, comparison of Fig. <ref type="figure" target="#fig_4">4a</ref> and <ref type="figure">b</ref> shows that at 170 °C the grains contain small chemically ordered domains of nanometer size (&lt;5 nm). Therefore, the recurrence of the B2 superstructure takes place inside the grains by small ordered domains that show a rather homogeneous distribution (cf. Fig. <ref type="figure" target="#fig_4">4b</ref>). In Fig. <ref type="figure" target="#fig_4">4c</ref> the corresponding diffraction pattern is shown to illustrate the positions of the objective aperture used to form the dark-field images of the fundamental reflection (cf. Fig. <ref type="figure" target="#fig_4">4a</ref>) and of the superlattice reflection (Fig. <ref type="figure" target="#fig_4">4b</ref>). In the aperture only a small sector of the diffraction ring is included (∼10°). (It should be mentioned that all the dark-field images were taken with a tilted incident beam to show the reflected beam forming the image on the optical axis.) The experimental results show that the ordered domains are completely out of contrast in fundamental reflections, indicating that in the B2 superlattice structure the antiphase boundary (APB) faults bounding the ordered domains do not contain non-chemical fault components. As explained in the discussion (cf. Section 4.2), the situation is different from that in other intermetallic structures (e.g. Fe 3 Al <ref type="bibr">[22]</ref> and Ni 3 Al <ref type="bibr">[23]</ref>).</p><p>An analysis of the grain-size distribution was carried out from samples with different heat treatments (cf. Fig. <ref type="figure" target="#fig_5">5</ref>). In total, more than 500 grains were analyzed using TEM dark-field images (as in the examples given in Fig. <ref type="figure">2</ref>). The area of each grain was determined by digital imaging processing; the grain size is defined as the diameter of a circle with the same area as the actual grain. The histograms of the grain-size distribution together with their log-normal fits of the samples heated up to 220, 370 and 500 °C are shown in Fig. <ref type="figure" target="#fig_5">5a-c</ref>, respectively. Fig. <ref type="figure" target="#fig_5">5a</ref> reveals that the median of the grain diameter is ∼77 nm. (It should be mentioned that samples heated to lower temperatures have a similar median value.) From Fig. <ref type="figure" target="#fig_5">5b</ref>, which shows the grain-size distribution at 370 °C, a median grain-size diameter of ∼35 nm only is deduced, which is smaller by a factor of 2 than that obtained at 220 °C. At 500 °C the median grain-size is ∼158 nm (cf. Fig. <ref type="figure" target="#fig_5">5b</ref>); since in this case the thickness of the TEM foil and the grain size are similar, the measured grain size has to be multiplied by a factor of about 1.3 <ref type="bibr">[24]</ref> leading to an actual grain size of ∼204 nm. In Fig. <ref type="figure" target="#fig_5">5d</ref> the results of the measurements of the median grain sizes of the samples with different heat treatments are summarized.</p><p>Fig. <ref type="figure" target="#fig_6">6</ref> shows the evolution of the microhardness as a function of the heat treatment. The values of the microhardness reveal an inverse temperature-dependent behavior compared to that of the grain size: a more or less constant value up to 220 °C, a maximum at 370 °C and a drastic drop at 500 °C. Based on the measured values of the grain size (cf. Fig. <ref type="figure" target="#fig_5">5d</ref>), the microhardness can be calculated by using the Hall-Petch relationship <ref type="bibr">[25,</ref><ref type="bibr">26]</ref>. From the calculated values a curve is drawn that fits the measured data (cf. Fig. <ref type="figure" target="#fig_6">6</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1">Recurrence of the long-range order</head><p>Metastable disordered nanocrystalline FeAl modifies its structure upon heating (heating rate 20 K min -1 ). The structural changes of nanocrystalline FeAl produced by HPT were tracked by combining the methods of DSC and TEM to identify the different processes occurring at different temperatures. The first exothermic peak (I) in the DSC signal that shows a strong maximum at 170 °C is interpreted by the occurrence of chemical reordering (cf. Fig. <ref type="figure">1</ref>). The peak is asymmetric as the initial level of the heat flow is not reached after peak I because of an overlap with peak II. The recurrence of the B2 superstructure is indicated by the DSC curve, showing that it already starts above 130 °C (0.24T m ). The reordering is confirmed by analyzing the TEM diffraction patterns (cf. Fig. <ref type="figure">3</ref>) that show rings corresponding to the B2 superstructure at temperatures above 130 °C, whereas the observed nanostructures do not change significantly in the temperature range up to 220 °C (cf. Fig. <ref type="figure">2</ref>). The recovery of the B2 superstructure occurs in the form of small, chemically ordered domains (cf. Fig. <ref type="figure" target="#fig_4">4</ref>), that are rather homogeneously distributed and grow during further heating, as indicated by the sharpening of superlattice reflections (cf. Fig. <ref type="figure">3</ref>). It can be assumed that small ordered volumes retained after SPD as reported for L1 2 LRO Ni 3 Al [27] grow during the process of reordering. They are retained since the deformation induced process of disordering facilitated both by the formation of a high density of dislocations with APB faults and APB tubes is fragmenting the grains <ref type="bibr">[28,</ref><ref type="bibr">29]</ref> and destroys the LRO locally by APB faults and not randomly as thermal disordering. As a consequence, a high density of very small ordered domains are retained in the course of severe plastic deformation.</p><p>During heating, the ordered nuclei grow, and the growth process is facilitated by the large number of dislocations and vacancies produced during the HPT deformation. During reordering, the deformation-induced dislocations can also act as nucleation sites, and at the temperatures at which they become mobile superlattice partial dislocations can remove APB faults by moving backward. This leads to the conclusion that in FeAl disordered by SPD the process of reordering is a combination of both thermal ordering and defect-induced ordering. (It should be mentioned that in stoichiometric B2 FeAl and in the present composition it is in principle impossible to separate these two processes since B2 FeAl is ordered up to the melting point and therefore disordered FeAl can only be achieved by means of SPD.)</p><p>The reduction in the area of APB faults occurring during the growth of the ordered domains causes the exothermic peak I in the DSC curve. The temperature regime in which recovery of the B2 superstructure takes place is in good agreement with several studies carried out on ballmilled samples <ref type="bibr">[30,</ref><ref type="bibr">13,</ref><ref type="bibr">14,</ref><ref type="bibr">9]</ref>. The measured enthalpy change of 4.5 kJ mol -1 given by the area of peak I caused by reordering should be treated as an estimation since peak II centered around 320 °C is so broad that it overlaps with peak I. It is interesting to note that the value of enthalpy change determined in this study compares with that obtained for ball-milled samples [13] but is about a factor two larger than the value reported from the mechanically alloyed material <ref type="bibr">[14]</ref>. This can be explained in the following ways: (i) in the case of ball-milled samples [13], already alloyed starting material was subjected to severe plastic deformation by ball milling; therefore the situation is similar to the present one, where an alloyed starting material is severely deformed by HPT. (ii) In the case of mechanical alloying, powders of the pure metals are used as starting materials and alloyed by the method of ball milling. The fact that in this case a smaller value of the enthalpy change was reported [14] than in case (i) indicates that only a fraction of the material had been alloyed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2">Reduction of the grain size, defect recovery and grain growth as a function of temperature</head><p>The structural evolution during heating up to 500 °C reveals the nature of the two other peaks (II and III) in the DSC curve. According to the TEM investigations (cf. Figs. <ref type="figure">2</ref> and <ref type="figure" target="#fig_5">5</ref>), two further processes were identified: (i) defect recovery, leading to static recrystallization, and (ii) grain growth. Peak II centered around 320 °C (0.35T m ). This can be attributed to the process of recovery of dislocations starting at low temperatures of about 200 °C (0.28T m ), at which the process of reordering is not finished, as concluded from the TEM study. Therefore, reordering and defect recovery occur simultaneously between 220 and 370 °C. From the TEM dark-field images and the temperature-dependent grain-size distribution, it can be concluded that during these early stages of dislocation recovery the grain size decreases by a factor of 2 by heating (cf. Fig. <ref type="figure" target="#fig_6">6</ref>).</p><p>In this context, it is interesting to note that in FeAl the TEM images used to determine the grain size are not disturbed by the residual contrast of APB faults and therefore confusion of the grain-size measurements can be excluded. This is based on the experimental observations (cf. Fig. <ref type="figure">3</ref>). The results of theoretical considerations show that in B2 alloys the APB faults are pure chemical faults, as deduced from pair potential calculations <ref type="bibr">[31]</ref>. Therefore the situation is different from other intermetallic alloys. For example, in Fe 3 Al (DO 3 structure) a residual contrast of the APB faults is visible in fundamental reflections that can be explained by an appropriate model <ref type="bibr">[22]</ref>; in the case of Ni 3 Al (L1 2 structure) the observed residual contrast of the APB faults was analyzed <ref type="bibr">[28]</ref> and agrees with a non-chemical-fault component as deduced by ab initio calculations <ref type="bibr">[32]</ref>.</p><p>The thermally induced reduction in grain size can be considered as continuous static recrystallization triggered by defect rearrangement since smaller grains with highly reduced defect density are formed. It is proposed that a possible mechanism to obtain smaller grains during this thermal treatment could be the transformation of subgrain boundaries into highangle grain boundaries by absorbing dislocations. This transformation seems to be closely related to the process of reordering by the growth of chemically ordered domains as, first, their boundaries interact with dislocations, and secondly, the reduction in the grain size is reached at 370 °C (cf. Fig. <ref type="figure" target="#fig_6">6</ref>), at which temperature the LRO is already pronounced (cf. Fig. <ref type="figure">3</ref>).</p><p>Peak III in the DSC curve (cf. Fig. <ref type="figure">1</ref>) is interpreted as classical grain growth starting at about 370 °C, at which temperature the recurrence of order is finished and the majority of defects are already recovered. Thus, the driving force for grain growth is mainly given by the reduction in the grain-boundary area in the ordered alloy. In the ordered state the migration of grain boundaries slows down and grain growth is expected to be reduced <ref type="bibr">[33]</ref>, which might explain the broad peak III.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3">Evolution of the microhardness after heating</head><p>Microhardness (cf. Fig. <ref type="figure" target="#fig_6">6</ref>) is nearly constant (within the error bars) in the temperature regime of pronounced reordering (up to 220 °C). Therefore, ordering and the formation of ordered domains within nanograins have only little impact on the microhardness. The strong increase in the microhardness in the temperature regime of defect recovery leading to grain size reduction can be explained either by a Hall-Petch mechanism or by hardening due to the reduction in dislocation sources. The variation of microhardness according to the Hall-Petch relationship as it is shown in Fig. <ref type="figure" target="#fig_6">6</ref> indicates grain-size hardening as the maximum correlates with the minimum of the grain size (cf. Fig. <ref type="figure" target="#fig_6">6</ref>). On the other hand, the dislocation density decreases considerably in the corresponding temperature regime, yielding grains of small size (∼30 nm) that have sharp boundaries and a reduced dislocation density. This leads to the conclusion that the recovery process could effect a reduction in the number of dislocation sources both by the formation of equilibrium grain boundaries and by the reduction in the dislocation density in the grain interior. This could also cause the observed increase in the hardness since a higher stress is needed to activate new dislocation sources in the small grains <ref type="bibr">[34]</ref>. As a consequence, other deformation processes, such as grain-boundary mediated processes, can become active at high stresses <ref type="bibr">[35]</ref>. Finally, the drop in microhardness above 370 °C is interpreted as a consequence of grain growth.</p><p>The identification of different processes resulting from different heat treatments allows the materials properties to be tuned. Therefore, for example, the production of fully dense bulk B2 ordered nanocrystalline FeAl exhibiting a low dislocation density is possible by HPT deformation followed by heating to 370 °C.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5">Conclusions</head><p>Systematic TEM investigations combined with DSC measurements are used to identify the processes of structural modification taking place during heating of bulk nanocrystalline disordered FeAl produced by HPT plastic deformation of B2 long-range ordered samples:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>The recurrence of the B2 LRO taking place mainly between 130 and 220 °C (0.24 and 0.29T m ) can be explained by the formation of nanosized chemically ordered domains that are homogeneously distributed within the nanosized grains. It is assumed that ordered volumes retained during severe plastic deformation act as heterogeneous nuclei for ordering. Dislocation density and grain size were shown to be unaffected below 0.29T m .</p><p>• A thermally induced reduction in the grain size by a factor of two occurs in FeAl disordered by SPD. It is concluded that the reduction is caused by the rearrangement of a high density of superlattice partial dislocations transforming subgrain boundaries into high-angle grain boundaries. After heating to achieve reordering, the dislocations in the interior of the grains are, for topological reasons, connected with APB faults. By further heating up to 370 °C (0.38T m , a temperature above the recovery peak), the density of the APB faults is reduced by dislocations moving to the subgrain boundaries. This leads to smaller grains, with a low dislocation density in their interior and large-angle grain boundaries.</p><p>• Classical grain growth of nanograins occurs predominantly at about 410 °C (0.41T m ) and is governed by the reduction in the grain boundary area only, since dislocation recovery leading to defect-free grains takes place at lower temperatures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>•</head><p>The variation in the strength monitored by microhardness can be interpreted either by a Hall-Petch mechanism or by the reduction in dislocation sources as a consequence of the grain size reduction. DSC signal obtained by heating at a constant rate (20 K min -1 ) of disordered nanocrystalline FeAl after HPT deformation. The curve shows three exothermic peaks, I, II and III, at about 170, 320 and 410 °C, respectively. The temperatures at which samples were studied by TEM are marked by crosses (⊗).   FeAl intensity profiles (intensity vs. diffraction vector g) obtained by azimuthal integration of TEM diffraction patterns taken from the as-deformed state and from samples heated to 130, 170, 220, 370 and 500 °C. The fundamental reflections ((1 1 0), (2 0 0), (2 1 1) and (2 2 0)) are present at all temperatures, whereas the intensity of the superlattice reflections increases with increasing temperature, indicating the transition from a disordered structure to a B2 LRO structure.</p><p>Mangler et al. Page 11 Published as: Acta Mater. 2010 October ; 58(17): 5631-5638.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head><p>Sponsored Document Sponsored Document Mangler et al. Page 12 Published as: Acta Mater. 2010 October ; 58(17): 5631-5638. Sponsored Document Sponsored Document Sponsored Document  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig</head><figDesc>Fig. 1.</figDesc><graphic coords="9,84.00,61.00,504.00,370.81" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig</head><figDesc>Fig. 2.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>FeAl, as deformed</head><figDesc>by HPT and heated up to temperatures above the peaks I, II and III (cf. Fig. 1). (a, b) The as-deformed state. (a) TEM dark-field image (g = [200]). The grain that is in contrast is encircled with a dotted white line. (b) Diffraction pattern. The positions of the rings of the B2 superstructure are marked by arrows; at this position, no contrast is encountered in (b). (c, d) Dark-field image (g = [200]) and diffraction pattern after heating up to 220 °C. The rings of all B2 reflections are indexed. (e, f) Dark-field image (g = [200]) and diffraction pattern after heating up to 370 °C. The reduction in the grain size is visible. (g, h) Bright-field image and diffraction pattern after heating up to 500 °C. The grain growth leads to large grains free of dislocations.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig</head><figDesc>Fig. 3.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Recurrence of the B2 superstructure in a HPT-deformed sample heated up to 170 °C. (a) Darkfield image taken with a fundamental reflection (g = [200]). The contrast variations show the substructure of the grain (dislocations and small angle grain boundaries). (b) Dark-field image of the same area as (a) taken with a superlattice reflection (g = [100]). Small ordered domains (&lt;5 nm) inside the grain are revealed. (c) Diffraction pattern illustrating the positions of the objective apertures that were used for (a) and (b).</figDesc><graphic coords="12,211.11,61.00,249.79,504.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. Evaluation of the grain size as a function of temperature as determined by the analysis of the TEM dark-field images taken with fundamental reflections. (a-c) Histograms of the grain size distribution together with their log-normal fits of samples annealed to 220, 370 and 500 °C, respectively. Median values of the measured data are indicated. (d) Median values of the grain size as a function of temperature.</figDesc><graphic coords="13,227.06,61.00,217.89,503.89" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 6 .</head><label>6</label><figDesc>Fig. 6. Measured values of the microhardness (•) of HPT-deformed nanocrystalline FeAl as a function of the heating temperature. The curve shown is deduced from the calculated values (□) deduced from the Hall-Petch model using the measured grain sizes given in Fig. 5d.</figDesc><graphic coords="14,90.12,61.00,491.76,341.83" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Published as: Acta Mater. 2010 October ; 58(17): 5631-5638.Sponsored DocumentSponsored Document Sponsored Document</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Published as: Acta Mater. 2010 October ; 58(17): 5631-5638.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>The authors thank <rs type="person">Prof. H. Sassik</rs> (<rs type="affiliation">TU Wien, Vienna, Austria</rs>) for help with preparation of the initial alloy and <rs type="person">Prof. R. Pippan</rs> (<rs type="affiliation">ESI, Leoben, Austria</rs>) for support during the <rs type="funder">HPT deformation</rs>. <rs type="person">C. Mangler</rs> acknowledges the support of the NRN "<rs type="projectName">NFN -Bulk Nanostructured Materials</rs>" funded by the <rs type="funder">Austrian Science Fund (FWF)</rs>: [S104]. <rs type="person">C. Gammer</rs> acknowledges the support of the <rs type="programName">IC "Experimental Materials Science -Nanostructured Materials</rs>", a college for PhD students at the <rs type="institution">University of Vienna</rs>. Furthermore, the authors acknowledge the support of the project "<rs type="projectName">Metastable Phases in Bulk Intermetallics</rs>" funded by the <rs type="funder">Austrian Science Fund (FWF)</rs>: [<rs type="projectName">P22440] and of the research project</rs> "<rs type="projectName">Bulk Nanostructured Materials" within the research focus</rs> "<rs type="projectName">Materials Science</rs>" of the <rs type="funder">University of Vienna</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_DQmRdmw">
+					<orgName type="project" subtype="full">NFN -Bulk Nanostructured Materials</orgName>
+				</org>
+				<org type="funded-project" xml:id="_k8ppCRK">
+					<orgName type="project" subtype="full">Metastable Phases in Bulk Intermetallics</orgName>
+					<orgName type="program" subtype="full">IC &quot;Experimental Materials Science -Nanostructured Materials</orgName>
+				</org>
+				<org type="funded-project" xml:id="_2sEQN7Z">
+					<orgName type="project" subtype="full">P22440] and of the research project</orgName>
+				</org>
+				<org type="funded-project" xml:id="_fxDG489">
+					<orgName type="project" subtype="full">Bulk Nanostructured Materials&quot; within the research focus</orgName>
+				</org>
+				<org type="funded-project" xml:id="_k2vueTs">
+					<orgName type="project" subtype="full">Materials Science</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">MeyersM.MishraA.BensonD.Prog Mater Sci</title>
+		<imprint>
+			<biblScope unit="page">5142006427</biblScope>
+			<date>482000129</date>
+			<publisher>GleiterH</publisher>
+		</imprint>
+	</monogr>
+	<note>Acta Mater</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">ValievR.Z.EstrinY.HoritaZ.LangdonT.G.ZehetbauerM.J.ZhuY.T.JOM</title>
+		<imprint>
+			<biblScope unit="volume">58420063339</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Zhutheodorejiangh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Buttd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">V</forename><surname>Alexandrovi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">C</forename><surname>Lowet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater Sci Eng A</title>
+		<imprint>
+			<date>2902000128138</date>
+			<publisher>Munoz-MorrisM</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Morrisd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Mater50200240474060 IvanisenkoY.WunderlichR.K.ValievR.Z.FechtH.J.Scripta Mater49102003947952 SchaflerE.KerberM.Mater Sci Eng A</title>
+		<imprint>
+			<biblScope unit="page" from="4621" to="22007139" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Bakkerh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">F</forename><surname>Zhoug</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Yangh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prog Mater Sci</title>
+		<imprint>
+			<biblScope unit="page">391995159241</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Hernandoa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Amilsx</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NoguesJ.SurinachS.BaroM.D.IbarraM.R.Phys Rev B581998864867 AmilsX.NoguésJ.MuñozJ.S.SuriñachS.BaróM.D.Mater Sci Forum</title>
+		<imprint>
+			<biblScope unit="page">781999917930</biblScope>
+		</imprint>
+	</monogr>
+	<note>BystrzyckiJ.CalkaA.Intermetallics</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Amilsx</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">GaritaonandiaJ.S.NoguesJ.SurinachS.PlazaolaF.MunozJ.S.J Non-Cryst Solids</title>
+		<imprint>
+			<date>2872001272276</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Acta Mater46199833053316 [Magnetische Kurve im Vergleich zu DSC S geht nicht gegen 0]</title>
+		<author>
+			<persName><surname>Gialanellas</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Amilsx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">D</forename><surname>Barom</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Delcroixp</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Le Caerg</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lutterottil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ZengQ.BakerI.Intermetallics</title>
+		<imprint>
+			<date>142006396405</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Nanostruct Mater111999873885 XiaoH.BakerI.Acta Metall Mater431995391396 YoshimiK.YooM.H.HanadaS</title>
+	</analytic>
+	<monogr>
+		<title level="j">GammerC.ManglerC.RentenbergerC.KarnthalerH.P.Scripta Mater632010312315 LiuW.GemperleA.GemperlovaJ.PaidarV.NembachE.Acta Mater</title>
+		<editor>
+			<persName><forename type="middle">G</forename><surname>Morrisd</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Gutierrez-Urrutiai</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="middle">A</forename><surname>Munoz-Morrism</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="middle">A</forename><surname>Scripta Mater5752007369372 Morris-Munozm</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Dodgea</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Morrisd</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2010">46199857695776. 5182004789794. 4617199861736182. 2010</date>
+		</imprint>
+	</monogr>
+	<note>Acta Mater RentenbergerC.WaitzT.KarnthalerH.P.Scripta Mater GeistD.GammerC.ManglerC.RentenbergerC.KarnthalerH.P.Phil Mag Lett</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Soc Am Bull11712005244 HallE.O.Proc Phys Soc B6491951747 PetchN</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kongmaiyingbhattacharyarabi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jameschristinabasuabhijitgeol</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J.J Iron Steel Inst</title>
+		<imprint>
+			<biblScope unit="page">174195325</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Rentenbergerc</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Manglerc</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Karnthalerh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RentenbergerC.WaitzT.KarnthalerH.P.Phys Rev B -Condens Matter Mater Phys</title>
+		<imprint>
+			<biblScope unit="page">6792003941091941095</biblScope>
+		</imprint>
+	</monogr>
+	<note>P.PippanR.ScheriauS.Mater Sci Forum</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Rentenbergerc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Karnthalerh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">YangY.BakerI.MartinP.Phil Mag B</title>
+		<imprint>
+			<biblScope unit="page">791999449461</biblScope>
+			<date>5611200825262530</date>
+		</imprint>
+	</monogr>
+	<note>Acta Mater</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<author>
+			<persName><surname>Yamaguchim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Poped</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vitekv</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Umakoshiy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Phil Mag A435198112651275 SchoeckG.KohlhammerS.FahnleM.Phil Mag Lett79111999849857 BakerI</title>
+		<imprint>
+			<biblScope unit="volume">8200011831196</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="middle">X</forename><surname>Huangx</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hansenn</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tsujin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ChinhN.Q.SzommerP.HoritaZ.LangdonT.G.Adv Mater</title>
+		<imprint>
+			<biblScope unit="page">18120063439</biblScope>
+			<date>3125771200624925116614217</date>
+		</imprint>
+	</monogr>
+	<note>Science</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

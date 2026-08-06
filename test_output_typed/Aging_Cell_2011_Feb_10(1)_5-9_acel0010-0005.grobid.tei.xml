@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Some highlights of research on aging with invertebrates, 2010</title>
+				<funder>
+					<orgName type="full">Max Planck Society</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Wellcome Trust</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2010-10-20">20 October 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Linda</forename><surname>Partridge</surname></persName>
+							<email>l.partridge@ucl.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Max Planck Institute for Biology of Ageing</orgName>
+								<address>
+									<addrLine>Gleueler Strasse 55a 50931 Ko ¨ln</addrLine>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Healthy Ageing</orgName>
+								<orgName type="institution">UCL</orgName>
+								<address>
+									<addrLine>Gower St</addrLine>
+									<postCode>WC1E 6BT</postCode>
+									<settlement>London</settlement>
+									<region>Darwin Buidling</region>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Max Planck Institute for Biology of Ageing</orgName>
+								<address>
+									<addrLine>Gleueler Strasse 55a</addrLine>
+									<postCode>50931</postCode>
+									<settlement>Ko¨ln</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Some highlights of research on aging with invertebrates, 2010</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-10-20">20 October 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7CEF1D33F5B4A934E561D17D29C5232D</idno>
+					<idno type="DOI">10.1111/j.1474-9726.2010.00649.x</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This annual review focuses on invertebrate model organisms, which continue to yield fundamental new insights into mechanisms of aging. This year, the budding yeast has been used to understand how asymmetrical partitioning of cellular constituents at cell division can produce a rejuvenated offspring from an aging parent. Blocking of sensation of carbon dioxide is shown to extend fly lifespan and to mediate the lifespan-shortening effect of sensory exposure to fermenting yeast. A new study of daf-16, the key forkhead transcription factor that mediates extension of lifespan by mutants in the insulin-signalling pathway in Caenorhabditis elegans, demonstrates that expression of tissue-specific isoforms with different patterns of response to upstream signalling mediates the highly pleiotropic effects of the pathway on lifespan and other traits. A new approach to manipulating mitochondrial activity in Drosophila, by introducing the yeast NADH-ubiquinone oxidoreductase, shows promise for understanding the role of mitochondrial reactive oxygen species in aging. An exciting new study of yeast and mammalian cells implicates deterioration of the nuclear pore, and consequent leakage of cytoplasmic components into the nucleus, as an important cause of aging in postmitotic tissues. Loss of, or damage to, chromosome-associated histones is also implicated in the determination of lifespan in yeast, worms and fruit flies. The relationship between functional aging, susceptibility to aging-related disease and lifespan itself are explored in two studies in C. elegans, the first examining the role of dietary restriction and reduced insulin signalling in cognitive decline and the second profiling aggregation of the proteome during aging. The invertebrates continue to be a power house of discovery for future work in mammals.</p><p>One of the most fascinating observations in biology is the production of youthful offspring by aging parents. The mechanisms by which this phenotypic rejuvenation can occur are being investigated in the single-celled, budding yeast Saccharomyces cerevisiae. This organism has an asymmetrical mitotic division, in which the larger mother cell shows progressive deterioration in the capacity to bud while the smaller daughter cells are born with full replicative potential. At least part of this asymmetry is attributable to a mechanism of spatial quality control (SQC), in which accumulated extrachromosomal rDNA circles <ref type="bibr" target="#b33">(Sinclair &amp; Guarente, 1997)</ref> and oxidatively damaged proteins <ref type="bibr" target="#b9">(Erjavec et al., 2007)</ref> are selectively retained in the mother cell, a process that requires both the sirtuin Sir2p, a protein deacetylase, and the protein-aggregate remodelling factor Hsp104p <ref type="bibr" target="#b9">(Erjavec et al., 2007)</ref>. A recent study <ref type="bibr" target="#b24">(Liu et al., 2010)</ref> has investigated mechanisms involved in SQC, using synthetic genetic array analysis, which screens for interactions between individually viable mutations that result in synthetic lethality. Such an interaction implies that the two gene products may affect the same process, in this case SQC. A screen for interactions with a Sir2p null mutation identified actin and the polarisome, a protein complex that is involved in the organization of the actin cytoskeleton and consequently required for polarized cell growth. These interactions required the deacetylase activity of Sir2p, and cells lacking Sir2p showed elevated acetylation of the chaperonin CCT, reduced efficiency of actin folding by CCT and elevated levels of non-native actin. Mutants in polarisome components and the myosin V motor protein resulted in reduced efficiency of segregation of protein aggregates and lowered replicative lifespan. Cytoskeletal functions and polarity are thus crucial for the asymmetrical segregation of damaged molecules. A second recent study <ref type="bibr" target="#b8">(Eldakak et al., 2010)</ref> has identified a new class of proteins that are retained in the yeast mother cell and that appear to be limiting for replicative lifespan, the MDR transporter proteins (so named because they mediate multidrug resistance in some cancers). These proteins are found in the plasma membrane and eject a variety of toxins from cells. At budding, the mother cell retains its own pool of MDR proteins, while the daughter cell inherits newly synthesized MDRs. Mild over-expression of several of these MDRs increased replicative lifespan, implying that their number or function may decline during aging and limit lifespan.</p><p>One unresolved paradox is why loss of asymmetric segregation of damaging molecules in budding yeast leads to shortened replicative lifespan of the bud. Normally, the daughter cell is generated in a youthful state, presumably because the mother retains damaging agents during division. Following this logic, if asymmetry is lost in the absence of altered rates of damage repair, the daughter would inherit more damage at birth but would also retain less damage during subsequent divisions as a mother cell. The observation that lifespan is reduced in cells losing asymmetry may imply that damage inherited in the daughter is more highly detrimental than that accumulating in the mother, perhaps because mothers are more equipped to deal with damage or because impaired asymmetry also leads to impaired repair. These issues remain to be resolved. It will also be important to establish whether these mechanisms of SQC through retention of damaged molecules in the parent by cytoskeletal and polarity function are important in the germ lines and stem cells of multicellular organisms and, if so, to identify the classes of molecules that are affected.</p><p>Dietary restriction (DR) can extend lifespan in numerous organisms and can also ameliorate aging-related loss of function and pathology <ref type="bibr" target="#b25">(Mair &amp; Dillin, 2008;</ref><ref type="bibr" target="#b11">Fontana et al., 2010)</ref>. Dietary restriction in the laboratory model organisms can be implemented using a variety of methods, and it is clear that the mechanisms of lifespan extension can vary with the method used. Although altered nutrition per se presumably mediates the extension of lifespan in some cases, it is also becoming apparent that chemosensation, without any change in nutrient intake, can play an important role. For instance, fruit flies subjected to DR show increased lifespan, but if they are exposed to odours derived from live yeast, a standard food source for Drosophila in the laboratory and in nature, then some of the extension of lifespan by DR is lost <ref type="bibr" target="#b22">(Libert et al., 2007)</ref>. <ref type="bibr" target="#b30">Poon et al. (2010)</ref> now show that sensation of carbon dioxide plays a key role in the response to live yeast. Flies sense the gas using a specific subpopulation of neurons that express two gustatory receptor genes. A null mutation in one of these, Gr63a, abolishes the electrophysiological response of the neurons to carbon dioxide, and it also extended the lifespan of female, but not male, flies by 30%. Lifespan was extended mainly by reducing baseline mortality rate rather than reducing the rate of increase with age, similar to the effects of DR in Drosophila. The extension of lifespan was lost if Gr63a was re-expressed in the neurons using a heterologous expression system, and targeted ablation of the carbon-dioxide-sensing neurons also resulted in an increase in lifespan, demonstrating robust causality. Whereas exposure to odorants from live yeast generally shortened the lifespan of female (but not male) control flies, the mutant Gr63a flies did not respond, although flies mutant for a different olfactory mutant, Orb83b, which are generally anosmic but retain the ability to sense carbon dioxide, responded normally. Interestingly, Gr63a null flies themselves responded normally to DR imposed by dilution of a diet containing killed yeast and sucrose <ref type="bibr" target="#b30">(Poon et al., 2010)</ref>, a standard method of DR in Drosophila in many laboratories, which robustly increases lifespan in multiple strains of flies <ref type="bibr" target="#b1">(Bass et al., 2007;</ref><ref type="bibr" target="#b12">Grandison et al., 2009;</ref><ref type="bibr" target="#b35">Wong et al., 2009;</ref><ref type="bibr" target="#b30">Piper et al., 2010)</ref>. These results imply that chemosensation of the carbon dioxide from fermentation by live yeast plays an important role in the response of lifespan to this food source, but that other systems, possibly also involving chemosensation, mediate the response of lifespan to killed yeast and ⁄ or sucrose. Chemosensation of food can also shorten lifespan in worms subjected to DR <ref type="bibr" target="#b34">(Smith et al., 2008)</ref>, and it would be interesting to know if olfactory or gustatory mutant mice have longer lifespans or if their lifespans respond differently to DR.</p><p>The insulin ⁄ Igf ⁄ TOR signalling network plays an evolutionarily conserved role in the determination of lifespan in budding yeast, the nematode worm Caenorhabditis elegans, the fruit fly Drosophila melanogaster, the mouse and, possibly, humans <ref type="bibr" target="#b11">(Fontana et al., 2010;</ref><ref type="bibr" target="#b17">Kapahi et al., 2010;</ref><ref type="bibr" target="#b19">Kenyon, 2010)</ref>. In the worm, extension of lifespan by reduced activity of the upstream pathway requires the forkhead transcription factor daf-16 <ref type="bibr" target="#b20">(Kenyon et al., 1993)</ref>. Much interest has therefore centred on the roles of orthologous forkhead box O transcription factors in other organisms, including humans <ref type="bibr" target="#b13">(Greer &amp; Brunet, 2008;</ref><ref type="bibr" target="#b29">Partridge &amp; Bruning, 2008;</ref><ref type="bibr" target="#b14">Greer et al., 2009)</ref>, and in the mechanisms by which altered activity of daf-16 increases lifespan in the worm. It now transpires that expression of two different, tissue-specific splice variants of daf-16 are required for the full extension of lifespan <ref type="bibr" target="#b21">(Kwon et al., 2010)</ref>. The worm has three daf-16 isoforms, with two (a and b) discovered some time ago and a third (d ⁄ f) reported more recently. Some evidence suggested that one of these isoforms, daf-16a, was particularly important for the increased longevity of insulin pathway mutants, which is lost in a daf-16 null background. However, experiments where daf-16a alone was re-introduced to worms double mutant for the insulin receptor daf-2 and for daf-16 resulted in incomplete rescue of the increased lifespan, leading <ref type="bibr">Kwon et al.</ref> to take a closer look at the situation. New isoformspecific constructs for RNA interference were used to show that the new daf-16 isoform, daf-16d ⁄ f, as well as daf-16a, was involved in the extension of lifespan by a mutant insulin receptor. This conclusion was further supported by rescue experiments for the extended lifespan of an insulin receptor mutant in a daf-16 null background, where both daf-16a and daf-16d ⁄ f were required for full restoration of the lifespan extension, with daf-16d ⁄ f playing the preponderant role. These two daf-16 isoforms have different patterns of tissue specificity, with daf-16d ⁄ f particularly enriched in the intestine, a tissue already known to be important for the action of daf-16 in the extension of lifespan by reduced insulin signalling <ref type="bibr" target="#b23">(Libina et al., 2003)</ref>. Rescue experiments with the promoter regions of the daf-16 isoforms swapped indicated that the promoter region, and hence the different patterns of tissue-specific expression, mediated the differing effects on lifespan. The two isoforms also responded differently to altered activity of the two upstream AKT kinases, with daf-16d ⁄ f more strongly regulated by AKT-1. The differential inputs and tissue-specific expression of these daf-16 isoforms may explain the highly pleiotropic effects of this pathway, by allowing specific and spatially differentiated responses to different inputs to insulin signalling, such as nutrition and stress. Worms and flies have only a single gene encoding a forkhead box 0 transcription factor, while mammals have several, which may show similar patterns of differentiation in function to the daf-16 isoforms.</p><p>Aging is accompanied by the accumulation of damage to molecules, cells, tissues and the whole system. At least some of this damage is thought to be causal for loss of function during aging, although an intriguing alternative perspective has been suggested, based upon deleterious effects of TOR activity later in life <ref type="bibr" target="#b3">(Blagosklonny, 2010)</ref>. Oxygen free radicals <ref type="bibr" target="#b16">(Harman, 1956</ref>) have occupied central stage in discussions of damage-induced aging, although the oxidative damage theory has been undermined by recent evidence, as described in last year's Hot Topics <ref type="bibr" target="#b27">(Partridge, 2009)</ref>. Two studies with Drosophila have taken a novel approach, with interesting, but somewhat conflicting, results. Complex 1 of the mitochondrial electron transfer chain, NADHubiquinone oxidoreductase, is strongly implicated in the production of superoxide in mitochondria isolated from Drosophila and rodents. Direct manipulation of the activities of this complex is hampered by the fact that it consists of over 40 subunits that are encoded by both the nuclear and the mitochondrial genomes. However, the yeast NADH-ubiquinone oxidoreductase Ndi1 is composed of a single, nuclear-encoded polypeptide. Two studies <ref type="bibr" target="#b0">(Bahadorani et al., 2010;</ref><ref type="bibr" target="#b31">Sanz et al., 2010)</ref> have examined the effects of introducing this yeast enzyme into Drosophila mitochondria in vivo. When ubiquitously expressed, enzyme activity, ATP levels and NAD + ⁄ NADH ratio were all increased. However, one study <ref type="bibr" target="#b31">(Sanz et al., 2010)</ref> found reduced superoxide production from isolated mitochondria while the other <ref type="bibr" target="#b0">(Bahadorani et al., 2010)</ref> found no change, possibly because different respiratory substrates and methods of measurement were used in the two studies. Ubiquitous expression extended lifespan in one study <ref type="bibr" target="#b31">(Sanz et al., 2010)</ref>, but only neuronal expression did so in the second <ref type="bibr" target="#b0">(Bahadorani et al., 2010)</ref>. These somewhat inconsistent results could have been a consequence of differences in expression level, and there are now fly stocks that allow standardization of insertion site and expression level of transgenes <ref type="bibr" target="#b25">(Markstein et al., 2008)</ref>. This approach to manipulating mitochondrial activity is a promising one for understanding effects of respiratory activity and oxygen free radicals on aging.</p><p>Although molecular damage is a marked feature of the aging process, damage at higher levels of organization may be equally important in causing aging. A fascinating new study (D' <ref type="bibr">Angelo et al., 2009)</ref> has revealed a new type of damage that occurs at the cellular level and that could play a key role in many postmitotic tissues. Nuclear pores are formed of complexes of nucleoporin proteins, which in dividing cells disassemble at mitosis and reassemble into the newly forming nuclei. D'Angelo et al. showed in C. elegans that expression of the genes encoding a subset of scaffold nucleoporins is confined to dividing cells, with scaffold proteins produced in the embryo showing life-long sta-bility in the postmitotic cells of the adult worm. RNA interference did not reduce the level of these scaffold nucleoporins in adult somatic cells, nor did it reduce lifespan, even of long-lived insulin receptor mutant worms. A similar down-regulation of expression of scaffold nucleoporins at exit from the cell cycle, and long-term stability of the proteins, was found in mouse cells. Furthermore, these scaffold proteins showed very low turnover compared with other components of the nuclear pore and of the nuclear envelope, such as lamins. D'Angleo et al. therefore assessed nuclear pore function during aging, by measuring permeability to fluorescently labelled dextrans of a molecular weight that would normally be excluded. Nuclei isolated from old, but not young, worms and rat brains allowed passage of these molecules, which was prevented by chemical blocking of the nuclear pores. Nuclei from rat cells that failed to exclude dextrans also showed leakage into the nucleus of normally strictly cytoplasmic proteins such as tubulin, which aggregated into large filamentous structures that caused severe chromatin aberrations, and one of the scaffold nucleoporins, Nup93, was lost from these nuclei. It would be interesting to know whether interventions that extend lifespan, such as DR and reduced activity of the insulin ⁄ Igf ⁄ TOR network, tend to protect scaffold nucleoporins and nuclear pore function during aging.</p><p>It is also noteworthy that mutations in LMNA cause Hutchinson-Gilford progeria syndrome (HGPS), a severe progeroid disorder characterized by pathologies resembling premature aging <ref type="bibr" target="#b4">(Burtner &amp; Kennedy, 2010)</ref>. While it is unclear that the molecular causes of HGPS overlap with those of normal aging, it has been reported that A-type nuclear lamins, encoded by LMNA and juxtaposed to the nuclear envelope, may regulate nuclear pore function. Moreover, an altered form of lamin A resembling the HGPS mutant is detectable in normal cells and tissues and may increase with age, while defects in nuclear organization increase with age. More studies need to be conducted to determine whether the LMNA mutants linked to progeria affect the function of scaffold nucleoporins.</p><p>Another potentially widespread type of damage in the cell nucleus during aging has been found in yeast, through loss of chromatin-associated histones <ref type="bibr" target="#b10">(Feser et al., 2010;</ref><ref type="bibr" target="#b26">McCormick &amp; Kennedy, 2010)</ref>. Levels of histone proteins including histone H3 decline with age, and chromatin immunoprecipitation showed less H3 associated with specific gene promoters, including promoters that are normally both silent and active in aging yeast cells. Tellingly, over-expression of histones led to increased replicative lifespan. This result could imply that looser chromatin packing, and hence elevated expression of many genes, contributes to aging or that histones become damaged during aging and a higher level of histone proteins allows for more frequent replacement. Loss of chromatin structure and de-repression of gene expression could contribute to aging in multicellular organisms, where transcriptional dysregulation during aging has been reported. However, recent findings in the worm and the fly appear at first sight mutually contradictory. A recent report on C. elegans <ref type="bibr" target="#b15">(Greer et al., 2010)</ref> showed that reduced H3K4 trimethylation, which is usually characteristic of inactive chromatin, increased lifespan of the worm. However, another recent study, in Drosophila, showed extended lifespan by reduced chromatin silencing, through lowered trimethylation of lysine 27 in histone H3 by the Polycomb Repressive Complex 2 <ref type="bibr" target="#b32">(Siebold et al., 2010)</ref>. These results could imply that the effects of chromatin silencing on lifespan are opposite in worm and fly. However, the fly study used heterozygous mutations, which can be a problem in Drosophila because of the possibility of heterosis. Nonetheless, it will be important to understand the exact role of chromatin silencing in aging in these two invertebrates.</p><p>Aging is the major risk factor for the predominant killer diseases in humans. Animal models of increased lifespan often show evidence of improvement in function and reduction in impact of aging-related diseases, implying that slowing aging also ameliorates the diseases of aging. However, the correlation between increased lifespan and specific improvements in function is not perfect <ref type="bibr" target="#b28">(Partridge, 2010)</ref>, and it is clear that some models of increased lifespan are not associated with universally improved function during aging <ref type="bibr" target="#b2">(Bhandari et al., 2007)</ref> and can even have negative side effects, such as reduced resistance to infection <ref type="bibr" target="#b5">(Clinthorne et al., 2010)</ref>. It is therefore important to understand the mechanisms linking improved function during aging, resistance to aging-related disease and lifespan. Two recent studies in C. elegans are illuminating. In the first, <ref type="bibr" target="#b18">Kauffman et al. (2010)</ref> developed useful new paradigms to assess associative learning and memory in the worm. During aging, learning ability and long-term memory declined. Reduced insulin signalling and DR both alleviated cognitive decline, but in subtly different ways. A mutation in the insulin receptor daf-2 improved memory in young adults and maintained the ability to learn during aging, but did not extend long-term memory with age. In contrast, eat-2 mutants, which reduce pharyngeal pumping and are a model of DR in C. elegans, impaired longterm memory in young adults but maintained the memory for longer into older age. The C. elegans homologue of the mammalian transcription factor CREB was required for long-term memory. CREB expression declined with age and was higher in young insulin receptor mutant worms and lower in young eat-2 worms and was maintained for longer with age in eat-2 mutants. The differing effects of these two mutants on longterm memory thus corresponded with their differing effects on expression of CREB. These findings point to the value of understanding the whole signalling network, to identify the modulations that are likely to provide the maximum benefit to specific aspects of aging-related decline.</p><p>Also searching for valid generalizations about aging as a risk factor for disease, David et al. (2010) investigated protein aggregation as part of the normal aging process in C. elegans. Aggregated proteins are present in many neurodegenerative and amyloid diseases, but their possible role in the normal aging process has barely been investigated. David et al. found that a significant fraction of the proteins in young worms were insoluble in a strong detergent buffer, and that this fraction increased over threefold with age. Some proteins showed no change in insolubility with age and over-represented among these were cytoskeletal proteins. A subset of 461 proteins showed evidence of a repeatable increase in insolubility with age, which was not associated with an increase in total levels of individual proteins. Rather, those aggregation-prone proteins that were present became more likely to be aggregated as the worms aged. These proteins were enriched for b-sheets, already strongly implicated in promoting protein aggregation, and for involvement in developmental processes, particularly proteostasis itself, including components of the proteasome and chaperones. David et al. went on to test the effect on age-related protein aggregation of a mutant in the worm insulin receptor daf-2, already shown to double lifespan and to delay proteotoxicity associated with genetic models of polyglutamine and amyloid beta toxicity in C. elegans. Although there was no detectable difference in protein aggregation in young animals, as they aged the daf-2 mutants showed no increase in protein aggregation with age, and again measurement of the concentrations of specific proteins showed no reduction in total protein present. Thus, in worms, reduced activity of the insulin-signalling pathway may exert a very general beneficial effect on the cellular environment during aging, by reducing the propensity of aggregation-prone proteins to form aggregates. Understanding exactly how this occurs is an interesting future challenge.</p><p>These little invertebrates have, for another year, provided many fascinating discoveries for future follow-up in mammals, and they show no sign of losing their ability to provide novel biological insights into mechanisms of aging.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Some highlights of research on aging with invertebrates, L. Partridge ª 2010 The Author Aging Cell ª 2010 Blackwell Publishing Ltd/Anatomical Society of Great Britain and Ireland</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>Some highlights of research on aging with invertebrates, L. Partridge ª 2010 The Author Aging Cell ª 2010 Blackwell Publishing Ltd/Anatomical Society of Great Britain and Ireland</figDesc></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>I thank <rs type="person">Brian Kennedy</rs> for useful discussion and the <rs type="funder">Max Planck Society</rs> and the <rs type="funder">Wellcome Trust</rs> for financial support.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Neuronal expression of a single-subunit yeast NADH-ubiquinone oxidoreductase (Ndi1) extends Drosophila lifespan</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bahadorani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Contreras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Lawal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Krantz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bradley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aging Cell</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="191" to="202" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Optimization of dietary restriction protocols in Drosophila</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Bass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Grandison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Partridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Piper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Gerontol. A Biol. Sci. Med. Sci</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="1071" to="1081" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Dietary restriction alters demographic but not behavioral aging in Drosophila</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bhandari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Grotewiel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aging Cell</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="631" to="637" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Revisiting the antagonistic pleiotropy theory of aging: TOR-driven program and quasi-program</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Blagosklonny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Cycle</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="3151" to="3156" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Progeria syndromes and ageing: what is the connection?</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Burtner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Kennedy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Mol. Cell Biol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="567" to="578" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Short-term re-feeding of previously energy-restricted C57BL ⁄ 6 male mice restores body weight and body fat and attenuates the decline in natural killer cell function after primary influenza infection</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Clinthorne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Fenton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Ritz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Gardner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Nutr</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="1495" to="1501" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Age-dependent deterioration of nuclear pore complexes causes a loss of nuclear integrity in postmitotic cells</title>
+		<author>
+			<persName><forename type="first">D'</forename><surname>Angelo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Raices</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Panowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Hetzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="284" to="295" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Widespread protein aggregation as an inherent part of aging in C. elegans</title>
+		<author>
+			<persName><forename type="first">Ireland</forename><surname>Britain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ollikainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Trinidad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Cary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Burlingame</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kenyon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Some highlights of research on aging with invertebrates, L. Partridge ª 2010 The Author Aging Cell ª 2010 Blackwell Publishing Ltd/Anatomical Society of Great</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">1000450</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Asymmetrically inherited multidrug resistance transporters are recessive determinants in cellular replicative ageing</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Eldakak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rancati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rubinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Conaway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Cell Biol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="799" to="805" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Accelerated aging and failure to segregate damaged proteins in Sir2 mutants can be suppressed by overproducing the protein aggregation-remodeling factor Hsp104p</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Erjavec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Larsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Grantham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nystrom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genes Dev</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="2410" to="2421" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Elevated histone expression promotes life span extension</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Feser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Truong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Carson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kieft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Harkness</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Tyler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Cell</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="724" to="735" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Extending healthy life spanfrom yeast to humans</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fontana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Partridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">D</forename><surname>Longo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">328</biblScope>
+			<biblScope unit="page" from="321" to="326" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Effect of a standardised dietary restriction protocol on multiple laboratory strains of Drosophila melanogaster</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Grandison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Bass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Partridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Piper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">4067</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">FOXO transcription factors in ageing and cancer</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Greer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brunet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Physiol (Oxf)</title>
+		<imprint>
+			<biblScope unit="volume">192</biblScope>
+			<biblScope unit="page" from="19" to="28" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">AMP-activated protein kinase and FoxO transcription factors in dietary restriction-induced longevity</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Greer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Banko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brunet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. N Y Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">1170</biblScope>
+			<biblScope unit="page" from="688" to="692" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Members of the H3K4 trimethylation complex regulate lifespan in a germline-dependent manner in C. elegans</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Greer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Maures</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Hauswirth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Leeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Maro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Banko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Gozani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brunet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">466</biblScope>
+			<biblScope unit="page" from="383" to="387" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Aging: a theory based on free radical and radiation chemistry</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Harman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Gerontol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="298" to="300" />
+			<date type="published" when="1956">1956</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">With TOR, less is more: a key role for the conserved nutrient-sensing TOR pathway in aging</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kapahi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Katewa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kockel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Metab</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="453" to="465" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Insulin signaling and dietary restriction differentially influence the decline of learning and memory with age</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Kauffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ashraf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Corces-Zimmerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Landis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Murphy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Biol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">1000372</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The genetics of ageing</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Kenyon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">464</biblScope>
+			<biblScope unit="page" from="504" to="512" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A C. elegans mutant that lives twice as long as wild type</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kenyon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gensch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rudner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tabtiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="461" to="464" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A new DAF-16 isoform regulates longevity</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Narasimhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Tissenbaum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">466</biblScope>
+			<biblScope unit="page" from="498" to="502" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Regulation of Drosophila life span by olfaction and foodderived odors</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Libert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zwiener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Vanvoorhies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Roman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Pletcher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">315</biblScope>
+			<biblScope unit="page" from="1133" to="1137" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Tissue-specific activities of C. elegans DAF-16 in the regulation of lifespan</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Libina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Berman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kenyon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="489" to="502" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The polarisome is required for segregation and retrograde transport of protein aggregates</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Larsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Caballero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Oling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Grantham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nystrom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="257" to="267" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Exploiting position effects and the gypsy retrovirus insulator to engineer precisely expressed transgenes</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dillin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Markstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pitsouli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Villalta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Celniker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Perrimon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Biochem</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="476" to="483" />
+			<date type="published" when="2008">2008. 2008</date>
+		</imprint>
+	</monogr>
+	<note>Aging and survival: the genetics of life span extension by dietary restriction Nat. Genet.</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Old yeast can&apos;t handle the noise</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Mccormick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Kennedy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Cell</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="659" to="661" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<author>
+			<persName><forename type="first">L</forename><surname>Partridge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Some highlights of research on aging with invertebrates</title>
+		<imprint>
+			<date type="published" when="2009">2009. 2009</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="509" to="513" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The new biology of ageing</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Partridge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philos. Trans. R. Soc. Lond., B, Biol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">365</biblScope>
+			<biblScope unit="page" from="147" to="154" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Forkhead transcription factors and ageing</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Partridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Bruning</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncogene</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2351" to="2363" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Carbon dioxide sensing modulates lifespan and physiology in Drosophila</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Piper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Grandison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Bass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L ;</forename><surname>Partridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Poon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Kuo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Linford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Roman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Pletcher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U S A</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page">1000356</biblScope>
+			<date type="published" when="2010">2010. 2010</date>
+		</imprint>
+	</monogr>
+	<note>E54-E56. author reply E57 Water-independent effects of dietary restriction in Drosophila PLoS Biol</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Expression of the yeast NADH dehydrogenase Ndi1 in Drosophila confers increased lifespan independently of dietary restriction</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Soikkeli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Portero-Otin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kemppainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mcilroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ellila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Kemppainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tuomela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lakanmaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kiviranta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stefanatos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dufour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hutz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Naudi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zeb</forename><forename type="middle">A</forename><surname>Vartiainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Matsuno-Yagi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yagi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rustin</forename><forename type="middle">P</forename><surname>Pamplona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U S A</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="9105" to="9110" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Polycomb Repressive Complex 2 and Trithorax modulate Drosophila longevity and stress resistance</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Siebold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Kiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Moskowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Harte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. USA</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="169" to="174" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Extrachromosomal rDNA circles -a cause of aging in yeast</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Sinclair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Guarente</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="1033" to="1042" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Age-and calorie-independent life span extension from dietary restriction by bacterial deprivation in Caenorhabditis elegans</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Kaeberlein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Lydum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Welton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaeberlein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Dev. Biol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">49</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Quantification of food intake in Drosophila</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Piper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wertheim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Partridge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Some highlights of research on aging with invertebrates, L. Partridge ª 2010 The Author Aging Cell</title>
+		<imprint>
+			<publisher>Blackwell Publishing Ltd/Anatomical Society of Great Britain and Ireland</publisher>
+			<date type="published" when="2009">2009. 2010</date>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

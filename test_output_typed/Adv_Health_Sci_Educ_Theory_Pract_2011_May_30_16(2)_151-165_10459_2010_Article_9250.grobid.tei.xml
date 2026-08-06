@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Workplace-based assessment: effects of rater expertise</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2010-09-30">30 September 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">M</forename><forename type="middle">J B</forename><surname>Govaerts</surname></persName>
+							<email>marjan.govaerts@maastrichtuniversity.nl</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Educational Research and Development</orgName>
+								<orgName type="institution">Maastricht University</orgName>
+								<address>
+									<postBox>P.O. Box 616</postBox>
+									<postCode>6200 MD</postCode>
+									<settlement>Maastricht</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Educational Research and Development</orgName>
+								<orgName type="institution">Maastricht University</orgName>
+								<address>
+									<postBox>P.O. Box 616</postBox>
+									<postCode>6200 MD</postCode>
+									<settlement>Maastricht</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">L</forename><forename type="middle">W T</forename><surname>Schuwirth</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Educational Research and Development</orgName>
+								<orgName type="institution">Maastricht University</orgName>
+								<address>
+									<postBox>P.O. Box 616</postBox>
+									<postCode>6200 MD</postCode>
+									<settlement>Maastricht</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Educational Research and Development</orgName>
+								<orgName type="institution">Maastricht University</orgName>
+								<address>
+									<postBox>P.O. Box 616</postBox>
+									<postCode>6200 MD</postCode>
+									<settlement>Maastricht</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><forename type="middle">P M</forename><surname>Van Der Vleuten</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Educational Research and Development</orgName>
+								<orgName type="institution">Maastricht University</orgName>
+								<address>
+									<postBox>P.O. Box 616</postBox>
+									<postCode>6200 MD</postCode>
+									<settlement>Maastricht</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">M M</forename><surname>Muijtjens</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Educational Research and Development</orgName>
+								<orgName type="institution">Maastricht University</orgName>
+								<address>
+									<postBox>P.O. Box 616</postBox>
+									<postCode>6200 MD</postCode>
+									<settlement>Maastricht</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Á</forename><forename type="middle">C P M</forename><surname>Van Der Vleuten</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Educational Research and Development</orgName>
+								<orgName type="institution">Maastricht University</orgName>
+								<address>
+									<postBox>P.O. Box 616</postBox>
+									<postCode>6200 MD</postCode>
+									<settlement>Maastricht</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Á</forename><forename type="middle">A M M</forename><surname>Muijtjens</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Educational Research and Development</orgName>
+								<orgName type="institution">Maastricht University</orgName>
+								<address>
+									<postBox>P.O. Box 616</postBox>
+									<postCode>6200 MD</postCode>
+									<settlement>Maastricht</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Workplace-based assessment: effects of rater expertise</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-09-30">30 September 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">82B4D42ADEB1553BC9A7E9A244A2384F</idno>
+					<idno type="DOI">10.1007/s10459-010-9250-7</idno>
+					<note type="submission">Received: 1 June 2010 / Accepted: 16 September 2010 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Clinical education</term>
+					<term>Cognition-based assessment models</term>
+					<term>Competence assessment</term>
+					<term>Performance assessment</term>
+					<term>Professional education</term>
+					<term>Professional judgment</term>
+					<term>Rater expertise</term>
+					<term>Rating process</term>
+					<term>Workplace-based assessment</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Traditional psychometric approaches towards assessment tend to focus exclusively on quantitative properties of assessment outcomes. This may limit more meaningful educational approaches towards workplace-based assessment (WBA). Cognition-based models of WBA argue that assessment outcomes are determined by cognitive processes by raters which are very similar to reasoning, judgment and decision making in professional domains such as medicine. The present study explores cognitive processes that underlie judgment and decision making by raters when observing performance in the clinical workplace. It specifically focuses on how differences in rating experience influence information processing by raters. Verbal protocol analysis was used to investigate how experienced and non-experienced raters select and use observational data to arrive at judgments and decisions about trainees' performance in the clinical workplace. Differences between experienced and non-experienced raters were assessed with respect to time spent on information analysis and representation of trainee performance; performance scores; and information processing--using qualitative-based quantitative analysis of verbal data. Results showed expert-novice differences in time needed for representation of trainee performance, depending on complexity of the rating task. Experts paid more attention to situation-specific cues in the assessment context and they generated (significantly) more interpretations and fewer literal descriptions of observed behaviors. There were no significant differences in rating scores. Overall, our findings seemed to be consistent with other findings on expertise research, supporting theories underlying cognition-based models of assessment in the clinical workplace. Implications for WBA are discussed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Recent developments in the continuum of medical education reveal increasing interest in performance assessment, or workplace-based assessment (WBA) of professional competence. In outcome-based or competency-based training programs, assessment of performance in the workplace is a sine qua non <ref type="bibr" target="#b40">(Van der Vleuten and Schuwirth 2005)</ref>. Furthermore, the call for excellence in professional services and the increased emphasis on life-long learning require professionals to evaluate, improve and provide evidence of dayto-day performance throughout their careers. Workplace-based assessment (WBA) is therefore likely to become an essential part of both licensure and (re)certification procedures, in health care just as in other professional domains such as aviation, the military and business <ref type="bibr" target="#b8">(Cunnington and Southgate 2002;</ref><ref type="bibr" target="#b31">Norcini 2005)</ref>.</p><p>Research into WBA typically takes the psychometric perspective, focusing on quality of measurement. <ref type="bibr" target="#b31">Norcini (2005)</ref>, for instance, points to threats to reliability and validity from uncontrollable variables, such as patient mix, case difficulty and patient numbers. Other studies show that the utility of assessment results is compromised by low inter-rater reliability and rater effects such as halo, leniency or range restriction <ref type="bibr" target="#b25">(Kreiter and Ferguson 2001;</ref><ref type="bibr" target="#b38">Van Barneveld 2005;</ref><ref type="bibr" target="#b19">Gray 1996;</ref><ref type="bibr" target="#b37">Silber et al. 2004;</ref><ref type="bibr" target="#b43">Williams and Dunnington 2004;</ref><ref type="bibr" target="#b44">Williams et al. 2003)</ref>. As a consequence, attempts to improve WBA typically focus on standardization and objectivity of measurement by adjusting rating scale formats and eliminating rater errors through rater training. Such measures have met with mixed success at best <ref type="bibr" target="#b44">(Williams et al. 2003)</ref>.</p><p>One might question, however, whether an exclusive focus on the traditional psychometric framework, which focuses on quantitative assessment outcomes, is appropriate in WBA-research. Research in industrial psychology demonstrates that assessment of performance in the workplace is a complex task which is defined by a set of interrelated processes. Workplace-based assessment relies on judgments by professionals, who typically have to perform their rating tasks in a context of time pressure, non-standardized assessment tasks and ill-defined or competing goals <ref type="bibr" target="#b30">(Murphy and Cleveland 1995)</ref>. Findings from research into performance appraisal also indicate that contextual factors affect rater behavior and thus rating outcomes <ref type="bibr" target="#b26">(Levy and Williams 2004;</ref><ref type="bibr" target="#b21">Hawe 2003)</ref>. Raters are thus continuously challenged to sample performance data; interpret findings; identify and define assessment criteria; and translate private judgments into sound (acceptable) decisions. Perhaps performance rating in the workplace is not so much about 'measurement' as it is about 'reasoning', 'judgment' and 'decision making' in a dynamic environment. From this perspective, our efforts to optimize WBA may benefit from a better understanding of raters' reasoning and decision making strategies. This implies that new and alternative approaches should be used to investigate assessment processes, with a shift in focus from quantitative properties of rating scores towards analysis of the cognitive processes that raters are engaged in when assessing performance.</p><p>The idea of raters as information processors is central to cognition-based models of performance assessment <ref type="bibr" target="#b15">(Feldman 1981;</ref><ref type="bibr">De Nisi 1996)</ref>. Basically, these models assume that rating outcomes vary, depending on how raters recognize and select relevant information (information acquisition); interpret and organize information in memory (cognitive representation of ratee behavior); search for additional information; and finally retrieve and integrate relevant information in judgment and decision making. These basic cognitive processes are similar to information processing as described in various professional domains, such as management, aviation, the military and medicine <ref type="bibr" target="#b42">(Walsh 1995;</ref><ref type="bibr" target="#b34">Ross et al. 2006;</ref><ref type="bibr" target="#b20">Gruppen and Frohna 2002)</ref>. Research findings from various disciplines show that large individual variations in information processing can occur, related to affect, motivation, time pressure, local practices and prior experience <ref type="bibr" target="#b26">(Levy and Williams 2004;</ref><ref type="bibr" target="#b20">Gruppen and Frohna 2002)</ref>.</p><p>In fact, task-specific expertise has been shown to be a key variable in understanding differences in information processing--and thus task performance <ref type="bibr" target="#b11">(Ericsson 2006)</ref>. There is ample research indicating that prolonged task experience helps novices develop into expertlike performers through the acquisition of an extensive, well-structured knowledge base as well as adaptations in cognitive processes to efficiently process large amounts of information in handling complex tasks. Research findings consistently indicate that these differences in cognitive structures and processes impact on proficiency and quality of task performance <ref type="bibr" target="#b4">(Chi 2006)</ref>. For instance, a main characteristic of expert behavior is the predominance of rapid, automatic pattern recognition in routine problems, enabling extremely fast and accurate problem solving <ref type="bibr" target="#b24">(Klein 1993;</ref><ref type="bibr" target="#b7">Coderre et al. 2003)</ref>. When confronted with unfamiliar or complex problems, however, experts tend to take more time to gather, analyze and evaluate information in order to better understand the problem, whereas novices are more prone to start generating a problem solution or course of action after minimal information gathering <ref type="bibr" target="#b34">(Ross et al. 2006;</ref><ref type="bibr" target="#b41">Voss et al. 1983)</ref>. Another robust finding in expertise studies is that, compared with non-experts, experts see things differently and see different things. In general, experts make more inferences on information, clustering sets of information into meaningful patterns and abstractions <ref type="bibr" target="#b5">(Chi et al. 1981;</ref><ref type="bibr" target="#b17">Feltovich et al. 2006)</ref>. Studies on expert behavior in medicine, for instance, show that experts have more coherent explanations for patient problems, make more inferences from the data and provide fewer literal interpretations of information <ref type="bibr" target="#b39">(Van de Wiel et al. 2000)</ref>. Similar findings were described in a study on teacher supervision <ref type="bibr" target="#b23">(Kerrins and Cushing 2000)</ref>. Analysis of verbal protocols showed that inexperienced supervisors mostly provided literal descriptions of what they had seen on the videotape. More than novices, experienced supervisors interpreted their observations as well as made evaluative judgments, combining various information into meaningful patterns of classroom teaching. Overall, experts' observations focused on students and student learning, whereas non-experts focused more on discrete aspects of teaching.</p><p>Research findings also indicate that experts pay attention to cues and information that novices tend to ignore. For instance, experts typically pay more attention to contextual and situation-specific cues while monitoring and gathering information, whereas novices tend to focus on literal textbook aspects of a problem. In fact, automated processing by medical experts seems to heavily rely on contextual information (e.g. <ref type="bibr" target="#b22">Hobus et al. 1987)</ref>.</p><p>Finally, experts generally have better (more accurate) self-monitoring skills and greater cognitive control over aspects of performance where control is needed. Not only are experts able to devote cognitive capacity to self-monitoring during task performance, their richer mental models also enable them to better detect errors in their reasoning. <ref type="bibr" target="#b16">Feltovich et al. (1984)</ref>, for instance, investigated flexibility of experts versus non-experts on diagnostic tasks. Results showed that novices were more rigid and tended to adhere to initial hypotheses, whereas experts were able to discover that the initial diagnosis was incorrect and adjust their reasoning accordingly. In their study on expert-novice differences in teacher supervision, <ref type="bibr" target="#b23">Kerrins and Cushing (2000)</ref> found that experts were more cautious in over-and underinterpreting what they were seeing. Although experts made more interpretative and evaluative comments, they more often qualified their comments with respect to both their interpretation of the evidence and the limitations of their task environment.</p><p>Based on the conceptual frameworks of cognition-based performance assessment and expertise research, it is perfectly conceivable that rater behavior in WBA changes over time, due to increased task experience. Extrapolating findings from research in other domains, different levels of expertise may then be reflected in differences in task performance, which may have implications not only for utility of work-based assessments, but also for the way we select and train our raters. Given the increased significance of WBA in health professions education, the question can therefore be raised whether expertise effects as described also occur in performance assessment in the clinical domain. The present study aims to investigate cognitive processes related to judgment and decision making by raters observing performance in the clinical workplace. Verbal protocols; time spent on performance analysis and representation, and performance scores were analyzed to assess differences between experienced and non-experienced raters. More specifically, we explored 4 hypotheses that arose from the assumption that task experience determines information processing by raters. Firstly, we expected experienced raters to take less time, compared to non-experienced raters, in forming initial representations of trainee performance when observing prototypical behaviors, but more time when more complex behaviors are involved. Secondly, we expected experienced raters to pay more attention to situation-specific cues in the context of the rating task, such as patient or case specific cues; the setting of the patient encounter and ratee experience (phase of training). Thirdly, verbal protocols of experienced raters were expected to contain more inferences (interpretations) and fewer literal descriptions of behaviors. Finally, experienced raters were expected to generate more self-monitoring statements during performance assessment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>The participants in our study were GP-supervisors who were actively involved as supervisor-assessor in general practice residency training. General practice training in the Netherlands has a long tradition of systematic direct observation and assessment of trainee performance throughout the training program. GP-supervisors are all experienced general practitioners, continuously involved in supervision of trainees on a day-to-day basis. They are trained in assessment of trainee performance.</p><p>In our study, we defined the level of expertise as the number of years of task-relevant experience as a supervisor-rater. Since there is no formal equivalent of elite rater performance we adopted a relative approach to expertise. This approach assumes that novices develop into experts through extensive task experience and training <ref type="bibr" target="#b4">(Chi 2006;</ref><ref type="bibr" target="#b33">Norman et al. 2006)</ref>. In general, about 7 years of continuous experience in a particular domain is necessary to achieve expert performance (e.g. <ref type="bibr" target="#b0">Arts et al. 2006)</ref>. Registered GP-supervisors with different levels of supervision experience were invited to voluntarily participate in our study; a total of 34 GP-supervisors participated. GP-supervisors with at least 7 years of experience as supervisor-rater were defined as 'experts'. The 'expert group' consisted of 18 GP-supervisors (number of years of experience M = 13.4; SD = 5.9); the 'non-expert group' consisted of 16 GP-supervisors (number of years of experience M = 2.6; SD = 1.2). Levels of experience between both groups differed significantly (t(32) = 7.2, p \ .001). Participants received financial compensation for their participation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Rating stimuli</head><p>The participants watched two DVDs, each showing a final-year medical student in a 'reallife' encounter with a patient. The DVDs were selected purposefully with respect to both patient problems and students' performance. Both DVDs presented 'straightforward' patient problems that are common in general practice: atopic eczema and angina pectoris. These cases were selected to ensure that all participants (both experienced and nonexperienced raters) were familiar with required task performance. DVD 1-atopic eczemalasted about 6 min and presented a student showing prototypical and clearly substandard behavior with respect to communication and interpersonal skills. This DVD was considered to present a non-complex rating task. DVD 2-angina pectoris-lasted about 18 min and was considered to present a complex rating task with the student showing more complex behaviors with respect to both communication and patient management. Permission had been obtained from the students and the patients to record the patient encounter and use the recording for research purposes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Rating forms</head><p>The participants used two instruments to rate student performance (Figs. <ref type="figure" target="#fig_0">1</ref>, <ref type="figure">2</ref>): a onedimensional, overall rating of student performance on a five-point Likert scale (1 = poor to 5 = outstanding) (R1), and a list of six clinical competencies (history taking; physical examination; clinical reasoning and diagnosis; patient management; communication with the patient; and professionalism), each to be rated on a five-point Likert scale (1 = poor to 5 = outstanding) (R2). Rating scales were kept simple to allow for maximum idiosyncratic cognitive processing. The participants were not familiar with the rating instruments and had not been trained in their use.</p><p>Research procedure and data collection We followed standard procedures for verbal protocol analysis to capture cognitive performance <ref type="bibr" target="#b3">(Chi 1997</ref>). <ref type="foot" target="#foot_0">1</ref> Before starting the first DVD, participants were informed about procedures and received a set of verbal instructions. Raters were specifically asked to ''think aloud'' and to verbalize all their thoughts as they emerged, as if they were alone in the room. If a participant were silent for more than a few seconds, the research assistant reminded him or her to continue. Permission to audiotape the session was obtained. For each of the DVDs the following procedure was used:</p><p>1. DVD starts. The participant signals when he or she feels able to judge the student's performance, and the time from the start of the DVD to this moment is recorded (T1). T1 represents the time needed for problem representation, i.e. initial representation of trainee performance. 2. The DVD is stopped at T1. The participant verbalizes his/her first judgment of the trainee's performance (verbal protocol (VP) 1). 3. The participant provides an overall rating of performance on the one-dimensional rating scale (R1T1), thinking aloud while filling in the rating form (VP2).</p><p>4. Viewing of the DVD is resumed from T1. When the DVD ends (T2), the participant verbalizes his/her judgment (VP3) and provides an overall rating (R1T2). 5. The participant fills in the multidimensional rating form (R2) for one of the DVDs (alternately DVD 1 or DVD 2) and verbalizes his or her thoughts while doing so (VP4).</p><p>We used a balanced design to control for order effects; the participants within each group were alternately assigned to one of two viewing conditions with a different order of the DVDs. All the audiotapes were transcribed verbatim.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analysis</head><p>The transcriptions of the verbal protocols were segmented into phrases by one of the researchers (MG). Segments were identified on the basis of semantic features (i.e. content features-as opposed to non content features such as syntax). Each segment represented a Fig. 2 6-Dimensional global rating scale clinical competencies (R2)</p><p>single thought, idea or statement (see Table <ref type="table">1</ref> for some examples). Each segment was assigned to coding categories, using software for qualitative data analysis (Atlas.ti 5.2). Different coding schemes were used to specify 'the nature of the statement'; 'type of verbal protocol' and 'clinical presentation' (Table <ref type="table">1</ref>). The coding categories for 'nature of statement' were based on earlier studies in expert-novice information processing <ref type="bibr" target="#b23">(Kerrins and Cushing 2000;</ref><ref type="bibr" target="#b1">Boshuizen 1989;</ref><ref type="bibr" target="#b35">Sabers et al. 1991</ref>) and included 'description', 'interpretation', 'evaluation', 'contextual cue' and 'self-monitoring'. Repetitions were coded as such.</p><p>All verbal protocols were coded by two independent coders (MG, ME). Inter-coder agreement based on five randomly selected protocols was only moderate (Cohen's kappa 0.67), and therefore the two coders coded all protocols independently and afterwards compared and discussed the results until full agreement on the coding was reached.</p><p>The data were exported from Atlas.ti to SPSS 17.0. For each participant, the numbers of statements per coding category were transformed to percentages in order to correct for between-subject variance in verbosity and elaboration of answers. Because of the small sample sizes and non-normally distributed data, non-parametric tests (Mann-Whitney U) were used to estimate the differences between the two groups in the time to initial representation of performance (T1); the nature of the statements, and performance ratings per DVD. We calculated effect sizes by using the formula ES = Z/HN as is suggested for non-parametric comparison of two independent samples, where Z is the z-score of the</p><p>Table 1 Verbal protocol coding schemes Nature of statement 1. Descriptions: (literal) descriptions of student behaviour (''he is smiling to the patient''; ''he asks if this happened before'')</p><p>2. Inferences: interpretations and abstractions of performance (''he is an authoritarian doctor''; ''he is clearly a young professional''; ''it seems that he takes no pleasure in being a doctor'') 3. Evaluations: normative judgments, referring to implicit or explicit standards (''his physical examination skills are very poor''; ''overall, his performance is satisfactory'') 4. Contextual cue: remarks referring to case-specific or context-specific cues such as patient characteristics, setting of the patient encounter, context of the assessment task (''this patient is very talkative''; ''this looks like a hospital setting, not general practice''; ''he is being videotaped'') 5. Self-monitoring: reflective remarks, nuancing (''although I am not sure if I saw this correctly''; ''on hindsight I shouldn't have…'' ''……. but on the other hand most senior residents do not know how to handle these problems either''); self-instruction and structuring of rating process (''first I am going to look at ….''; ''when evaluating performance I always look at atmosphere and balance''); explication of standards and performance theory (''one should always start with open-ended questions''; ''from a firstyear resident I expect……'') Mann-Whitney statistic and N is the total sample size <ref type="bibr">(Field 2009, p. 550)</ref>. Effect sizes equal to 0.1, 0.3, and 0.5, respectively, indicate a small, medium, and large effect. For within-group differences of overall ratings (R1T1 versus R1T2) the Wilcoxon signed rank test was applied.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Table <ref type="table" target="#tab_0">2</ref> shows the results for the time to problem representation (T1) and the overall performance ratings for each DVD. Time to T1 was similar for experienced and nonexperienced raters when observing prototypical behavior (DVD 1). However, when observing the more complex behavioral pattern in DVD 2, experienced raters took significantly longer time for monitoring and gathering of information, whereas there was only minimal increase in time for non-experts (U = 79.00, p = .03, ES = 0.38).</p><p>Table <ref type="table" target="#tab_0">2</ref> shows non-significant differences between the two groups in the rating scores. A Wilcoxon signed ranks test, however, showed significant within-group differences between the rating scores at T1 and T2. In the expert group these differences were significant for both the dermatology case (Z = -2.31, p = .02, ES = 0.40) and the cardiology case (Z = -2.95, p = .003, ES = 0.51). In the non-expert group, significant differences were found for the cardiology case only (Z = -2.49, p = .01, ES = 0.43). The impact of the differences in rating scores at T1 resp. T2 is illustrated by (significant) shifts in the percentage of ratings representing a 'fail' (R1 B 2). In the expert group, the proportion of failures for the dermatology case was 61% at T1 versus 89% at T2. For the cardiology case the proportion of failures shifted from 11% (T1) to 56% at T2 in the expert group, and from 6% (T1) to 50% at T2 in the non-expert group.</p><p>Table <ref type="table">3</ref> presents the percentages (median, inter-quartile range) for the nature of the statements for each group, by verbal protocol and across all protocols (= overall, VP1 ? VP2 ? VP3 ? VP4). Overall, the experienced raters generated significantly more inferences or interpretations of student behavior (U = 62.5, p = .005, ES = 0.48), whereas non-experts provided more descriptions (U = 68.5, p = .009, ES = 0.45). The verbal protocols after viewing the entire DVD (VP3) showed similar and significant differences between experienced and non-experienced raters with respect to interpretations (U = 71.5, p = .01, ES = 0.43) and descriptions of behaviors (U = 73, p = .01, ES = 0.42). Experienced raters also generated significantly more interpretations when filling out the six-dimensional global rating scale (U = 63, p = .004, ES = 0.48). Table <ref type="table">3</ref> also shows that experienced raters generated more references to contextspecific and situation-specific cues. This difference was significant at T1 (U = 83, p = .04, ES = 0.37), and similar and near-significant (U = 89, p = .06) for the overall protocols and protocol VP3.</p><p>Evaluations showed no significant differences, except for VP2, with experienced raters generating significantly more evaluations (U = 87.5, p = .05, ES = 0.34).</p><p>No significant between-group differences were found with respect to self-monitoring.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Based on expertise research in other domains, we hypothesized that experienced raters would differ from non-experienced raters with respect to cognitive processes that are related to judgment and decision making in workplace-based assessment.</p><p>As for the differences in the time taken to arrive at the initial representation of trainee performance, the results partially confirm our hypothesis. It is contrary to our expectations that the expert raters took as much time as the non-expert raters with the case presenting prototypical behavior, but our expectations are confirmed for the case with complex trainee behavior, with the experts taking significantly more time than the non-experts. This finding is consistent with other findings on expertise research <ref type="bibr" target="#b12">(Ericsson and Lehmann 1996)</ref>. Whereas non-experienced raters seem to focus on providing a correct solution (i.e. judgments or performance scores) irrespective of the complexity of the observed behavior, expert raters take more time to monitor, gather and analyze the information before arriving at a decision on complex trainee performance. Our non-significant results with respect to prototypical behavior may be explained by the rating stimulus in our study. The dermatology case may have been too short, and the succession of typical student behaviors too quick to elicit differences. Moreover, the clearly substandard performance in the stimulus may have elicited automatic information processing and pattern recognition in both groups <ref type="bibr" target="#b14">(Eva 2004)</ref>. Our results for the cardiology case, however, confirm that, with more complex behaviors, experienced raters seem to differ from non-experienced raters with respect to their interpretation of initial information -causing them to search for additional information and prolonged monitoring of trainee behavior.</p><p>As for the verbal protocols, the overall results appear to confirm the hypothesized differences between expert and non-expert raters in information processing while observing and judging performance. Compared to non-experienced raters, experienced raters generated more inferences on information and interpretations of student behaviors, whereas non-experienced raters provided more literal descriptions of the observed behavior. These findings suggest that non-experienced raters pay more attention to specific and discrete aspects of performance, whereas experienced raters compile different pieces of information to create integrated chunks and meaningful patterns of information. Again, this is consistent with other findings from expertise research <ref type="bibr" target="#b4">(Chi 2006)</ref>. Our results also suggest that expert raters have superior abilities to analyze and evaluate contextual and situation-specific cues. The raters in our study appeared to pay more attention to contextual information and to take a broader view, at least in their verbalizations of performance</p><p>Table 3 Percentages of statements in verbal protocols for experienced raters (Exp) and non-experienced raters</p><formula xml:id="formula_0">(Non-Exp) Variable Overall (VP1 ? VP2 ? VP3 ? VP4) VP1 VP2 VP3 VP4 Exp Non-Exp Exp Non-Exp Exp Non-Exp Exp Non-Exp Exp Non-Exp Mdn (IQR) Mdn (IQR) Mdn (IQR) Mdn (IQR) Mdn (IQR) Mdn (IQR) Mdn (IQR) Mdn (IQR) Mdn (IQR) Mdn (IQR)</formula><p>Descriptives 19.8 (13.2) 25.3 (11.0) a 19.8 (20.1) 26.1 (12.8) 10.8 (18.2) 10.7 (18,6) 16.9 (16.3) 29.4 (13.3) a 18.2 (16.5) 20.4 (10.6) Inferences 19.0 (7.9) 14.7 (5.1) a 38.9 (22.9) 37.5 (21.2) 14.8 (25.6) 20.0 (25,1) 14.5 (9.8) 6.8 (9.2) a 13.5 (14.0) 5.6 (4.6) a Evaluations 24.4 (10.4) 24.9 (4.7) 7.6 (16.0) 5.4 (10.1) 33.3 (15.1) 18.2 (20,0) a 24.9 (16.3) 25.9 (12.6) 35.9 (17.3) 41.3 (17.3) Contextual cues 12.9 (7.7) 10.4 (7.3) 13.2 (7.7) 6.1 (14.6) a 8.1 (13.5) .0 (13.7) judgments. They integrate relevant background information and observed behaviors into comprehensive performance assessments. The differences between experts and non-experts were most marked at the initial stage of information gathering and assessment of performance (VP1). The setting of the patient encounter, patient characteristics and the context of the assessment task all seem to be taken into account in the experts' initial judgments.</p><p>These findings suggest that expert raters possess more elaborate and coherent mental models of performance and performance assessment in the clinical workplace. Similar expert-novice differences have been reported in other domains. <ref type="bibr" target="#b2">Cardy et al. (1987)</ref>, for instance, found that experienced raters in personnel management use more and more sophisticated categories for describing job performance. Our findings are in line with many other studies in expertise development, which consistently demonstrate that compared with novices, experts have more elaborate and well-structured mental models, replete with contextual information.</p><p>The results of our study showed that, within groups, the initial ratings at T1 differed significantly from the ratings after viewing the entire DVD (T2). Thus our findings suggest that both expert and non-expert raters continuously seek and use additional information, readjusting judgments while observing trainee performance. Moreover, this finding points to the possibility that rating scores, provided after brief observation, may not accurately reflect overall performance. This could have consequences for guidelines for minimal observation time and sampling of performance in WBA. Our results did not reveal significant differences in rating scores between experts and non-experts. We were therefore not able to confirm previous research findings in industrial psychology demonstrating that expert raters provide more accurate ratings of performance compared with non-experts (e.g. Lievens 2001). Possible explanations are that, as a result of previous training and experience in general practice, both groups may have common notions of what constitutes substandard versus acceptable performance in general practice. Shared frames of reference, a rating scale that precludes large variations in performance scores and the small sample size may have caused the equivalent ratings in both groups.</p><p>Contrary to our expectations, the experts in our study do not appear to demonstrate more self-monitoring behavior while assessing performance. An explanation might be that our experimental setting, in which participants were asked to think aloud while providing judgments about others, induced more self-explanations. The task of verbalizing thoughts while filling out a rating scale and providing a performance score may have introduced an aspect of accountability into the rating task, with both experienced and non-experienced raters feeling compelled to explain and justify their actions despite being instructed otherwise. These self-explanations and justifications of performance ratings may also explain the absence of any significant differences in rating scores between the groups. Several studies have shown that explaining improves subjects' performance (e.g. <ref type="bibr" target="#b6">Chi et al. 1994)</ref>. And research into performance appraisal in industrial organizations has demonstrated that raters who are being held accountable provide more accurate rating scores (e.g. <ref type="bibr" target="#b28">Mero et al. 2003)</ref>. The think aloud procedure may therefore have resulted in fairly accurate rating scores in both groups. This explanation is substantiated by the comments of several raters on effects of verbalization [e.g. ''If I had not been forced to think aloud, I would have given a 3 (satisfactory), but if I now reconsider what I said before, I want to give a 2 (borderline) <ref type="bibr">'']</ref>.</p><p>What do our findings mean and what are the implications for WBA?</p><p>Our findings offer indications that in workplace-based assessment of clinical performance expertise effects occur that are similar to those reported in other domains, providing support for cognition-based models of assessment as proposed by <ref type="bibr" target="#b15">Feldman (1981)</ref> and others.</p><p>There are several limitations to our study. Participants in our study were all volunteers and therefore may have been more motivated to carefully assess trainees' performance. Together with the experimental setting of our study, this may limit generalization of our findings to raters in 'real life' general practice. Real life settings are most often characterized by time constraints, conflicting tasks and varying rater commitment, which may all impact on rater information processing. Another limitation of our study is the small sample size, although the sample used in not uncommon in qualitative research of this type. Also, statistical significant differences emerge despite the relatively small sample size and the use of less powerful, but more robust non-parametric tests. Finally, we used only years of experience as a measure of expertise; other variables such as intelligence, actual supervisor performance, commitment to teaching and assessment, or reflectiveness were not measured or controlled for. Time and experience are clearly important variables in acquiring expertise, though. The purpose of our study was not to identify and elicit superior performance of experts. Rather, we investigated whether task-specific experience affects the way in which raters process information when assessing performance. In this respect, our relative approach to expertise is very similar to approaches in expertise research in the domain of clinical reasoning in medicine <ref type="bibr" target="#b33">(Norman et al. 2006)</ref>.</p><p>If our findings reflect research findings from expertise studies in other domains, this may have important implications for WBA. Our study appears to confirm the existence of differences in raters' knowledge structures and reasoning processes resulting from training as well as personal experience. Such expert-novice differences may impact the feedback that is given to trainees in the assessment process.</p><p>Firstly, more enriched processing and better incorporation of contextual cues by experienced raters can result in qualitatively different, more holistic feedback to trainees, focusing on a variety of issues. Expert raters seem to take a broader view, interpreting trainee behavior in the context of the assessment task and integrating different aspects of performance. This enables them to give meaning to what is happening in the patient encounter. Non-experienced raters on the other hand may focus more on discrete 'checklist' aspects of performance. Similar findings have been reported by <ref type="bibr" target="#b23">Kerrins and Cushing (2000)</ref> in their study on supervision of teachers.</p><p>Secondly, thanks to more elaborate performance scripts, expert raters may rely more often on top-down information processing or pattern recognition when observing and judging performance -especially when time constraints and/or competing responsibilities play a role. As a consequence, expert judgments may be driven by general, holistic impressions of performance neglecting behavioral detail <ref type="bibr" target="#b29">(Murphy and Balzer 1986;</ref><ref type="bibr" target="#b27">Lievens 2001</ref>), whereas non-experienced raters may be more accurate at the behavioral level. However, research in other domains has shown that, despite being likely to chunk information under normal conditions, experts do not lose their ability to use and recall 'basic' knowledge underlying reasoning and decision making <ref type="bibr" target="#b36">(Schmidt and Boshuizen 1993)</ref>. Moreover, research findings indicate that experts demonstrate excellent recall of relevant data when asked to process a case deliberately and elaborately <ref type="bibr" target="#b32">(Norman et al. 1989;</ref><ref type="bibr" target="#b45">Wimmers et al. 2005)</ref>. Similarly, when obliged to process information elaborately and deliberately, experienced raters may be as good as non-experienced raters in their recall of specific behaviors and aspects of performance. Optimization of WBA may therefore require rating procedures and formats that force raters to elaborate on their judgments and substantiate their ratings with concrete and specific examples of observed behaviors.</p><p>Finally, our findings may have consequences for rater training, not only for novice raters, but for more experienced raters as well. Clearly, there is a limit to what formal training can achieve and rater expertise seems to develop through real world experience. Idiosyncratic performance schemata are bound to develop as a result of personal experiences, beliefs and attitudes. Development of shared mental models and becoming a true expert, however, may require deliberate practice with regular feedback and continuous reflection on strategies used in judging (complex) performance in different (ill-defined) contexts <ref type="bibr" target="#b10">(Ericsson 2004)</ref>.</p><p>Further research should examine whether our findings can be reproduced in other settings. Important areas for study are the effects of rater expertise on feedback and rating accuracy. Is there a different role for junior and senior judges in WBA? Our findings also call for research into the relationship between features of the assessment system, such as rating scale formats, and rater performance. Rating scale formats affect cognitive processing in performance appraisal to the extent that the format is more or less in alignment with raters' ''natural'' cognitive processes. Assuming that raters' cognitive processes vary with experience, it is to be expected that different formats will generate differential effects on information processing in raters with different levels of experience. For instance, assessment procedures which focus on detailed and complete registration of ratee behaviors may disrupt the automatic, top-down processing of expert raters, resulting in inaccurate ratings. We need to understand which rating formats facilitate or hinder rating accuracy and provision of useful feedback at different levels of rater expertise. There is also increasing evidence that rater behavior is influenced by factors like trust in the assessment system, rewards and threats (consequences of providing low or high ratings), organizational norms, values, etc. <ref type="bibr" target="#b30">(Murphy and Cleveland 1995)</ref>. These contextual factors may lead to purposeful 'distortion' of ratings. Future research should therefore include field research to investigate possible effects of these contextual factors on decision making. Finally we wish to emphasize the need for more in-depth and qualitative analysis of raters' reasoning processes in performance assessment. How do performance schemata of experienced raters differ from those of non-experienced raters? How do raters combine and weigh different pieces of information when judging performance? How are performance schemata and theories linked to personal beliefs and attitudes?</p><p>In devising measures to optimize WBA we should first and foremost take into account that raters are not interchangeable measurement instruments, as is generally assumed in the psychometric assessment framework. In fact, a built-in characteristic of cognitive approaches to performance assessment is that raters' information processing is guided by their 'mental models' of performance and performance assessment. Our study shows that raters' judgment and decision making processes change over time due to task experience, supporting the need for research as described above.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 1-Dimensional overall performance rating (R1)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>6. Residual category: repetitions, remarks not directly related to the rating task (e.g. statements related to the experiment; supervisory interventions) protocol at T1, initial representation of student behaviour VP2: Verbal protocol at T1, while filling out the one-dimensional rating scale (overall judgment) VP3: Verbal protocol at T2, after viewing DVD; overall judgment of student performance while filling out one-dimensional rating scale VP4: Verbal protocol while filling out 6-dimensional rating scale</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc>are the median en inter-quartile range (in parentheses) VP1 verbal protocol at T1, initial representation of student behavior; VP2 verbal protocol at T1, while filling out the one-dimensional rating scale (overall judgment); VP3 verbal protocol at T2, after viewing entire DVD, overall judgment of student performance while filling out one-dimensional rating scale; VP4 verbal protocol while filling out 6-dimensional rating scale a Indicates significant differences between experienced and non-experienced raters [Mann-Whitney U test, p \ .05]</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2</head><label>2</label><figDesc>Time needed for problem representation (T1) and performance ratings per DVD, for each group of raters</figDesc><table><row><cell>Variable</cell><cell cols="2">DVD 1 (prototypical, derma</cell><cell cols="2">DVD 2 (complex, cardio case)</cell></row><row><cell></cell><cell>case)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Experts</cell><cell>Non-experts</cell><cell>Experts</cell><cell>Non-experts</cell></row><row><cell></cell><cell>(N = 18)</cell><cell>(N = 16)</cell><cell>(N = 18)</cell><cell>(N = 16)</cell></row><row><cell>T1 (seconds)</cell><cell>112.0 (121)</cell><cell>109.5 (237)</cell><cell>260.0 (308)</cell><cell>1390 (110)</cell></row><row><cell>R1T1 (rating at T1)</cell><cell>2.0 (2) a</cell><cell>2.0 (2)</cell><cell>3.0 (1) a</cell><cell>3.0 (1) a</cell></row><row><cell>R1T2 (rating at T2, after viewing</cell><cell>2.0 (1) b</cell><cell>2.0 (1)</cell><cell>2.0 (2) b</cell><cell>2.5 (1)</cell></row><row><cell>entire DVD)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>b   </p><p>Presented are the median and the inter-quartile range (in parentheses). Experts take significantly (U = 79.00, p = .03, ES = 0.38) more time for monitoring and gathering of information than novices when observing performance on DVD 2 (cardio case). Rating scores are based on a 5-point scale (1 = poor, 5 = outstanding) Values in the same column (DVD 1 and DVD 2 resp.) with different superscripts differ significantly (Wilcoxon Signed Ranks test, p \ .05)</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Verbal protocols refer to the collection of participants' verbalizations of their thoughts and behaviors, during or immediately after performance of cognitive tasks. Typically, participants are asked to ''think aloud'' and to verbalize all their thoughts as they emerge, without trying to explain or analyze those thoughts<ref type="bibr" target="#b13">(Ericsson and Simon 1993)</ref>. Verbal analysis is a methodology for quantifying the subjective or qualitative coding of the contents of these verbal utterances<ref type="bibr" target="#b3">(Chi 1997)</ref>.<ref type="bibr" target="#b3">Chi (1997)</ref> describes the specific technique for analyzing verbal data as consisting of several steps, excluding collection and transcription of verbal protocols. These steps, as followed in our research, are: defining the content of the protocols; segmentation of protocols; development of a coding scheme; coding the data and refining coding scheme if needed; resolving ambiguities of interpretation; and analysis of coding patterns.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>The authors would like to thank all the general practitioners who participated in this study. The authors would also like to thank <rs type="institution">Susan van der Vleuten and Meike Elferink (ME)</rs> for their support and assistance in data gathering and data analysis; and <rs type="person">Mereke Gorsira</rs> for critically reading and correcting the English manuscript.</p><p>Open Access This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Understanding managerial problemsolving, knowledge use and information processing: Investigating stages from school to the workplace</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A R M</forename><surname>Arts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Gijselaers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P A</forename><surname>Boshuizen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Contemporary Educational Psychology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="387" to="410" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The development of medical expertise; a cognitive-psychological approach</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P A</forename><surname>Boshuizen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Rijksuniversiteit</publisher>
+			<pubPlace>Maastricht; Limburg</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Doctoral dissertation</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The effects of individual performance schemata and dimension familiarization on rating accuracy</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Cardy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Bernardin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Senderak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Occupational Psychology</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="197" to="205" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Quantifying qualitative analyses of verbal data: A practical guide</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of the Learning Sciences</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="271" to="315" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<monogr>
+		<title level="m" type="main">The Cambridge handbook of expertise and expert performance</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T H</forename><surname>Chi</surname></persName>
+		</author>
+		<editor>K. A. Ericsson, N. Charness, P. J. Feltovich, &amp; R. R. Hoffman</editor>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page" from="21" to="30" />
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Two approaches to the study of experts&apos; characteristics</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Categorization and representation of physics problems by experts and novices</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T H</forename><surname>Chi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Feltovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Glaser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognitive Science: A Multidisciplinary Journal</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="121" to="152" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Eliciting self-explanations improves understanding</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T H</forename><surname>Chi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>De Leeuw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Chiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lavancher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognitive Science</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="121" to="152" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Diagnostic reasoning strategies and diagnostic success</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Coderre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mandin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Harasym</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Fick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Education</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="695" to="703" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Relicensure, recertification and practice-based assessment</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cunnington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Southgate</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International handbook of research in medical education</title>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Norman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">P M</forename><surname>Van Der Vleuten</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Newble</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kluwer Academic Publishers</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="883" to="912" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Cognitive approach to performance appraisal: A program of research</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Denisi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Deliberate practice and the acquisition and maintenance of expert performance in medicine and related domains</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academic Medicine</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="70" to="S81" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<monogr>
+		<title level="m" type="main">The Influence of experience and deliberate practice on the development of superior expert performance</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</author>
+		<editor>K. A. Ericsson, N. Charness, P. J. Feltovich, &amp; R. R. Hoffman</editor>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page" from="683" to="704" />
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The Cambridge handbook of expertise and expert performance</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Expert and exceptional performance: Evidence of maximal adaptation to task constraints</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Lehmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="273" to="305" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Protocol analysis: Verbal reports as data</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Simon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>MIT Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">What every teacher needs to know about clinical reasoning</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Eva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Education</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="98" to="106" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Beyond attribution theory: Cognitive processes in performance appraisal</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Feldman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="127" to="148" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">LCS: The role and development of medical knowledge in diagnostic expertise</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Feltovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Moller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Swanson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Readings in medical artificial intelligence: The first decade</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Clancey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Shortliffe</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Addison Wesley</publisher>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="page" from="275" to="319" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<monogr>
+		<title level="m" type="main">The Cambridge handbook of expertise and expert performance</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Feltovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Prietula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</author>
+		<editor>K. A. Ericsson, N. Charness, P. J. Feltovich, &amp; R. R. Hoffman</editor>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page" from="41" to="68" />
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Studies of expertise from psychological perspectives</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Discovering statistics using SPSS</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Field</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Sage Publications Ltd</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Global rating scales in residency education</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academic Medicine</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="55" to="S61" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Clinical Reasoning</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Gruppen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Z</forename><surname>Frohna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International handbook of research in medical education</title>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Norman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">P M</forename><surname>Van Der Vleuten</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Newble</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kluwer Academic Publishers</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="205" to="230" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">It&apos;s pretty difficult to fail: the reluctance of lecturers to award a failing grade</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hawe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Assessment and Evaluation in Higher Education</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="371" to="382" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Contextual factors in the activation of first diagnosis hypotheses: Expert-novice differences</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Hobus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Boshuizen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Patel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Education</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="471" to="476" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Taking a second look: Expert and novice differences when observing the same classroom teaching segment a second time</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kerrins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Cushing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personnel Evaluation in Education</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="24" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">A recognition primed decision (RPD) model of rapid decision making</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Klein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Decision-making in action: Models and methods</title>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Klein</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Orasanu</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Calderwood</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Zsambok</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Norwood, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ablex</publisher>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="page" from="138" to="147" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Examining the generalizability of ratings across clerkships using a clinical evaluation form</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Kreiter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Ferguson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evaluation &amp; The Health Professions</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="36" to="46" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The social context of performance appraisal: A review and framework for the future</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Management</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="881" to="905" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Assessor training strategies and their effects on accuracy, interrater reliability, and discriminant validity</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lievens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="255" to="264" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Effects of accountability on rating behavior and rater accuracy</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Mero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Motowidlo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Anna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2493" to="2514" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Systematic distortions in memory-based behavior ratings and performance evaluation: Consequences for rating accuracy</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Balzer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="39" to="44" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Understanding performance appraisal: Social, organizational and goal-based perspectives</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Cleveland</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Sage Publications</publisher>
+			<pubPlace>Thousand Oaks, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Current perspectives in assessment: The assessment of performance at work</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Norcini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Education</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="880" to="889" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Recall by expert medical practitioners and novices as a record of processing attention</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Norman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Brooks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Allen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology. Learning, Memory, and Cognition</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1166" to="1174" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<monogr>
+		<title level="m" type="main">The Cambridge handbook of expertise and expert performance</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Norman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Brooks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hamstra</surname></persName>
+		</author>
+		<editor>K. A. Ericsson, N. Charness, P. J. Feltovich, &amp; R. R. Hoffman</editor>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page" from="339" to="354" />
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Expertise in medicine and surgery</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<monogr>
+		<title level="m" type="main">The Cambridge handbook of expertise and expert performance</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Shafer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Klein</surname></persName>
+		</author>
+		<editor>K. A. Ericsson, N. Charness, P. J. Feltovich, &amp; R. R. Hoffman</editor>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page" from="403" to="420" />
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Professional judgments and &apos;&apos;naturalistic decision making</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Differences among teachers in a task characterized by simultaneity, multidimensionality and immediacy</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Sabers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Cushing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Berliner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Educational Research Journal</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="63" to="88" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">On the origin of intermediate effects in clinical case recall</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P A</forename><surname>Boshuizen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memory and Cognition</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="338" to="351" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Silber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Nasca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Paskin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eiger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Robeson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Veloski</surname></persName>
+		</author>
+		<title level="m">Do global rating forms enable program directors to assess the ACGME competencies? Academic Medicine</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="549" to="556" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The dependability of medical students&apos; performance ratings as documented on in-training evaluations</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Van Barneveld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academic Medicine</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="309" to="312" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Knowledge restructuring in expertise development: Evidence from pathophysiological representations of clinical cases by students and physicians</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W J</forename><surname>Van De Wiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P A</forename><surname>Boshuizen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Schmidt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Cognitive Psychology</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="323" to="356" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Assessing professional competence: From methods to programmes</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P M</forename><surname>Van Der Vleuten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W T</forename><surname>Schuwirth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Education</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="309" to="317" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Individual differences in the solving of social science problems</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Voss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Tyler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Yengo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Individual differences in cognition</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Dillon</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Schmeck</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="205" to="232" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Managerial and organizational cognition: Notes from a trip down to memory lane</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Walsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organizational Science</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="280" to="321" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Prognostic value of resident clinical performance ratings</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Dunnington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American College of Surgeons</title>
+		<imprint>
+			<biblScope unit="volume">199</biblScope>
+			<biblScope unit="page" from="620" to="627" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Cognitive, social and environmental sources of bias in clinical performance ratings</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Klamen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Mccaghie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Teaching and Learning in Medicine</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="270" to="292" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Inducing expertise effects in clinical case recall</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Wimmers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P J L</forename><surname>Verkoeijen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W J</forename><surname>Van De Wiel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Education</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="949" to="957" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

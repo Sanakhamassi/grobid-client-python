@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Normative Ethics Does Not Need a Foundation: It Needs More Science</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2010-04-21">21 April 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Katinka</forename><surname>Quintelier</surname></persName>
+							<email>katinka.quintelier@ugent.be</email>
+						</author>
+						<author>
+							<persName><forename type="first">Linda</forename><surname>Van Speybroeck</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Johan</forename><surname>Braeckman</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Á</forename><forename type="middle">J</forename><surname>Braeckman</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Philosophy and Moral Sciences</orgName>
+								<orgName type="laboratory">Research Unit &apos;The Moral Brain&apos;</orgName>
+								<orgName type="institution">Ghent University</orgName>
+								<address>
+									<addrLine>Blandijnberg 2</addrLine>
+									<postCode>9000</postCode>
+									<settlement>Ghent</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Center for Behavior, Evolution &amp; Culture</orgName>
+								<orgName type="department" key="dep2">Department of Anthropology</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<addrLine>341 Haines Hall</addrLine>
+									<postCode>90095-1553</postCode>
+									<settlement>Los Angeles Los Angeles</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Normative Ethics Does Not Need a Foundation: It Needs More Science</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-04-21">21 April 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F03D7C7975F92A8E8AAAF2D64EEA5FFB</idno>
+					<idno type="DOI">10.1007/s10441-010-9096-7</idno>
+					<note type="submission">Received: 15 June 2009 / Accepted: 8 April 2010 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:05+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Science and ethics</term>
+					<term>Naturalistic ethics</term>
+					<term>Normative ethics</term>
+					<term>Naturalistic fallacy</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The impact of science on ethics forms since long the subject of intense debate. Although there is a growing consensus that science can describe morality and explain its evolutionary origins, there is less consensus about the ability of science to provide input to the normative domain of ethics. Whereas defenders of a scientific normative ethics appeal to naturalism, its critics either see the naturalistic fallacy committed or argue that the relevance of science to normative ethics remains undemonstrated. In this paper, we argue that current scientific normative ethicists commit no fallacy, that criticisms of scientific ethics contradict each other, and that scientific insights are relevant to normative inquiries by informing ethics about the options open to the ethical debate. Moreover, when conceiving normative ethics as being a nonfoundational ethics, science can be used to evaluate every possible norm. This stands in contrast to foundational ethics in which some norms remain beyond scientific inquiry. Finally, we state that a difference in conception of normative ethics underlies the disagreement between proponents and opponents of a scientific ethics. Our argument is based on and preceded by a reconsideration of the notions naturalistic fallacy and foundational ethics. This argument differs from previous work in scientific ethics: whereas before the philosophical project of naturalizing the normative has been stressed, here we focus on concrete consequences of biological findings for normative decisions or on the day-to-day normative relevance of these scientific insights.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">Introduction</head><p>How do we know right from wrong? Do we dig deep into our intuitions? Should science offer a full picture of human virtue? These questions remain as yet unresolved, and continue to offer ample room for academic debate. Especially the importance of science for ethics proves to be substantially discussed (e.g., <ref type="bibr" target="#b19">Kurtz 2007;</ref><ref type="bibr" target="#b25">Pigliucci 2003)</ref>. Many authors agree that science can describe morality and that science can go a long way in explaining morality's origins (e.g., <ref type="bibr" target="#b18">Joyce 2006)</ref>. But there is much disagreement about the relevance of science for the normative domain of ethics.</p><p>Normative ethics concerns questions about right and wrong and the criteria to distinguish them. It is not about how the world is, but about how it should be. More accurately, normative theories attempt to delineate what is correct use of actionguiding or prescriptive terms as ought, value, good, should, duty, obligation, right, wrong, permissible or forbidden. This makes normative inquiry different from scientific inquiry. Regarding the latter, what scientists find out about the world is not qualified in terms of 'right' or 'wrong'. Science is deemed devoid of normativity; instead, it is a purely descriptive and explanatory endeavor. As such descriptive ethics is a part of science and does not in itself prescribe: it merely describes how people use normative ethical terms. This notwithstanding, some ethicists defend that scientific findings can be a guide in determining how one should live (e.g., <ref type="bibr" target="#b31">Rottschaefer 2007)</ref>. Such scientific normative ethics is the topic of this paper. We will hereafter shorten it to scientific ethics since we will only be concerned with the normative domain of ethics.</p><p>Scientific ethics generally meets two kinds of criticism. First, the idea that normative statements can be deduced from scientific statements is accused of committing the naturalistic fallacy (e.g., <ref type="bibr" target="#b6">Farber 1994;</ref><ref type="bibr" target="#b39">Woolcock 1999</ref>; see Sect. 2.2). Second, when not committing this fallacy, it is claimed that scientific ethics fails in demonstrating the relevance of science for normativity because science cannot offer a foundation for ethics (e.g., <ref type="bibr" target="#b6">Farber 1994;</ref><ref type="bibr" target="#b39">Woolcock 1999;</ref><ref type="bibr" target="#b30">Rosenberg 2000</ref>; see Sect. 2.1). While the first criticism is often debated, the second criticism is not systematically discussed in the literature. Still, it is not unusual for critics of scientific ethics to endorse both statements as valid criticisms.</p><p>The first aim of this paper is to defend scientific ethics against these two major criticisms. Initially, we show that most contemporary scientific ethicists do not commit the naturalistic fallacy, contrary to what their critics claim. To support this thesis, in Sect. 3 it is illustrated that science can be relevant to ethics without committing the naturalistic fallacy, while in Sect. 4 more general arguments are formed. Additionally, the critics' critique is analyzed and found to be contradictory: the same criticists who refer to the naturalistic fallacy complain that science does not offer a foundation for normative ethics. We refer to this contradiction in Sect. 3.2. To substantiate these arguments, we first revisit George Edward Moore's notion of the naturalistic fallacy; we also explain what a foundation is and how the reasoning behind the naturalistic fallacy is in fact an argument against foundational ethics (see Sect. 2).</p><p>The second aim of this paper is to counter further criticisms by explaining and defending the reasoning behind scientific ethics. In Sect. 4.1, it becomes clear that a difference in conception of normative ethics underlies the disagreement between proponents and opponents of scientific ethics. Indeed, the discussed criticisms of scientific ethics all rely on a foundational view of normative ethics, while scientific ethicists-by referring to methodological naturalism-see normative ethics as nonfoundational. Scientific ethicists refer to methodological naturalism as the proper method for scientific inquiry. In Sect. 4.2, we argue that methodological naturalism can be used also for normative inquiry. Since methodological naturalism is a nonfoundational method, we hereby defend nonfoundational ethics in general. In this section, we further explain how science informs normative ethics in a nonfoundational as opposed to a foundational system. We conclude by stating that (1) scientific ethics is best conceived of as an instance of nonfoundational normative ethics; that (2) when scientific ethics is nonfoundational, science is relevant to normative inquiry without committing any fallacy; and (3) that nonfoundational scientific ethics can be preferred over foundational ethics because the former is more successful. <ref type="foot" target="#foot_0">1</ref>The presented arguments are different from previous work in scientific ethics. Our understanding of the naturalistic fallacy is in line with <ref type="bibr" target="#b5">diCarlo and Teehan (2007)</ref>. However, where their paper generally and abstractly concludes that science informs ethics, we take these conclusions further by discussing how scientific insights are relevant to normative inquiry. Therefore we revisit the methodological underpinnings of scientific ethics by discussing methodological naturalism in ethics. Finally, while recent naturalistic accounts attempt to formulate an appropriate moral theory that translates all normative concepts in empirically testable concepts <ref type="bibr">(Casebeer 2003)</ref>, we focus on the other direction in which scientific findings and methods evaluate normative aims and methods.</p><p>But now, let us recapitulate the naturalistic fallacy, explain what is meant with foundations in normative ethics and argue how both themes are related to each other.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">The Naturalistic Fallacy and the Impossible Quest for Foundations</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">Skyhooks and Other Foundations</head><p>The words foundation, grounding and their derivatives are differentially used in the ethical literature. In this paper, foundational normative ethics, shortly foundational ethics, refers to any attempt at deriving a true normative system out of one or several first norms. Grounding ethics, then, refers to the act of finding such first norms. Let us look into these concepts.</p><p>In what follows, we will make a distinction between normative and descriptive statements. We use descriptive statement or description very broadly, namely to denote all statements concerning the nature of things in the realm of science, religion or metaphysics. Normative statements or moral norms is used to denote action-guiding statements or prescriptions; i.e., statements that can be in the form of 'X is good, valuable, right' or 'we should do X', 'we ought to do X', etc. If X is an action or state of the world, we will talk about substantive norms. If X describes the form of a judgment (e.g., as in the statement 'judgments that are universalizable are right'), we will denote them as formal norms. If X is a procedure for finding normative statements, as Habermas' discourse principle is, we will denote it as a procedural norm. Throughout this paper we are concerned with the quest for moral norms that are descriptively determined, i.e., we will be concerned with grounds for normative ethics. What does this mean?</p><p>Some philosophers have attempted to find one or a very limited amount of moral norms that are grounded in a non-normative theory, mostly a descriptive theory. This means that the descriptive theory in itself, without the help of any purely normative statement, determines at least one moral norm. That moral norm can be refuted on the basis of new descriptive information but it cannot be refuted on the basis of other moral norms. We will denote such premised determined moral norms as first moral norms. The quest for such first moral norms accordingly will be called grounding ethics. <ref type="foot" target="#foot_1">2</ref> Grounding ethics results in a foundational ethics. We will now give illustrations to further clarify these concepts.</p><p>Natural law theories in ethics can serve as examples of foundational ethics. According to <ref type="bibr" target="#b8">Feser (2010)</ref>, natural law theories evolving from the classical tradition (e.g., Thomas Aquinas) ground moral rules in nature by making no strict distinction between descriptive and normative statements: moral norms, including their moral force, are part of nature and can be described as such. For classical natural law theorists, a description of nature also determines general moral norms from which specific rules can be inferred. According to Thomas Aquinas' natural law theory, for instance, the precepts of moral law theory are given by God and are to be found in nature. They are universally binding and universally knowable <ref type="bibr">(Murphy 2008)</ref>. The content of Aquinas' moral theory is that good should be done and evil avoided. This is an abstract 'first moral norm' and it is conceivable that many agree with it. The content of the moral norm however is not important in deciding if it is a foundational ethics or not: for this we must ask how the moral norms in the system relate to each other. In this case, all moral norms are derived from this moral norm. Moreover, the norm is determined by nature and cannot be refuted by moral norms that follow from it. This, then, is a clear instance of foundational ethics.</p><p>Another example is a new natural law theory as developed by <ref type="bibr" target="#b36">Walsh (2008)</ref>. In his theory, friendship, offspring and life are first identified as ends in themselves, as basic human goods. These first values cannot be questioned within the moral system that follows from them. Also, they are the touchstone against which all acts must be evaluated. Acts can be chosen because of the act itself, or because of its consequences. Either way, if the choice to perform an act entails the choice of an appropriate human good, then this act is morally good; if not, it is morally bad. As such, <ref type="bibr" target="#b36">Walsh (2008)</ref> argues, sexual acts are only morally good if the choice to perform them entails the choice of a basic human good. According to Walsh' new natural law theory, sex in itself is not a basic human good, but procreation is. Hence, a sexual act must entail the choice to procreate. Following this reasoning, Walsh considers homosexual sex to be morally wrong because the choice for homosexual sex cannot entail the choice to procreate. This shows that specific basic human goods here function as independently derived foundations of a moral system. Walsh' religiously inspired new natural law theory is also a foundational normative ethic. Contrary to the former example though, the content of its first moral norms is much more concrete and more likely to be controversial. However, in deciding if the system is foundational or not, one has to consider the procedure for finding substantive moral norms and not the content of the resulting substantive moral norms.</p><p>Other examples of foundational ethics pertain to the work of certain nineteenth century intellectuals who developed a normative system, attempting to ground ethics in biological evolution. Herbert Spencer's (1820-1903) evolutionary ethics is a case in point. He reasoned that evolution by natural selection results in adaptations that are morally superior. Whatever is further evolved by natural selection is therefore better. This implies that everything following from this first principle must be true, and that one should promote evolution by natural selection <ref type="bibr">(Moore 1993</ref><ref type="bibr">(Moore / 1903))</ref>. Whether one agrees with the content of this moral norm or not, the basic idea is again that it is a first moral norm. Precisely because it was a foundational system, philosophers instantly refuted Spencer's ethics. George Edward <ref type="bibr">Moore (1873</ref><ref type="bibr">Moore ( -1958) )</ref> dedicated substantial parts of his Principia Ethica to Spencer's evolutionary ethics <ref type="bibr">(Moore 1993</ref><ref type="bibr">(Moore /1903, §33), §33)</ref>. According to Moore, Spencer committed a crucial fallacy, which he coined the naturalistic fallacy. This fallacy is often invoked to argue that one cannot ground ethics in nature. <ref type="foot" target="#foot_2">3</ref> But a close reading of the Principia Ethica reveals that Moore in fact argued that one cannot 'ground' ethics at all, hence one cannot ground it in anything.</p><p>In the next section, we discuss Moore's reasoning that leads to the naturalistic fallacy argument. It is important to know that we do not purport to discuss the validity of this reasoning. We aim to make its reasoning clear in order to ask if scientific ethicists are indeed committing the naturalistic fallacy, as its critics suggest, and in order to evaluate the coherence of critics' arguments in Sect. 3.2. Though diCarlo and Teehan (2007) put forward a similar argument, here we specifically stress that the naturalistic fallacy relates to 'grounding' ethics. Since this is crucial to evaluate the criticisms of scientific ethics, we will highlight the relevant parts in Moore's reasoning.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Moore's Famous Argument</head><p>In his explication of the naturalistic fallacy, Moore built on the insights of Henry Sidgwick . Sidgwick, a British utilitarian moral philosopher in turn was influenced by David Hume's (1711-1776) work. Hume noticed that the author of every moral system seems to make prescriptive or normative conclusions from descriptive statements <ref type="bibr">(Hume 1739</ref><ref type="bibr">(Hume -1740))</ref>. Since by now many interpretations of Hume's and Moore's reasoning exist <ref type="bibr">(Curry 2006)</ref>, it is helpful to consider both their arguments in more detail.</p><p>Take the following reasoning (cf. Ferguson 2001): Premise 1: Humans are evolutionary disposed to act altruistically. Conclusion: It is good to act altruistically.</p><p>According to Hume, this is a wrong kind of reasoning because the conclusion does not logically follow from the premise: there is a difference in meaning between 'we are evolutionary disposed to' and 'it is good to'. This difference in meaning between a descriptive statement and a prescriptive statement is known as Hume's is/ought gap. Accepting this gap has direct consequences for any 'scientific ethics'. If scientists find that something is the case, it does not logically follow that the descriptive statement, or parts of it, ought to be the case. There is no such simple logical connection between scientific statements and ethical statements. According to Hume, ''a reason should be given'' <ref type="bibr">(Hume 1739</ref><ref type="bibr">(Hume -1740) )</ref> for why a moral statement follows from descriptive statements. This can be done by adding a second premise, as is done below: Premise 1: Humans are evolutionary disposed to act altruistically. Premise 2: It is good to do everything humans are disposed to by their evolution. Conclusion: It is good to act altruistically.</p><p>Here, the conclusion does follow logically from the premises. However, it comes at the cost of premise 2 being a prescription instead of a description. As a result, one has not derived a moral principle from descriptive statements only. In other words, it is not demonstrated that one can go from an 'is' to an 'ought'. As Hume's reasoning is applicable to all descriptive theories and all moral statements, the is/ought gap precludes the possibility of demonstratively deriving first moral principles from descriptive statements.</p><p>Moore's reasoning is somewhat different, but has similar implications. Also Moore deemed it impossible to find a demonstratively true first moral principle that cannot be doubted from within the moral realm. Supported by the arguments that led him to the formulation of the naturalistic fallacy, Moore rejected the possibility of a first moral principle. More correctly, he rejected a certain class of first principles, namely those that are considered to be analytically true. Before clarifying this, let us first revisit Moore's reasoning in the Principia Ethica.</p><p>Ethics-in Moore's terminology-is about moral truth, not about practice <ref type="bibr">(Moore 1993</ref><ref type="bibr">(Moore /1903, §3- §5, §14), §3- §5, §14)</ref>. It is about finding a first statement upon which Ethics-including the discussion of our everyday normative judgments (ibidem, §1)-can be built. This first statement provides an answer to Ethics' first question, i.e., ''What is good?'' (ibidem, §2). Moore adds: ''Unless this first question be fully understood, and its true answer clearly recognized, the rest of Ethics is as good as useless from the point of view of systematic knowledge'' (ibidem, §5). In other words, to save Ethics, one must find a first moral statement-such as the second premise in the example above. This principle must define what is good and it must be true by definition. This means that it must be analytically true (cf. infra).</p><p>So far so good, were it not that Moore insisted that finding a first moral principle that truly defines what is good is impossible. This has to do with the fact that he has an analytic definition of the word 'good' in mind (ibidem, §6). In general, a true analytic definition describes the real nature of a notion denoted by the word; it enumerates the simple notions that are already in the meaning of the complex notion (ibidem, §7). Analytic statements hence only explicate what is already in the meaning of the subject. The meaning of 'good' then describes its true nature. How does one find this meaning according to Moore? One does not need any observation to establish the real nature of a notion. Every normal user of a certain language, when thinking clearly, instantly grasps when an analytic statement is true. Hence one can derive the true meaning of 'good' by clear thinking alone. Now 'good' is indefinable, says Moore: it is already a simple notion, meaning that there is nothing in the meaning of 'good' than 'good' itself. Those who define 'good' as something else and claim this definition to be true all commit the naturalistic fallacy (ibidem, §1- §15). Moreover, Moore continues, we intuitively acknowledge that we cannot define 'good' in that for any definition of 'good' as something else we can meaningfully ask whether this 'something else' is indeed 'good'. This means that we never instantly see such a statement to be true, thus it can never be analytically true. This argument is since known as the 'open question argument' (ibidem, §13).</p><p>Moore's idea that all of Ethics should be built upon an analytic truth, logically implies that nothing that follows from this truth can refute this first definition-otherwise it would not be an analytic truth. Hence Moore was looking for a 'first norm'. The core idea of Moore's reasoning is thus that one cannot 'ground' a first moral principle: not in nature, not in metaphysics, and not in ethics itself. Only analysis of the meaning of a moral concept like 'good' would provide a solution, but this is impossible. According to Moore, 'naturalists'-up to his time-made this very mistake. They tried to identify 'good' with something else. Contrary to what the term 'naturalistic fallacy' seems to imply, Moore's argument hence also applies to metaphysical properties (ibidem, §66- §85). Similarly, religiously grounded normative systems are equally debunked if they rely purely on conceptual analysis for their foundations (cf. diCarlo and Teehan 2007).</p><p>In this interpretation, both Hume's 'is/ought' gap and Moore's naturalistic fallacy preclude the possibility of foundational ethics, and the derivation of a first normative principle from descriptive theories. Because the subtle differences between these two fallacies are less important for our argument, we will use them interchangeably in the remainder of this paper.</p><p>Let us now illustrate that science can be relevant for ethics without committing the naturalistic fallacy and explain why some critics of naturalistic ethics contradict themselves.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">Twentieth Century Scientific Ethics and its Critics</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">Moral Guidance Without Foundations</head><p>Though Moore denounced all 'naturalist' moral systems, there were numerous early approaches in evolutionary ethics that did not commit the naturalistic fallacy (e.g., by T.H. Huxley and G.G. Simpson). Also from the last decades of the twentieth century onwards, several accounts proliferate in defence of a closer and argumentatively sound interplay between science and normative ethics (e.g., <ref type="bibr" target="#b4">Binmore 2005;</ref><ref type="bibr" target="#b32">Ruse 2008</ref>). What typifies these approaches is the argument that science is relevant for ethics, without their being an attempt to start from a first moral principle. Neither is there the attempt to derive such a principle.</p><p>Proposals in which scientific findings are claimed to play an important role for normativity vary from being uncontroversial and allegedly 'trivial' to supposedly reductionist accounts. Most authors stress the philosophical question of how moral and empirical concepts are connected (or unconnected); rarely do they make their proposals concrete, e.g., by exemplifying how science informs ethics in everyday issues. A refreshing exception, though in the field of ethics broadly conceived, can be found in <ref type="bibr" target="#b25">Pigliucci (2003)</ref>.</p><p>Our aim here is to discuss how scientific findings have an impact on normative ethics and ethical practice, even if they do not yield demonstratively true ethical principles. Scientific ethics' deviates indeed from Moore's 'Ethics', in being preoccupied less with absolute truth and more with practice. This aligns with current conceptions on ethics as an orienting tool to reflect on individual and societal practices (e.g., <ref type="bibr" target="#b20">Kurtz and Koepsell 2007)</ref>. In the third section, we look closer at the philosophical assumptions underpinning this view of ethics. For now, it suffices to point out that scientific information is conditionally relevant for ethics. That is, if we accept certain moral principles, then everything known can be used to infer rules that help us to reach these moral ends. In this scenario, scientific knowledge is instrumental to ethics <ref type="bibr" target="#b30">(Rosenberg 2000)</ref>, or science can help us to infer hypothetical imperatives only <ref type="bibr" target="#b4">(Binmore 2005)</ref>. This is not controversial, and both foundational and nonfoundational systems can accept this procedure. Hence science is important for ethics in general. However, scientific ethics relies merely on this conditional procedure, while foundational ethics further relies on the inference of first moral norms. Here we demonstrate that its conditional procedure does not commit the naturalistic fallacy: first we illustrate how science informs ethics; then we explicate the line of reasoning.</p><p>A clarifying example is provided by the Kibbutzim in Israel, modern communities that are unique in their organization of production, ownership, consumption and child care <ref type="bibr" target="#b1">(Agassi 1989)</ref>. From the start these communities aimed to create a society where all would be equal and free from exploitation. Property was common. Every member received an equal wage depending on his or her needs. Men and women were expected to participate equally in all kinds of work: household chores, childcare, politics, farming and so on. Trained nurses and teachers raised children away from their parents. It was hoped that this would liberate women from their traditional mother roles. However, after one generation already this organizational structure weakened. Women were found to be more active in teaching and child care, while men participated more in politics and field work. Men also took up the majority of leading and managing positions. Because of these 'role patterns', men had easier access to some assets such as a car, an office and an apartment in town.</p><p>Some commentaries (e.g., Agassi 1988) remained convinced that these gender differences could and should be eradicated. To do so, it would be helpful-or even necessary-to identify the precise factors causing the gender differences. Other commentaries (e.g., <ref type="bibr">Palgi et al. 1983</ref>) saw in the unique constellation of the Israeli Kibbutzim a test case for social theories explaining gender inequality as a consequence of the unequal social organization of production, ownership and so on. Since gender differences were not eradicated in the Kibbutzim, where social organization started out equal for men and women, these theories are not supported. Maybe then one can consider biology as a factor accounting for at least some gender differences?</p><p>Let us zoom in on explanations of childcare asymmetries (yet without claiming these explanations to apply to other aspects of role patterns-indeed, therefore more scientific information would be needed).</p><p>Concerning child care asymmetries, in all cultures mothers spend more time with their children than fathers do <ref type="bibr">(Lamb 2003;</ref><ref type="bibr" target="#b24">Owen Blakemore et al. 2008)</ref>. This can be modified partly by the social environment. For example, pregnant women who had more prior childcare experience (for example due to baby-sitting) feel more positive about caretaking, children and their own fetus <ref type="bibr" target="#b11">(Fleming et al. 1997)</ref>; and women may be asked to baby-sit more than men. But biology also plays a role in 'moulding' mothers into this role. Pregnancy hormones seem to influence nurturing behaviour: a pregnant woman's body experiences a change in the estrogen/ progesterone ratio. The change in this ratio during pregnancy correlates with maternal behaviour immediately after birth <ref type="bibr" target="#b11">(Fleming et al. 1997)</ref>. Lactation as well may influence mothering behaviour due to lactation-induced hormonal changes. As tested in nonhuman primates, breastfeeding heightens the concentration of blood hormones like oxytocin, which has a motivating role in nursing and grooming behaviour <ref type="bibr" target="#b21">(Maestripieri et al. 2009</ref>). In addition, women have a lower threshold for responding to babies than most men <ref type="bibr" target="#b34">(Silk 2002)</ref> and feel more protective towards infants <ref type="bibr" target="#b2">(Alley 1983)</ref>. More recently, it was found that women are more interested than men in babies and caretaking <ref type="bibr" target="#b20">(Maestripieri and Pelka 2002)</ref> and that women feel somewhat more motivated than men to take care for babies when these have (manipulated) very baby-like faces <ref type="bibr" target="#b13">(Glocker et al. 2009</ref>). It is suggested that these biological factors induce nursing behaviour in females <ref type="bibr" target="#b16">(Hrdy 2005)</ref> and make it satisfying for mothers to nurture their children. However, this does not mean that men cannot be induced to demonstrate caretaking behaviour. That the social environment can induce paternal care is for instance suggested by the finding that men engage in more paternal care when couple intimacy is high <ref type="bibr" target="#b3">(Belsky et al. 1991)</ref>. Also biology helps in inducing paternal care: expectant mothers and fathers both experience an increase in prolactin levels and, in humans, higher prolactin levels in men are correlated with more paternal behaviour <ref type="bibr" target="#b35">(Storey et al. 2000;</ref><ref type="bibr" target="#b12">Fleming et al. 2002)</ref>. Experienced fathers are more reactive towards cries of babies than first-time or less experienced fathers: they show a more enhanced prolactin response and they feel a greater need to respond to the infant's cries <ref type="bibr" target="#b12">(Fleming et al. 2002)</ref>.</p><p>In other words, while men can be induced to be more responsive to children, it is plausible that many mothers-not necessarily women in general, maybe only those who have been pregnant or are lactating-will still want to spend more time with their children compared to fathers. If these differences in desires are-even partlycaused by hormonal changes during pregnancy and lactation, then we may expect these differences in desires to exist over a vast range of social environments. Along this line of thought, one can expect that completely eradicating the resulting 'role patterns' would demand that many men and women constantly act against their internal desires. This could be very hard to do, and even could be dissatisfying. Of course, it is exactly the point of moral behavior to act against certain tendencies for moral reasons. 4 However, enforcing the total eradication of all gender differences not only conflicts with strong spontaneous tendencies, it can therefore also conflict with specific values humans have. Since people differ in their basic outlook of life, we value freedom of choice and life satisfaction; in general women also value familial intimacy more than men do. We also consider these values as moral reasons for acting. As a consequence, a more coherent solution could allow for role patterns to exist without forcing people into a certain role and without disvaluing one or the other role in e.g., economic terms. This implies that one takes into account the inherent desires people have; 5 men who prefer child care over politics may as well fulfil this role; women who prefer politics over child care may pursue their ambitions. But if a substantial amount of mothers spontaneously want to specialize in child care and service work, their choice can be allowed as well.</p><p>Then the question becomes how to accommodate the possibility that several women want to have both employment and children. Indeed, studies show that across Europe, the US and Japan, a relative majority of women prefers combining employment and family work above either a work-centred life (focused on a career and where family-life is fitted around their paid work) or a home-centred life (giving priority on private life and family over paid work). Significantly, men tend to prefer a work-centred life more than women do <ref type="bibr" target="#b14">(Hakim 2008)</ref>. This makes one expect that several women wanting to combine employment or a career with having children cannot easily rely on the willingness of their partner to contribute equally in the household. 4 We thank an anonymous reviewer for this remark. 5 One can remark that taking into account the inherent desires people have enforces us to equally consider the inherent desires of pedophiles, psychopaths, sexists, and so on. However, 'taking into account' is not the same as legitimating. It is better to know about these desires and their origins if one wants to eradicate malicious behavior. Second, those desires would be unproblematic if they did not conflict with the desires of other people. It is exactly because they do conflict with the desires of other people that we do not agree with these activities. Here science is of great help in pointing out what harm it does to small children if they are manipulated into sexual activities, what harm it does to people if they are denied certain positions due to their sex and so on. Third, consistently with the rest of our account, scientific agreement alone cannot solve the discussion: we need to find an agreement on some values to have a basis for discussion.</p><p>Here science provides us unforeseen options. For instance, in modern societies grandparents often invest heavily in their grandchildren (e.g., <ref type="bibr" target="#b26">Pollet 2007)</ref>. In extant hunter-gatherer societies as well, children clearly benefit from the help of others than their parents, especially of maternal grandmothers <ref type="bibr" target="#b33">(Sear and Mace 2008)</ref>. It is suggested that during long periods of our evolution, children's survival depended on the additional care they received from others than their mothers <ref type="bibr" target="#b16">(Hrdy 2005)</ref>. On the basis of this knowledge, one can consider promoting institutionalized childcare or familial assistance, benefiting those mothers who pursue demanding occupations. Moreover, fathers can be induced to feel more attentive towards infants as well. We can use this and similar information to optimally promote paternal care, although realizing that since differences in desires remain, an equal role pattern will be very hard to achieve. In sum, to promote women's professional aspirations, a narrow focus on paternal care will not help as much in reaching this aim as other possibilities would. A more optimal and desired solution is to keep the possibilities open by promoting or facilitating familial care, institutionalized childcare and paternal care.</p><p>What this account illustrates is that scientific knowledge about children's needs and our evolved nature incites us to consider more successful alternatives to the enforced paternal care one tried to implement in the original Kibbutzim. Fathers should have the possibility to go on paternity leave, but science teaches us that this possibility alone will not be enough to free ambitious mothers from their mother roles. Promoting childcare facilities and familial assistance may be a more fruitful option.</p><p>Scientific findings play a double role in this example. First, they make us realize that people hold unforeseen values. Scientific findings make us take seriously the fact that women in general value childcare more than men in general do because. according to the scientific information we have, this difference is unlikely to be eradicated by upbringing. Also, familial solidarity appeared a possible and partial solution for childcare regulations. If we care about freedom of life choice and more economic equality, then science informs us that we could promote familial childcare systems. Hence, science is conditionally relevant for normative conclusions. Second, science guides away from certain value systems when, as in the example, its values cannot be realized because for instance they conflict too much. Total equality conflicts with the fact that men and women generally value different things and want to make other life choices. Hence, if we accept that we want a practically coherent normative system, then we have to downgrade the importance of either total equality or of freedom of choice. If we want a coherent system that takes deeply ingrained desires into account, then we should not aim for total equality. Again, science is conditionally relevant for our normative conclusions. Now, when science guides us away from value sets or imports new moral options, do we then commit the naturalistic fallacy? In both cases, one can ask if we are not deriving a first moral norm from a pure description of the world. Let us consider the case where science guides us away from a normative system based on total equality. The structure of the reasoning was as follows:</p><p>Moral premises: Freedom of life choice, equality and practical feasibility are all morally good.</p><p>Factual premises: In general and over a broad range of situations (varying in upbringing, culture, etc.) women value childcare more then men do.</p><p>Conclusion: Sexual differences in time spent in caring for children ought not to be totally eradicated.</p><p>Clearly, the conclusion is not derived independently from normative rules. It is therefore not a first moral norm. But one might ask where the moral premises come from. Is any of them a first moral norm? Some of these norms (e.g., freedom of life choice) came into play because scientific findings made us realize they were important. However, we did not try to establish their truth: they were used as an assumption. We could have rejected these norms and used different ones, for example when they conflict with other values we hold or scientific information about their feasibility Therefore, no naturalistic fallacy has been commited. However, seeing the status of moral norms as mere assumptions invites the criticism that science does not offer a definite justification, obligation or 'foundation' for any normative statement. To this, we can only say that we could not agree more: we fully endorse that science guides ethics conditionally, not absolutely. The Kibbutzim do not have to be organized that way, this is conditional on whether we accept these values or not. Science does guide ethics though, not by inferring true moral principles but by pointing us to which values we do hold and which value sets are incoherent. In the following section we will also argue that this quest for foundations is often misguided.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2">Criticisms of Scientific Ethics and the Quest for a Foundation</head><p>How do critics oppose the sketched conditional procedures? To answer this question we draw on the clarifications made in Sect. 2.2. There we argued that Moore's concept of the naturalistic fallacy is an argument against ethical foundations. Hence Moore's critique was aimed towards early evolutionary ethicists like Spencer who did commit the naturalistic fallacy; it is not used to criticize ethicists who do not provide such a foundation. Contemporary critics however, accuse current scientific ethicists (and more specifically, evolutionary ethicists) of committing the naturalistic fallacy, while at the same time critiquing them for not providing a foundation for ethics. Let us dig deeper in this request for foundations as done by contemporary critics of scientific ethics.</p><p>Several scientific ethicists have argued that scientific information can be used to argue for and against specific values (e.g., <ref type="bibr" target="#b9">Flanagan 1996;</ref><ref type="bibr">Casebeer 2003)</ref>. Some of these scholars grant a special role to evolutionary theories (e.g., <ref type="bibr" target="#b32">Ruse 1995)</ref>. The idea is that information about our evolved nature is particularly relevant to ethics because it highlights general human possibilities and constraints. Hence, evolutionary theories, together with empirical data that corroborate these theories, can guide normative ethics in the most general way. As <ref type="bibr">Rosenberg (2000, 9)</ref> asserts, of all sciences evolutionary theory ''maximally combines relevance to human affairs and well-foundedness.'' Among scientific ethics, it is mostly this kind of evolutionary ethics that is under attack. This is understandable from a historical perspective. Some evolutionary ethicists did try to ground ethics in evolution by inferring a first moral principle from our evolved nature <ref type="bibr" target="#b28">(Richards 1986;</ref><ref type="bibr">E. O. Wilson 1984)</ref>. Most evolutionary inspired scientific ethicists however mainly indulge in the reasoning as sketched in the example <ref type="bibr">(Ruse and Wilson 1986;</ref><ref type="bibr" target="#b4">Binmore 2005)</ref>. Nonetheless, both accounts have been criticized.</p><p>As one of the established critics of scientific ethics, especially Paul Farber (1994) reviewed accounts of evolutionary ethics throughout history. His work demonstrates the same reasoning behind recent criticism against scientific ethics. Therefore Farber's The Temptations of Evolutionary Ethics is used as a template to analyze this criticism. According to Farber, sociobiology-which relates animal and human behavior to its evolutionary history-''offers no new hope, no new foundation'' for ethics <ref type="bibr">(ibidem, 156)</ref>. With this statement, Farber warns against reintroducing the naturalistic fallacy in evolutionary ethics, which is the most famous way of grounding ethics. However, should one abandon hope together with foundations?</p><p>Although Farber acknowledges the existence of nonfoundational accounts, he is little enthusiastic about them. He discusses a range of programs in twentieth-century evolutionary ethics, of which several do not commit the naturalistic fallacy and make no attempt at grounding anything. One of them is the strong program, which attempts to provide moral guidance by informing us about our biological nature. Farber rejects this program because ''an established picture of human nature from which to derive useful lessons is far away'' (ibidem, 160). About the weak program, which aims at an understanding of what morality is, Farber argues that it does not provide moral guidance. Still, he recognizes it as ''a possible source of relevant information'' (ibidem, 160) and adopts the ambitions of the weaker program in using scientific information ''in order to avoid misguided moralizing'' (ibidem, 160). This seems to hint at a contradiction, especially because 'the avoidance of misguided moralizing' can be taken at least as some kind of moral guidance. In the Kibbutzim example, we concluded that scientific discussions can lead to conditional moral guidance. Evolutionary information is a helpful guide for moral practice, exactly because it constrains the desirable possibilities, while it suggests otherwise unnoticed options.</p><p>Farber finds these approaches wanting and concludes pessimistically that ''the newest program for an evolutionary ethics looks […] unpromising as a theory of ethics'' <ref type="bibr">(ibidem, 166-7)</ref>. The only option he considers for evolutionary science is to provide a foundation for ethics (ibidem, 163-165). However, as argued in the discussion about the naturalistic fallacy, nothing can offer a foundation for ethics. Indeed, also <ref type="bibr">Farber (ibidem,</ref><ref type="bibr">165)</ref> is aware that all attempts to construe a unified rational ethics have ''hit on hard times''. Consequently, if a foundationalist ethics proves to be impossible, why strive for it and not seek other alternatives?</p><p>Only at the end of his book, Farber briefly speculates on another possibility: ''perhaps if philosophers develop an ethical theory […] that is nonfoundationalist, evolutionary considerations may enter the philosophical arena'' <ref type="bibr">(ibidem, 165)</ref>. He tentatively mentions pragmatism and Rawls' Theory of Justice. But, then again, he adds, these ethical philosophers rarely mention evolutionary ethics. The possibility that their ethics could benefit from evolutionary findings is not even considered by Farber. He simply concludes that evolutionary ethics looks unpromising as a theory of ethics. We think that, given Farber's opposition towards committing the naturalistic fallacy, he should either consider a nonfoundationalist approach for evolutionary and scientific ethics or make clear what he intends with a theory of ethics.</p><p>Criticism like Farber's is well spread. Peter Woolcock, for example, argues that all the work in evolutionary ethics he studied committed the naturalistic fallacy. But he also claims that ''in order to have some normative relevance, a descriptive theory would seem to have to be able to leap the ''is/ought'' gap'' <ref type="bibr">(Woolcock 1999, 290)</ref>. And since evolutionary theory cannot leap this gap, he concludes that the naturalistic fallacy invalidates all efforts at an evolutionary ethics <ref type="bibr">(ibidem, 282)</ref>. In between lines, he does suggest that there can be other ways to ground ethics. For instance, he argues that ethical terms may not be ''identical in meaning with some natural property, nonetheless they might be identical in fact with some natural property, just as water does not mean ''H 2 O,'' even though in fact it is identical with H 2 O'' (ibidem, 284). But Woolcock does not consider this a serious option for science. Therefore, his argument is similar to that of Farber's: there is the impossible demand that a descriptive theory should leap the is/ought gap if it is to be relevant to ethics. At the same time, ethics that are inspired by scientific theories (in casu evolutionary theory) are accused of committing the naturalistic fallacy. This is inconsistent, unless Woolcock explains how the is/ought gap is different from the naturalistic fallacy in this regard (which he does not). Moreover, if nothing can ground ethics, considering grounding to be a criterion for ethical relevance is highly questionable.</p><p>Last but not least, Alexander Rosenberg acknowledges that science can inform ethics in the ways described here in Sect. 3.1. But he also claims that this is not enough: ''for a theory of human nature to have ramifications for moral philosophy itself, it will have to do more than any of these things'' <ref type="bibr">(Rosenberg 2000, 120)</ref>. According to Rosenberg, to be morally interesting, a theory of human nature must at least be able to derive some moral statement-a principle, value, obligation, etc.from a descriptive theory. One cannot begin with assumptions with normative content because then ''these assumptions are doing all the real work, and […] the biological theory makes no distinctive contribution to the derivation'' (ibidem, 120). Indeed, the normative assumptions in the Kibbutzim example do some of the work-but the scientific information is relevant, both for eliminating certain value sets because they are less consistent than others, as for pointing us towards certain values. Still, Rosenberg demands an independent derivation of moral statements from a descriptive theory if this descriptive theory is to be truly relevant to ethics. But why would he demand this? Even more so when taking that he, too, explicitly connects the derivation of first principles with the illegitimate bridging of the is/ ought gap: ''the possibility of deriving […] the existence of some moral principle […] rests on two preconditions. The first is that we can derive ''ought <ref type="bibr">'' from ''is''''(ibidem, 120)</ref>. Even though Rosenberg does not express his opinion on whether he accepts the reasoning behind the naturalistic fallacy or not, that this first precondition cannot be realized ''seems to me <ref type="bibr">[Rosenberg]</ref> at least as widely held a view as any other claim in moral philosophy or meta-ethics'' (ibidem, 120). As Woolcock, perhaps he does not follow Moore's original interpretation of the naturalistic fallacy. Perhaps he too has some kind of foundation in mind that is not refuted by it. Unfortunately, once again, there is no indication that he really is considering such an alternative.</p><p>In sum, according to the discussed authors, scientific ethicists either commit the naturalistic fallacy or fail to make their descriptive theory morally relevant. This also counts when using evolutionary theory in order to ground ethics, as has been the case in several sociobiological and evolutionary epistemological approaches. Questioning when science would be relevant for normative ethics, these critics suggest that it should provide either a new foundation <ref type="bibr">(Farber)</ref>, leap the is/ought gap <ref type="bibr">(Woolcock)</ref> or derive moral statements from a descriptive theory <ref type="bibr">(Rosenberg)</ref>. In light of the naturalistic fallacy, these suggestions are all impossible. This leads one to ask whether the authors either accept Moore's interpretation of the naturalistic fallacy or have a foundational ethics in mind that does not commit to Moore's reasoning. Only Farber suggested a way out of these impossibilities, namely that in a nonfoundational ethical theory, evolutionary considerations may be of relevance. While Farber never examined this option further, we already illustrated in Sect. 3.1 that scientific ethics can be promising even if one is not trying to 'ground' ethics. In what follows, we will argue that scientific ethics is also a philosophically underpinned theory. As such, there is no use to abandon hope together with 'foundations', as Farber does.<ref type="foot" target="#foot_3">foot_3</ref> 4 Naturalistic Ethics and the Methods of the Sciences It appears that science can inform ethics without committing the naturalistic fallacy and that common arguments against scientific ethics are misguided: critics demand scientific ethicists to provide a foundation for ethics while at the same time opposing an analytic ground for ethics. This, then, leaves to question what arguments we have for preferring nonfoundational over foundational ethics. We will first show that scientific ethicists-endorsing nonfoundational ethics-defend their nonfoundational normative system by appealing to methodological naturalism. This entails that we are interested in the proper method of normative inquiry. In defending methodological naturalism for normative inquiry, we follow a slightly modified reasoning than that pursued by the discussed scientific ethicists.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1">Do's and Don'ts in Naturalistic Ethics</head><p>Certain scientific ethicists support their argument for ethics informed by science or 'ethical naturalism' by referring to methodological naturalism. As <ref type="bibr">Flanagan et al. (2008, 5)</ref> argue: ''Ethical naturalism is not chiefly concerned with ontology but with the proper way of approaching moral inquiry'' (see also <ref type="bibr" target="#b9">Flanagan 1996)</ref>.</p><p>What does this method of moral inquiry consist of? On the one hand, Casebeer (2003, 9) refers to ''methodological naturalism'' as stating that ''the methodological and epistemological assumptions of the natural sciences should serve as standards for this inquiry.'' He asserts that ''robust moral norms […] can be constrained by and derived from the sciences'' <ref type="bibr">(Casebeer 2003, 34)</ref>. Consequently, he aims to develop a theory that helps to delineate those values that are conducive to human flourishing. <ref type="bibr">Flanagan et al. (2008, 5)</ref> on the other hand argue that ''the claims of ethical naturalism cannot be shielded from empirical testing. […] ethical science must be continuous with other sciences''. They describe the method of naturalistic ethics as consisting of two components: a descriptive-genealogical component consisting of scientific descriptions and explanations of the moral phenomenon (normative practices, judgments and so on) <ref type="bibr" target="#b10">(Flanagan et al. 2008)</ref> and a normative component drawing upon this information and either extracting successful normative practices from unsuccessful ones <ref type="bibr" target="#b9">(Flanagan 1996)</ref> or considering which moral practices are part of what humans need and desire <ref type="bibr" target="#b10">(Flanagan et al. 2008)</ref>.</p><p>Does the concept of 'foundation' play a role in accounts of naturalistic ethics? Casebeer (2003) explains that one cannot analytically 'ground' ethics or find true moral principles by conceptual analysis. In other words, he recognizes that one cannot find an analytically true first principle-not because 'good' is a simple notion, but because the notion of finding truth by pure analysis (i.e., analytic truth) is flawed. His reasoning largely builds on Quine's Two Dogma's of <ref type="bibr">Empiricism (1951)</ref> and is in contrast with Moore's reasoning which relied on the possibility of finding analytic truths. Also according to <ref type="bibr">Flanagan et al. (2008, 5)</ref>, ''moral philosophy should not employ a distinctive a priori method of yielding substantive, self-evident and foundational truths from pure conceptual analytical testing''.</p><p>Consequently and importantly, naturalists like Casebeer and Flanagan do not rely on analytic statements when backing up their moral principles with facts or when proposing certain universal moral values. Their arguments are not about the very meaning of a moral word or about the true nature of a moral notion. If equal worth is good, it means that there are scientific and moral arguments to endorse equal worth and that you can disagree and give counterarguments: ''With regard to the alleged is-ought problem, the smart naturalist makes no claims to establish demonstratively moral norms. He or she points to certain practices, values, virtues and principles as reasonable based on inductive and abductive reasoning'' <ref type="bibr">(Flanagan et al. 2008, 14)</ref>.</p><p>Despite subtle differences, Flanagan and Casebeer share the same basic picture (see also <ref type="bibr">Casebeer 2003, 34)</ref>. We interpret both as stating that, if we accept certain concrete values, then we can use scientific methods and findings to distinguish right from wrong conduct. This is in accord with the example where science was conditionally relevant for ethics without offering a foundation for ethics. Hence one can never fully determine which values are worth pursuing. But science can give arguments for or against them. As such, the naturalist method of normative inquiry is not about building normative theories on independently derived first moral principles. Instead, it draws on the existing pool of moral practices and values and all the scientific information to be found about them. These practices and values are evaluated in the light of other values and in the light of what can reasonably be valued by human beings. <ref type="foot" target="#foot_4">7</ref> Still, to answer why this method of normative inquiry is preferential, we need to look into the rationale behind naturalism. This will also lead to further clarifications of how science is relevant for scientific ethics in ways it is not for foundational ethics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2">Naturalism's Contingency Argument</head><p>Naturalism is committed to the methods and findings of science <ref type="bibr" target="#b30">(Rosenberg 2000;</ref><ref type="bibr">Casebeer 2003)</ref>. To find out if these methods and findings can be applied to normative ethics, let us look into the basic idea behind scientific inquiry. Basically, it is considered legitimate to engage oneself to a specific constellation of methods and aims when this constellation has been shown to be more productive-that is, more successful in leading to a predetermined aim-than another constellation. According to Rosenberg for instance, naturalism implies that the methods of the natural sciences are to guide philosophy because of the contingent historical fact that science has been more successful than any other approach in predicting new phenomena and exerting control over the physical world <ref type="bibr" target="#b30">(Rosenberg 2000)</ref>. This successful constellation of methods and aims hence became the standard for scientific inquiry.</p><p>An example can clarify the notion of success. Fred <ref type="bibr">Wilson (2007, 251-252)</ref> has reviewed methods and aims used throughout the history of natural philosophy. Before the sixteenth, seventeenth century, for instance, 'rational intuition' was thought to give one direct access to natural laws. Some patterns in nature were supposed to reflect natural laws or motions, others to reflect unnatural motions. Natural motions were thought to be essential to a particular substance (e.g., falling down is essential to an earthy object), unnatural motions were thought to be induced by an external substance (e.g., the parabolic motion of a projectile is not essential to the object; someone or something-an external substance-must have thrown it to give the object its forward thrust). Natural laws, so it was believed, could not be observed; they were to be found by the method of rational intuition. Science was to deduce these natural laws. However, this conviction did not lead to great progress in questions such as projectile motion. Galileo changed the aims: one should not seek to distinguish the natural laws versus the unnatural motions. One should try to find exceptionless patterns in the observable world and forget about whether they are essential or not to the object. Galileo also changed the method: these patterns can be found by observation and experiments on the behaviour of changing things. This new science was very successful (F. <ref type="bibr">Wilson 2007, 254)</ref>. Therefore, observation came to have a more prominent role in the scientific method while the aim of distinguishing natural versus unnatural motions was abandoned.</p><p>This leaves the question whether the modern method and aim of science can serve as standard for normative inquiry. According to Rosenberg, science aims to predict and control the natural world <ref type="bibr" target="#b30">(Rosenberg 2000)</ref>. According to Ernst Nagel, science aims to provide systematic and supported explanations (E. <ref type="bibr">Nagel 1961, 15)</ref>, enabling the explanation and prediction of new phenomena that were not yet in the evidence on which the explanation was built (ibidem, 64). Are these aims the same as those of normative inquiry? In the literature, several objects have been postulated as the aim of ethics. We already saw that, according to Moore <ref type="bibr">(Moore 1993</ref><ref type="bibr">(Moore /1903, §14), §14)</ref>, 'Ethics' must aim at truth. Others, like Warnock, situate the object of morality in the amelioration of the human predicament <ref type="bibr">(Warnock 1971, 16)</ref> while Thomas Nagel identifies morality as the combination of a personal perspective with an objective perspective (T. <ref type="bibr">Nagel 1985, 3)</ref>. While many other proposals exist, most of them do not consider it the aim of normative inquiry to explain, predict or control what will happen. Hence, we consider it problematic to take the aim of science and make this into the aim of normative ethics.</p><p>What about the methods of science? The natural sciences typically test hypotheses against observations. When inconsistencies are discovered, hypotheses or theories are adjusted. Data from observations are only seldom adjusted because the existing methods allow obtaining reliable data from observation. Reliable data are the same when gathered under the same experimental circumstances, and they are objective in that everybody is able to see or (re)confirm the same raw data. But even when taking that values are amenable to observation, we do not (or not yet) have an experimental method or theory to gather raw data in a way that makes everybody see, or be convinced by, the same values. As a result, as things stand now, one cannot simply copy the aim and method of science to normative inquiry. So how can normative ethics proceed? What are the criteria for successful normative ethics, analogous to the criteria for successful science?</p><p>Casebeer (2003) asks a similar question and suggests that we naturalize normativity. In his proposal, all moral terms can be reduced to functional terms <ref type="bibr">(Casebeer 2003, 38)</ref>: ''To live the life informed and motivated by practical reason and wisdom is to live a functional life'' (ibidem, 42). Furthermore we can understand all functional facts within a materialist ontological framework (ibidem, 54). Casebeer goes on developing a theory of functions that is scientific and useful in biology as well as in normative theory: ''Value properties […] are scientifically tractable in the same way that biological notions of function are'' (ibidem, 55). Hence, he develops an encompassing moral theory that is amenable to scientific testing. It follows that according to Casebeer's naturalized normativity, the aim and method of the natural sciences can be applied to morality. It must be stressed that his theory is not deduced from pure analytical statements that are demonstrated to be true. His theory consists of statements with conceptual and empirical content; it is also deemed internally consistent and supported by empirical knowledge. Hence, his theory must not be discussed by reference to rationality only; one can give empirical and conceptual arguments for and against it.</p><p>Our approach may be compatible with Casebeer's but does not suggest an allencompassing general theory that translates normative terms into descriptive or factual terms. We want to focus on how to tackle concrete day-to-day moral questions. Hereto, we take the previously sketched reasoning behind naturalism in science and apply it to ethics. We hence ask the empirical question what constellation of aims and methods until now has been most successful in normative inquiry. We consider a method of inquiry to be successful if its methods lead to her predetermined purpose. Two questions of interest to our project here can be considered:(1) how successful foundational ethics has been, in solving specific moral problems compared to the method in Sect. 3.1 and (2) how science is relevant to normative ethics in a nonfoundational system. Let us turn to the first question.</p><p>The twentieth century was dominated by analytical ethics, which gained attention thanks to Moore's Principia Ethica. As a field, it grew out of a strong rebuttal of the possibility of analytical normative ethics Analytical ethicists did not primarily aim to discuss normative questions, but rather examined the meaning of moral terms and moral judgments and aimed for analytic truths in ethics. Analysis hence was mainly used in the domain of meta-ethics and not in the domain of normative ethics. Thus we can at least conclude that analytical ethics was never meant to lead to normative progress. However, the focus on analysis in the twentieth century seemed to suggest that this was the preferred method for all ethics. Moreover, practical moral choices always side with or against certain theoretical positions. Still, the relevance and merits of analytical ethics for normative ethics is contested. <ref type="bibr" target="#b15">Holmes (1990)</ref>, for instance, discusses the relevance of analytical ethics for bioethics. He argues that analytical ethics can only clarify normative issues and cannot provide moral wisdom. Similarly, while agreeing that conceptual analysis can clarify the logical connections between moral concepts, he doubts that it can resolve which normative theory is true or a better solution. Therefore he advised that bioethicists do not turn to conceptual analysis to solve their problems <ref type="bibr" target="#b15">(Holmes 1990)</ref>. A similar pessimism towards foundational normative ethics is found in Farber's work. Farber mentions that philosophers since Sidgwick have tried to systematize morality, but without success <ref type="bibr">(Farber 1994, 165)</ref>. Also Edward O. <ref type="bibr">Wilson (1975, 562)</ref> described the result of analytical ethics in the twentieth century as ''several oddly disjunct conceptualizations''. Naturalism does not reject analysis per se, but it rejects the possibility of finding true statements by means of pure conceptual analysis. It thus rejects the suitability of this particular method for the specific aim of finding true statements; or stronger, it rejects the plausibility of ever finding analytic truths.</p><p>This supports the conclusion of the naturalistic fallacy, namely that one cannot ground norms in facts. Indeed, naturalism offers a genuine reason for why one should not 'ground' ethics 8 and practically neutralizes the criticism against scientific ethics that it would commit the naturalistic fallacy. One can reasonably expect that 8 According to Casebeer (2003), <ref type="bibr" target="#b27">Quine's (1951)</ref> argument also shows that Moore's reasoning behind the naturalistic fallacy is incorrect, even though its conclusion holds. This is because Moore's reasoning behind the naturalistic fallacy assumes that we can find true statements by analyzing the meaning of the words, without any observational input. For a more elaborate discussion, see <ref type="bibr">Casebeer (2003)</ref> and <ref type="bibr" target="#b27">Quine (1951)</ref>. Naturalists like Flanagan, Casebeer and Ruse hence accept the conclusions of Moore's naturalistic fallacy without necessarily accepting the reasoning behind it. scientific ethicists who explicitly endorse naturalism as here presented do not rely on analytical statements or first principles. In fact, this is the case with some authors who have been accused of committing the naturalistic fallacy. Ruse, for example, claims that he is grounding ethics and is consequently refuted by Woolcock for committing the naturalistic fallacy. But Ruse explicitly endorses the 'is/ought' gap. A closer look teaches us that with 'grounding' Ruse certainly does not aim to analytically derive a first principle <ref type="bibr" target="#b32">(Ruse 1995)</ref>. If however naturalistic scientific ethicists do commit the naturalistic fallacy, we can poignantly accuse them of contradicting explicitly endorsed naturalistic commitments.</p><p>Finally, the historical reasoning as proposed here can continuously and empirically be applied to the question of which local aim and method in ethics is most successful. It is here that the relevance of scientific findings for normative ethics has to be laid out. In effect, naturalists can interpret values and value sets as local aims. One can try to promote these by means consistent with our values. In the example of the Kibbutzim, the aim of total equality conflicts with our values of freedom life choice and life satisfaction. This can explain why the Kibbutzim did not reach their goal of total equality and it is unlikely given experience and scientific information that it ever would. Hence a decision was made to try something else. This is consistent with <ref type="bibr" target="#b9">Flanagan's (1996)</ref> principle of drawing successful practices from unsuccessful ones. <ref type="foot" target="#foot_5">9</ref>What practices do we choose from? Here we saw that science informs us about other options. When the method of promoting paternal care alone hardly relieves working mothers, other possibilities could be considered based on recent findings about the evolution of childcare. As Flanagan holds, we import our values from the values we already hold; scientific descriptions and explanations of the moral phenomenon-such as naturalistic descriptions of normative practices, judgments and so on-can help us with this <ref type="bibr" target="#b10">(Flanagan et al. 2008)</ref>.</p><p>Important is that all adaptations to our value systems are conditional on other values. When arguing for a moral rule we always draw on the pool of values we hold, rejecting and strengthening norms as the resulting system is more or les consistent and successful. As such, all values can be revised in the light of new evidence. This means that moral decisions are never absolute but change as knowledge about the situation grows. This dynamic view on morality here differs from a foundational account: when introducing a foundation this value and all that follows from it cannot be revised in the light of new evidence about other values we (want to) hold.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5">Conclusion</head><p>Today, many philosophers still aim at establishing a normative system built on an unimpeachable foundation; or they demand such a foundation from others. At the same time, they refer to the naturalistic fallacy as a legitimate criticism against instantiations of scientific ethics, mostly evolutionary ethics. We have shown that both arguments when used together contradict each other; we argued that no fallacy is committed in the work they criticize. We also countered the assumption that ethics needs to be foundational and that science is not relevant for normative ethics. Though agreeing that science loses some of its relevance for foundational ethics, we claim that science is highly relevant in nonfoundational ethics. Crucially, we reasoned that scientific ethics is best conceived of as an instance of such a nonfoundational normative ethics. We believe the debate between proponents and opponents of scientific ethics would benefit from recognizing scientific ethics as nonfoundational. Much of the discussed disagreement occurred because nonfoundationalist proponents were debated within a foundationalist framework; therefore the discussion should be focused on this difference.</p><p>In the last sections, we discussed and argued for the nonfoundationalist view of ethics. Defenders of scientific ethics refer to naturalism to support their view. Naturalists take the implausibility of a foundational ethics at face value and endorse another approach. We proposed a slightly modified naturalistic reasoning in support of scientific ethics. Our approach does not aim at building a grand philosophical theory but suggests that a hands-on method for normative inquiry can give more direct success. Normative inquiry can be aimed at local and concrete problem solving, wherein a moral problem is never absolutely solved. It is thereby a challenging approach that demands regular reassessment of a moral problem while science proceeds and offers new information. As naturalists, analytic truth is not our aim and the search for first foundations is rejected in favour of conditional moral judgments that can be tested on their practical success. <ref type="foot" target="#foot_6">10</ref></p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>We discuss the notion of success in Sect. 4.2.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>If a moral norm would be determined by something else than a descriptive theory (e.g. direct intuition), but irrefutable in the light of other moral norms, we would still call it a 'first moral norm'. It would just not be a descriptively determined first moral norm.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p>The term 'nature' here is referring to a modern, non-teleological view of a mechanistic observable and physical world. This is different from 'nature' in natural law theories, where purpose and normativity are taken to be part of the world, hence of physical nature.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_3"><p>Unwarranted criticism of scientific ethics, as laid out here, is in fact more widespread than this discussion of scholarly criticists may show. There seems to be the idea that normative ethics has to be foundational among the foundational theorists we discussed in Sect. 2.1. Also Blancke and Quintelier (under review) illustrate that a similar kind of criticism is enthusiastically propagated by creationist propaganda. Specifically, the creationist movement accuses evolutionary ethicists of committing the naturalistic fallacy while at the same time demanding evolutionary ethicists to provide a foundation for ethics. Because of the social relevance of this criticism and the widespread conception of normative ethics as foundational, we think it is important to defend nonfoundational ethics wherever we find it under attack.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_4"><p>Naturalists' views on normative ethics share similarities with the pragmatic tradition in ethics. For example<ref type="bibr" target="#b29">Rorty (2007)</ref>, a recent pragmatist, also rejects the quest for foundations for a historically contingent epistemology. Several of the here described naturalists are influenced by and explicitly refer to the work of one classical pragmatist, John Dewey (diCarlo and Teehan 2007; Casebeer 2003). David B. Wong, another naturalistic ethicist elaborates his naturalistic ethics by contrasting it with the work of, among others, Rorty. Nonetheless, even though there is mutual interest between pragmatic and naturalistic ethicists, it would be interesting if recent pragmatist and naturalistic ethics would be more intertwined. One can imagine a project where a naturalist elaborates on pragmatist theories in the light of a naturalist framework, or the other way around. This could stimulate discussion and integrate both views with each other.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_5"><p>Our argument for nonfoundational ethics here is that nonfoundational ethics is bound to be more successful than foundational ethics. While this is an advantage of nonfoundational ethics, there may also be disadvantages. It can be argued that the open-endedness of this endeavor is a drawback. However, this only holds compared to a successful foundational ethics, meaning that the first norm would finally be accepted by a large majority. In reality though, we see the same open-endedness in foundational ethics: since no foundational ethics ever reached the point where the first norm was accepted by a large majority, we had and have to give arguments for and against all norms in a foundational system as well. Another disadvantage of our scientific ethics is that it requires a shift from universal rules to the values all individuals hold: it is democratic. Therefore scientific ethics are less likely to be accepted in nondemocratic societies. However, nondemocratic societies should still defend why they value antidemocracy more than holding a successful normative ethic.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_6"><p>This is not a new foundation for ethics. Nowhere in this paper did we deductively infer this principle from other information; nor did we state that it absolutely fixed. We did give arguments in favor but it can be refuted in the light of new knowledge or moral prescripts that are found to follow from it.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgments <rs type="person">Katinka Quintelier</rs> is a doctoral fellow of <rs type="institution">FWO-Flanders</rs>. Linda Van Speybroeck is a postdoctoral fellow of <rs type="institution">FWO-Flanders</rs>. The support of <rs type="institution">FWO-Flanders</rs> is acknowledged with gratitude. The authors thank the editor and three anonymous referees for their stimulating remarks.</p><p>Open Access This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The design of working time and the status of women</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Agassi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The redesign of working time: promise or threat? Sigma</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Agassi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Heycock</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="249" to="255" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Theories of gender equality: lessons from the Israeli Kibbutz</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Agassi</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/089124389003002002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Gend Soc F</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="160" to="186" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Growth-produced changes in body shape and size as determinants of perceived age and adult caregiving</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Alley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Dev</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="241" to="248" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Childhood experience, interpersonal development, and reproductive strategy. An evolutionary theory of socialization</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Belsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Steinberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Draper</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-8624.ep9109162242</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Child Dev</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="647" to="670" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Natural justice</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Binmore</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A critical assessment of creationist views on the relation between evolutionary science and morality Casebeer WD (2003) Natural ethical facts</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Blancke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K ;</forename><surname>Quintelier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dicarlo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Teehan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Science and ethics</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Kurtz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Koepsell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, Massachusetts Curry O; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Can science help us make wise moral judgments? Prometheus Books</publisher>
+			<date type="published" when="2006">2006. 2007</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="306" to="322" />
+		</imprint>
+	</monogr>
+	<note>under review A dogma of darkness and death Who&apos;s afraid of the naturalistic fallacy? On the Naturalistic Fallacy. A conceptual basis for evolutionary ethics</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<monogr>
+		<title level="m" type="main">The temptations of evolutionary ethics</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Farber</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>University of California Press</publisher>
+			<pubPlace>Berkeley/Los Angeles/London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Semantics and structural problems in evolutionary ethics</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Ferguson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol Philos</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="69" to="84" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Classical natural law theory, property rights, and taxation</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Feser</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0265052509990021</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Philosophy &amp; Policy</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="21" to="52" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Ethics naturalized: ethics as human ecology</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Flanagan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mind and morals</title>
+		<editor>
+			<persName><forename type="first">Larry</forename><surname>May</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Clarck</forename><surname>Andy</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, Massachusetts</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="19" to="43" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Naturalizing ethics. The evolution of morality: adaptations and innateness</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Flanagan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sarkissian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Moral psychology</title>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Sinnott-Armstrong</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, Massachusetts</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="25" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Hormonal and experiential correlates of maternal responsiveness during pregnancy and the puerperium in human mothers</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Fleming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ruble</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krieger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Y</forename><surname>Wong</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/hbeh.1997.1376</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Horm Behav</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="145" to="158" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Testosterone and prolactin are associated with emotional responses to infant cries in new fathers</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Fleming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Corter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stallings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Steiner</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/hbeh.2002.1840</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Horm Behav</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="399" to="413" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Baby schema in infant faces induces cuteness perception and motivation for caretaking in adults</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Glocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Langleben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ruparel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Loughead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Gur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sachser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ethol</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="257" to="263" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Diversity in tastes, values, and preferences: comment on Jonung and Stahlberg</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hakim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econ Journal Watch</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="204" to="218" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The limited relevance of analytical ethics to the problem of bioethics</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Holmes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Philos</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="143" to="159" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Comes the child before man. How cooperative breeding and prolonged postweaning dependence shaped human potential</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Hrdy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Hunter-Gatherer childhoods. Evolutionary developmental &amp; cultural perspectives</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Hewlett</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Lamb</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New Jersey</addrLine></address></meeting>
+		<imprint>
+			<publisher>Transaction Publishers</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="65" to="91" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A treatise of human nature. Being an attempt to introduce the experimental method of reasoning into moral subjects</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hume</surname></persName>
+		</author>
+		<ptr target="http://www.gutenberg.org/etext/4705" />
+	</analytic>
+	<monogr>
+		<title level="m">Available via Project Gutenberg Literary Archive Foundation</title>
+		<imprint>
+			<date type="published" when="1739">1739-1740. June 2009</date>
+			<biblScope unit="volume">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<monogr>
+		<title level="m" type="main">The evolution of morality</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Joyce</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>MIT Press</publisher>
+			<pubPlace>Cambridge, Massachusetts</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Science and ethics: can science help us make wise moral judgments?</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kurtz</surname></persName>
+		</author>
+		<editor>Kurtz P</editor>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Prometheus Books</publisher>
+			<biblScope unit="page" from="11" to="26" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>What is the relationship among science, reason, and ethics?</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Sex differences in interest in infants across the lifespan-a biological adaptation for parenting?</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kurtz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D ;</forename><surname>Koepsell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Maestripieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pelka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum Nature-Int Bios</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="327" to="344" />
+			<date type="published" when="2002">2007. 2003. 2002</date>
+			<publisher>Wiley Press</publisher>
+			<pubPlace>New York Lamb ME; Hoboken, NJ</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Science and ethics The role of the father in child development Can science help us make wise moral judgments?</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Mother-infant interactions in free-ranging rhesus macaques: Relationships between physiological and behavioral variables</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Maestripieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Higley</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.physbeh.2008.12.016</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Physiol Behav</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">4-5</biblScope>
+			<biblScope unit="page" from="613" to="619" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The natural law tradition in ethics</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moore</surname></persName>
+		</author>
+		<ptr target="http://plato.stanford.edu/entries/natural-law-ethics/" />
+	</analytic>
+	<monogr>
+		<title level="m">The stanford encyclopedia of philosophy</title>
+		<imprint>
+			<publisher>University Press, Cambridge Murphy M</publisher>
+			<date type="published" when="1903">1993/1903. 2008. March 2010</date>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>revised edition Principia Ethica</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nagel</surname></persName>
+		</author>
+		<title level="m">The structure of science. Problems in the Logic of Scientific Explanations, Routledge &amp; Kegan Paul Ltd</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<monogr>
+		<title level="m" type="main">The view from nowhere</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nagel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Owen</forename><surname>Blakemore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Berenbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Liben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename></persName>
+		</author>
+		<editor>LM, Sklar SL</editor>
+		<imprint>
+			<date type="published" when="1983">1985. 2008. 1983</date>
+			<publisher>Gender development. Psychology Press</publisher>
+			<pubPlace>Oxford; New York Palgi M, Jones; Norwood</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Sexual equality, the Israel Kibbutz tests the theories. Norwood editions</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">On the relationship between science and ethics</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pigliucci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zygon</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="871" to="894" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Genetic relatedness and sibling relationship characteristics in a modem society</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Pollet</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.evolhumbehav.2006.10.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Evol Hum Behav</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="176" to="185" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Two dogmas of empiricism</title>
+		<author>
+			<persName><forename type="first">Wvo</forename><surname>Quine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philos Rev</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="20" to="43" />
+			<date type="published" when="1951">1951</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Justification through biological faith: a rejoinder</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Richards</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol Philos</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="337" to="354" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Dewey and posner on pragmatism and moral progress. U. Chi</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rorty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">L. Rev</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="915" to="928" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<title level="m">Darwinism in philosophy. Social Science and Policy</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Science and ethics. Can science help us make wise moral judgments?</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Rottschaefer</surname></persName>
+		</author>
+		<editor>Kurtz P and Koepsell D</editor>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Prometheus Books</publisher>
+			<biblScope unit="page" from="285" to="305" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Scientific naturalistic ethics. Weird science and pseudo-ethics?</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Evolutionary naturalism</title>
+		<author>
+			<persName><forename type="first">M ;</forename><surname>Ruse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">London</forename><surname>Routledge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ruse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Moral Philosophy as Applied Science</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">236</biblScope>
+			<biblScope unit="page" from="173" to="192" />
+			<date type="published" when="1986">1995. 2008. 1986</date>
+			<pubPlace>Blackwell, Oxford Ruse M, Wilson EO</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Philosophy</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Who keeps children alive? A review of the effects of kin on child survival</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sear</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mace</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.evolhumbehav.2007.10.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Evol Hum Behav</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Females, food, family, and friendship</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Silk</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/evan.10011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Evol Anthropol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="85" to="87" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Hormonal correlates of paternal responsiveness in new and expectant fathers</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Storey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Quinton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wynne-Edwards</forename><surname>Ke</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S1090-5138(99)00042-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Evol Hum Behav</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="79" to="95" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The return of the naturalistic fallacy: a dialogue on human flourishing</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Walsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heythrop J</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="370" to="387" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Sociobiology: the new synthesis</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Warnock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biophilia</title>
+		<imprint>
+			<date type="published" when="1971">1971. 1975. 1984</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Harvard Wilson EO; Harvard</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The object of morality</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Science and ethics. Can science help us make wise moral judgments?</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wilson</surname></persName>
+		</author>
+		<editor>Kurtz P and Koepsell D</editor>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Prometheus Books</publisher>
+			<biblScope unit="page" from="247" to="257" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Science and religion. No irenics here</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The case against evolutionary ethics today</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Woolcock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Biology and the foundation of ethics</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Maienschein</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Michael</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="276" to="306" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Threat-sensitive anti-intraguild predation behaviour: maternal strategies to reduce offspring predation risk in mites</title>
+				<funder ref="#_ZZpUkCk">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_D9yMcTJ">
+					<orgName type="full">Austrian Science Fund</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Andreas</forename><surname>Walzer</surname></persName>
+							<email>andreas.walzer@boku.ac.at.</email>
+						</author>
+						<author>
+							<persName><forename type="first">Peter</forename><surname>Schausberger</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Applied Plant Sciences and Plant Biotechnology</orgName>
+								<orgName type="department" key="dep2">Institute of Plant Protection</orgName>
+								<orgName type="institution">University of Natural Resources and Applied Life Sciences</orgName>
+								<address>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Applied Plant Sciences and Plant Biotechnology</orgName>
+								<orgName type="department" key="dep2">Institute of Plant Protection</orgName>
+								<orgName type="institution">University of Natural Resources and Applied Life Sciences</orgName>
+								<address>
+									<addrLine>Peter Jordanstraße 82</addrLine>
+									<postCode>1190</postCode>
+									<settlement>Vienna</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Threat-sensitive anti-intraguild predation behaviour: maternal strategies to reduce offspring predation risk in mites</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">09860D373FC58BE4CA66BF94808BDD05</idno>
+					<note type="submission">Sponsored Document Sponsored Document</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:12+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Amblyseius andersoni</term>
+					<term>antipredation behaviour</term>
+					<term>innate predator recognition</term>
+					<term>learned predator recognition</term>
+					<term>learning</term>
+					<term>Neoseiulus californicus</term>
+					<term>oviposition habitat selection</term>
+					<term>Phytoseiulus persimilis</term>
+					<term>predator-predator interaction</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Predation is a major selective force for the evolution of behavioural characteristics of prey. Predation among consumers competing for food is termed intraguild predation (IGP). From the perspective of individual prey, IGP differs from classical predation in the likelihood of occurrence because IG prey is usually more rarely encountered and less profitable because it is more difficult to handle than classical prey. It is not known whether IGP is a sufficiently strong force to evolve interspecific threat sensitivity in antipredation behaviours, as is known from classical predation, and if so whether such behaviours are innate or learned. We examined interspecific threat sensitivity in antipredation in a guild of predatory mite species differing in adaptation to the shared spider mite prey (i.e. Phytoseiulus persimilis, Neoseiulus californicus and Amblyseius andersoni). We first ranked the players in this guild according to the IGP risk posed to each other: A. andersoni was the strongest IG predator; P. persimilis was the weakest. Then, we assessed the influence of relative IGP risk and experience on maternal strategies to reduce offspring IGP risk: A. andersoni was insensitive to IGP risk. Threat sensitivity in oviposition site selection was induced by experience in P. persimilis but occurred independently of experience in N. californicus. Irrespective of experience, P. persimilis laid fewer eggs in choice situations with the high-rather than low-risk IG predator. Our study suggests that, similar to classical predation, IGP may select for sophisticated innate and learned interspecific threat-sensitive antipredation responses. We argue that such responses may promote the coexistence of IG predators and prey.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Predation risk is a major selective force for the evolution of behavioural characteristics of prey <ref type="bibr">(Lima &amp; Dill 1990;</ref><ref type="bibr">Kats &amp; Dill 1998)</ref>. During their life, most prey species are faced with multiple predator species posing different levels of predation risk <ref type="bibr">(Sih et al. 1998)</ref>. Additionally, there can be large temporal and spatial variation in predator species composition in a given predator-prey community <ref type="bibr">(Lima &amp; Dill 1990;</ref><ref type="bibr">Lima &amp; Bednekoff Â© 2011</ref><ref type="bibr">Elsevier Ltd. 1999</ref>). Consequently, predation risk is a highly variable component in the life of prey. Prey that overreacts by responding to each predator encounter irrespective of the risk posed by the predator would incur a fitness decrease, because antipredation behaviour is commonly traded off against foraging and/or mating and/or reproduction. Conversely, underestimation of predation risk may have dramatic consequences for prey (its death) or lead to a fitness decrease of prey by lowering its reproductive success. Hence, prey should be able to assess the magnitude of predator threat and adjust its behaviour accordingly <ref type="bibr">(Sih 1982</ref><ref type="bibr">(Sih , 1986;;</ref><ref type="bibr">Helfman 1989)</ref>. The degree of predation risk may be determined by numerous interrelated but hierarchically structured factors such as predator species, sex or life stage. On top of this hierarchy is predator species recognition, because it allows discrimination of predatory from nonpredatory species and high-risk from low-risk species. Interspecific threat-sensitive prey responses are well documented in both aquatic <ref type="bibr">(Kiesecker et al. 1996;</ref><ref type="bibr">Botham et al. 2008)</ref> and terrestrial <ref type="bibr">(Stapley 2003;</ref><ref type="bibr">Edelaar &amp; Wright 2006;</ref><ref type="bibr">Blumstein et al. 2008;</ref><ref type="bibr">Monclus et al. 2009</ref>) communities in classical predator-prey interactions.</p><p>Predation among species competing for shared resources is called intraguild predation <ref type="bibr">(IGP;</ref><ref type="bibr">Polis et al. 1989)</ref>. IGP differs from classical predation in various aspects. Like classical predation, intraguild (IG) predators may gain energy by food intake, but unlike classical predation they also gain from eliminating a competitor and potential predator of themselves and/or their offspring. For many predators IG prey has a lower profitability, defined as energy content divided by handling time (e.g. Charnov 1976), than extraguild prey, as measured in predator survival, growth, development or oviposition (ladybirds: <ref type="bibr">Kagata &amp; Katayama 2006;</ref><ref type="bibr">mirid bugs: Provost et al. 2006;</ref><ref type="bibr">predatory mites: Schausberger &amp; Croft 2000a;</ref><ref type="bibr">spiders: Matsumura et al. 2004)</ref>. Although the nutrient composition of IG prey per se seems favourable for IG predators <ref type="bibr">(Denno &amp; Fagan 2003;</ref><ref type="bibr">Matsumura et al. 2004)</ref>, subduing, capturing and killing IG prey is energetically costly because IG prey are predators themselves and in mutual IGP may counterattack their predators. In extreme cases, the energetic costs of IGP may even exceed the benefits obtained (predatory mites: <ref type="bibr">Lawson-Balagbo et al. 2008)</ref>. In addition, true predators (carnivores and omnivores), and consequently potential IG prey, are usually less abundant than classical prey such as herbivores <ref type="bibr">(Begon et al. 1996)</ref>, reducing the predator-prey encounter frequency and making predator adaptations that help exploit IG prey more efficiently less likely than adaptations that improve exploitation of classical prey. Hence, although omnipresent in natural and artificial food webs <ref type="bibr">(Polis et al. 1989;</ref><ref type="bibr">Arim &amp; Marquet 2004</ref>) IGP events should be rarer than classical predation events. It is not known whether IGP is enough of a selective force to evolve interspecific threat-sensitive antipredation behaviours in IG prey, as is common in classical predation.</p><p>A precondition for displaying effective threat-sensitive antipredation responses is the ability to recognize a given predator species by direct and/or indirect cues. In general, recognition of predator species can be innate or learned, or a combination of both, ranging from strictly innate recognition unaffected by experience (e.g. tadpoles: Gallie et al. 2001) to innate recognition modifiable by experience (e.g. fish: <ref type="bibr">Hawkins et al. 2008)</ref> to recognition only after experience (e.g. rodents: Kindermann et al. 2009). However, most studies on interspecific threat-sensitive antipredation behaviour do not allow discrimination between innate and learned predator recognition because of studying wild animals in the field (e.g. <ref type="bibr">Edelaar &amp; Wright 2006;</ref><ref type="bibr">Blumstein et al. 2008)</ref> or using either wild-caught or experienced experimental animals <ref type="bibr">(Kiesecker et al. 1996;</ref><ref type="bibr">Stapley 2003;</ref><ref type="bibr">Botham et al. 2008;</ref><ref type="bibr">Monclus et al. 2009</ref>). Unambiguous evidence for learned threat sensitivity is rare and mostly relates to intraspecific threat sensitivity in aquatic or semiaquatic animals such as larval mosquitoes, tadpoles, fishes and water striders in classical predator-prey interactions <ref type="bibr">(Ferrari et al. 2005</ref><ref type="bibr">(Ferrari et al. , 2008;;</ref><ref type="bibr">Ferrari &amp; Chivers 2009;</ref><ref type="bibr">Hirayama &amp; Kasuya 2009)</ref>. Evidence for learned interspecific threat sensitivity in IGP and terrestrial animals is lacking.</p><p>We studied the influence of predation risk and experience on antipredation behaviour within a guild of three predatory mite species: Phytoseiulus persimilis, Neoseiulus californicus and Amblyseius andersoni (Acari: Phytoseiidae). All three species are plant-inhabiting predators of phytophagous mites (e.g. <ref type="bibr">McMurtry &amp; Croft 1997;</ref><ref type="bibr">De Moraes et al. 2004)</ref>. They naturally co-occur in the Mediterranean basin <ref type="bibr">(De Moraes et al. 2004;</ref><ref type="bibr">A. Walzer, personal observation)</ref>, presumably share a long coevolutionary history and interact with each other via competition for shared prey, such as the two-spotted spider mite, Tetranychus urticae (Acari: Tetranychidae), and mutual IGP. They differ in diet breadth and adaptation to, and strength in competition for, spider mites. Phytoseiulus persimilis is a highly specialized predator of spider mites and the strongest competitor; N. californicus is a generalist predator with a ranked preference for spider mites and an intermediate competitor while A. andersoni is a generalist predator poorly adapted to utilize spider mites as prey and therefore the weakest competitor for spider mites <ref type="bibr">(McMurtry &amp; Croft 1997)</ref>. Regarding the propensity to engage in IGP, the ranking is reversed, with A. andersoni being a highly aggressive IG predator, followed by the intermediate N. californicus. Phytoseiulus persimilis is a comparably weak IG predator, only occasionally preying on other predatory mites <ref type="bibr">(Walzer &amp; Schausberger 1999;</ref><ref type="bibr">Schausberger &amp; Croft 2000b)</ref>. Thus, owing to a joint natural history and presumable differences in the IGP risk posed to each other, the three predatory mites are perfectly suitable animals to test for threat-sensitive anti-IGP behaviours.</p><p>As with many other animals <ref type="bibr">(Polis et al. 1989)</ref>, IGP among phytoseiid mites is mutual but asymmetric with respect to size. Small/younger juveniles are usually preyed upon by larger/ older juveniles and/or adult females, whereas adult females and eggs are relatively invulnerable to IGP <ref type="bibr">(Croft et al. 1996;</ref><ref type="bibr">Schausberger 1997;</ref><ref type="bibr">Walzer &amp; Schausberger 1999;</ref><ref type="bibr">Schausberger &amp; Croft 2000b)</ref>. The larva is the smallest and least mobile juvenile stage and most in danger of falling victim to larger IG predators <ref type="bibr">(Walzer &amp; Schausberger 1999;</ref><ref type="bibr">Schausberger &amp; Croft 2000b)</ref>. The IGP risk for larvae may be reduced by antipredation behaviours of the larvae themselves (e.g. Schausberger 2003) or by maternal investment in reducing larval predation risk <ref type="bibr">(Faraji et al. 2001;</ref><ref type="bibr">Walzer et al. 2006)</ref>. Here, we focused on the latter. Foraging gravid phytoseiid females facing IG predators have several possibilities for decreasing the predation risk of their offspring. They may avoid prey patches with IG predators and choose predator-free patches for oviposition (e.g. <ref type="bibr">Walzer et al. 2006)</ref>; they may kill potential IG predators of their offspring (e.g. Schausberger &amp; Croft 2000b); or they may reduce/postpone oviposition in the presence of IG predators (e.g. <ref type="bibr">Montserrat et al. 2007;</ref><ref type="bibr">Abad-Moyano et al. 2010a</ref>) and resume oviposition when conditions improve.</p><p>We investigated the influence of IGP risk and IG predator experience of IG prey on the above-mentioned three maternal strategies to reduce offspring IGP risk. In the first experiment, we assessed the relative risk that P. persimilis, N. californicus and A. andersoni posed to each other in IGP, allowing categorization of each species as a low-or high-risk IG predator of another species. In the second experiment, we scrutinized prey patch choice and oviposition behaviour of IG predator-naïve and predator-experienced females of P. persimilis, N. californicus and A. andersoni when confronted with low-and high-risk IG predators.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Species Origin and Rearing</head><p>Phytoseiulus persimilis, N. californicus and A. andersoni are indigenous, co-occurring species in Sicily <ref type="bibr">(De Moraes et al. 2004)</ref>. All three species were sampled from herbs and trees in the state of Trapani in 2007. About 20-30 specimens of each species were used to initiate populations reared in the laboratory. Rearing arenas consisted of plastic tiles resting on water-saturated foam cubes in plastic boxes half-filled with water. The edges of the tiles were covered with moist tissue paper to confine the predators to the rearing arenas. Cotton wool fibres under coverslips served as shelter and oviposition sites for A. andersoni. To prevent contamination of the predator populations, an adhesive (Raupenleim, Avenarius Agro, Wels, Austria) was applied to the rim of the plastic boxes and the boxes were placed in a tray containing water with dishwashing detergent. The predators were fed in 2-3-day intervals with T. urticae, reared on whole bean plants (Phaseolus vulgaris), by adding bean leaves infested with spider mites (for P. persimilis, N. californicus) or by brushing spider mites from infested leaves (for A. andersoni) onto arenas.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Categorization of IG Predators</head><p>In the first experiment, we assessed the IGP risk posed by adult females to larvae to categorize each species as a low-or high-risk predator of another species <ref type="bibr">(Schausberger &amp; Croft 2000b)</ref>. We measured the attack probability and attack latency of IG predator females on IG prey larvae confined in closed acrylic cages. Each cage consisted of a cylindrical cell (15 mm in diameter and 3 mm in height) with a fine-mesh screen at the bottom and closed on the upper side with a microscope slide <ref type="bibr">(Schausberger 1997)</ref>. Treatments were all possible combinations of P. persimilis, A. andersoni and N. californicus as IG predators and prey. Gravid females randomly taken from the rearing units were singly placed into closed cages and starved for 12 h. Subsequently, a single heterospecific larva was added to each cage. Each female and each larva was used only once. Each cage was checked for the first successful attack of the predator female on larval prey (killed and sucked out) every 10-15 min for 6 h at the longest. Each treatment (predator-prey combination) was replicated 19-20 times.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prey Patch Choice and Oviposition Behaviour</head><p>In the second experiment, we assessed prey patch choice and oviposition behaviour of IG predator-naïve and predator-experienced females of P. persimilis, N. californicus and A. andersoni given a choice between a spider mite patch with and without cues (traces of foraging females and their eggs) from a low-or high-risk IG predator. We used a full 3 (IG prey female species) × 2 (naïve and experienced) × 2 (cues of high-and low-risk IG predator) factorial design. Each choice situation was replicated 20-31 times.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Generating Naïve and Experienced Prey Females</head><p>To obtain naïve and experienced prey females for experiments, three groups of 13-15 eggs each of A. andersoni, N. californicus and P. persimilis were randomly taken from the rearing units and placed on separate leaf arenas for development. Each leaf arena consisted of a detached bean leaf (5 × 5 cm) placed upside down on a water-saturated foam cube in a plastic box half-filled with water. Water-saturated cellulose strips (1 cm height) at the edge of the leaf confined the arena and prevented the mites from escaping. For each species, one group of eggs was placed on a leaf with only spider mites (to be used as naïve IG prey females in experiments), and the second and third groups of eggs were placed on separate leaves with spider mites and either five low-or high-risk IG predator females, respectively (to be used as experienced IG prey females in experiments). The developmental progress of IG prey was observed and spider mite prey replenished daily to exclude food competition. The IG predator females mainly preyed on spider mites but also killed a few IG prey individuals and produced eggs. Mortality of IG prey was about 10-15% higher in rearing units with IG predators than without, but the set-up provided for random IGP (A. Walzer &amp; P. Schausberger, unpublished data). Therefore, during development IG prey to be used as experienced females in experiments were exposed to all direct (predators, their eggs, chemical footprints and/or metabolic waste products) and indirect (killed conspecifics and spider mites) volatile and/or tactile chemosensory cues possibly indicating IG predator</p><p>Walzer and Schausberger Page 4 Published as: Anim Behav. 2011 January ; 81(1): 177-184.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head><p>Sponsored Document Sponsored Document presence <ref type="bibr">(Walzer et al. 2006;</ref><ref type="bibr">Montserrat et al. 2007</ref>). Gravid IG prey females appeared after 10 days and were then subjected to choice experiments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Choice Experiments</head><p>Each experimental choice unit consisted of two similarly sized leaflets (5-7 cm 2 ) taken from trifoliate bean leaves placed upside down on a foam cube in a plastic box (15 × 10 cm and 4 cm high) half-filled with water. The leaflets were connected by a wax bridge (1 × 0.5 cm; <ref type="bibr">Walzer et al. 2006)</ref>. One leaflet only harboured spider mites and the other harboured spider mites plus cues (traces of foraging females, such as metabolic waste products and/or chemical footprints, and their eggs) of either the low-or the high-risk IG predator. The setup was designed to simulate a natural scenario in which a gravid female searches for a prey patch and oviposition site among leaves on a branch within a plant. During preparation of the prey patches before the choice experiment took place, we blocked the bridge with a strip of moist tissue paper. Prey patches were created by placing 30 juvenile and four to seven adult T. urticae females on each leaflet. After 24 h either no or five low-risk or five high-risk IG predator females were added and allowed to produce eggs. After a further 24 h the T. urticae females and the IG predator females were removed and spider mite densities (juveniles and eggs) adjusted, by adding or removing individuals using a brush, to identical predetermined levels on leaflets with and without IG predator cues. IG predator eggs were reduced to five per leaflet and their position was marked by a tiny watercolour dot on the leaf surface to ease identification of eggs produced by the experimental IG prey females. To account for species-specific prey stage preferences (eggs versus mobile prey; Blackwood et al. 2001) and prey needs <ref type="bibr">(Vanas et al. 2006)</ref> we adjusted the density and composition of each spider mite patch to 60 eggs and 20 juveniles for P. persimilis, 30 eggs and 10 juveniles for N. californicus and 30 eggs and 30 juveniles for A. andersoni. Each patch allowed the IG prey female to reach the maximum oviposition rate during the 24 h experimental period and leave enough prey for her offspring to reach adulthood <ref type="bibr">(Vanas et al. 2006)</ref>. Therefore, differences in prey patch choice and/or oviposition behaviour of IG prey females can be delimited to the presence or absence of IG predator cues. Through the abovementioned pre-experimental procedure, the presence of an IG predator in a given spider mite patch was indicated by traces left by the foraging and ovipositing IG predator (e.g. metabolic waste products and/or chemical footprints), eggs laid and killed spider mites (Grostal &amp; Dicke 1999).</p><p>Before we ran the choice experiments, each experimental IG prey female was singly placed into a closed acrylic cage (described above) and starved for 12 h. Only females producing at least one egg during the starvation period were used for experiments. Subsequently, each female was singly released in the middle of the wax bridge and given a choice between a prey patch with only spider mites and a prey patch with spider mites and cues of either a low-risk or a high-risk IG predator (determined for each species in experiment 1). Each choice unit and each IG prey female was used only once. The position of the IG prey female was checked eight times during the experiment (immediately after release (first choice), and then after 1, 2, 3, 4, 5, 6 and 24 h). After 24 h we recorded eggs deposited in each prey patch and predation by the IG prey female on IG predator eggs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analyses</head><p>Statistical analyses were carried out for each species separately using SPSS 15.0.1 (SPSS, Chicago, IL, U.S.A.). In experiment 1, larval survival functions (combination of cumulative survival and survival time), used as indicators of the relative IGP risk posed by the other two species, were analysed by the Kaplan-Meier procedure and pairwise Breslow tests <ref type="bibr" target="#b8">(Bühl 2008)</ref>. In experiment 2, the influence of experience (naïve versus experienced) and predation risk (low versus high risk) on the residence frequency of IG prey females in prey patches with IG predator cues during the experiment (presence in the prey patch with IG predator cues out of eight observation points) was analysed using generalized linear models (GLM; counts of events; binomial distribution with logit link function; <ref type="bibr" target="#b8">Bühl 2008)</ref>. Within each choice situation, the numbers of eggs laid in the prey patch with and without predator cues were compared by Wilcoxon signed-ranks tests owing to non-normality of data. The influence of experience and predation risk on total egg production (eggs laid in both prey patches combined; log-transformed before analysis to meet variance homogeneity and improve normality) and the number of IG eggs preyed upon by the IG prey females were analysed using two-factorial (experience and predation risk) ANOVAs. The proportion of eggs laid by the IG prey females in prey patches with IG predator cues (eggs in patch with IG predator cues out of total egg production; females producing no eggs were removed from the analysis) were compared among treatments using GLMs (counts of events; binomial distribution with logit link function; <ref type="bibr" target="#b8">Bühl 2008)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Categorization of IG Predators</head><p>For each species, the survival functions of larvae differed significantly between the two IG predator species (Fig. <ref type="figure" target="#fig_0">1</ref>; Breslow tests within Kaplan-Meier analyses). Based on these differences we categorized the two IG predators of a given species as low-and high-risk predators: for A. andersoni, low-risk P. persimilis and high-risk N. californicus (chi-square test: χ 1 2 = 4.507, P = 0.034); for N. californicus, low-risk P. persimilis and high-risk A. andersoni (χ 1 2 = 9.743, P = 0.002); for P. persimilis, low-risk N. californicus and high-risk A. andersoni (χ 1 2 = 13.875, P &lt; 0.001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prey Patch Choice and Oviposition Behaviour</head><p>Amblyseius andersoni-Prey patch choice by A. andersoni females was influenced by experience but not by predation risk (Table <ref type="table" target="#tab_0">1</ref>). Experienced females resided in prey patches with IG predator cues less often than naïve females (Fig. <ref type="figure">2</ref>).</p><p>Within choice situations, experienced females confronted with cues of the high-risk predator deposited more eggs in the patch with predator cues (Wilcoxon signed-ranks exact test: Z = -2.822, N = 28, P = 0.005). In the other choice situations the numbers of deposited eggs did not differ between patches with and without predator cues (P &gt; 0.05; Fig. <ref type="figure">3</ref>). Total egg production was not affected by experience, predation risk or the interaction of the two sources of variation (ANOVA experience: F 1,96 = 0.159, P = 0.691; predation risk: F 1,96 = 0.353, P = 0.554; experience*predation risk: F 1,96 = 0.889, P = 0.348). The proportion of eggs laid in the prey patch with IG predator cues was marginally influenced by experience (GLM: Wald χ 1 2 = 3.446, P = 0.063) but not by predation risk (Wald χ 1 2 = 0.001, P = 0.995) or the interaction between experience and predation risk (Wald χ 1 2 = 1.057, P = 0.304). Experienced females laid a slightly higher proportion of eggs in prey patches with IG predator cues than naïve females (Fig. <ref type="figure">3</ref>).</p><p>The IGP rates of A. andersoni were not influenced by experience (ANOVA: F 1,96 = 1.999, P = 0.161) and predation risk (F 1,96 = 0.317, P = 0.575) as main effects but were influenced by the interaction of the two sources of variation (F 1,96 = 3.955, P = 0.050). Naïve females killed similar numbers of eggs of the low-and high-risk IG predator (mean ± SE = 0.9 ± 0.3, N = 20 versus 1.2 ± 0.3, N = 25), whereas experienced females killed more eggs of the lowthan of the high-risk IG predator (1.0 ± 0.2, N = 28 versus 0.4 ± 0.1, N = 28).</p><p>Neoseiulus californicus-The influence of experience on prey patch choice by N. californicus females was dependent on predation risk (Table <ref type="table" target="#tab_0">1</ref>, Fig. <ref type="figure">2</ref>). The females were similarly distributed between prey patches with or without IG predator cues, except experienced females subjected to the choice situation with the high-risk IG predator A. andersoni, which were more often found in the prey patch with only spider mites (Table <ref type="table" target="#tab_0">1</ref>, Fig. <ref type="figure">2</ref>).</p><p>Within choice situations, experienced females confronted with cues of the high-risk predator deposited more eggs in the prey patch with only spider mites (Wilcoxon signed-ranks exact test; Z = -2.658, N = 31, P = 0.008). In the other choice situations, the numbers of deposited eggs did not differ between patches with and without predator cues (P &gt; 0.05; Fig. <ref type="figure">3</ref>). Total egg production was unaffected by experience and predation risk (ANOVA: experience: F 1,110 = 0.112, P = 0.738; predation risk: F 1,110 = 0.349, P = 0.556; experience*predation risk: F 1,110 = 0.253, P = 0.616; Fig. <ref type="figure">3</ref>). Irrespective of experience, the proportion of eggs laid in prey patches with predator cues was higher in choice situations with the low-risk IG predator than in those with the high-risk IG predator (GLMs: experience: Wald χ 1 2 = 0.121, P = 0.728; predation risk: Wald χ 1 2 = 8.928, P = 0.003; experience*predation risk: Wald χ 1 2 = 2.710, P = 0.100; Fig. <ref type="figure">3</ref>).</p><p>The IGP rates of N. californicus were not influenced by experience (ANOVA: F 1,111 = 0.002, P = 0.951) and predation risk (F 1,111 = 0.612, P = 0.330) as main factors but were influenced by the interaction of these two sources of variation (F 1,111 = 3.010, P = 0.032). Irrespective of predation risk, experienced females killed similar numbers of eggs of the low-and high-risk IG predator (mean ± SE = 0.6 ± 0.2, N = 27 versus 0.5 ± 0.1, N = 30), whereas naïve females killed more eggs of the high-than low-risk IG predator (0.8 ± 0.2, N = 27 versus 0.3 ± 0.1, N = 31).</p><p>Phytoseiulus persimilis-The influence of predation risk on prey patch choice by P. persimilis females was dependent on experience (Table <ref type="table" target="#tab_0">1</ref>, Fig. <ref type="figure">2</ref>). Experienced females resided more often in the predator-free prey patch in choice situations with the high-risk IG predator compared with the other choice situations (Fig. <ref type="figure">2</ref>).</p><p>Within each choice situation P. persimilis deposited more eggs in the prey patch without predator cues than in the prey patch with predator cues (Wilcoxon signed-ranks exact test: naïve female/harmless predator: Z = -3.106, N = 26, P = 0.002; naïve female/harmful predator: Z = -3.382, N = 22, P = 0.001; experienced female/harmless predator: Z = -2.519, N = 27, P = 0.012; experienced female/harmful predator: Z = -4.193, N = 23, P &lt; 0.001; Fig. <ref type="figure">3</ref>). Total egg production was affected by predation risk but not by experience (ANOVA: experience: F 1,94 = 0.354, P = 0.533; predation risk: F 1,94 = 7.533, P = 0.007; experience*predation risk: F 1,94 = 0.045, P = 0.833). Irrespective of experience, P. persimilis females produced fewer eggs in choice situations with the high-risk IG predator than in choice situations with the low-risk IG predator (Fig. <ref type="figure">3</ref>). Predation risk (GLM: Wald χ 1 2 = 7.377, P = 0.007) but not experience (GLM: Wald χ 1 2 = 2.647, P = 0.104) influenced the proportion of eggs laid by P. persimilis in prey patches with IG predator cues. However, the significant interaction between predation risk and experience (GLM: Wald χ 1 2 = 6.554, P = 0.010) indicates that experience decreased the proportion of eggs laid in the patch with predator cues in choice situations with the high-risk IG predator but not in choice situations with the low-risk IG predator (Fig. <ref type="figure">3</ref>).</p><p>The IGP rates of P. persimilis (mean ± SE = 0.11 ± 0.06, N = 26 versus 0.12 ± 0.06, N = 29 and 0.04 ± 0.04, N = 22 versus 0.09 ± 0.06, N = 23 eggs of the high-and low-risk IG predator for naïve and experienced females, respectively) were unaffected by experience and predation risk (ANOVA: experience: F 1,94 = 0.599, P = 0.441; predation risk: F 1,94 = 0.189, P = 0.665; experience*predation risk: F 1,94 = 0.132, P = 0.718).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Walzer and Schausberger Page 7</head><p>Published as: Anim Behav. 2011 January ; 81(1): 177-184.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head><p>Sponsored Document Sponsored Document</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Our study shows that IGP is a sufficiently strong force to select for interspecific threat sensitivity in antipredation behaviours. It documents innate and learned interspecific threatsensitive anti-IGP responses and provides experimental evidence for learned threat-sensitive antipredation in a strictly terrestrial animal (e.g. Kats &amp; Dill 1998). We observed three maternal strategies to reduce predation risk of offspring. These strategies are common in classical predator-prey interactions but are less well documented for IGP, that is, killing predators (for classical predation</p><p>: Saito 1986; for IGP: Walzer &amp; Schausberger 2009), decreasing and postponing oviposition (for classical predation: Skaloudova et al. 2007; for IGP: Montserrat et al. 2007) and oviposition site avoidance (for classical predation: Grostal &amp; Dicke 1999; Murphy 2003; for IGP: Walzer et al. <ref type="bibr">2006)</ref>. However, the strategies adopted, threat sensitivity and the influence of predator experience differed between species. First, IG prey females of all three species killed IG predator eggs. IG egg predation was most pronounced in A. andersoni and negligible in P. persimilis. Only naïve N. californicus females behaved in a threat-sensitive manner in IG egg predation. Second, both naïve and experienced P. persimilis females laid fewer eggs in the presence of the high-risk IG predator than in the presence of the low-risk IG predator, indicating innate threat sensitivity. Egg production by A. andersoni and N. californicus was unaffected by predation risk and experience. Third, both N. californicus and P. persimilis were threat sensitive in oviposition site selection. Both laid a lower proportion of eggs in prey patches with the high-risk predator than in those with the low-risk IG predator. However, threat sensitivity in oviposition site selection was induced by experience in P. persimilis but not in N. californicus.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Species-specific Threat Sensitivity</head><p>Amblyseius andersoni females were threat insensitive in prey patch selection and oviposition behaviour. A possible interpretation is that A. andersoni is not able to discriminate between low-and high-risk IG predators. More likely, the lack of threat sensitivity in A. andersoni was specific to the IGP risks posed by P. persimilis and N. californicus, respectively. The risks posed by P. persimilis and N. californicus to A. andersoni were lower and their difference smaller than those in the other IG predator-prey combinations. Therefore, it could be that the overall predation risk was too low and the difference between risks too small to trigger a threat-sensitive response in A. andersoni. Alternatively or additionally, experiment 1 indicates that larvae of A. andersoni are better able to escape from or defend themselves against IGP than are the larvae of N. californicus and P. persimilis (see also <ref type="bibr">Zhang &amp; Croft 1995)</ref>. Experienced A. andersoni females preferred to deposit their eggs in prey patches with cues of the high-risk IG predator. At first glance such behaviour seems maladaptive. However, IG predator eggs are not only potential future predators and competitors of offspring but also an alternative prey for A. andersoni. Phytoseiid mites are a higher quality prey for A. andersoni than are T. urticae, allowing rapid juvenile development and sustained oviposition <ref type="bibr">(Schausberger &amp; Croft 2000a)</ref>. Therefore, experience may have enhanced acceptance and utilization of IG predator eggs as food by A. andersoni females. Higher predation by experienced females on eggs of P. persimilis than N. californicus may be explained by differing nutritional quantity of single eggs. Eggs of P. persimilis are about one-third larger than those of N. californicus <ref type="bibr">(Croft et al. 1999)</ref>. Whether the eggs of N. californicus and P. persimilis also differ in nutritional quality is unknown.</p><p>Both N. californicus and P. persimilis females responded in a threat-sensitive manner in prey patch selection and oviposition behaviour. However, the relative contribution of innate and learned components to threat sensitivity differed between the two species. Only N. californicus experienced with the high-risk IG predator avoided residence in the patch with IG predator cues. By contrast, both naïve and experienced P. persimilis females avoided patches with IG predator cues, but only experienced females were threat sensitive in patch selection. In P. persimilis, oviposition site selection matched prey patch selection. Irrespective of predation risk and experience, P. persimilis laid more eggs in predator-free patches, but experience induced threat sensitivity and fine-tuned oviposition site selection.</p><p>To our knowledge, only one previous study dealt with threat-sensitive oviposition site selection influenced by experience in a classical predator-prey interaction. Water striders, Aquarius paludum insularis learned to adjust the oviposition depth to the risk of egg parasitism <ref type="bibr">(Hirayama &amp; Kasuya 2009)</ref>. The total number of eggs laid by P. persimilis was lower in choice situations with the high-risk IG predator than in those with the low-risk IG predator. Proximate explanations for decreased egg production in the presence of a high-risk IG predator include reduced feeding and/or egg retention <ref type="bibr">(Montserrat et al. 2007;</ref><ref type="bibr">Abad-Moyano et al. 2010a</ref>). In N. californicus, oviposition site selection and prey patch selection did not exactly match. Experience induced threat sensitivity in prey patch selection, whereas threat sensitivity in oviposition site selection was innate and unmodified by experience. A likely explanation is that offspring are much more vulnerable to IGP than are the adult females themselves <ref type="bibr">(Croft et al. 1996)</ref>, rendering oviposition site selection a much stronger selective force than prey patch selection.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Threat-sensitivity and Mutual IGP Risk</head><p>The species-specific strategies to reduce IGP on offspring and their complexities and magnitudes reflect the species ranking in mutual predation (experiment 1; Schausberger &amp; Croft 2000b). They further indicate that IGP, which contains elements of both predation and competition, and not merely competition for spider mites, has been the selective force driving the evolution of these behaviours. If competition for spider mites was the driving force, the weakest competitor A. andersoni would have had the strongest response, and the strongest competitor P. persimilis the least, respectively, to the presence of the other species. However, the opposite was true. The lack of threat-sensitive behaviours in A. andersoni may indicate that their juveniles are the least endangered IG prey within the guild studied. Moreover, killing potential IG predator eggs by A. andersoni IG prey females both yields nutritional benefits and relaxes offspring predation and competition risks. Cues from killed conspecifics may prevent further IG predators from entering prey patches, as for example shown for the predatory mite Iphiseius degenerans <ref type="bibr">(Faraji et al. 2001)</ref>. Neoseiulus californicus females were threat sensitive in IGP and oviposition site selection. However, the latter was only evident in prey patches with the high-risk IG predator A. andersoni, indicating that P. persimilis represents a negligible risk for N. californicus offspring.</p><p>Phytoseiulus persimilis is the most vulnerable to IGP within the guild studied. The females responded to both IG predators under all circumstances, indicating that both predators constitute a considerable risk for their offspring. Experience drastically increased threat sensitivity of P. persimilis, which was reflected in almost complete oviposition avoidance in prey patches with cues of the high-risk IG predator (only two of 51 eggs were placed in the patch with IG predator cues).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implications for Population and Community Dynamics</head><p>Threat sensitivity in IGP may have important implications for population and community dynamics. For example, graded oviposition avoidance may result in graded direct traitmediated IG interactions <ref type="bibr">(Luttbeg &amp; Kerby 2005;</ref><ref type="bibr">Preisser et al. 2005;</ref><ref type="bibr">Abad-Moyano et al. 2010b)</ref>. Oviposition site selection affects spatial distribution of IG prey independent of the level of IGP risk, which in turn may trigger indirect trait-mediated effects on the shared prey (e.g. <ref type="bibr">Werner &amp; Peacor 2003;</ref><ref type="bibr">Walzer et al. 2009</ref>). The ability to perform threat-sensitive anti-IGP behaviours should have stabilizing effects on the coexistence of IG predators and prey. Currently, the general theoretical prediction deduced from IGP models is that coexistence of IG predators and prey within communities at ecological timescales is unlikely at high productivity levels <ref type="bibr">(Janssen et al. 2006</ref>), but there is sparse empirical support for this assumption (e.g. Amarasekare 2008). Threat sensitivity in prey patch and oviposition site selection could be a mechanism promoting the coexistence of IG predators and prey <ref type="bibr">(Heithaus 2001;</ref><ref type="bibr">Amarasekare 2008)</ref>. Walzer and Schausberger Page 13 Published as: Anim Behav. 2011 January ; 81(1): 177-184. Sponsored Document Sponsored Document Sponsored Document Figure 2. The influence of experience and IGP risk on residence of (a) A. andersoni, (b) N. californicus and (c) P. persimilis females in the prey patches with spider mites and IG predator cues (eggs and traces such as metabolic waste products and/or chemical footprints of an IG predator female; mean proportion ± SE; calculated from eight observations during 24 h). Each female was given a choice between a prey patch with only spider mites and a prey patch with cues of a low-risk (white bars) or high-risk (black bars) IG predator. Walzer and Schausberger Page 14 Published as: Anim Behav. 2011 January ; 81(1): 177-184. Sponsored Document Sponsored Document Sponsored Document Figure 3. Total egg production (both patches combined) and proportion of eggs (mean ± SE) laid by (a, b) A. andersoni, (c, d) N. californicus and (e, f) P. persimilis in the prey patches with spider mites and IG predator cues (eggs and traces such as metabolic waste products and/or chemical footprints of an IG predator female). Each female was given a choice between a prey patch with only spider mites and a prey patch with spider mites and cues of a low-risk (white bars) or high-risk (black bars) IG predator. Horizontal lines indicate random choice for proportion of eggs laid (b, d, f). </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Survival of singly caged IG prey larvae of (a) A. andersoni, (b) N. californicus and (c) P. persimilis when confronted with a high-risk (solid line) or low-risk (dotted line) IG predator female for 360 min.</figDesc><graphic coords="13,299.73,61.00,72.53,208.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Generalized linear model for the influence of predation risk (low versus high) and experience (naïve versus experienced) on prey patch choice (residence frequency in the prey patch with IG predator cues out of eight observation points) by IG prey females of A. andersoni, N. californicus and P. persimilis</figDesc><table><row><cell>Sponsored Document</cell></row><row><cell>Sponsored Document</cell></row><row><cell>Sponsored Document</cell></row></table><note><p>Walzer and Schausberger Page 15</p><p>Published as: Anim Behav. 2011 January ; 81(1): 177-184.</p><p>Published as: Anim Behav. 2011 January ; 81(1): 177-184.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Published as: Anim Behav. 2011 January ; 81(1): 177-184.Sponsored DocumentSponsored Document Sponsored Document</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Published as: Anim Behav. 2011 January ; 81(1): 177-184.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>This work was funded by the <rs type="funder">Austrian Science Fund</rs> (project <rs type="grantNumber">P19824-B17</rs>). We thank <rs type="person">D. Hoffmann</rs>, <rs type="person">S. Peneder</rs> and <rs type="person">M. Strodl</rs> for comments on the manuscript. A.W. dedicates this manuscript to his wife Masha.</p></div>
+<div><head>Walzer and Schausberger Page 12</head><p>Published as: <rs type="person">Anim Behav</rs>. 2011 January ; 81(1): <rs type="grantNumber">177-184</rs>.</p></div>
+<div><head>Sponsored Document</head><p>Sponsored Document Sponsored Document</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_D9yMcTJ">
+					<idno type="grant-number">P19824-B17</idno>
+				</org>
+				<org type="funding" xml:id="_ZZpUkCk">
+					<idno type="grant-number">177-184</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Intraguild interactions between Euseius stipulatus and the candidate biological control agents of Tetranychus urticae in Spanish clementine orchards: Phytoseiulus persimilis and Neoseiulus californicusExperimental and Applied Acarology5020102334</title>
+		<author>
+			<persName><surname>Abad-Moyanor</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Urbanejaa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schausbergerp</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Effects of Euseius stipulatus on establishment and efficacy in spider mite suppression of Neoseiulus californicus and Phytoseiulus persimilis in clementineExperimental and Applied Acarology502010329341</title>
+		<author>
+			<persName><surname>Abad-Moyanor</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Urbanejaa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hoffmannd</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schausbergerp</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Coexistence of intraguild predators and prey in resource</title>
+		<author>
+			<persName><surname>Amarasekarep</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>rich environmentsEcology8920082786279718959316</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<monogr>
+		<title level="m" type="main">A.Intraguild predation: a widespread interaction related to species biologyEcology Letters72004557564</title>
+		<author>
+			<persName><surname>Arimm</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Marquetp</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Begonm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">HarperJ.L.TownsendC.R.Ecology: Individuals, Populations and Communities</title>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<pubPlace>Blackwell ScienceOxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Prey-stage preference in generalist and specialist phytoseiid mites (Acari: Phytoseiidae) when offered Tetranychus urticae (Acari: Tetranychidae) eggs and larvaeEnvironmental Entomology30200111031111</title>
+		<author>
+			<persName><forename type="middle">S</forename><surname>Blackwoodj</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schausbergerp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Croftb</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Olfactory predator discrimination in yellow-bellied marmotsEthology114200811351143</title>
+		<author>
+			<persName><forename type="middle">T</forename><surname>Blumsteind</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Barrowl</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Luterram</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Risk-sensitive antipredator behavior in the Trinidadian guppy</title>
+		<author>
+			<persName><forename type="middle">S</forename><surname>Bothamm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">K</forename><surname>Haywardr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">J</forename><surname>Morrelll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Croftd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">R</forename><surname>Wardj</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ramnarinei</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Krausej</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Poecilia reticulataEcology</title>
+		<imprint>
+			<biblScope unit="page">89200831743185</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Einführung in die Moderne Datenanalyse. Munich: Pearson Studium. CharnovE.L.Optimal foraging: attack strategy of a mantidAmerican Naturalist1101976141151 CroftB.A.KimS.S.KimD.I.Intra-and interspecific predation on four life stage groups by the adult females of Metaseiulus occidentalis, Typhlodromus pyri</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bühl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neoseiulus fallacis and Amblyseius andersoniExperimental and Applied Acarology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<date type="published" when="2008">2008. 201996435444</date>
+		</imprint>
+	</monogr>
+	<note>SPSS</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Larval size relative to larval feeding, cannibalism of larvae, egg or adult female size and larval-adult setal patterns among 13 phytoseiid mite speciesExperimental and Applied Acarology231999599610</title>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Croftb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">K</forename><surname>Luhh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schausbergerp</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<monogr>
+		<title level="m" type="main">A.CamposC.B.A Revised Catalog of the Mite Family Phytoseiidae2004Magnolia PressAuckland DennoR.F.FaganW.F.Might nitrogen limitation promote omnivory among carnivorous</title>
+		<author>
+			<persName><forename type="middle">J</forename><surname>De Moraesg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Mcmurtryj</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Denmarkh</surname></persName>
+		</author>
+		<idno>arthropods? Ecology84200325222531</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Potential prey make excellent ornithologists: adaptive, flexible responses towards avian predation threat by Arabian babblers Turdoides squamiceps living at a migratory hotspotIbis1482006664671</title>
+		<author>
+			<persName><surname>Edelaarp</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wrightj</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<author>
+			<persName><surname>Farajif</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Janssena</surname></persName>
+		</author>
+		<title level="m">SabelisM.W.Predatory mites avoid ovipositing near counterattacking preyExperimental and Applied Acarology252001613623</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ferrarim</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Temporal variability, threat sensitivity and conflicting information about the nature of risk: understanding the dynamics of tadpole antipredation behaviourAnimal Behaviour7820091116</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">O P</forename><surname>Chiversd</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<title level="m" type="main">The role of learning in the development of threatsensitive predator avoidance in fathead minnowsAnimal Behaviour702005777784</title>
+		<author>
+			<persName><forename type="middle">C O</forename><surname>Ferrarim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">J</forename><surname>Trowellj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">E</forename><surname>Browng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Chiversd</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Threat-sensitive learning of predators by larval mosquitoes Culex restuansBehavioral Ecology and Sociobiology62200810791083 Walzer and Schausberger Page 10 Published as: Anim Behav</title>
+		<author>
+			<persName><forename type="middle">C O</forename><surname>Ferrarim</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Messierf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Chiversd</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011-01">2011 January</date>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="177" to="184" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Experience has no effect on the development of chemosensory recognition of predators by tadpoles of the American toad</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Mummer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Wissingers</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">572001376383</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Direct and indirect cues of predation risk influence behavior and reproduction of prey: a case for acarine interactionsBehavioral Ecology101999422427</title>
+		<author>
+			<persName><surname>Grostalp</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dickem</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Ontogenetic learning of predator recognition in hatcheryreared Atlantic salmon</title>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Hawkinsl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">E</forename><surname>Magurrana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">D</forename><surname>Armstrongj</surname></persName>
+		</author>
+		<idno>salarAnimal Behaviour75200816631671</idno>
+		<imprint>
+			<pubPlace>Salmo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Habitat selection by predators and prey in communities with asymmetric intraguild predationOikos922001542554</title>
+		<author>
+			<persName><forename type="middle">R</forename><surname>Heithausm</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Threat-sensitive predator avoidance in damselfish-trumpetfish interactionsBehavioral</title>
+		<author>
+			<persName><forename type="middle">S</forename><surname>Helfmang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology and Sociobiology</title>
+		<imprint>
+			<date>2419894758</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Oviposition depth in response to egg parasitism in the water strider: high-risk experience promotes deeper ovipositionAnimal Behaviour782009935941</title>
+		<author>
+			<persName><surname>Hirayamah</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kasuyae</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">SabelisM.W.Intraguild predation usually does not disrupt biological controlBrodeurJ</title>
+		<author>
+			<persName><surname>Janssena</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Montserratm</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hillerislambersr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>De Rossm</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pallinia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BoivinG.Trophic and Guild Interactions in Biological Control</title>
+		<imprint>
+			<date>2006SpringerHeidelberg2144</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Does nitrogen limitation promote intraguild predation in an aphidophagous ladybird?</title>
+		<author>
+			<persName><surname>Kagatah</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Katayaman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomologia Experimentalis et Applicata</title>
+		<imprint>
+			<date>1192006239246</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<monogr>
+		<title level="m" type="main">The scent of death: chemosensory assessment of predation risk by prey animalsEcoscience51998361394</title>
+		<author>
+			<persName><forename type="middle">B</forename><surname>Katsl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">M</forename><surname>Dilll</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<monogr>
+		<title level="m" type="main">The use of chemical cues in predator recognition by western toad tadpolesAnimal Behaviour52199612371245</title>
+		<author>
+			<persName><forename type="middle">M</forename><surname>Kieseckerj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Chiversd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">R</forename><surname>Blausteina</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Innate or learned acoustic recognition of avian predators in rodents</title>
+		<author>
+			<persName><surname>Kindermannt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">M</forename><surname>Siemersb</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Fendtm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Biology</title>
+		<imprint>
+			<date>212200950651319181898</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Compatibility of Neoseiulus paspalivorus and Proctolaelaps bickleyi, candidate biocontrol agents of the coconut mite Aceria guerreronis: spatial niche use and intraguild predationExperimental and Applied Acarology452008113</title>
+		<author>
+			<persName><forename type="middle">M</forename><surname>Lawson-Balagbol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">G C</forename><surname>Gondimm</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">J</forename><surname>De Moraesg</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hannar</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schausbergerp</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Temporal variation in danger drives antipredator behavior: the predation risk allocation hypothesisAmerican Naturalist1411999675686</title>
+		<author>
+			<persName><forename type="middle">L</forename><surname>Limas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Bednekoffp</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Behavioral decisions made under the risk of predation: a review and prospectusCanadian</title>
+		<author>
+			<persName><forename type="middle">L</forename><surname>Limas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">M</forename><surname>Dilll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="page">681990619659</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Are scared prey as good as dead?</title>
+		<author>
+			<persName><surname>Luttbegb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">L</forename><surname>Kerbyj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Ecology &amp; Evolution</title>
+		<imprint>
+			<date>20200541641816701406</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<monogr>
+		<title level="m" type="main">A.Life-styles of phytoseiid mites and their roles in biological controlAnnual Review of Entomology421997291321</title>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Mcmurtryj</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Croftb</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Does intraguild predation enhance predator performance? A stoichiometric perspectiveEcology85200426012615</title>
+		<author>
+			<persName><forename type="first">Matsumuram</forename><forename type="middle">M</forename><surname>Trafelet-Smithg</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Grattonc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">L</forename><surname>Finked</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">F</forename><surname>Faganw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">F</forename><surname>Dennor</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Testing the threat-sensitive predator avoidance hypothesis: physiological responses and predator pressure in wild rabbitsOecologia158200961562318982355</title>
+		<author>
+			<persName><surname>Monclusr</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Palomaresf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tabladoz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Martınez-Fonturbela</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Palmer</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<monogr>
+		<author>
+			<persName><surname>Montserratm</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Basc</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Magalhãess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">W</forename><surname>Sabelism</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">M</forename><surname>De Roosa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Janssena</surname></persName>
+		</author>
+		<title level="m">Predators induce egg retention in preyOecologia150200769970516955289</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="middle">J</forename><surname>Murphyp</surname></persName>
+		</author>
+		<title level="m">Context-dependent reproductive site choice in a neotropical frogBehavioral Ecology142003626633</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<monogr>
+		<title level="m" type="main">The ecology and evolution of intraguild predation: potential competitors that eat each otherAnnual Review of Ecology and Systematics</title>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Polisg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Myersc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">D</forename><surname>Holtr</surname></persName>
+		</author>
+		<imprint>
+			<date>201989297330</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<monogr>
+		<title level="m" type="main">F.Scared to death? The effects of intimidation and consumption in predator-prey interactionsEcology862005501509</title>
+		<author>
+			<persName><forename type="middle">L</forename><surname>Preissere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">I</forename><surname>Bolnickd</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Benardm</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Prey preference of Hyaliodes vitripennis as an intraguild predator: active predator choice or passive selection</title>
+		<author>
+			<persName><surname>Provostc</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lucase</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Coderred</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Control</title>
+		<imprint>
+			<biblScope unit="page">372006148154</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Prey kills predator: counter-attack success of a spider mite against its specific phytoseiid predatorExperimental and Applied Acarology219864762 Walzer and Schausberger Page 11 Published as: Anim Behav</title>
+		<author>
+			<persName><surname>Saitoy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011-01">2011 January</date>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="177" to="184" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Sponsored Document Sponsored Document Sponsored Document SchausbergerP.Inter-and intraspecific predation on immatures by adult females in Euseius finlandicus</title>
+	</analytic>
+	<monogr>
+		<title level="j">Typhlodromus pyri and Kampimodromus aberrans (Acari: Phytoseiidae)Experimental and Applied Acarology</title>
+		<imprint>
+			<biblScope unit="page">211997131150</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Cannibalism among phytoseiid mites: a reviewExperimental and Applied Acarology292003173191</title>
+		<author>
+			<persName><surname>Schausbergerp</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Nutritional benefits of intraguild predation and cannibalism among generalist and specialist phytoseiid mitesEcological Entomology252000473480</title>
+		<author>
+			<persName><surname>Schausbergerp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Croftb</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Cannibalism and intraguild predation among phytoseiid mites: are aggressiveness and prey preference related to diet specialization?</title>
+		<author>
+			<persName><surname>Schausbergerp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Croftb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Experimental and Applied Acarology</title>
+		<imprint>
+			<biblScope unit="page">242000709725</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Foraging strategies and the avoidance of predation by an aquatic insect</title>
+		<author>
+			<persName><surname>Siha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Notonecta hoffmanniEcology</title>
+		<imprint>
+			<biblScope unit="page">631982786796</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Antipredator responses and the perception of danger by mosquito larvaeEcology671986434441 SihA</title>
+		<author>
+			<persName><surname>Siha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EnglundG.WoosterD.Emergent impacts of multiple predators on preyTrends in Ecology &amp; Evolution</title>
+		<imprint>
+			<biblScope unit="page">131998350355</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b47">
+	<monogr>
+		<title level="m" type="main">The effect of predation risk on an acarine systemAnimal Behaviour742007813821</title>
+		<author>
+			<persName><surname>Skaloudovab</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zemekr</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Krivanv</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Differential avoidance of snake odours by a lizard: evidence for prioritized avoidance based on riskEthology1092003785796</title>
+		<author>
+			<persName><surname>Stapleyj</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b49">
+	<monogr>
+		<title level="m" type="main">The predatory mite Phytoseiulus persimilis adjusts patchleaving to own and progeny needsExperimental and Applied Acarology392006111</title>
+		<author>
+			<persName><forename type="middle">Eniglm</forename><surname>Vanasv</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Walzera</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schausbergerp</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Cannibalism and interspecific predation in the phytoseiid mites Phytoseiulus persimilis and Neoseiulus californicus: predation rates and effects on reproduction and juvenile developmentBioControl431999457468</title>
+		<author>
+			<persName><surname>Walzera</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schausbergerp</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b51">
+	<monogr>
+		<author>
+			<persName><surname>Walzera</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schausbergerp</surname></persName>
+		</author>
+		<title level="m">Non-consumptive effects of predatory mites on thrips and its host plantOikos1182009934940</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Oviposition behavior of predatory mites: response to the presence of con-and heterospecific eggsJournal of Insect Behavior</title>
+		<author>
+			<persName><surname>Walzera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">F</forename><surname>Paulush</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schausbergerp</surname></persName>
+		</author>
+		<imprint>
+			<date>192006305320</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Spatiotemporal within-plant distribution of the spider mite Tetranychus urticae and associated specialist and generalist predatorsBulletin of</title>
+		<author>
+			<persName><surname>Walzera</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Moderk</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schausbergerp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomological Research</title>
+		<imprint>
+			<biblScope unit="page">99200945746619159502</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b54">
+	<monogr>
+		<title level="m" type="main">A review of trait-mediated indirect interactions in ecological communitiesEcology84200310831100</title>
+		<author>
+			<persName><forename type="middle">E</forename><surname>Wernere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">D</forename><surname>Peacors</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Interspecific competition and predation between immature Amblyseius fallacis, Amblyseius andersoni</title>
+		<author>
+			<persName><forename type="first">.-Q</forename><surname>Zhangz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Croftb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Typhlodromus occidentalis and Typhlodromus pyri (Acari: Phytoseiidae)Experimental and Applied Acarology</title>
+		<imprint>
+			<date>191995247257</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

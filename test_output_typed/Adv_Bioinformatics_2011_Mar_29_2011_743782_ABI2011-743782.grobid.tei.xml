@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">ModEnzA: Accurate Identification of Metabolic Enzymes Using Function Specific Profile HMMs with Optimised Discrimination Threshold and Modified Emission Probabilities</title>
+				<funder ref="#_gbUjWFG">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Dhwani</forename><forename type="middle">K</forename><surname>Desai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Biological Oceanography Division</orgName>
+								<orgName type="institution">Leibniz Institute of Marine Sciences (IFM-GEOMAR)</orgName>
+								<address>
+									<addrLine>Düsternbrooker Weg 20</addrLine>
+									<postCode>24105</postCode>
+									<settlement>Kiel</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Soumyadeep</forename><surname>Nandi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Biochemistry, Microbiology and Immunology (BMI)</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution" key="instit1">Ottawa Institute of Systems Biology (OISB)</orgName>
+								<orgName type="institution" key="instit2">University of Ottawa</orgName>
+								<address>
+									<postCode>K1H 8M5</postCode>
+									<settlement>Ottawa</settlement>
+									<region>ON</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Prashant</forename><forename type="middle">K</forename><surname>Srivastava</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Physiological Genomics and Medicine</orgName>
+								<orgName type="institution" key="instit1">MRC Clinical Sciences</orgName>
+								<orgName type="institution" key="instit2">Imperial College</orgName>
+								<address>
+									<postCode>W12 0NN</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Andrew</forename><forename type="middle">M</forename><surname>Lynn</surname></persName>
+							<email>andrew@mail.jnu.ac.in</email>
+							<affiliation key="aff3">
+								<orgName type="department">School of Computational and Integrative Sciences</orgName>
+								<orgName type="institution">Jawaharlal Nehru University</orgName>
+								<address>
+									<postCode>110067</postCode>
+									<settlement>New Delhi</settlement>
+									<country key="IN">India</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">ModEnzA: Accurate Identification of Metabolic Enzymes Using Function Specific Profile HMMs with Optimised Discrimination Threshold and Modified Emission Probabilities</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">03AE986707A21D91E147AD9071FA2C37</idno>
+					<idno type="DOI">10.1155/2011/743782</idno>
+					<note type="submission">Received 30 September 2010; Revised 7 December 2010; Accepted 27 January 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:04+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Various enzyme identification protocols involving homology transfer by sequence-sequence or profile-sequence comparisons have been devised which utilise Swiss-Prot sequences associated with EC numbers as the training set. A profile HMM constructed for a particular EC number might select sequences which perform a different enzymatic function due to the presence of certain fold-specific residues which are conserved in enzymes sharing a common fold. We describe a protocol, ModEnzA (HMM-ModE Enzyme Annotation), which generates profile HMMs highly specific at a functional level as defined by the EC numbers by incorporating information from negative training sequences. We enrich the training dataset by mining sequences from the NCBI Non-Redundant database for increased sensitivity. We compare our method with other enzyme identification methods, both for assigning EC numbers to a genome as well as identifying protein sequences associated with an enzymatic activity. We report a sensitivity of 88% and specificity of 95% in identifying EC numbers and annotating enzymatic sequences from the E. coli genome which is higher than any other method. With the next-generation sequencing methods producing a huge amount of sequence data, the development and use of fully automated yet accurate protocols such as ModEnzA is warranted for rapid annotation of newly sequenced genomes and metagenomic sequences.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Emergence of next-generation sequencing technologies <ref type="bibr" target="#b0">[1]</ref> and complete genome sequencing projects have greatly facilitated the process of unraveling the full repertoire of biological functions that an organism possesses. For a pathogenic organism, such a compilation of functions has a direct implication in identifying potential drug targets, for example, selecting genes or functions which are unique to the pathogen and not present in the host organism. Metabolic enzymes have for long been considered as a promising group from which such drug targets can be identified <ref type="bibr" target="#b1">[2]</ref>. Enzymes form a sizable part of the druggable genome. Druggability is equated with the presence of certain folds in the proteins which can favour interactions with drug-like chemical compounds. The active sites or ligand binding pockets of enzymes are prime examples of druggable folds such that around 47% of the small molecule drugs available in the market have an enzyme target <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. Enzyme drug targets have been identified and exploited in a number of pathogenic protozoans <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref>, bacteria such as M. tuberculosis <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b8">9]</ref>, and fungal pathogens such as C. albicans <ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref>. Metagenome projects resulting from recent advances in environmental shotgun sequencing also provide opportunities for metabolic enzyme mapping as well as studying the environmental impact on evolution of metabolism <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b13">14]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Advances in Bioinformatics</head><p>Metabolic reconstruction is a process that aims to develop a complete overview of the metabolic capabilities of an organism from the genome or metagenome sequence. There are various databases to aid metabolic reconstruction which integrate and curate data from different sources, for example KEGG <ref type="bibr" target="#b14">[15]</ref> which combines genomic, chemical, and network information, PUMA2 <ref type="bibr" target="#b15">[16]</ref> which provides an array of tools for comparative genomics, and MetaCyc <ref type="bibr" target="#b16">[17]</ref> which is a multiorganism pathway/genome database. Accurate identification of metabolic enzymes from a fully sequenced genome is a very important step towards such a reconstruction. The most common approach for detection of an enzyme function in a given genome is on the basis of sequence similarity with homologues whose function is known, which can be accomplished by using either sequencesequence comparison methods such as BLAST <ref type="bibr" target="#b17">[18]</ref> and FASTA <ref type="bibr" target="#b18">[19]</ref> or profile-sequence comparison methods like PSI-BLAST <ref type="bibr" target="#b19">[20]</ref> and HMMER <ref type="bibr" target="#b20">[21]</ref>. Different protocols have been developed using these methods that detect enzymatic function at the level of the EC number. PRIAM <ref type="bibr" target="#b21">[22]</ref>, for example, generates position-specific scoring matrices for collections of sequences which are associated with the same EC number which are then used to score sequences in a genome using reverse positionspecific blast (RPS-BLAST) <ref type="bibr" target="#b22">[23]</ref>. MetaSHARK <ref type="bibr" target="#b23">[24]</ref> improves on the sensitivity of PRIAM enzyme prediction by using hidden Markov models to identify corresponding enzymes directly from the genomic sequence. Other approaches for enzymatic function inference include checking for the presence of a conserved pattern or motif and identification of functionally critical residues. EFICAz <ref type="bibr" target="#b24">[25]</ref> is a protocol which combines these two approaches along with an iterative HMMER-based procedure for generating multiple alignments for EC number families and pairwise sequence comparison using a familyspecific identity threshold. It has recently been extended by including additional components based on support vector machine (SVM) models <ref type="bibr" target="#b25">[26]</ref>.</p><p>Metabolic enzymes belonging to certain core pathways are conserved in all three domains of life (namely archaea, bacteria, and eukaryotes) and can thus be easily identified using sequence homology <ref type="bibr" target="#b26">[27]</ref>. However, there are a total of 4905 unique EC number entries in the enzyme <ref type="bibr" target="#b27">[28]</ref> database release of 19 January, 2010, out of which only 2507 entries have one or more sequence associated with them. This has led to development of various algorithms and methods which try to associate sequences with enzymatic activities hitherto unannotated in an organism (hence, a pathway "hole" <ref type="bibr" target="#b28">[29]</ref>) and can be collectively termed as "hole-filling" algorithms. A variety of other information is used in addition to the sequences, for example topology of the metabolic network <ref type="bibr" target="#b29">[30,</ref><ref type="bibr" target="#b30">31]</ref> or genomic evidences such as chromosomal clustering of operons <ref type="bibr" target="#b31">[32]</ref>, a combination of both <ref type="bibr" target="#b28">[29]</ref>, or an ensemble of various kinds of methods such as gene coexpression, phylogenetic profile cooccurence, protein fusion, and so forth <ref type="bibr" target="#b32">[33,</ref><ref type="bibr" target="#b33">34]</ref>. Whereas these methods can be used in conjunction or as a complement to the profile-sequence comparison methods to obtain a complete overview of the metabolic reactions of an organism, the latter group of methods, nevertheless, still retains its importance.</p><p>A profile HMM constructed using Swissprot sequences for a particular EC number might score sequences belonging to other EC groups very highly if the enzymatic activities have developed in the same protein fold and therefore share certain fold-specific residues <ref type="bibr" target="#b34">[35]</ref>. For example, the Alpha/Beta hydrolase fold (SCOP <ref type="bibr" target="#b35">[36]</ref> classification) has 35 protein families which span through various enzymatic functions in terms of EC numbers. A group of 9 EC numbers, all of which are carboxylic ester hydrolases (EC 3.1.1) with different substrate specificities, are included in this fold group (Supplementary Table <ref type="table" target="#tab_0">ST1</ref> available online at doi:10.1155/2011/743782) and would be expected to have common fold-specific signals which would be conserved in sequences belonging to these EC numbers. As a result, the profile HMM for the EC 3.1.1.8 used with default parameters selects sequences from 5 other EC groups (Supplementry Figure <ref type="figure" target="#fig_0">SF1</ref>, inset available online at doi:10.1155/2011/743782). Figure <ref type="figure" target="#fig_0">SF1</ref> also depicts the overall structural similarity between representatives from each of the six EC groups.</p><p>We have earlier described the use of negative training sequences (i.e., sequences of different functions related to the training sequences by virtue of sharing a common fold) to both optimise the discrimination threshold as well as modify the emission probabilities of the profile HMMs to increase its specificity. We have used relative entropy of the amino acid probabilities of the positive and negative training sequences to select residues in the positive alignment which are responsible for its specific function as opposed to residues which are similarly conserved in both the negative and positive training sequence sets <ref type="bibr" target="#b34">[35]</ref>. In this paper, we describe ModEnzA (HMM-ModE Enzyme Annotation), where we apply HMM-ModE to create profile HMMs which are specific at the functional level as defined by the EC classification. We enrich the training set by mining sequences from the nonredundant (NR) database for increased coverage of the EC numbers and thus, increased sensitivity. We use the Markov clustering algorithm (MCL) <ref type="bibr" target="#b36">[37]</ref> to partition the EC sequence sets into clusters corresponding to nonorthologous sequences or oligomeric subunits. The ModEnzA protocol is used to annotate metabolic enzymes from completely sequenced reference genomes. We present a comparative analysis of our protocol with other methods used for genome-wide enzyme identification such as PRIAM, MetaShark, and EFICAz.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Collection of Training Sequences</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.1.">Training Sequences from Enzyme/Swiss-Prot.</head><p>The expasy enzyme database (release of 19 Jan 2010) had a total of 4905 unique EC number entries out of which 2507 were associated with a total of 180315 sequences. These 2507 entries were divided into 2 groups, those having 3 or more sequences and those having just 1 or 2 sequences. The 1910 EC numbers which had 3 or more sequences in Swiss-Prot were designated as Tier I (Figure <ref type="figure" target="#fig_0">1</ref>) while the sequences in the latter group were used as queries to mine similar sequences</p><p>Scan the proteome of organisms List of Enzymes Apply filters to select similar sequences with unambiguous annotations Less than 3 sequences Less than 3 sequences Discard EC More than 3 sequences with original query as Best hit (reciprocal test) Tier I Tier II Tier III MCL clustering Construct HMM-ModE profiles Training sequences from Swiss-Prot for each EC number BLASTP with the non redundant database (slow, sensitive search) from the nonredundant protein database (NR) database as follows.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.2.">Mining of the Nonredundant Protein Database.</head><p>There were 597 EC numbers that had just 1 or 2 sequences associated with them in the Swiss-Prot database. These were used as BLASTp queries to mine similar sequences from the NR database at NCBI (<ref type="url" target="http://www.ncbi.nlm.nih.gov/sites/entrez?db=Protein">http://www.ncbi.nlm.nih.gov/sites/  entrez?db=Protein</ref>). We used an E-value cut-off of 10 -35 , a percent identity range of 50 &lt; × &lt; 99 and a query coverage of 80% as the primary filters. If a sequence appeared as BLAST hit in more than one EC numbers, it was removed from all the EC number files. We removed sequences with ambiguous annotations such as "hypothetical", "unnamed", "unknown", "unclassified", and "unidentified". While we did not follow a systematic testing approach to fix these parameters, we nevertheless tried various combinations of the parameters (e-values of 10 -30 and 10 -35 , percent identity ranges 50-99, 75-99, 75-95, etc). The final set of parameters was decided upon after visual inspection of the annotations of the gathered sequences looking for the least amount sequences with ambiguous sequence descriptions and the most number of EC groups with more than 3 sequences.</p><p>After the filtering step, we were left with 450 EC number groups with 3 or more sequences. To these we further applied a reciprocal BLAST best hit criterion, wherein we discarded those NR sequences which did not have the original query swissprot sequence as their top hit. We obtained 364 EC groups having 3 or more sequences which fit this criterion. These were designated as Tier II profiles (Figure <ref type="figure" target="#fig_0">1</ref>). The remaining 86 EC groups which also had 3 or more sequences but did not have sufficient reciprocal best hits were designated as Tier III (Figure <ref type="figure" target="#fig_0">1</ref>). <ref type="bibr" target="#b36">[37]</ref>. The sequences belonging to each EC number in Tier I were clustered into subgroups with MCL using pairwise BLAST scores as input. This resulted in 2313 distinct subgroups having 3 or more sequences. These were considered as separate profiles called as Tier I profiles, for example the 7 subgroups of EC number 3.1.1.4 were designated as 3.1.1.4 1 through 3.1.1.4 7 and converted into separate HMMs. There were 117 EC numbers which had subgroups containing just 1 or 2 sequences. These subgroups were discarded after manual inspection. Similarly, the sequences in the other tiers were also clustered using MCL. We obtained 370 subgroups with more than three sequences in Tier II and 86 subgroups in Tier III making a total of 2769 distinct ModEnzA profiles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Clustering Sequences Using the Markov Clustering Algorithm (MCL)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">HMM-ModE Profiles.</head><p>The subgroups for each EC number were used to construct HMM profiles and HMM-ModE profiles as previously described <ref type="bibr" target="#b34">[35]</ref>. Briefly, HMMs are generated for each subgroup using hmmbuild from the HMMER package <ref type="bibr" target="#b20">[21]</ref> after aligning the sequences using MUSCLE <ref type="bibr" target="#b37">[38]</ref>. The discrimination threshold is optimised by performing an n-fold cross-validation routine, partitioning the training sequences into n train and test sets such that each sequence is part of at least one test set. For each test set t, a profile HMM created from the remaining (n -1) sets is used to score the sequences to get a True Positive (TP) score distribution. False positives (FP) are identified from the Swiss-Prot sequences (i.e those sequences that perform an enzymatic function which is different from that of the EC number for which the HMM was generated) using hmmsearch from HMMER. The FPs are also partitioned into n sets such that each FP sequence is part of at least one set. The profile HMM created for each (n -1) subset is also used to score the corresponding FP set to get an FP score distribution. The sensitivity, specificity, and Matthews correlation coefficient (MCC) <ref type="bibr" target="#b38">[39]</ref> distributions for each of n sets is calculated using these TP and FP score distributions. The optimal discrimination threshold is identified as the mid-point of the MCC distribution averaged over the n sets.</p><p>The number of cross-validation sets n is defined as follows:</p><formula xml:id="formula_0">n = 10, ∀ subgroups with sequences ≥ 10, n = ⎧ ⎨ ⎩ Number of FP if FP &lt; TP Number of TP if FP &gt; TP ⎫ ⎬ ⎭ ∀ subgroups with sequences &lt; 10. (1)</formula><p>If more than 3 false positives are identified, then these are again aligned and converted into HMMs and used to modify the true positive profile HMM as described earlier <ref type="bibr" target="#b34">[35]</ref>. In case of a large number of false positives from the preclassified training set, to avoid issues of multiple alignments of very large datasets, we restrict the number of false positives to 200. The false positives are first clustered using MCL, and then sequences are randomly selected from the clusters proportionate to the size of the clusters such that the final number is 200. An optimized threshold is then calculated as above. In case no false positives are selected by the original HMM, it is used with default parameters.</p><p>All methods described above were automated using scripts written in-house, to form the workflow described in Figure <ref type="figure" target="#fig_0">1</ref>, and are available from the authors upon request.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Benchmark Datasets and Enzyme Identification Programs.</head><p>For the bacterial genomes (E. coli, B. aphidicola, and M. pneumoniae) we used the corresponding HAMAP <ref type="bibr" target="#b39">[40]</ref> annotations as the benchmark for comparing the various enzyme identification methods. The genome sequences for these and the corresponding annotations were downloaded from <ref type="url" target="http://expasy.org/sprot/hamap/bacteria.html">http://expasy.org/sprot/hamap/bacteria.html</ref>. We used hmmsearch to score the protein sequences for a given genome with the ModEnzA profiles generated above.</p><p>The sequence IDs identified by each of the methods which had a 4-digit EC number annotation in HAMAP were considered as true positives (TP). False negatives (FN) were those predicted sequence IDs which had EC annotations in HAMAP but were not selected by a method whereas false positives (FP) were predicted sequences which actually did not have an EC number annotation in HAMAP. Similarly, for assigning EC numbers, true positives were those predicted EC numbers which had corresponding sequences in the HAMAP genome annotations, false positives, those that did not and false negatives were EC numbers which were present in HAMAP but not predicted by a method. For the P. falciparum genome, we used EC annotations in PlasmoDB as the benchmark. The sequence annotation and EC number information for P. falciparum can be obtained from <ref type="url" target="http://plasmodb.org/plasmo/">http://  plasmodb.org/plasmo/</ref>. True positives, false positives, and false negatives were defined as earlier. For the ROC curves for P. falciparum we used the KEGG annotations as the benchmark.</p><p>The PRIAM program <ref type="bibr" target="#b21">[22]</ref> and the corresponding profiles were downloaded from <ref type="url" target="http://priam.prabi.fr/REL_JUL06/index_jul06.html">http://priam.prabi.fr/REL JUL06/  index jul06.html</ref> and used with an RPS-BLAST e-value cutoff of 10 -30 on the protein sequences of the genomes. The MetaShark package <ref type="bibr" target="#b23">[24]</ref> was obtained from <ref type="url" target="http://bmbpcu36.leeds.ac.uk/shark/">http://  bmbpcu36.leeds.ac.uk/shark/</ref> This was run using an e-value cutoff of 10 -30 on the genomic DNA sequences of the organisms (including plasmids in case of B. aphidicola) obtained from NCBI <ref type="url" target="ftp://ftp.ncbi.nih.gov/">ftp://ftp.ncbi.nih.gov/</ref> The EFICAz enzyme annotations <ref type="bibr" target="#b24">[25]</ref> for various organisms were obtained from <ref type="url" target="http://cssb2.biology.gatech.edu/EFICAz/">http://cssb2.biology.gatech.edu/EFICAz/</ref>.</p><p>The percentage sensitivity and specificity of each method was calculated as</p><formula xml:id="formula_1">sensitivity =</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TP (TP + FN)</head><p>* 100,</p><formula xml:id="formula_2">specificity = TP (TP + FP) * 100.<label>(2)</label></formula><p>2.5. Receiver-Operator Characteristic Curves. For comparison of ModEnzA with PRIAM and MetaShark the ModEnzA profiles for all EC numbers were rebuilt using the July 2006 version of ENZYME database which is used by the current versions of both PRIAM and MetaShark. The ROC curves (1-specificity versus sensitivity) were plotted for each of the three methods (PRIAM, MetaShark, and ModEnzA) on the four genomes by comparing against the benchmark sets mentioned above. The three programs were run on the genomes using an E-value threshold (RPS-BLAST, PSI-BLAST, and hmmsearch E-values for PRIAM, MetaShark, and ModEnzA, resp.) of 10. For PRIAM and MetaShark, the resulting E-values were binned and a threshold sweep was used to calculate the sensitivity and specificity at each E-value threshold. For ModEnzA, similar calculations were performed using a sweep through the hmmsearch scores (Figure 2(a)). The MetaShark output consists only of EC numbers, hence its sensitivity and specificity values were calculated only on the basis of EC number comparisons, whereas for PRIAM and ModEnzA, both the correct EC 0 0.2 0.4 0.6 0.8 1 -0.1 0 0.1 0.2 0.3 0.4 0.5 Sensitivity 1-Specificity Priam ModEnzA-RT MetaShark 0 0.2 0.4 0.6 0.8 1 -0.1 0 0.1 0.2 0.3 0.4 0.5 Sensitivity 1-Specificity 0 0.2 0.4 0.6 0.8 1 -0.1 0 0.1 0.2 0.3 0.4 0.5 Sensitivity 1-Specificity 0 0.2 0.4 0.6 0.8 1 -0.1 0 0.1 0.2 0.3 0.4 0.5 Sensitivity 1-Specificity Priam ModEnzA-RT MetaShark B. aphidicola E. coli M. pneumoniae P. falciparum Advances in Bioinformatics numbers predicted as well as the correct sequences assigned were used.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Enriching the Training Dataset.</head><p>One of the crippling issues in biological data modeling is the incomplete nature of the training data. We have used both Swiss-Prot <ref type="bibr" target="#b40">[41]</ref> and NR sequences for generating profiles specific for EC numbers. There were 1910 EC numbers which had 3 or more Swiss-Prot sequences associated with them. These form our Tier I profiles, which can be used to annotate sequences with a very high degree of confidence, since they were generated from curated training sequences. We considered three sequences as the minimum number required to generate a multiple alignment and consequently for constructing HMMs. Even though these profiles with 3 sequences (and in general all profiles with very few training sequences) are not expected to be representative of the protein function, they are, nevertheless, included in the ModEnzA protocol as place holders which would become more accurate as they are populated with more sequences in future.</p><p>The training set for EC numbers which had less than 3 Swiss-Prot sequences was enriched by mining sequences from the NR database using BLASTp with parameters suitably modified for increased sensitivity (namely, BLOSUM62 substitution matrix and a lower than default value for " f ", the hit extension parameter). The hits were screened with a stringent E-value cut-off of 10 -35 . Hits having more than 99% identity or those having less than 50% identity with the query sequence were left out to remove identical sequences and potential false positives while ensuring variability in the protein family. This resulted in 450 EC groups (which had more than three sequences) out of which in 364 EC groups (Tier II), all the mined sequences picked up the original swissprot query sequence as the reciprocal best BLAST hit. The remaining 86 were put in a separate group designated as Tier III. By enriching the training data set, we have populated an additional 450 enzyme functions with highquality sequences, providing increasing coverage over the set of enzyme functions. This is still not comprehensivethe coverage that our profiles provide, including Tier II and III, is still only 48% of the total number of enzyme functions known. However, the same method developed for known functions may be applied to new functions as they are mapped with sequences in future versions, of which this enrichment exercise serves as an example. The coverage within an organism is expected to be much higher, as most common functions are mapped with known sequences.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Clustering Training Sequences with Markov Clustering Algorithm (MCL).</head><p>Sequences belonging to the same EC group and thus performing the same enzymatic function, might have complex relationships amongst them in terms of sequence similarity due to the presence of (1) heteromeric multiple subunits of the enzymes, (2) nonorthologous or unrelated sequences performing the same function, or (3) sequences that can perform more than one enzymatic function <ref type="bibr" target="#b21">[22]</ref>. Clustering the sequences for a particular EC number based on a similarity score is therefore an important requirement to separate these multiple subunits or nonorthologous sequences.</p><p>We used MCL to cluster the sequences of an EC group into subgroups after removing sequences which had "fragment" as part of the annotation. To validate our use of automated clustering, we compared our MCL clusters for some of the cases mentioned above with available structural information from PDB <ref type="bibr" target="#b41">[42]</ref>. For example, MCL clusters the swissprot sequences for the DNA-directed RNA polymerase (EC 2.7.7.6) into 14 subgroups (PRIAM has 51 separate profiles for EC 2.7.7.6). We tested the ModEnzA profiles for EC 2.7.7.6 on a set of sequences of the structural subunits for the RNA polmerase downloaded from PDB. The yeast polymerase (PDB ID: 3H0G) has 12 subunits while the prokaryotic polymerase from E. coli (PDB ID: 3LU0) has 5 subunits (excluding the sigma subunit). In each case, the sequences corresponding to different subunits were picked up by a different ModEnzA subgroup profile (Supplementary Table <ref type="table" target="#tab_1">ST2</ref> available online at doi:10.1155/2011/743782). We also manually inspected the "singlet" sequences, that is the sequences which the MCL clustering procedure cannot assign to any cluster bigger than size 3 and thus have to be discarded while making the profiles. We obtained 2313 distinct MCL subgroups with more than 3 sequences in Tier I. There were 117 EC numbers (with a total of 215 "singlet" sequences) with subgroups having less than 3 sequences. These were subjected to a BLASTp analysis against the NR database and the results were manually inspected to ascertain the functional neighbours (top BLAST hits) of these sequences. Out of the 215 sequences that were so tested, 23% (55) matched with sequences which had a different functional annotation than the original EC group suggesting that these might have had possible errors in annotation. Some of the sequences (14 or 6%) were shorter than most of the other sequences in that EC group (probably fragments or truncated proteins) whereas a fraction (3%) were longer than the rest. Another 15 sequences (6%) were not clustered because they belonged to a different sub-unit of the enzyme, indicating the ability of MCL to clearly distinguish between heteromeric subunits of enzymes. Whereas 23% sequences did not show any significant hits in the BLAST search, a sizable fraction (30%) were such that they had the correct annotation but not a sufficient number of neighbours to form a separate cluster. These were not included in the profile construction; however, they could be used for mining similar sequences from the NR database if they match sequences with the same function as the EC group. As mentioned above, all of the 215 sequences were not included in the profile generation step. This exercise demonstrates the efficacy of using an MCL-based clustering approach in separating enzyme subgroups.</p><p>The PRIAM method identifies the longest homologous subsequences shared within the set of sequences associated with EC number (EC group) as a single module or domain. It initially takes the shortest sequence in the group as a module and then proceeds to identify similar subsequences within a given EC group using PSI-BLAST. The matching subsequences are removed from the corresponding sequences and the shortest sequence identified to start the next iteration <ref type="bibr" target="#b21">[22]</ref>. Complete linkage clustering using a 30% sequence identity cutoff has also been employed to create subgroups as in the EFICAz protocol <ref type="bibr" target="#b24">[25,</ref><ref type="bibr" target="#b25">26]</ref>. The most populated and most divergent subgroup is then converted into a profile HMM which is used to add sequences with E-value &lt; 0.01 which have at least one conserved potential active site residue. These subgroups are termed as CHIEFc (conservation-controlled HMM iterative procedure for enzyme family classification) families <ref type="bibr" target="#b24">[25]</ref>. The Markov clustering algorithm (MCL) provides for an accurate, unsupervised, and fully automated protocol for clustering the sequences of a given EC number. MCL avoids potential problems associated with module architecturebased clustering as well as the pairwise protocols of dealing with similarity relationships which have been used earlier <ref type="bibr" target="#b42">[43]</ref>. It also circumvents the requirement of using arbitrary sequence identity cutoffs as described above or manual assignment. Instead, the graph-theoretic representation of the similarity scores allows for the detection of global patterns of sequence similarity in a single step <ref type="bibr" target="#b36">[37]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Validation and Comparison of ModEnzA with Existing Methods.</head><p>The training sequences for each EC number were used to generate HMM profiles using the HMM-ModE protocol as described in Methods. The average sensitivity and specificity distributions of the n sets in the n-fold cross validation exercise provide us with a confidence measure with which to use the profiles. If the original profile HMM selects false positives from within the negative training sequences, the information from these is used to modify the emission probabilities of the HMM so that it becomes more specific.</p><p>The ModEnzA profiles were used to scan the complete genomes of organisms to assess the performance of our method. Following the example of <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b23">24]</ref>, we chose three bacterial genomes (E. coli, B. aphidicola, and M. pneumoniae) which have been extensively annotated using both manual and automatic methods as part of the high-quality automated and manual annotation of microbial proteomes project <ref type="bibr" target="#b39">[40]</ref> and one eukaryotic genome (P. falciparum), for which detailed descriptions of function are available from the PlasmoDB resource <ref type="bibr" target="#b43">[44]</ref>. The enzymatic function annotations from these sources were used as benchmarks for comparing the sensitivity and specificity of ModEnzA with other enzyme identification methods PRIAM, MetaSHARK, and EFICAz (see Section 2).</p><p>Identification of functional residues or residues that are responsible for imparting functional specificity is a critical step toward constructing function specific profiles. Information theoretic measures such as positional entropy <ref type="bibr" target="#b44">[45]</ref> and mutual information <ref type="bibr" target="#b45">[46]</ref> have earlier been used for this purpose. EFICAz employs an evolutionary footprinting approach which scores each position in an alignment of a family of sequences by a combination of entropy based conservation scores in (1) the "homofunctional" alignment, that is, consisting of members of the same family and (2) a "heterofunctional" alignment which consists of similar sequences (which might have different functions), mined from a nonredundant database using the homofunctional profile HMM. The alignment positions are then ranked using a Z-score of the conservation degree to identify functionally discriminating residues (FDRs). HMM-ModE, the protocol upon which ModEnzA is based, uses a similar concept of negative training sequences, these are sequences belonging to other functional families which are scored positively by the HMM for a particular family. We use a position-dependent null model which contains conservation information from these negative training sequences. We calculate the relative entropy between the distributions of amino acids in the alignments of the positive and negative training sequences and select residues where this score is higher than the relative entropy between the positive sequences and the null set (i.e., the null probabilities as calculated from the swissprot sequences). The probabilities of the amino acids in the negative set are used to modify the emission probabilities of these selected residues to generate a function specific profile HMM. This avoids the problem of loss of information associated with using a Z-score cutoff <ref type="bibr" target="#b34">[35]</ref>. The discrimination potential of a profile is a function of the unique nature of the family at the level of both its fold and specificity determining positions. As a consequence, the discriminating potential of a profile HMM at a functional level would be expected to be dependent on the frequency of occurrence of the parent fold among proteins, that is, an activity that arises in a commonly occurring fold will be more likely to have false positives from the complete training set than an activity that arises in a fold that is not so wide-spread. As such, there is no discernible relationship between the cluster size (no. of training sequences available for a subgroup) and the discrimination potential of the corresponding profile (Supplementary Figure <ref type="figure" target="#fig_1">SF2</ref> available online at doi:10.1155/2011/743782). EFICAz uses a family specific Sequence Identity threshold (SIT), which is set after making all pairwise sequence comparisons within the family, for predicting enzyme function <ref type="bibr" target="#b24">[25]</ref>. Both PRIAM and MetaShark have options for varying the e-value threshold. An E-value cutoff of 10 -10 in PRIAM results in a high sensitivity (92.61%) but a specificity of only 82.25% for identifying EC numbers from E. coli. On the other hand, using a stringent E-value cutoff of 10 -30 increases specificity (90.42%) with a drop in sensitivity (90.80%) (data not shown). This is a drawback of using arbitrary thresholds for discrimination. ModEnzA uses cross-validation to ensure an optimal threshold for each separate profile <ref type="bibr" target="#b31">[32]</ref> thereby eliminating the use of arbitrary thresholds.</p><p>The EFICAz webserver at <ref type="url" target="http://cssb2.biology.gatech.edu/cgi-bin/eficaz_browse.cgi%20">http://cssb2.biology.gatech.edu  /cgi-bin/eficaz browse.cgi</ref> provides 4 digit EC number predictions for a number of genomes. These predictions were directly compared with ModEnzA. The sensitivity and specificity were calculated with respect to the EC numbers that were correctly assigned to a genome as well as the sequences associated with an enzymatic activity which were identified by the methods. The comparative performance of EFICAz and ModEnzA for identifying EC numbers and enzymatic sequences from the four genomes is shown in Table <ref type="table" target="#tab_0">1</ref>. The sensitivity and specificity values of the ModEnzA profiles are higher compared to EFICAz both in assigning EC numbers Advances in Bioinformatics as well as identifying enzymatic sequences. As expected, the sensitivity is improved by the inclusion of the Tier II and Tier III profiles (the sensitivity in assigning EC-associated sequences increasing up to 97% for B. aphidicola, e.g.) but there is a slight drop in the specificity because the training sequences were mined from the NR database and hence may have errors of annotation. The Tier I ModEnzA profiles by themselves show a higher specificity than EFICAz while selecting enzymatic sequences for each genome tested. The augmentation by Tier II and III profiles still maintains an on par specificity while increasing the sensitivity to a value greater than that of EFICAz for identifying both EC numbers and sequences. Given that the genome databases mentioned above also have an automated annotation component to them, it must be noted that choosing a different set of annotations as the benchmark (e.g KEGG) does not significantly alter the conclusions of the comparisons (supplementary Table <ref type="table" target="#tab_2">ST3</ref> available online at doi:10.1155/2011/743782).</p><p>The PRIAM and MetaShark methods use the July 2006 version of the ENZYME database as the training set. To ensure a fair comparison we rebuilt all the ModEnzA profiles using the July 2006 ENZYME version. As demonstrated in the next section, the KEGG database has more EC-sequence associations for P. falciparum than PlasmoDB, and for this reason we replaced PlasmoDB with KEGG as the benchmark for the comparison of ModEnzA with PRIAM and MetaShark. Receiver-operator characteristic (ROC) curves serve as an indicator for the discriminating potential of a classifier method. The ROC curves for the retrained ModEnzA (ModEnzA-RT) profiles as well as PRIAM and MetaShark are shown in Figure <ref type="figure" target="#fig_1">2(a)</ref>. Since EFICAz uses 4 different methods, each with its own set of parameters, we could not include EFICAz in this analysis. The area under the ROC curve for the ModEnzA profiles is better than both PRIAM and MetaShark for all the four genomes. MetaShark predictions on P. falciparum suffer from very low specificity (Figure <ref type="figure" target="#fig_1">2(a)</ref>, bottom left panel) probably because it is difficult to map the profile HMMs back onto its DNA sequence which is atypically AT rich and contains lots of repetitive sequences <ref type="bibr" target="#b46">[47]</ref>. The ROC curves for ModEnzA scans on the entire genomes of the four organisms (Figure <ref type="figure" target="#fig_1">2(b)</ref>) show the high discrimination potential of the ModEnzA profiles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Enzyme Identification from the P. falciparum Genome.</head><p>Eukaryotic species account for only about 16% of the most represented species (31% of all sequences) in terms of number of sequence entries in Swiss-Prot (<ref type="url" target="http://ca.expasy.org/sprot/relnotes/relstat.html">http://ca.expasy.  org/sprot/relnotes/relstat.html</ref>). The P. falciparum genome is also not included in the HAMAP project which deals extensively with bacterial, archaeal, and plastid encoded proteins. Hence, this could be considered as an ideal case to compare the various enzyme identification methods. We chose the PlasmoDB enzyme annotations as a benchmark to decide on the true positive, false positive, and false negative predictions. The sensitivity and specificity calculated in terms of these numbers for ModEnzA and EFICAz is shown in Table <ref type="table" target="#tab_0">1</ref>. The relative scarcity of training sequences from the eukaryotic domain is reflected in the low sensitivities of the methods. Again the specificity of the ModEnzA profiles is higher than EFICAz. ModEnzA assigned 22 EC numbers which were not annotated in PlasmoDB (False Positives). We checked for the corresponding functions of these EC numbers in two other databases, namely KEGG (because it is often used as a reference knowledge base) <ref type="bibr" target="#b11">[12]</ref> and PlasmoCyc <ref type="bibr" target="#b3">[4]</ref> (which also contains a comprehensive annotation of the P. falciparum genome). We found that 13 of the 22 false positive EC numbers have been annotated as belonging to P. falciparum by either of these databases (Table <ref type="table" target="#tab_1">2</ref>).</p><p>We were interested in the ability of Tier II and Tier III profiles to annotate novel sequences, especially as they were created from sequence similarity and not expert-curated data sets. It was also interesting to address the fact that in the absence of a profile, ModEnzA could be used to pick a related function. The Tier II ModEnzA profiles selected 14 sequences and 7 EC numbers, respectively, from the P. falciparum genome (Table <ref type="table" target="#tab_2">3</ref>). The cysteine protease falcipain sequences (gene IDs PF11 0161, PF11 0162, and PF11 0165), for instance, do not currently have an EC number associated with them. So in absence of a corresponding EC profile, ModEnzA annotates it with the nearest cysteine endopetidase bromelain (EC 3.4.22.32) but it is gratifying to note that the annotation is correct upto the general level of the first three E.C. digits. Three of the 7 EC numbers predicted by ModEnzA exactly match the corresponding PlasmoDB assignments while 3 others have the same first three digits. Only one EC assignment (EC 3.4.23.2) has more than 1 digit mismatch with the EC annotated in PlasmoDB. Of the 14 sequences annotated, the EC assignments for 8 share the first three digits with the corresponding annotations in PlasmoDB (Table <ref type="table" target="#tab_2">3</ref>). The Tier II and Tier III profiles can annotate sequences up to the first three EC digits with sufficient accuracy. However, as has been mentioned earlier, these should be used with caution, because the training sequences used for these profiles may be prone to annotation errors.</p><p>As the results show, there is a discrepancy between the annotations/predictions of different databases. The Mod-EnzA protocol assumes importance because it is a rapid tool that provides a high degree of confidence in assigning EC numbers to a genome. A typical hmmsearch with ModEnzA Tier I profiles on the E. coli genome (4407 proteins) takes ∼7.8 Hrs on a laptop having a 2.4 GHz core2duo Intel processor and 3 Gb RAM. The same search on a workstation with a 2.50 GHz Intel xeon quadcore processor with 8 GB RAM takes ∼2.2 Hrs. Since the hmmsearch and hmmscan program is inherently capable of multithreading, ModEnzA can be expected to be even faster on machines with more processors. For example, we were able to annotate the enzymes in a metagenomic sample with 203240 translated protein fragments with ModEnzA in just around 1.3 hrs by splitting the target sequences into 10 parts and using 10 nodes (each with a dual core processor) to run the hmmscan program on a high-performance computing cluster (unpublished results).</p><p>The n-fold cross validation routine built into ModEnzA on the training sequences ensures an optimal threshold which can separate the true positives from the False positives for any given EC number. The modification of emission probabilities of the True positive profiles by using information from the false positive alignment further increases the specificity. We have decided to make this data available for use by the scientific community using HMMER2, even though HMMER3 has since been released <ref type="bibr" target="#b20">[21]</ref>.</p><p>HMMER3 has only local-local alignments, and our method is based on predicting the fold (domain) and hence is implicitly based on global or "Glocal" (align a complete model to a subsequence of the target) alignments. ModEnzA is based on scripts that modify the emission probabilities in the model, and it is unsure if the formats for HMMER3 are stable enough to extract probabilities from the model. The model has changed between the two versions, and it has been advised that profiles built on one should not be used with the other, as parameters are differently optimised. When more alignment modes are available and the format is more stable, newer versions of ModEnzA would migrate to HMMER3 to take advantage of the increased sensitivities and speed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusion</head><p>We present a method for enzyme annotation by enriching existing curated databases and using profile hidden Markov models optimised for specificity using negative training sequences. The protocol shows improved sensitivity and specificity compared to other existing methods for enzyme identification and can be used to accurately map the metabolome of an organism.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 :</head><label>1</label><figDesc>Figure 1: Flow diagram of the ModEnzA protocol.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2: ROC curves for genome-wide enzyme identification using the ModEnzA profiles. The classification of the complete genomes of the four organisms is shown in (a). A fraction of the EC number profiles (284 out of 2075 Tier I ModEnzA profiles) were retrained with an older version of the ENZYME database and compared to PRIAM and MetaShark (b). ModEnzA-RT-Retrained ModEnzA profiles.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 :</head><label>1</label><figDesc>Genome-wide enzyme identification for three bacterial genomes (E. coli, B. aphidicola, and M. pneumoniae) and one eukaryotic genome (P. falciparum) by ModEnzA and EFICAz.</figDesc><table><row><cell>Methods</cell><cell></cell><cell>EFICAz</cell><cell>ModEnzA (Tier I)</cell><cell>ModEnzA (Tier I+II)</cell></row><row><cell>Annotation benchmark</cell><cell>HAMAP</cell><cell></cell><cell></cell></row><row><cell>E. coli</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sequences</cell><cell>1012</cell><cell cols="3">859 (1051) 902 (1021) 930 (1082)</cell></row><row><cell>Sensitivity</cell><cell></cell><cell>84.88</cell><cell>89.13</cell><cell>91.89</cell></row><row><cell>Specificity</cell><cell></cell><cell>81.73</cell><cell>88.34</cell><cell>85.95</cell></row><row><cell>EC numbers</cell><cell>755</cell><cell cols="2">653 (728) 663 (697)</cell><cell>699 (775)</cell></row><row><cell>Sensitivity</cell><cell></cell><cell>86.49</cell><cell>87.81</cell><cell>92.58</cell></row><row><cell>Specificity</cell><cell></cell><cell>89.69</cell><cell>95.12</cell><cell>90.19</cell></row><row><cell>B. aphidicola</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sequences</cell><cell>273</cell><cell cols="2">257 (273) 264 (271)</cell><cell>265 (273)</cell></row><row><cell>Sensitivity</cell><cell></cell><cell>94.13</cell><cell>96.7</cell><cell>97.07</cell></row><row><cell>Specificity</cell><cell></cell><cell>94.13</cell><cell>97.41</cell><cell>97.07</cell></row><row><cell>EC numbers</cell><cell>245</cell><cell cols="2">226 (238) 225 (229)</cell><cell>225 (233)</cell></row><row><cell>Sensitivity</cell><cell></cell><cell>92.24</cell><cell>91.83</cell><cell>91.83</cell></row><row><cell>Specificity</cell><cell></cell><cell>94.95</cell><cell>98.25</cell><cell>96.56</cell></row><row><cell>M. pneumoniae</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sequences</cell><cell>147</cell><cell cols="2">119 (149) 126 (139)</cell><cell>126 (139)</cell></row><row><cell>Sensitivity</cell><cell></cell><cell>80.95</cell><cell>85.71</cell><cell>85.71</cell></row><row><cell>Specificity</cell><cell></cell><cell>79.86</cell><cell>90.64</cell><cell>90.64</cell></row><row><cell>EC numbers</cell><cell>127</cell><cell cols="2">101 (122) 115 (122)</cell><cell>115 (122)</cell></row><row><cell>Sensitivity</cell><cell></cell><cell>79.52</cell><cell>90.55</cell><cell>90.55</cell></row><row><cell>Specificity</cell><cell></cell><cell>82.78</cell><cell>94.26</cell><cell>94.26</cell></row><row><cell>Annotation benchmark</cell><cell>PlasmoDB</cell><cell></cell><cell></cell></row><row><cell>P. falciparum</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sequences</cell><cell>771</cell><cell cols="2">341 (480) 350 (415)</cell><cell>358 (431)</cell></row><row><cell>Sensitivity</cell><cell></cell><cell>44.22</cell><cell>45.39</cell><cell>46.43</cell></row><row><cell>Specificity</cell><cell></cell><cell>71.04</cell><cell>84.33</cell><cell>83.06</cell></row><row><cell>EC numbers</cell><cell>410</cell><cell cols="2">217 (247) 212 (234)</cell><cell>215 (242)</cell></row><row><cell>Sensitivity</cell><cell></cell><cell>52.92</cell><cell>51.7</cell><cell>52.43</cell></row><row><cell>Specificity</cell><cell></cell><cell>87.85</cell><cell>90.59</cell><cell>88.84</cell></row><row><cell cols="5">Numbers within parentheses indicate the total number of sequences or EC</cell></row><row><cell cols="3">numbers identified by each method.</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 :</head><label>2</label><figDesc>Conflicting annotations for the 22 EC numbers predicted as belonging to the P. falciparum genome by ModEnzA but not annotated in PlasmoDB.</figDesc><table><row><cell>EC No.</cell><cell>Sequence</cell><cell>KEGG</cell><cell>PlasmoCyc</cell></row><row><cell>1.1.5.3</cell><cell>PFC0275w</cell><cell>FAD-dependent glycerol-3-phosphate dehydrogenase, putative</cell><cell>FAD-dependent glycerol-3-phosphate dehydrogenase, putative</cell></row><row><cell>1.17.7.1</cell><cell>PF10 0221</cell><cell>(E)-4-Hydroxy-3-methylbut-2-enyl-diphosphate synthase</cell><cell>Methylerythritol phosphate pathway</cell></row><row><cell>1.3.1.8</cell><cell>PF11 0370</cell><cell>-</cell><cell>-</cell></row><row><cell>1.3.5.2</cell><cell>PFF0160c</cell><cell>-</cell><cell>Uridine-5 -phosphate biosynthesis</cell></row><row><cell>2.1.1.48</cell><cell>PF14 0156</cell><cell>-</cell><cell>-</cell></row><row><cell cols="2">2.3.1.180 PFB0505c</cell><cell>3-Oxoacyl-(acyl carrier protein) synthase III, putative</cell><cell>Fatty acid biosynthesis initiation I</cell></row><row><cell cols="2">2.3.1.181 MAL8P1.37</cell><cell>Lipoyl(octanoyl) transferase</cell><cell>-</cell></row><row><cell cols="2">2.4.1.141 MAL8P1.133</cell><cell>Beta-1,4-N-acetylglucosaminyltransferase</cell><cell>Dolichyl-diphosphooligosaccharide biosynthesis</cell></row><row><cell>2.7.12.1</cell><cell>PF14 0431</cell><cell>dual-specificity kinase</cell><cell>-</cell></row><row><cell>2.7.1.90</cell><cell>PFI0755c</cell><cell>6-phosphofructokinase</cell><cell>ATP-dependent phosphofructokinase, putative</cell></row><row><cell>2.7.7.64</cell><cell>PFE0875c</cell><cell>-</cell><cell>-</cell></row><row><cell>2.8.1.8</cell><cell>MAL13P1.220</cell><cell>Lipoic acid synthetase</cell><cell>-</cell></row><row><cell>3.1.13.4</cell><cell>MAL8P1.104, PFE0980c</cell><cell>-</cell><cell>-</cell></row><row><cell>3.1.21.2</cell><cell>PF13 0176</cell><cell>-</cell><cell>-</cell></row><row><cell></cell><cell>PFE0340c,</cell><cell></cell><cell></cell></row><row><cell>3.4.21.10</cell><cell>PF11 0149, MAL8P1.16,</cell><cell>-</cell><cell>-</cell></row><row><cell></cell><cell>PF14 0110</cell><cell></cell><cell></cell></row><row><cell>3.5.1.88</cell><cell>PFI0380c</cell><cell>-</cell><cell>-</cell></row><row><cell>3.6.1.1</cell><cell>PF14 0541, PFL1700c, PFC0710w-a, PFC0710w-b</cell><cell>Inorganic pyrophosphatase</cell><cell>Inorganic pyrophosphatase, putative, V-type H(+)-translocating pyrophosphatase, putative</cell></row><row><cell>3.6.1.7</cell><cell>PF11 0121</cell><cell>-</cell><cell>-</cell></row><row><cell>3.6.3.44</cell><cell>PFE1150w</cell><cell>-</cell><cell>ABC transporter, putative</cell></row><row><cell>3.6.4.3</cell><cell>PF14 0548</cell><cell>-</cell><cell>-</cell></row><row><cell>3.6.4.6</cell><cell>PFC0140c</cell><cell>Vesicle-fusing ATPase</cell><cell>-</cell></row><row><cell>3.6.5.5</cell><cell>PF10 0368</cell><cell>Dynamin GTPase</cell><cell>-</cell></row></table><note><p>"-"-Annotation not present in either PlasmoCyc or KEGG.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 :</head><label>3</label><figDesc>Three-digit annotations for the sequences selected from P. falciparum by Tier II and Tier III profiles.</figDesc><table><row><cell>Gene</cell><cell>PlasmoDB product description  *</cell><cell>PlasmoDB EC  *</cell><cell>ModEnzA EC</cell><cell>EC description #</cell></row><row><cell>PF07 0059</cell><cell>4-nitrophenylphosphatase, putative</cell><cell>3.1.3.-(Phosphoric monoester hydrolases.); 3.1.3.41 (4-nitrophenylphosphatase)</cell><cell>T2-3.1.3.41</cell><cell>4-nitrophenylphosphatase</cell></row><row><cell>PF08 0108</cell><cell>Pepsinogen, putative</cell><cell>3.4.23.1</cell><cell>T2-3.4.23.2</cell><cell>Pepsin B</cell></row><row><cell>PF10 0329</cell><cell>Aspartyl protease, putative; Plasmepsin VII</cell><cell>None</cell><cell>T2-3.4.23.2</cell><cell>Pepsin B</cell></row><row><cell>PF11 0161</cell><cell>Falcipain-2 precursor, putative</cell><cell>3.4.22.-</cell><cell>T3-3.4.22.32</cell><cell>Stem bromelain</cell></row><row><cell>PF11 0162</cell><cell>Falcipain-3</cell><cell>3.4.22.-</cell><cell>T3-3.4.22.32</cell><cell>Stem bromelain</cell></row><row><cell>PF11 0165</cell><cell>Falcipain 2 precursor</cell><cell>3.4.22.-</cell><cell>T3-3.4.22.32</cell><cell>Stem bromelain</cell></row><row><cell></cell><cell></cell><cell>2.5.1.10</cell><cell></cell><cell></cell></row><row><cell>PF11 0295</cell><cell>Farnesyl pyrophosphate synthase, putative</cell><cell>Geranyltranstransferase; 2.5.1.1</cell><cell>T2-2.5.1.67</cell><cell>Chrysanthemyl diphosphate synthase</cell></row><row><cell></cell><cell></cell><cell>Dimethylallyltranstransferase</cell><cell></cell><cell></cell></row><row><cell>PF14 0075</cell><cell>Plasmepsin, putative</cell><cell>3.4.23.38 (Plasmepsin I)</cell><cell>T2-3.4.23.39</cell><cell>Plasmepsin II</cell></row><row><cell>PF14 0076</cell><cell>Plasmepsin 1 precursor</cell><cell>3.4.23.38 (Plasmepsin I)</cell><cell>T2-3.4.23.39</cell><cell>Plasmepsin II</cell></row><row><cell>PF14 0077</cell><cell>Plasmepsin 2</cell><cell>3.4.23.39 (Plasmepsin II)</cell><cell>T2-3.4.23.39</cell><cell>Plasmepsin II</cell></row><row><cell>PF14 0078</cell><cell>HAP protein; Plasmepsin III</cell><cell>3.4.23.-Aspartic endopeptidases</cell><cell>T2-3.4.23.39</cell><cell>Plasmepsin II</cell></row><row><cell>PF14 0281</cell><cell>Aspartyl protease, putative</cell><cell>None</cell><cell>T2-3.4.23.2</cell><cell>Pepsin B</cell></row><row><cell>PF14 0334</cell><cell>NAD(P)H-dependent glutamate synthase, putative</cell><cell>1.4.7.1 Glutamate synthase (ferredoxin);1.4.1.14 -Glutamate synthase (NADH)</cell><cell>T2-1.4.1.14</cell><cell>Glutamate synthase</cell></row><row><cell>PF14 0553</cell><cell>Cysteine proteinase falcipain-1</cell><cell>None</cell><cell>T3-3.4.22.32</cell><cell>Stem bromelain</cell></row><row><cell>PF14 0625</cell><cell>Hypothetical protein</cell><cell>3.4.2.3; Transferred entry: 3.4.17.4</cell><cell>T2-3.4.23.2</cell><cell>Pepsin B</cell></row><row><cell>PFC0495w</cell><cell>Aspartyl protease, putative</cell><cell>3.4.23.-Aspartic endopeptidases</cell><cell>T2-3.4.23.2</cell><cell>Pepsin B</cell></row><row><cell>PFF0530w</cell><cell>Transketolase, putative</cell><cell>2.2.1.1 Transketolase</cell><cell>T2-2.2.1.3</cell><cell>Formaldehyde transketolase</cell></row><row><cell>PFI1125c</cell><cell>3-oxoacyl-(acyl-carrier protein) reductase, putative</cell><cell>1.1.1.100 (3-oxoacyl-[acyl-carrier-protein] reductase); 2.3.1.85 (Fatty-acid synthase)</cell><cell>T2-1.1.1.140</cell><cell>Sorbitol-6-phosphate 2-dehydrogenase</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>* Gene product descriptions and EC annotations obtained from PlasmoDB. # IUBMB EC description.</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p><rs type="person">Acknowledgment D. K. Desai</rs> was the recipient of a <rs type="grantName">UGC Senior Research Fellowship</rs> during the period of this work.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_gbUjWFG">
+					<orgName type="grant-name">UGC Senior Research Fellowship</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Application of &apos;next-generation&apos; sequencing technologies to microbial genetics</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Maclean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D G</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Studholme</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews Microbiology</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="287" to="296" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Searching for drug targets in microbial genomes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Y</forename><surname>Galperin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Koonin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Biotechnology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="571" to="578" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The druggable genome</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Groom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews Drug Discovery</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="727" to="730" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The druggable genome: an update</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Russ</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lampel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drug Discovery Today</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1607" to="1610" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Computational analysis of Plasmodium falciparum metabolism: organizing genomic information to facilitate drug discovery</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hanekamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tsoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Karp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Altman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Research</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="917" to="924" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Myristoyl-CoA: protein N-myristoyltransferase, an essential enzyme and potential drug target in kinetoplastid parasites</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Menon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Panethymitaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Goulding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Mckean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Biological Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">278</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="7206" to="7214" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Drug targets and mechanisms of resistance in the anaerobic protozoa</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Upcroft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Upcroft</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Microbiology Reviews</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="150" to="164" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Prioritizing genomic drug targets in pathogens: application to Mycobacterium tuberculosis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Daugelat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S S</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schreiber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Computational Biology</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="539" to="550" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Potential drug targets in Mycobacterium tuberculosis through metabolic pathway analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Anishetty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pulimi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pennathur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computational Biology and Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="368" to="378" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Effects of depleting the essential central metabolic enzyme fructose-1,6bisphosphate aldolase on the growth and viability of Candida albicans: implications for antifungal drug target discovery</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rodaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J P</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eukaryotic Cell</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1371" to="1377" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Lumazine synthase from Candida albicans as an anti-fungal target enzyme: structural and biochemical basis for drug design</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Morgunova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Haase</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Biological Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">282</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="17231" to="17241" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Genome-wide fitness test and mechanism-of-action studies of inhibitory compounds in Candida albicans</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ketela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Pathogens</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">92</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The Sorcerer II Global Ocean Sampling expedition: northwest Atlantic through eastern tropical Pacific</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Rusch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Halpern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sutton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Biology</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">77</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Quantifying environmental adaptation of metabolic pathways in metagenomics</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Gianoulis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Raes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Patel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences of the United States of America</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1374" to="1379" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">From genomics to chemical genomics: new developments in KEGG</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kanehisa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Goto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hattori</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">PUMA2-gridbased high-throughput analysis of genomes and metabolic pathways</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Maltsev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Glass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sulakhe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The MetaCyc Database of metabolic pathways and enzymes and the Bio-Cyc collection of pathway/genome databases</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Caspi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Foerster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Fulcher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="623" to="D631" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Basic local alignment search tool</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Altschul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">215</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="403" to="410" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note>Lipman</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Improved tools for biological sequence comparison</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Pearson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lipman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences of the United States of America</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2444" to="2448" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Gapped BLAST and PSI-BLAST: a new generation of protein database search programs</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Altschul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Madden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Schäffer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="3389" to="3402" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<monogr>
+		<title level="m" type="main">HMMER: biological sequence analysis using profile hidden Markov models</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Eddy</surname></persName>
+		</author>
+		<ptr target="http://hmmer.org/" />
+		<imprint>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Enzyme-specific profiles for metabolic pathway prediction: PRIAM</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Claudel-Renard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chevalet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Faraut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="6633" to="6639" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">CDD: a database of conserved domain alignments with links to domain threedimensional structure</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Marchler-Bauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Panchenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Shoemarker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Thiessen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Y</forename><surname>Geer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Bryant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="281" to="283" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">metaSHARK: software for automated metabolic network prediction from DNA sequence and its application to the genomes of Plasmodium falciparum and Eimeria tenella</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Pinney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Shirley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Mcconkey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Westhead</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1399" to="1409" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">EFICAz: a comprehensive approach for accurate genome-scale enzyme function inference</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Arakaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Skolnick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="6226" to="6239" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">EFICAz: enzyme function inference by a combined approach enhanced by machine learning</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Arakaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Skolnick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The phylogenetic extent of metabolic enzymes and pathways</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Peregrin-Alvarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tsoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Ouzounis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Research</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="422" to="427" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The ENZYME database in 2000</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bairoch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="304" to="305" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">A Bayesian method for identifying missing enzymes in predicted metabolic pathway databases</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Karp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">PathBLAST: a tool for alignment of protein interaction networks</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Kelley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lewitter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sharan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Stockwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ideker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="83" to="W88" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Automatic detection of subsystem/pathway variants in genome analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Osterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Overbeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Godzik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="478" to="486" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The use of gene clusters to infer functional coupling</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Overbeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fonstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Push</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Maltsev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences of the United States of America</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2896" to="2901" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Filling gaps in a metabolic network using expression information</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kharchenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vitkup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Church</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="178" to="185" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Identifying metabolic enzymes with multiple types of association evidence</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kharchenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Freund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vitkup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Church</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">HMM-ModE-improved classification using profile hidden Markov models by optimising the discrimination threshold and modifying emission probabilities with negative training sequences</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Srivastava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Desai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nandi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Lynn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">SCOP: a structural classification of proteins database for the investigation of sequences and structures</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Murzin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hubbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chothia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">247</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="536" to="540" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Graph clustering by flow simulation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Van Dongen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000-05">May 2000</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Utrecht</orgName>
+		</respStmt>
+	</monogr>
+	<note>Ph.D. thesis</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">MUSCLE: multiple sequence alignment with high accuracy and high throughput</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Edgar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1792" to="1797" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Assessing the accuracy of prediction algorithms for classification: an overview</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Baldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brunak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chauvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A F</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nielsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="412" to="424" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Automated annotation of microbial proteomes in SWISS-PROT</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gattiker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Michoud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rivoire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computational Biology and Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="49" to="58" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main">UniProt: the universal protein knowledgebase</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Apweiler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bairoch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The protein data bank</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Berman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Westbrook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Feng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="235" to="242" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main">An efficient algorithm for large-scale detection of protein families</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Enright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Van Dongen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Ouzounis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1575" to="1584" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<analytic>
+		<title level="a" type="main">PlasmoDB: the Plasmodium genome resource. A database integrating experimental and computational data</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Brunk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Crabtree</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="212" to="215" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Analysis and prediction of functional sub-types from protein sequence alignments</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Hannenhalli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Russell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">303</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="61" to="76" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Amino acids determining enzyme-substrate specificity in prokaryotic and eukaryotic protein kinases</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">I</forename><surname>Shakhnovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Mirny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences of the United States of America</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="4463" to="4468" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Genome sequence of the human malaria parasite Plasmodium falciparum</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gardner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">419</biblScope>
+			<biblScope unit="issue">6906</biblScope>
+			<biblScope unit="page" from="498" to="511" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

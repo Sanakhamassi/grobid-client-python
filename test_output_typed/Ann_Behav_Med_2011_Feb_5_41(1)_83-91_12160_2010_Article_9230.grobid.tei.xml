@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Improving Coping Skills for Self-management of Treatment Side Effects Can Reduce Antiretroviral Medication Nonadherence among People Living with HIV</title>
+				<funder ref="#_g6EhCtq">
+					<orgName type="full">National Institute of Mental Health of the National Institutes of Health</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2010-10-05">5 October 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>Ph.D</roleName><forename type="first">Mallory</forename><forename type="middle">O</forename><surname>Johnson</surname></persName>
+							<email>mallory.johnson@ucsf.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Center for AIDS Prevention Studies</orgName>
+								<orgName type="institution">University of California San Francisco</orgName>
+								<address>
+									<addrLine>50 Beale Street Suite 1300</addrLine>
+									<postCode>94105</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Center for AIDS Prevention Studies</orgName>
+								<orgName type="institution">University of California San Francisco</orgName>
+								<address>
+									<addrLine>50 Beale Street Suite 1300</addrLine>
+									<postCode>94105</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Samantha</forename><forename type="middle">E</forename><surname>Dilworth</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for AIDS Prevention Studies</orgName>
+								<orgName type="institution">University of California San Francisco</orgName>
+								<address>
+									<addrLine>50 Beale Street Suite 1300</addrLine>
+									<postCode>94105</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jonelle</forename><forename type="middle">M</forename><surname>Taylor</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for AIDS Prevention Studies</orgName>
+								<orgName type="institution">University of California San Francisco</orgName>
+								<address>
+									<addrLine>50 Beale Street Suite 1300</addrLine>
+									<postCode>94105</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><forename type="middle">A &amp;</forename><surname>Torsten</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for AIDS Prevention Studies</orgName>
+								<orgName type="institution">University of California San Francisco</orgName>
+								<address>
+									<addrLine>50 Beale Street Suite 1300</addrLine>
+									<postCode>94105</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Ph.D</roleName><forename type="first">B</forename><surname>Neilands</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for AIDS Prevention Studies</orgName>
+								<orgName type="institution">University of California San Francisco</orgName>
+								<address>
+									<addrLine>50 Beale Street Suite 1300</addrLine>
+									<postCode>94105</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Neilands</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for AIDS Prevention Studies</orgName>
+								<orgName type="institution">University of California San Francisco</orgName>
+								<address>
+									<addrLine>50 Beale Street Suite 1300</addrLine>
+									<postCode>94105</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Improving Coping Skills for Self-management of Treatment Side Effects Can Reduce Antiretroviral Medication Nonadherence among People Living with HIV</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-10-05">5 October 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">480D14CC8BAEE7C2540246CA3D1282E1</idno>
+					<idno type="DOI">10.1007/s12160-010-9230-4</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:06+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Side effects</term>
+					<term>Antiretroviral therapy</term>
+					<term>Adherence</term>
+					<term>Compliance</term>
+					<term>RCT</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background Human immunodeficiency virus (HIV) treatment side effects have a deleterious impact on treatment adherence, which is necessary to optimize treatment outcomes including morbidity and mortality. Purpose To examine the effect of the Balance Project intervention, a five-session, individually delivered HIV treatment side effects coping skills intervention on antiretroviral medication adherence. Methods HIV+ men and women (N=249) on antiretroviral therapy (ART) with self-reported high levels of ART side effect distress were randomized to intervention or treatment as usual. The primary outcome was self-reported ART adherence as measured by a combined 3-day and 30-day adherence assessment.</p><p>Results Intent-to-treat analyses revealed a significant difference in rates of nonadherence between intervention and control participants across the follow-up time points such that those in the intervention condition were less likely to report nonadherence. Secondary analyses revealed that intervention participants were more likely to seek information about side effects and social support in efforts to cope with side effects. Conclusions Interventions focusing on skills related to ART side-effects management show promise for improving ART adherence among persons experiencing high levels of perceived ART side effects.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>While the life-extending benefits of antiretroviral therapies (ART) for human immunodeficiency virus (HIV) are welldocumented, aversive side effects accompany drug benefit <ref type="bibr" target="#b0">[1]</ref>. Side effects are predictable, undesirable, and dose-related pharmacologic effects that occur within therapeutic dose ranges. The most common side effects from ART are gastrointestinal problems such as diarrhea, nausea and vomiting, and dermatological problems such as rashes. Additional "unseen" negative effects that become apparent over time include cardiac and liver problems, bone loss, and increased triglyceride levels <ref type="bibr" target="#b1">[2]</ref>. Side effects are often cited when evaluating the impact of ART on the HIV treatment arena <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref>. While newer ART drugs have fewer side effects, the goal of a completely side effect-free, clinically effective regimen has yet to be realized. As such, HIV-positive patients will have to face the realities of side effects in the foreseeable future.</p><p>Perceived or anticipated side effects from ART have been linked to failure in timely initiation and maintenance of ART and are a threat to optimal adherence <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref>. Poor ART adherence is related to virologic failure and resistance, hastened disease progression, increased morbidity and mortality, and elevated health care costs <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref>. Side effects from ART are consistently found to predict poor drug adherence <ref type="bibr" target="#b14">[15,</ref><ref type="bibr" target="#b15">16]</ref> and affect the acceptance and maintenance of ART among those who may benefit from treatment <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b17">18]</ref>. In a sample of 2,765 persons with HIV in four US cities, patients' reports of several specific side effects were associated with an increased likelihood of poor adherence <ref type="bibr" target="#b18">[19]</ref>. The link between side effects and nonadherence seems to be one of which HIV+ individuals are aware, with side effects consistently cited as a reason for nonadherence to ART <ref type="bibr" target="#b19">[20]</ref>.</p><p>Side effects create a unique coping challenge. Unlike disease-related symptoms, side effects may be coupled with a belief that the problems are necessary to stay healthy (i.e., they are inevitably tied to the medication). Side effects may also be viewed as ultimately controllable, that is, that one has the power to stop taking medication and consequently eliminate side effects <ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref>. Programs to help patients manage ART side effects so that adverse effects do not negatively impact adherence and treatment continuation offer promise. The purpose of the current study was to evaluate the impact of a one-on-one side effects coping intervention on rates of nonadherence among adults living with HIV.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>This study was conducted in San Francisco, CA, USA and approved by the Institutional Review Board. Voluntary, written informed consent was obtained from all participants. The trial was registered at <ref type="url" target="http://clinicaltrials.gov">clinicaltrials.gov</ref> (NCT00643903).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Population</head><p>Between February 2005 and March 2007, HIV-infected individuals were recruited from community agencies and medical clinics to participate in a brief in-person interview used to screen participants for eligibility in the randomized intervention trial. To be considered for screening, potential participants were required to be at least 18 years of age, provide written informed consent, be taking a recognized ART regimen (verified by documentation from pharmacy, letter from provider, or examination of prescription bottles) for at least the prior 30 days, and report not being currently involved in another behavioral intervention study related to HIV. Severe neuropsychological impairment and psychosis were assessed on a case-by-case basis by interviewers in consultation with senior project personnel, including the principal investigator, a licensed clinical psychologist. Participants were eligible for enrollment in the trial if they reported a level of side effect distress on a previously used symptom/side-effect checklist equivalent to the upper 40% of a prior sample <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b21">22]</ref>. Those who met criteria were scheduled for an enrollment visit and baseline interview approximately 1 week later.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Design and Procedures</head><p>A double-baseline randomized controlled design of the active intervention compared to treatment as usual was used in this study. The double baseline was employed to observe naturally occurring changes over time and regression to the mean of key variables prior to randomization. Interviews were conducted using laptop computers in private settings in research offices. Procedures involved a combination of audio computer-assisted self-interviewing (ACASI) and computerassisted personal interviewing (CAPI) using the Questionnaire Development System (Nova Research Company, Bethesda, MD, USA). ACASI has been shown to be an effective method of decreasing social desirability bias and thereby enhancing veracity of self-report of sensitive behaviors, including sexual and substance use risk acts <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b24">25]</ref>. The second baseline interview was scheduled 3 months after the initial baseline interview.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Randomization</head><p>Simple randomization was implemented immediately following the second baseline interview using the SAS System's random number generator under the uniform distribution, aligning treatments in order with consecutive participant ID.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intervention Condition</head><p>The Balance Project experimental intervention was designed on the basis of prior studies of ART side effects and adherence <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b21">22]</ref> and was based on elements of social problem solving training <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27]</ref> and coping effectiveness training <ref type="bibr" target="#b27">[28]</ref> rooted in Stress and Coping Theory <ref type="bibr" target="#b28">[29]</ref>. It consisted of five 60-min individual counseling sessions with each session designed around topics relevant to ART side effects coping. See Table <ref type="table" target="#tab_0">1</ref> for an outline of the five sessions. Intervention sessions followed a standard structure and set of activities, but were individually tailored to participants' specific life contexts, stressors, and goals. Participants received $30 at the 3-month assessment if they completed all five sessions prior to that assessment interview. Participants in the control condition received no active psychosocial interventions prior to the final trial assessment interview.</p><p>Facilitators were master's level clinicians with expertise in HIV-related issues, were trained using standard materials, and were "certified" if supervisors' observations and quality assurance ratings indicated skilled implementation. All intervention sessions were audio recorded and 10% were rated to ensure replication with fidelity.</p><p>Follow-up assessment interviews were scheduled at 3 (second baseline interview), 6, 9, and 15 months for both the intervention and control groups. Participants received $25 for completing the screening/enrollment interview, $40 for each of the two baseline assessment interviews and the 6-and 9-month follow-up interviews, and $50 for the 15-month final interview.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Basic demographic, treatment history, and health care utilization data were collected by CAPI with trained interviewers. Depression was assessed with the Beck Depression Inventory II <ref type="bibr" target="#b29">[30]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Medication Adherence</head><p>We assessed ART adherence using two well-validated selfreport measures. The first was the adherence measure designed for the Adult AIDS Clinical Trials Group <ref type="bibr" target="#b30">[31]</ref>, which assesses missed pills over the prior 3 days. This measure has been used widely with diverse samples and the short-term recall period has been associated with long-term clinical outcomes. The measure was computerized for ACASI administration to minimize the social desirability associated with adherence reporting <ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref>. Mean 3-day adherence was calculated by dividing the number of pills reported as being taken by the number of pills that were prescribed in the regimen. Second, we administered the visual analog scale developed by Walsh <ref type="bibr" target="#b33">[34]</ref> that assesses  <ref type="bibr" target="#b29">30</ref>-day adherence, reporting separately for each drug along a continuum anchored by "0%" to "100%." This measure has shown to be correlated with other measures of adherence, such as medication event monitoring systems <ref type="bibr" target="#b34">[35,</ref><ref type="bibr" target="#b35">36]</ref> and a 30-day timeframe has recently been supported as preferable to other approaches of self-report <ref type="bibr" target="#b36">[37]</ref>. For the visual analog scale, the mean percent adherence was calculated across all drugs in the participant's regimen. Because there is a tendency for people to over-report adherence on these measures, we defined nonadherence as less than perfect adherence on either the AIDS Clinical Trial Group Measure or the visual analog scale, thus establishing a conservative definition of self-reported nonadherence.</p><p>Coping with Side Effects To monitor changes in ways of coping with treatment side effects associated with the Balance Project intervention, we administered the SECope at each assessment timepoint <ref type="bibr" target="#b37">[38]</ref>. This 20-item measure assesses strategies for coping with HIV-treatment side effects, and includes scales of Positive Emotion Focused Coping, Social Support Seeking, Nonadherence, Information Seeking, and Taking Side Effect Medications, all with evidence of reliability and validity from prior studies <ref type="bibr" target="#b37">[38]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>One-way and cross-tabular frequency tables were generated for categorical variables; means and standard deviations were generated as measures of central tendency for continuous variables. Primary inferential analyses consisted of random coefficient multilevel (i.e., HLM) models that contained random intercepts or random intercepts and slopes to model within-participant correlations of responses over time, providing a unified method to model both binary (i.e., nonadherence) and continuous outcomes (i.e., the coping measures). Each model contained fixed main effect terms for group assignment (intervention vs. control), time of measurement (treated as a continuous variable with measurement points of baseline, 3, 6, 9, and 15 months), and their interaction. Random effects consisted of participant-specific intercepts or participant-specific random intercepts and slopes. Models involving the continuous SECope outcomes also added a single level 1 residual variance estimate, which is customary in random coefficient modeling. Additional within-group slope coefficients and confidence intervals were produced for models that exhibited a statistically significant group-by-time interaction effect. For each outcome, a model with random intercepts only was compared to a model with random intercepts, slopes, and their covariance using the Bayesian Information Criterion <ref type="bibr" target="#b38">[39]</ref>.</p><p>Random effects models were fitted using SAS PROC GLIMMIX version 9.2. Parameter estimation was obtained through maximum likelihood estimation with integral approximation via adaptive Gaussian quadrature with 15 integration points. To guard against possible misspecification of the model covariance structures influencing inferences, variance estimation was performed using Morel's robust variance estimator <ref type="bibr" target="#b39">[40]</ref>. Linearity of the continuous time effect was assessed using the cumulative-sums-of-residuals method <ref type="bibr" target="#b40">[41]</ref>. Histograms and predicted value-by-residual scatterplots were used to evaluate normality and homoscedasticity of the model residuals, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participant Characteristics</head><p>Table <ref type="table" target="#tab_1">2</ref> provides details of the participant characteristics for each randomization group. The sample was predominately male, with 55% identifying as White, 18% as African American or Black, and 15% as Hispanic. The mean age was 46 years, the mean time since testing HIV positive was almost 14 years, and the mean time since starting a first ART regimen was 10 years. The most frequently endorsed symptoms that were attributed to ART and the proportion of respondents reporting them were as follows: fatigue or loss of energy (96.4%), feelings of sadness and depression (82.3%), sleep problems (78.6%), muscle aches or joint pain (75.5%), and stomach bloating, pain, or gas (74.7%). The sample was balanced across randomization conditions with regard to all demographic, treatment, side effect, and depression variables.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment and Intervention Completion Rates</head><p>Of the 249 individuals enrolled in the trial and randomized, 95% completed the 6-month assessment, 93% completed the 9-month assessment, and 93% completed the final 15month assessment. Of the 128 individuals randomized to the intervention condition, 116 (91%) completed the first session and 112 (88%) completed all five sessions. See Fig. <ref type="figure" target="#fig_0">1</ref> for the trial participant flow details. Attrition rates across the two conditions were not different, suggesting that the extra incentive payment for intervention completion did not differentially affect study retention.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Model Diagnostics</head><p>Assessments of linearity via cumulative sums of residuals supported the null hypothesis of linear time effects for all outcomes (p&gt;0.10 for all assessments). Examination of residuals' histograms and predicted-value-by-residual-value scatterplots indicated approximate normality and constant variance of model residuals. For all outcomes studied, the Bayesian Information Criterion preferred the more parsimonious random intercepts model to the more complex random intercepts-plus-slopes model. Consequently, all results reported below originate from random intercept-only models.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nonadherence</head><p>A statistically significant group-by-time interaction effect was obtained, such that control group and intervention group participants differed in non-adherence change over time (see Table <ref type="table" target="#tab_2">3</ref> and Fig. <ref type="figure" target="#fig_1">2</ref>). Specifically, within-group slopes analysis revealed that the odds of non-adherence</p><p>544 Assessed for Eligibility 295 Excluded 210 Not Meeting Inclusion Criteria 85 Declined 128 Assigned to Intervention 116 (91%) Received Intervention as Assigned 249 Randomized 121 Assigned to Wait List Control 10 Lost to Follow-up 4 Discontinued Intervention 8 Lost to Follow-up 128 Included in Analysis 0 Excluded From Analysis 121 Included in Analysis 0 Excluded From Analysis  Coping with Side Effects No statistically significant group, time, or group-by-time effects were observed for the SECope Positive Emotion Focused Coping, Taking Side Effect Medications, or Non-Adherence subscales (Table <ref type="table" target="#tab_2">3</ref>). A significant overall difference between control and intervention group participants was found, however, such that control participants reported using side-effects management strategies less than their intervention group counterparts. Statistically significant group-by-time interaction effects were obtained for the Social Support and Information Seeking subscales, such that control group participants reported using these strategies less often than intervention participants did during the study (Table <ref type="table" target="#tab_3">4</ref>). Within-groups slopes analyses showed no change in intervention participants' use of social support (B=0.001; 95% CI=-0.01, 0.01; p=0.83) and information seeking (B = 0.002; 95% CI = -0.01, 0.01; p = 0.73). However, control participants' seeking of both social support (B=-0.02; 95% CI=-0.03, -0.01; p=0.001) and information (B=-0.02; 95% CI=-0.03, -0.01; p=0.007) decreased over time (Tables <ref type="table" target="#tab_2">3</ref> and <ref type="table" target="#tab_3">4</ref>). N=249 for all analyses. Intercept represents the expected value of the intervention group. Group represents the difference between the control group and intervention group. Time is measured in months (0.25, 3, 6, 9, and 15) and represents the intervention group's change in the outcome over time. Group×time represents the difference in slopes between the control and intervention groups. Non-Adh non-adherence. SECope P positive emotion-focused coping, SECope N non-adherence strategies, SECope T taking side-effects medications, SECope S social support seeking, SECope I information seeking *p&lt;0.05, **p&lt;0.01; ***p&lt;0.001</p><p>Note: Intervention was delivered between months 3 and 6. Overall group x time interaction was significant (p&lt;.05) </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The findings from the current trial support the five-session Balance Project intervention to promote ART adherence among HIV-positive adults experiencing high levels of perceived ART side effects. Follow-up analyses suggest that the intervention may have been particularly effective in influencing individuals' efforts to access information and social support for coping with HIV treatment side effects. This is the first published trial to demonstrate beneficial effects on ART adherence by focusing on side-effects management. Consistent with the evidence that side effects are associated with nonadherence, these results demonstrate that efforts to improve patients' side-effects management skills have the potential to reverse the negative impact of perceived side effects on ART adherence.</p><p>The current intervention, although individually delivered, was relatively low dose compared to other behavioral interventions in health care contexts, which sometimes prescribe 15 or more sessions <ref type="bibr" target="#b41">[42,</ref><ref type="bibr" target="#b42">43]</ref>. A low-dose intervention may be readily implemented in clinics and agencies that provide health care and support to persons living with HIV. There is also the potential for elements of the intervention to be delivered prior to the initiation of ART. Such interventions may offset the harmful effect of anticipated side effects on future rates on ART uptake by giving sideeffects management skills to people prior to initiating therapy. Preemptive intervention may be considered in the context of building patients' readiness for ART and may result in greater ART uptake and subsequent adherence and maintenance of ART in the face of side effects that may develop. This intervention approach may also be particularly useful if there is a need to change ART regimens following treatment failure, a context in which there may be a higher perception or actual increased probability of significant side effects during the initial period of a new regimen.</p><p>Although designed and implemented in the context of HIV disease, the intervention is rooted in broader theories of health promotion and behavior change, including Stress and Coping Theory <ref type="bibr" target="#b28">[29]</ref> and Social Problem Solving Theory <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b43">44]</ref>. Consequently this intervention approach may be appropriate for other illness contexts in which side effects from treatment represent a substantial barrier to adherence and optimal outcomes.</p><p>There are several noteworthy limitations in the current study. First, the experimental design used a treatment as usual comparison rather than a matched attention control condition, so it is impossible to determine the potential confounding effects of increased attention by trial staff in the experimental condition rather than the control condition. Further, the assessment did not capture comprehensive data on access and use of adherence resources outside of the trial, a construct that is gaining attention in adherence research <ref type="bibr" target="#b44">[45]</ref>. Second, the use of self-reported adherence data, while supported by validity studies <ref type="bibr" target="#b45">[46]</ref> has been questioned in HIV research as being inflated because of recall, social desirability, and other biases. To minimize the biases inherent in self-reported data, we employed several techniques. We used conservative cut-offs of validated measures of adherence that have demonstrated meaningful relationships with important outcomes, such as viral load, in other studies. ACASI interviewing for the adherence portion of the interview was used, thereby removing the interviewer's presence and minimizing social desirability bias. Such approaches to computerized adherence assessment have shown favorable effects in other studies <ref type="bibr" target="#b46">[47]</ref>. Despite these strategies, it should be noted that the use of self-reported adherence outcomes remains a limitation of the study, and results may have differed if other adherence assessment approaches had been used. Third, because the study used a convenience sample rather than a probabilitybased sample, there are limits of the degree to which findings are generalizable to other populations. Related, the sample was predominately male, and thus caution should be exercised when generalizing the findings to women. Finally, because the eligibility criteria did not select based on levels of adherence at baseline, there was a limit of the degree to which patients could improve on their adherence, as some reported perfect adherence at study entry. However, even with the potential ceiling effect of adherence scores in the sample, the intervention was shown to significantly protect against the likelihood of subsequent nonadherence. In summary, this study supported the hypothesis that improving coping skills related to HIV treatment side effects can have a protective effect on treatment adherence. While the side-effect burden associated with available HIV treatments has lessened over recent years with the development of new drugs, a truly side effect-free ART regimen has not yet been developed. Therefore, treatment side effects are likely to remain a substantive threat to adherence. Interventions aimed at mitigating the impact of side effects on treatment adherence offer promise to help optimize treatment outcomes for the growing numbers of people living with HIV.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Trial flow diagram</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Fig.2Intervention effects on rates of nonadherence</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Outline of intervention sessions</figDesc><table><row><cell>Session</cell><cell>Intervention topics</cell></row><row><cell>Session 1</cell><cell>Introductions and overview of intervention</cell></row><row><cell></cell><cell>Life history and HIV treatment history</cell></row><row><cell></cell><cell>General strengths and stressors</cell></row><row><cell></cell><cell>HIV treatment related stressors</cell></row><row><cell></cell><cell>Goal setting</cell></row><row><cell></cell><cell>Introduce positive affect amplification</cell></row><row><cell>Session 2</cell><cell>Review of prior session and progress toward goal</cell></row><row><cell></cell><cell>Introduction of stress and coping model</cell></row><row><cell></cell><cell>Coping effectiveness training</cell></row><row><cell></cell><cell>Breaking down stressors from general to specific</cell></row><row><cell></cell><cell>Distinguishing between changeable and unchangeable</cell></row><row><cell></cell><cell>Facilitated problem solving related to a medication stressor</cell></row><row><cell></cell><cell>Goal setting</cell></row><row><cell></cell><cell>Positive affect amplification exercise</cell></row><row><cell>Session 3</cell><cell></cell></row><row><cell></cell><cell>Goal setting</cell></row><row><cell></cell><cell>Positive affect amplification exercise</cell></row><row><cell>Session 4</cell><cell>Review of prior session and progress toward goal</cell></row><row><cell></cell><cell>Identifying strengths and challenges in provider relationships</cell></row><row><cell></cell><cell>Active listening and assertive communication with providers</cell></row><row><cell></cell><cell>Facilitated problem solving related to communication with providers</cell></row><row><cell></cell><cell>Goal setting</cell></row><row><cell></cell><cell>Positive affect amplification exercise</cell></row><row><cell>Session 5</cell><cell>Review of prior session and progress toward goal</cell></row><row><cell></cell><cell>Cognitive traps in coping and adherence (self-sabotaging thoughts)</cell></row><row><cell></cell><cell>Cognitive facilitators in coping and adherence (self-enhancing thoughts)</cell></row><row><cell></cell><cell>Barriers to adherence</cell></row><row><cell></cell><cell>Identify what has changed</cell></row><row><cell></cell><cell>Problem solve a remaining adherence barrier</cell></row><row><cell></cell><cell>Goal setting</cell></row><row><cell></cell><cell>Discuss how to maintain momentum</cell></row></table><note><p>Review of prior session and progress toward goal Emotion vs. problem focused coping in HIV treatment Social support skills Distinguish tangible, emotional and informational support Identify positive vs. negative social support Explore/Diagram current social support network Problem solve social support building around side effect stressors</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Sample characteristics</figDesc><table><row><cell>Control (N=121)</cell><cell>Intervention (N=128)</cell><cell>Total a (N=249)</cell></row></table><note><p>a All p values comparing control to intervention were &gt;0.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Non-adherence and coping with side effects measures: random effects regression results</figDesc><table><row><cell>Outcome</cell><cell>Intercept</cell><cell>Fixed effects</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Proportions of non-adherence and mean levels of SECope .23) 2.44 (1.20) 2.21 (1.11) 2.50 a (1.25) 2.17 (1.13) 2.34 (1.22) 2.20 a (1.10) 2.45 (1.16) 2.27 (1.19) 2.36 (1.22)C Control group, I intervention group. Participants were randomized following the 3-month measurement occasion a Indicates instances where one observation was missing due to participant non-response. N varies because SECope was not administered if participant reported no side effects at follow up</figDesc><table><row><cell>Outcome</cell><cell>Baseline (N=249)</cell><cell cols="2">3 Months (N=249)</cell><cell>6 Months (N=237)</cell><cell>9 Months (N=232)</cell><cell>15 Months (N=231)</cell></row><row><cell></cell><cell cols="6">C (N=121) I (N=128) C (N=119) I (N=123) C (N=112) I (N=114) C (N=104) I (N=107) C (N=101) I (N=102)</cell></row><row><cell cols="6">Non-adherence (N %) 103 (85.1) 112 (87.5) 105 (86.8) 116 (90.6) 107 (91.5) 106 (88.3) 103 (88.8) 96 (82.8)</cell><cell>99 (88.4)</cell><cell>96 (81.4)</cell></row><row><cell>Coping (mean SD)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">Information seeking 3.18 (.92) 2.92 (.91) 2.99 a (.94)</cell><cell cols="4">2.82 (.92) 2.94 (.97) 3.00 (1.00) 2.97 (.99) 2.92 (.95) 2.91 (.98) 2.91 (.92)</cell></row><row><cell>Non-adherence</cell><cell cols="2">1.38 (.56) 1.40 (.55) 1.43 a (.60)</cell><cell cols="2">1.34 (.57) 1.37 (.59) 1.28 (.45)</cell><cell cols="2">1.31 (.52) 1.29 (.53) 1.35 (.50) 1.38 (.58)</cell></row><row><cell>Positive emotion</cell><cell>3.51 (.74) 3.58 (.67)</cell><cell>3.47 (.66)</cell><cell cols="2">3.49 (.74) 3.51 (.70) 3.55 (.72)</cell><cell cols="2">3.52 (.65) 3.55 (.73) 3.46 (.74) 3.62 (.69)</cell></row><row><cell>focus</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Social support</cell><cell>2.64 (.88) 2.58 (.84)</cell><cell>2.62 (.82)</cell><cell cols="2">2.52 (.82) 2.53 (.92) 2.57 (.82)</cell><cell cols="2">2.48 (.82) 2.52 (.90) 2.44 (.90) 2.63 (.79)</cell></row><row><cell>Taking side-effect</cell><cell>2.16 (1</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>meds</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>ann. behav. med. (2011) 41:83-91</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>ann. behav. med. (2011) 41:83-91</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgments This work was funded by grant <rs type="grantNumber">R01MH068208</rs> from the <rs type="funder">National Institute of Mental Health of the National Institutes of Health</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_g6EhCtq">
+					<idno type="grant-number">R01MH068208</idno>
+				</org>
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of Interest Statement</head><p>The authors have no conflict of interest to disclose.</p><p>Open Access This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Current status and challenges of antiretroviral research and therapy</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Este</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cihlar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Antivir Res</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="25" to="33" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Tarr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rotger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Telenti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Dyslipidemia in HIV-infected individuals: From pharmacogenetics to pharmacogenomics</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="587" to="594" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Primary care guidelines for the management of persons infected with Human Immunodeficiency Virus: 2009 update by the HIV medicine Association of the Infectious Diseases Society of America</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Aberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Libman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Infect Dis</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="651" to="681" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">From terminal disease to chronic illness: HIV infection in 2010</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kurtyka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Nurse Pract</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">52</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>quiz 39</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Antiretroviral therapy and management of HIV infection</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Volberding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Deeks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="page" from="49" to="62" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Patient adherence to HIV medication regimens: A review of published and abstract reports [Review]</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fogarty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Roter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Larson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Patient Educ Couns</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="93" to="108" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Self reported symptoms and medication side effects influence adherence to highly active antiretroviral therapy in persons with HIV infection</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ammassari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Murri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pezzotti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Acquir Immune Defic Syndr</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="445" to="449" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Forgiveness of non-adherence to HIV-1 antiretroviral therapy</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shuter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Antimicrob Chemother</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="769" to="773" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Preventing HIV antiretroviral resistance through better monitoring of treatment adherence</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Bangsberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Infect Dis</title>
+		<imprint>
+			<biblScope unit="volume">197</biblScope>
+			<biblScope unit="issue">Suppl 3</biblScope>
+			<biblScope unit="page" from="272" to="278" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A review of HIV antiretroviral adherence and intervention studies among HIVinfected youth</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Reisner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Mimiaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Skeer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Top HIV Med</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="14" to="25" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Behavioral aspects of HIV care: adherence, depression, substance use, and HIV-transmission behaviors</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Michelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Safren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Infect Dis Clin North Am</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="181" to="200" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Non-adherence to highly active antiretroviral therapy predicts progression to AIDS</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Bangsberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Charlebois</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1181" to="1183" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The value and challenges of improving adherence to antiretroviral therapy for human immunodeficiency virus</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Chesney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Care</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="891" to="892" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">HIV drug resistance</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Clavel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Hance</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page" from="1023" to="1035" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Factors associated with non-adherence to long-term highly active antiretroviral therapy: A 10 year follow-up analysis with correction for the bias induced by missing data</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Protopopescu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Raffi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Roux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Antimicrob Chemother</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="599" to="606" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Physical symptoms, beliefs about medications, negative mood, and long-term HIV medication adherence</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Penedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Llabre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Behav Med</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="46" to="55" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Disparities in reported reasons for not initiating or stopping antiretroviral treatment among a diverse sample of persons living with HIV</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Chesney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Neilands</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Gen Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="247" to="251" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Patients&apos; perceptions of highly active antiretroviral therapy in relation to treatment uptake and adherence: The utility of the necessity-concerns framework</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Horne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gellaitry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Date</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fisher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Acquir Immune Defic Syndr</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="334" to="341" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Perceived adverse effects of antiretroviral therapy</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Charlebois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Morin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Pain Symptom Manage</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="193" to="205" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Factors affecting adherence to antiretroviral therapy</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Chesney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Infect Dis</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">Suppl 2</biblScope>
+			<biblScope unit="page" from="171" to="176" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The drugs or the disease? Causal attributions of symptoms held by HIV-positive adults on HAART</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Stallworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Neilands</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Behav</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="109" to="117" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Side effect and disease related symptom representations among HIV+adults on antiretroviral therapy</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Folkman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol Health Med</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="139" to="148" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Adherence to medication treatment: A qualitative study of facilitators and barriers among a diverse sample of HIV+ men and women in four US cities</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Remien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Hirky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johnson</forename><surname>Mo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Behav</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="61" to="72" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Adolescent sexual behavior, drug use, and violence: Increased reporting with computer survey technology</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ku</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Rogers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">280</biblScope>
+			<biblScope unit="page" from="867" to="873" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Interview mode and measurement of sexual behaviors: Methodological issues</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Gribble</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Turner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sex Res</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="16" to="24" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Problem solving and behavior therapy revisited</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Nezu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behav Ther</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1" to="33" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Problem-solving therapy for depression: Theory, research, and clinical guidelines</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Nezu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Nezu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Perri</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<pubPlace>New York, NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Coping effectiveness training for men living with HIV: Results from a randomized clinical trial testing a group-based intervention</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chesney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Chambers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Folkman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychosom Med</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="1038" to="1046" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Stress, appraisal, and coping</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Lazarus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Folkman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Springer Pub. Co</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Manual for the Beck Depression Inventory-II</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Steer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Brown</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Psychological Corporation</publisher>
+			<pubPlace>San Antonio</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Self-reported adherence to antiretroviral medications among participants in HIV clinical trials: the AACTG adherence instruments. Patient Care Committee &amp; Adherence Working Group of the Outcomes Committee of the Adult AIDS Clinical Trials Group (AACTG)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Chesney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Ickovics</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Chambers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Care</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="255" to="266" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Adherence to combination therapy in AIDS clinical trials</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Chesney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ickovics</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Annual Meeting of the AIDS Clinical Trials Group</title>
+		<meeting><address><addrLine>Washington</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Theory guided, empirically supported avenues for intervention on HIV medication nonadherence: Findings from the Healthy Living Project</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Catz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Remien</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Patient Care STDs</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="645" to="656" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Virologic rebound on HAART in the context of low treatment adherence is associated with a low prevalence of antiretroviral drug resistance</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Pozniak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mandalia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Gazzard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Acquir Immune Defic Syndr</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="278" to="287" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Responses to a 1 month selfreport on adherence to antiretroviral therapy are consistent with electronic data and virological treatment outcome</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mandalia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Gazzard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="269" to="277" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Multiple Validated Measures of Adherence Indicate High Levels of Adherence to Generic HIV Antiretroviral Therapy in a Resource-Limited Setting</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Oyugi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Byakika-Tusiime</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Charlebois</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Acquir Immune Defic Syndr</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="1100" to="1102" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Optimal recall period and response task for self-reported HIV medication adherence</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Safren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Skolnik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Behav</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="86" to="94" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Coping with HIV treatment side effects: conceptualization, measurement, and linkages</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Neilands</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Behav</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="575" to="585" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Estimating the dimension of a model</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schwarz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Stat</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="461" to="464" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Small sample correction for the variance of GEE estimators</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Morel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Bokossa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Neerchal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biom J</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="305" to="409" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Model-checking techniques based on cumulative residuals</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Y</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ying</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Effects of a behavioral intervention on antiretroviral medication adherence among people living with HIV: The Healthy Living Project randomized controlled study</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Charlebois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Morin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Acquir Immune Defic Syndr</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="574" to="580" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Randomized clinical trial of cognitive behavioral stress management on human immunodeficiency virus viral load in gay men treated with highly active antiretroviral therapy</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Antoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Carrico</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Duran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychosom Med</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="143" to="151" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Cognitive therapies in action: Evolving innovative practice. The Jossey-Bass social and behavioral science series</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Nezu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Nezu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Houts</surname></persName>
+		</author>
+		<editor>H. Rosen, K. T. Kuehlwein</editor>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Jossey-Bass Inc, Publishers</publisher>
+			<biblScope unit="page" from="353" to="378" />
+			<pubPlace>San Francisco, CA, US</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Multiple applications of problemsolving principles in clinical practice</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Standard care impact on effects of highly active antiretroviral therapy adherence interventions: A meta-analysis of randomized controlled trials</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Bruin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Viechtbauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schaalma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">170</biblScope>
+			<biblScope unit="page" from="240" to="250" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Self-report measures of antiretroviral therapy adherence: A review with recommendations for HIV research and clinical management</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Simoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Kurth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Pearson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Behav</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="227" to="245" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b46">
+	<analytic>
+		<title level="a" type="main">A computer-based assessment detects regimen misunderstandings and nonadherence for patients on HIVantiretroviral therapy</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Bangsberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bronstone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hofmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIDS Care</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="3" to="15" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

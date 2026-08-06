@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Biofilm formation and adherence characteristics of an Elizabethkingia meningoseptica isolate from Oreochromis mossambicus</title>
+				<funder ref="#_WpaUXvV">
+					<orgName type="full">National Research Foundation of South Africa</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Women in Science -Thuthuka Program</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-05-05">5 May 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Anelet</forename><surname>Jacobs</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Microbiology</orgName>
+								<orgName type="institution">University of Stellenbosch</orgName>
+								<address>
+									<addrLine>Private Bag X1, Matieland</addrLine>
+									<postCode>7602</postCode>
+									<country key="ZA">South Africa</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Hafizah</forename><forename type="middle">Y</forename><surname>Chenia</surname></persName>
+							<email>cheniah@ukzn.ac.za</email>
+							<affiliation key="aff0">
+								<orgName type="department">Discipline: Microbiology</orgName>
+								<orgName type="institution">University of KwaZulu-Natal</orgName>
+								<address>
+									<addrLine>Private Bag X54001</addrLine>
+									<postCode>4001</postCode>
+									<settlement>Durban</settlement>
+									<country key="ZA">South Africa</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Discipline: Microbiology</orgName>
+								<orgName type="institution">University of KwaZulu-Natal</orgName>
+								<address>
+									<addrLine>Private Bag X54001</addrLine>
+									<postCode>4001</postCode>
+									<settlement>Durban</settlement>
+									<country key="ZA">South Africa</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Biofilm formation and adherence characteristics of an Elizabethkingia meningoseptica isolate from Oreochromis mossambicus</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-05-05">5 May 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A6608D6A4770EF5A64590F72D7F83A81</idno>
+					<idno type="DOI">10.1186/1476-0711-10-16</idno>
+					<note type="submission">Received: 13 January 2011 Accepted: 5 May 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-04T10:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Elizabethkingia meningoseptica tilapia</term>
+					<term>biofilm</term>
+					<term>adherence</term>
+					<term>autoaggregation</term>
+					<term>coaggregation</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: Elizabethkingia spp. are opportunistic pathogens often found associated with intravascular devicerelated bacteraemias and ventilator-associated pneumonia. Their ability to exist as biofilm structures has been alluded to but not extensively investigated.</p><p>Methods: The ability of Elizabethkingia meningoseptica isolate CH2B from freshwater tilapia (Oreochromis mossambicus) and E. meningoseptica strain NCTC 10016 T to adhere to abiotic surfaces was investigated using microtiter plate adherence assays following exposure to varying physico-chemical challenges. The role of cellsurface properties was investigated using hydrophobicity (bacterial adherence to hydrocarbons), autoaggregation and coaggregation assays. The role of extracellular components in adherence was determined using reversal or inhibition of coaggregation assays in conjunction with Listeria spp. isolates, while the role of cell-free supernatants, from diverse bacteria, in inducing enhanced adherence was investigated using microtitre plate assays. Biofilm architecture of isolate CH2B alone as well as in co-culture with Listeria monocytogenes was investigated using flow cells and microscopy.</p><p>Results: E. meningoseptica isolates CH2B and NCTC 10016 T demonstrated stronger biofilm formation in nutrientrich medium compared to nutrient-poor medium at both 21 and 37°C, respectively. Both isolates displayed a hydrophilic cell surface following the bacterial adherence to xylene assay. Varying autoaggregation and coaggregation indices were observed for the E. meningoseptica isolates. Coaggregation by isolate CH2B appeared to be strongest with foodborne pathogens like Enterococcus, Staphylococcus and Listeria spp. Partial inhibition of coaggregation was observed when isolate CH2B was treated with heat or protease exposure, suggesting the presence of heat-sensitive adhesins, although sugar treatment resulted in increased coaggregation and may be associated with a lactose-associated lectin or capsule-mediated attachment.</p><p>Conclusions: E. meningoseptica isolate CH2B and strain NCTC 10016 T displayed a strong biofilm-forming phenotype which may play a role in its potential pathogenicity in both clinical and aquaculture environments. The ability of E. meningoseptica isolates to adhere to abiotic surfaces and form biofilm structures may result from the hydrophilic cell surface and multiple adhesins located around the cell.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Members of the genus Elizabethkingia are aerobic, nonmotile, Gram-negative rods that display a light yellow pigmentation or may be non-pigmented <ref type="bibr" target="#b0">[1]</ref>. The absence of gliding motility and the presence of flexirubin pigments differentiate these genera from other genera in their family Flavobacteriaceae. Only two species have been identified to date, i.e., Elizabethkingia meningoseptica and E. miricola <ref type="bibr" target="#b0">[1]</ref>.</p><p>E. meningoseptica is the most significant species for human clinical infections, although E. miricola has been associated with sepsis <ref type="bibr" target="#b1">[2]</ref>. Elizabethkingia-related infections occur in severely immuno-compromised and postoperative patients as well as neonates <ref type="bibr" target="#b0">[1]</ref>. E. meningoseptica has been implicated in endocarditis, cellulitis, abdominal infection, septic arthritis and eye infections in severely immuno-compromised patients <ref type="bibr" target="#b0">[1]</ref> suffering from malignancy, end-stage hepatic and renal disease, extensive burns and acquired immune deficiency syndrome as well as community-acquired necrotizing fasciitis, pneumonia, and bacteraemia <ref type="bibr" target="#b2">[3]</ref>. These infections constitute a major clinical concern, since together with Chryseobacterium spp., Elizabethkingia spp. isolates are constitutively resistant to multiple antibiotics <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b3">4]</ref>.</p><p>Elizabethkingia spp, isolates constitute a further threat, being able to thrive in aqueous environments and are associated with intravascular device-related bacteraemias, wound sepsis, and ventilator-associated pneumonia by virtue of their ability to contaminate and persist in fluid-containing apparatus <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b4">5]</ref>. E. meningoseptica has been found in the hospital environment in such sites as water supplies, saline solution used for flashing procedures, disinfectants, and medical devices, including feeding tubes and arterial catheters <ref type="bibr" target="#b5">[6]</ref>. Outbreaks have been documented following administration of contaminated medicine, use of devices contaminated via water or more sporadic infections in immuno-compromised patients or post-trauma and -surgery patients.</p><p>The bacterium has been isolated from such medical devices as the respirator, vaporizer and artificial ventilation tubing. E. meningoseptica strains isolated from slimy biofilm communities inside spouts of sink taps of a hospital have been implicated in a neonatal meningitis outbreak <ref type="bibr" target="#b6">[7]</ref>.</p><p>Elizabethkingia spp. have also been isolated from diverse ecological niches, including eutrophic lakes, soil, freshwater sources, spent nuclear fuel pools, and water condensation on the Russian space laboratory Mir <ref type="bibr" target="#b0">[1]</ref>. E. meningoseptica have been recovered from diverse eukaryotes, including amoebae, frogs, turtles, birds, cats, dogs, and fish. The first E. meningoseptica infection in fish was diagnosed in farmed koi carp with skin lesions and hemorrhagic septicaemia. Fish-associated members of the genus Elizabethkingia may represent pathogenic or spoilage organisms or belong to the normal bacterial flora that colonize the mucus at the surface of the skin and gills and the intestine of healthy fish <ref type="bibr" target="#b0">[1]</ref>.</p><p>In the aquaculture environment, two challenges may be posed by E. meningoseptica, i.e., ability of these multidrug-resistant species to evade eradication following antimicrobial treatment and persistence in tanks due to biofilm community formation, leading to disease and associated economic losses; and their potential role as opportunistic human pathogens. The ability of these organisms to act as potential zoonotic pathogens, via transmission from fish and fish farm environments to immuno-compromised workers and consumers should not be underestimated <ref type="bibr" target="#b3">[4]</ref> and necessitates investigation into their ability to adhere to surfaces and form biofilms.</p><p>Although Elizabethkingia spp. isolates have been isolated from clinical biofilm communities <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8]</ref>, the factors involved in initiating biofilm formation by these nonmotile bacteria has not been elucidated. The present study investigated the ability of Elizabethkingia meningoseptica isolate CH2B from farmed freshwater tilapia and strain NCTC 10016 T , to adhere to polystyrene under various physico-chemical conditions using the microtiter plate assay. Hydrophobicity as well as coaggregation and autoaggregation abilities were also investigated. The role of extracellular cell components in adherence was determined using reversal and inhibition of coaggregation assays, while the effect of cell-free supernatants from diverse bacteria in inducing enhanced adherence was investigated using microtiter plate adherence assays. Biofilm architecture of E. meningoseptica isolate CH2B was examined using a flow cell system, as was the ability of E. meningoseptica isolate CH2B to form a mixed biofilm structure with Listeria monocytogenes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial growth conditions and identification</head><p>Creamish-yellow pigmented isolate CH2B was cultured from diseased freshwater tilapia (Oreochromis mossambicus) from a South African aquaculture facility. Isolate CH2B was presumptively identified as E. meningoseptica using the following tests: Gram stain, colony characteristics, and flexirubin pigment production <ref type="bibr" target="#b0">[1]</ref>; and this identification was confirmed by 16S rRNA gene PCR and sequencing <ref type="bibr" target="#b8">[9]</ref> (GenBank: <ref type="url" target="http://www.ncbi.nih.gov/entrez/query.fcgi?db=Nucleotide&amp;cmd=search&amp;term=EU598807">EU598807</ref>).</p><p>E. meningoseptica isolate CH2B and type strain NCTC 10016 T were maintained on enriched Anacker and Ordal's agar (EAOA) <ref type="bibr" target="#b9">[10]</ref> at ambient temperature (21°C ± 2°C). For long-term storage, cultures were placed in 20% glycerol and enriched Anacker and Ordal's broth (EAOB) and stored at -80°C.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Biofilm formation and quantification</head><p>E. meningoseptica isolates CH2B and NCTC 10016 T were cultured overnight in EAOB at room temperature (21°C ± 2°C) and centrifuged for 2 min at 12000 rpm. Cell pellets were washed and re-suspended in phosphate-buffered saline (PBS, pH 7.2) to a turbidity equivalent to a 0.5 M McFarland standard <ref type="bibr" target="#b10">[11]</ref>. In order to determine bacterial microtitre plate adherence, wells of sterile 96-well U-bottomed polystyrene microtiter plates (Deltalabs S.L, Barcelona, Spain) were each filled with 90 μl EAOB/tryptic soy broth (TSB; Merck Chemicals, Gauteng, RSA) and inoculated with 10 μl of standardized cell suspensions, in triplicate <ref type="bibr" target="#b11">[12]</ref>. Negative control wells containing only broth or PBS were included in each assay while a Vibrio mimicus isolate (VIB1; isolated from cultured trout) was used as a positive control. Plates were placed on a C1 platform shaker (New Brunswick Scientific, Edison, NJ, USA) and/or the benchtop to simulate dynamic and static conditions, respectively, and incubated aerobically at room temperature (21°C ± 2°C) and/or 37°C for 24 h, in either nutrient-poor EAOB/nutrient-rich TSB media. An optical density (OD) reading of each well was obtained at 595 nm using an automated microtiter-plate reader (Microplate Reader model 680, BioRad Laboratories Inc., Hercules, California). Tests were done in triplicate on three separate occasions and the results averaged <ref type="bibr" target="#b11">[12]</ref>.</p><p>Biofilm formation was classified as non-adherent, weakly-, moderately-or strongly-adherent. The cut-off OD (OD c ) for the microtiter plate test was defined as three standard deviations above the mean OD of the negative control. Isolates were classified as follows: ODOD C = non-adherent, OD C &lt; OD(2 × OD C ) = weakly adherent; (2 × OD C ) &lt; OD ≤ (4 × OD C ) = moderately adherent and (4 × OD C ) &lt; OD = strongly adherent <ref type="bibr" target="#b11">[12]</ref>. Statistical significance of differences (p &lt; 0.05) due to altered variables (temperature, medium, agitation) in the microtiter adherence assays were determined using one way repeated measures analysis of variance (ANOVA; SigmaStat, V3.5, Systat Software, Inc., USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial adherence to hydrocarbon assay</head><p>Surface hydrophobicity was assessed using the bacterial adherence to hydrocarbons (BATH) assay, with xylene (BDH, VWR International, Leicestershire, UK) as the hydrocarbon of choice <ref type="bibr" target="#b10">[11]</ref>. E. meningoseptica isolates CH2B and NCTC 10016 T grown in EAOB at room temperature (21°C ± 2°C) were harvested during the exponential growth phase (18 h old cultures), washed three times and resuspended in sterile 0.1 M phosphate buffer (pH 7) to an OD of 0.8 at a wavelength of 550 nm (A 0 of 10 8 CFU/ml). Samples (3 ml) of the bacterial suspension were placed in glass tubes with 400 μl of xylene, equilibrated in a water bath at 25°C for 10 min and vortexed <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b12">13]</ref>. After a 15 min phase separation, the lower aqueous phase was removed and its OD 550 determined (A 1 ). Strains were considered strongly hydrophobic when values were &gt;50%, moderately hydrophobic when values were in the range of 20-50%, and hydrophilic when values were &lt;20% <ref type="bibr" target="#b13">[14]</ref>. Each value represents the mean of experiments done in triplicate and on two separate occasions. PBS was used as a negative control and V. mimicus isolate VIB1 was used as a control <ref type="bibr" target="#b10">[11]</ref>.</p><p>For the modified salting aggregation test (SAT) assay, overnight EAOB cultures grown at room temperature (21°C ± 2°C) were harvested, washed twice and resuspended in PBS (pH 7.2). E. meningoseptica isolate CH2B was 'salted out' (aggregated) by combining 25 μl volumes, containing 2 × 10 9 bacteria, with 25 μl volumes of a series of methylene blue-containing ammonium sulphate [(NH 4 ) 2 SO 4 ] concentrations (0.2, 0.5, 1, 1.5, 2, 2.5, 3, and 4 M) on microscope slides <ref type="bibr" target="#b10">[11]</ref>. The lowest final concentration of (NH 4 ) 2 SO 4 causing aggregation was recorded as the SAT value and classified as follows: &lt; 0.1 M = highly hydrophobic, 0.1 M -1.0 M = hydrophobic and &gt;1.0 M = hydrophilic <ref type="bibr" target="#b14">[15]</ref>. Experiments were done in triplicate on two separate occasions and respective (NH 4 ) 2 SO 4 concentrations were used as negative controls.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Autoaggregation and coaggregation assays</head><p>For the autoaggregation assay, E. meningoseptica isolates CH2B and NCTC 10016 T were grown in 20 ml EAOB at room temperature (21°C ± 2°C), harvested after 36 h, washed and re-suspended in sterile distilled H 2 O to an OD of 0.3 at a wavelength of 660 nm. The percentage of autoaggregation was measured by transferring a 1 ml sample of bacterial suspension to a sterile plastic 2 ml cuvette and measuring the OD after 60 min using a DU 640 spectrophotometer (Beckman Coulter) at a wavelength of 660 nm <ref type="bibr" target="#b15">[16]</ref>. The degree of autoaggregation was determined as the percent decrease of optical density after 60 min using the equation:</p><formula xml:id="formula_0">% Autoaggregation = OD o -OD 60 OD o ×<label>100</label></formula><p>OD 0 refers to the initial OD of the organism measured. Sixty min after OD 0 was obtained, the cell suspension was centrifuged at 2000 rpm for 2 min. The OD of the supernatant was measured (OD 60 ). Experiments were carried out in triplicate on two separate occasions <ref type="bibr" target="#b15">[16]</ref>.</p><p>E. meningoseptica isolates CH2B and NCTC 10016 T were examined for their ability to coaggregate with each other as well as with the following bacterial partner strains: Aeromonas hydrophila, A. sobria, A. salmonicida, A. media, Acinetobacter spp., Enterococcus faecalis ATCC 29212, Escherichia coli ATCC 25922, Flavobacterium johnsoniae-like spp. isolates YO12, YO19, YO51, YO60, YO64, Listeria monocytogenes NCTC 4885, L. innocua LMG 13568, Micrococcus luteus, Pseudomonas aeruginosa, Salmonella enterica serovar Arizonae and Staphylococcus aureus ATCC 25923 <ref type="bibr" target="#b10">[11]</ref>.</p><p>For coaggregation assays, bacteria were grown in 20 ml EAOB or TSB, harvested after 36 h, washed and resuspended in sterile distilled H 2 O to an OD of 0.3 at a wavelength of 660 nm. The degree of coaggregation was determined by OD readings of paired isolate suspensions (500 μl of each isolate). The cell mixture was centrifuged at 2000 rpm for 2 min and the OD of the supernatant (600 μl) was measured at a wavelength of 660 nm <ref type="bibr" target="#b15">[16]</ref>. The quantitative coaggregation rate of paired isolates was calculated using the equation:</p><formula xml:id="formula_1">% Coaggregation = OD Tot -OD S OD Tot × 100</formula><p>where OD Tot value refers to the initial OD, taken immediately after the relevant strains were paired; and OD S refers to the OD of the supernatant, after the mixture was centrifuged after 60 min <ref type="bibr" target="#b15">[16]</ref>. Experiments were carried out in triplicate on two separate occasions. Differences in coaggregation between E. meningoseptica CH2B and E. meningoseptica NCTC 10016 T were determined using one way repeated measures analysis of variance (ANOVA; SigmaStat V3.5). Differences were considered significant if p &lt; 0.05.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reversal and inhibition of coaggregation</head><p>The effect of simple sugars, heat and protease treatment on isolate CH2B's ability to coaggregate with L. innocua LMG 13568 and L. monocytogenes NCTC 4885 was investigated.</p><p>The ability of simple sugars to reverse E. meningoseptica isolate CH2B coaggregation with Listeria spp. involved filter-sterilized solutions of lactose and galactose, respectively, being added to one of the coaggregating partners at final concentrations of 50 mM <ref type="bibr" target="#b16">[17]</ref>. Mixtures were vortexed and tested for coaggregation using the coaggregation assay described above.</p><p>The ability of heat treatment to inhibit E. meningoseptica isolate CH2B coaggregation with Listeria spp. was conducted using the method of Kolenbrander et al. <ref type="bibr" target="#b17">[18]</ref>. Cells were harvested from O/N EAOB/TSB cultures, washed three times and resuspended in de-ionized water. One of the coaggregating partners was then heated at 80°C for 30 min in a waterbath. Following heat treatment, the OD of each bacterial suspension was adjusted to 0.3 at a wavelength of 660 nm. Heat-treated and untreated cells were combined in reciprocal pairs and their capacity to coaggregate was assessed.</p><p>Protease sensitivity of the polymers mediating coaggregation of isolate CH2B with Listeria spp. isolates was tested using a method described by Rickard et al. <ref type="bibr" target="#b18">[19]</ref>. Cells were harvested from O/N EAOB/TSB cultures and resuspended in de-ionized water to an OD of 0.3 at a wavelength of 660 nm. Proteinase K was added to the standardized cell suspensions to a final concentration of 2 mg/ml. Incubation at 37°C for 2 h was followed by centrifugation and washing of the pelleted cells three times in de-ionized water. Cells were resuspended and the OD adjusted to 0.3 at 660 nm. Protease-treated and untreated cells were combined and their capacity to coaggregate determined.</p><p>Differences in coaggregation between untreated E. meningoseptica CH2B and treated bacteria (E. meningoseptica CH2B, L. innocua, and L. monocytogenes) were determined by paired t-tests (SigmaStat V3.5). Differences were considered significant if p &lt; 0.05.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Induction of adherence</head><p>The standard microtiter plate adherence test <ref type="bibr" target="#b11">[12]</ref> was modified to determine the ability of extracellular secretions of various aquaculture, food and/or human pathogens (Aeromonas hydrophila, A. salmonicida, A. sobria, Chryseobacterium spp. isolates CH8, CH15, CH23, CH25 and CH34, E. meningoseptica CH2B, E. coli, Edwardsiella tarda, F. johnsoniae-like isolate YO59, L. innocua, L. monocytogenes, Myroides odoratus MY1, P. aeruginosa, S. enterica serovar Arizonae, and V. mimicus VIB1) to induce enhanced adherence of E. meningoseptica CH2B.</p><p>Three-day old cultures of each of the above organisms were centrifuged at 2000 rpm for 10 min and supernatants were filter-sterilised using 0.2 μm filters, in order to obtain cell-free spent medium. E. meningoseptica CH2B cell pellets were washed and re-suspended in phosphate-buffered saline (PBS, pH 7.2) to a turbidity equivalent to a 0.5 M McFarland standard <ref type="bibr" target="#b10">[11]</ref>. Ten μl of the standardized suspension was added to microtiter wells containing 100 μl TSB and 90 μl of the filtered supernatant. Controls included standardised isolate CH2B cell suspension added to TSB and respective filtered supernatants in TSB without isolate CH2B, in order to determine a change in adherence abilities and ensure that the change in adherence was due to induction, respectively. Microtiter plates were incubated at room temperature (21°C ± 2°C) for 48 h. An optical density (OD) reading of each well was obtained at 595 nm using an automated microtiterplate reader (Microplate Reader model 680, BioRad Laboratories Inc., Hercules, California). Tests were done in triplicate on three separate occasions and the results averaged <ref type="bibr" target="#b11">[12]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characterization of biofilm formation using flow cell systems</head><p>Biofilm formation by E. menigoseptica isolate CH2B was investigated using continuous culture once-through eight channel flow-cell system, while the mixed-species biofilm flow cell study involved L. monocytogenes strain NCTC 4885 together with isolate CH2B. The eightchannel perspex flow cell (channel size 30 × 4.5 × 3 mm), the glass cover-slip covering (no. 1 thickness, 75 mm by 50 mm), and attached silicone tubing (1 × 1.6 mm × 3 mm × 5 m tubing; The Silicone Tube, RSA) was assembled as described previously <ref type="bibr" target="#b10">[11]</ref>. Silicone tubing was connected to a reservoir containing 2 l of EAOB/TSB and the flow cell was filled with EAOB/TSB, with a flow rate of 0.25 ml/min being maintained using a multi-channel peristaltic pump (Model 205S, Watson-Marlow, UK) located upstream of the flow cell. A one ml volume of EAOB overnight cultures of isolate CH2B was inoculated into each channel, below the clamps sealing silicone tubes upstream of each channel, using sterile syringes. One ml mixed pure culture inoculations, consisted of 0.5 ml combinations of E. meningoseptica isolate CH2B and L. monocytogenes NCTC 4885. Stagnant conditions were maintained for the first hour to allow attachment, prior to inoculated channels being exposed to flowing EAOB/TSB at a constant flow rate of 0.25 ml/min. Flow cell systems were kept at room temperature (21°C ± 2) throughout the experiments. Each flow cell channel was investigated by transmitted light using a Nikon Eclipse E400 (Nikon, Japan) microscope at 600-fold magnification and after 24 h and 48 h, respectively, to visualize bacterial attachment to a glass surface and biofilm development. Images were documented with a CHU high-performance charge-coupled camera device (model 4912-5010/000).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Biofilm-forming ability of E. meningoseptica E. meningoseptica isolates CH2B and NCTC 10016 T , as well as V. mimicus VIB1 were screened for their adherence to polystyrene microtitre plate wells following 24 h incubation at room temperature (21°C ± 2°C) or 37°C, under static or dynamic conditions in nutrient-rich (TSB) or nutrient-poor (EAOB) media (Table <ref type="table" target="#tab_0">1</ref>).</p><p>Isolate CH2B displayed moderate adherence in EAOB at both room temperature and 37°C, respectively, and became strongly adherent when exposed to TSB (Table <ref type="table" target="#tab_0">1</ref>). E. meningoseptica NCTC 10016 T was moderately adherently at room temperature and strongly adherent at 37°C in TSB, but weakly adherent in EAOB. In contrast, V. mimicus displayed strongest adherence in EAOB at room temperature. An increase in temperature to 37°C or alteration of the medium to TSB resulted in weak to moderate adherence for V. mimicus (Table <ref type="table" target="#tab_0">1</ref>). Given the small sample number, none of the physicochemical parameter combinations resulted in statistically significant adherence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial hydrophobicity</head><p>Both E. meningoseptica isolate CH2B and E. meningoseptica NCTC 10016 T appeared to be strongly hydrophilic with BATH indices of 0.77% and 0.36%, respectively. Isolate CH2B was 'salted out' with a 4 M (NH 4 ) 2 SO 4 concentration, confirming its hydrophilicity. a Biofilm formation assay data is the mean of three independent experiments carried out in triplicate ± standard deviation following growth in minimal (EAOB) or rich (TSB) media at 21 or 37°C under dynamic or static conditions, respectively. b Biofilm formation (BF) was classified as non-adherent (N), weakly (W)-, moderately (M)-or strongly (S)-adherent using previously described criteria <ref type="bibr" target="#b11">[12]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Autoaggregation and coaggregation indices</head><p>Isolate CH2B displayed an autoaggregation index of 37.4% (</p><p>Table 2), while that of the type strain E. meningoseptica NCTC 10016 T was 33.1%. Coaggregation occurred to varying degrees between all of the 18 partner strains and E. meningoseptica isolates CH2B or NCTC 10016 T (Table 2), respectively. Isolate CH2B displayed coaggregation indices ranging from 2.5% with E. meningoseptica NCTC 10016 T to 82.2% with S. aureus ATCC 25923. Isolate CH2B had coaggregation indices &gt;40% with 31.8% of the partner strains (Table 2). E. meningoseptica NCTC 10016 T displayed coaggregation indices ranging from 2.5% with E. meningoseptica CH2B to 75.1% with a Micrococcus spp. isolate. Strain NCTC 10016 T had coaggregation indices &gt;40% with 42.1% of the partner strains (Table 2). Although, differences were observed in the coaggregation indices profiles of E. meningoseptica CH2B and E. meningoseptica NCTC 10016 T , these were not statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reversal and inhibition of autoaggregation and coaggregation</head><p>Since coaggregation indices of 70.4% and 77.4% were obtained between isolate CH2B and L. monocytogenes NCTC 4885 and L. innocua LMG 13568 (Table <ref type="table" target="#tab_1">2</ref>), respectively, they were selected for the reversal and inhibition of coaggregation assays following sugars, heat or proteinase K treatments. Sugar reversal experiments with lactose or galactose of either partner increased both the autoaggregation and coaggregation indices (Table <ref type="table" target="#tab_2">3</ref>). Lactose treatment resulted in greater coaggregation of isolate CH2B with both treated and untreated L. innocua LMG 13568 compared with L. monocytogenes NCTC 4885, while this was reversed following galactose treatment, with greater coaggregation being observed with treated and untreated L. monocytogenes NCTC 4885.</p><p>Heat treatment of isolate CH2B resulted in a decrease in autoaggregation (Table <ref type="table" target="#tab_2">3</ref>) and coaggregation, respectively. A greater decrease in coaggregation was observed with untreated L. monocytogenes NCTC 4885 than with untreated L. innocua LMG 13568. However, increased coaggregation was observed when the Listeria spp. partner strains were treated with heat (Table <ref type="table" target="#tab_2">3</ref>).</p><p>A similar trend was observed with proteinase K treatment of isolate CH2B, i.e., decreased autoaggregation of CH2B as well as coaggregation with the untreated partner strains. Proteinase K treatment of Listeria spp. isolates resulted in increased coaggregation between L. monocytogenes NCTC 4885 and isolate CH2B (Table <ref type="table" target="#tab_2">3</ref>). A greater reduction in the coaggregation indices were observed when heat-or protease-treated isolate CH2B cells were partnered with L. monocytogenes NCTC 4885 than with L. innocua LMG 13568.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cell-free supernatant induction of adherence</head><p>Following exposure to cell-free supernatants from the three Aeromonas spp. isolates, Chryseobacterium spp. isolates CH8 and CH25 and V. mimicus, isolate CH2B's adherence decreased 0.48 -1-fold (Figure <ref type="figure">1</ref>). Increased adherence, ranging from 1.3 -3.58-fold was observed with the remaining cell-free supernatants (Figure <ref type="figure">1</ref>). Cell-free supernatants from Chryseobacterium spp. isolates CH15 and CH34, P. aeruginosa, L. innocua, and L. monocytogenes increased adhesion 2 -4-fold. A 1.5fold increase in adherence was observed following exposure of isolate CH2B to its own cell-free supernatant (Figure <ref type="figure">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Visualisation of biofilm formation using flow cells and microscopy</head><p>Adherence of isolate CH2B to glass coverslips was investigated by light microscopy, starting from the surface of the glass slide and scanning several planes interspersed by short distances in order to visualize biofilm architecture and microbial behavior throughout the depth of the individual flow chambers. By 24 h in nutrient-poor (EAOB) medium, isolate CH2B displayed initial widespread attachment to the glass coverslips and microcolonies were observed. After 48 h, majority of the cells were attached at a polar end (Figure <ref type="figure" target="#fig_0">2</ref>), and conestructures were observed with chains of cells reaching into the flowing medium. In nutrient-rich (TSB) medium flow cells, cells were attached along their length in microcolonies interspersed with polarly-attached cells (Figure <ref type="figure" target="#fig_1">3a</ref>). Microcolonies merged by 48 h to form a thick, complex biofilm structure across entire channel surface (Figure <ref type="figure" target="#fig_1">3b</ref>). Distinction between bacterial strains in mixed-culture experiments was made visually by comparing images to that of pure culture, single-species flow cell experiments. Cells differed morphologically with E. meningoseptica  CH2B cells being longer, thinner cells, and Listeria spp. shorter and thicker. When co-inoculated in nutrientpoor medium, both isolate CH2B and L. monocytogenes NCTC 4885 cells displayed delayed attachment to the glass surfaces, and attached cells were only observed 48 h following inoculation. Although both CH2B and L. monocytogenes NCTC 4885 cells were able to attach to the glass slides, distinct colonies were formed with no association between the different species (Figure <ref type="figure" target="#fig_2">4</ref>). In nutrient-rich medium, cells of both species appeared to be scattered over the surface after 24 h, but by 48 h only a monolayer of isolate CH2B was observed covering the surface of the glass slide.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Discussion</head><p>E. meningoseptica has been identified in infection outbreak associated with municipal water reservoirs, potable water <ref type="bibr" target="#b6">[7]</ref> and colonization of tap water in a neonatal intensive care unit <ref type="bibr" target="#b6">[7]</ref>. Infections associated with E. meningoseptica have been associated with instrumentation contamination or the internal placement of indwelling medical devices <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b19">20]</ref>. Although its role in infection appears to be linked to biofilm formation and a worse outcome in patients <ref type="bibr" target="#b4">[5]</ref>, no studies have focused on investigating the factors involved in the adherence of E. meningoseptica to abiotic or biotic surfaces. The presence of E. meningoseptica in various hospital environments involves optimal growth conditions including moist, cool environments or standing water at approximately 21°C <ref type="bibr" target="#b7">[8]</ref>. Typically a shift to oligotrophic conditions triggers adhesion and biofilm formation <ref type="bibr" target="#b20">[21]</ref>, however, the converse was observed for E. meningoseptica CH2B. Unlike V. mimicus isolate VIB1, biofilm formation for E. meningoseptica was optimal in nutrientrich TSB at both 21°C and 37°C, respectively. Lin et al. <ref type="bibr" target="#b4">[5]</ref> also observed strong E. meningoseptica isolate-specific biofilm formation in the relatively nutrient-rich Luria-Bertani medium. A similar trend was observed for Hafnia alvei, where higher nutrient concentrations favoured biofilm formation <ref type="bibr" target="#b21">[22]</ref>. Myroides odoratus, a related organism, by contrast, displayed strong adherence in both nutrient-rich and poor media at 21°C but was moderately adherent at 37°C in nutrient-rich medium <ref type="bibr" target="#b22">[23]</ref>. Biofilm formation by avian faecal commensal E. coli strains was induced by both nutrient-rich and nutrient-poor media <ref type="bibr" target="#b23">[24]</ref>. Even under nutrient-poor conditions at both 21 and 37°C, E. meningoseptica CH2B did not lose its ability to adhere, but displayed moderate biofilm-formation. Nutrient-poor conditions at lower temperatures and nutrient-rich medium at 37°C are conditions typically associated with environmental and clinical conditions, respectively. E. meningoseptica adherence occurred preferentially in nutrient-rich medium at both 21°C and 37°C, suggesting that nutrient limitation is not a cue in the switch to a sessile lifestyle for E. meningoseptica. Altering the hydrodynamic conditions appeared to affect the degree of biofilm formation more significantly in nutrient-rich medium and requires further investigation.</p><p>Whole cell hydrophobicity, autoaggregation, and coaggregation are important for colonisation and biofilm development in flowing environments <ref type="bibr" target="#b24">[25]</ref>. Bacteria behave as hydrophobic particles due to their net negative surface charge and this surface hydrophobicity is usually associated with bacterial adhesiveness, varying from organism to organism, from strain to strain and is influenced by the growth medium, bacterial age and bacterial surface structures <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27]</ref>. Although the general rule has been that adhesiveness increases and decreases with increasing and decreasing hydrophobicity, respectively <ref type="bibr" target="#b27">[28]</ref>, a number of studies have shown contradictory  results where no relationship was found between the bacterial strain's surface hydrophobicity and the extent of initial binding to either a hydrophilic or hydrophobic substrate <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b28">29]</ref>. Flavobacterium johnsoniae-like and F. psychrophilum isolates from fish were hydrophilic by the BATH assay <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b26">27]</ref>, as were adhesion-defective mutants of a F. johnsoniae strain displaying poor adherence <ref type="bibr" target="#b25">[26]</ref>. Although E. meningoseptica CH2B appeared to be very hydrophilic by both the BATH and SAT assays, it displayed strong adherence.</p><p>The hydrophilic nature of the E. meningoseptica isolates might account for cells adhering preferentially along the entire surface of the glass slide rather than to the perspex surfaces in flow cells. Majority of the cells attached by their polar sides to glass in nutrient-poor medium, which could be an attempt to increase surface area for nutrient uptake in nutrient-limited environments, since horizontal attachment was observed in nutrient-rich medium.</p><p>According to Ofek and Doyle <ref type="bibr" target="#b19">[20]</ref>, capsule presence obscures cell hydrophobicity. Coagulase-negative Staphylococcus strains with capsules were more hydrophilic than non-encapsulated strains <ref type="bibr" target="#b29">[30,</ref><ref type="bibr" target="#b30">31]</ref>. E. meningoseptica CH2B's hydrophilicity might be explained in part by the presence of a capsule layer (unpublished data). The capsule presence might also account for the autoaggregation index of 37%. Autoaggregation is a 'selfish' mechanism whereby a strain within the biofilm will express polymers to enhance the integration of genetically identical strains into biofilms <ref type="bibr" target="#b31">[32]</ref>, especially in high shear environments <ref type="bibr" target="#b24">[25]</ref>. The high autoaggregation index could thus explain the aggregation of E. meningoseptica CH2B cells in the high shear inflow point of the flow-cell chambers.</p><p>Bacterial coaggregation is defined as cell-to-cell adherence of different bacterial species or strains <ref type="bibr" target="#b32">[33]</ref>. Coaggregation plays an important role in the development of multi-species biofilms into integrated biological structures, by mediating the juxtaposition of species next to favourable partner species within taxonomically diverse biofilms <ref type="bibr" target="#b33">[34]</ref>. The coaggregation profiles of isolate CH2B and strain NCTC 10016 T were not identical and this might be accounted for in part by the environmental and clinical isolation sources of the respective bacteria and diverse selection pressures potentially experienced in their diverse ecological niches. The strongest coaggregation partners with Elizabethkingia spp. isolate CH2B were not other Gram-negative bacteria commonly found in the aquatic environment, i.e., Aeromonas or Flavobacterium spp., but rather organisms important in food spoilage and/or intoxications, i. e., S. aureus, L. innocua, L. monocytogenes, S. enterica, E. faecalis, and P. aeruginosa. A similar trend was observed for F. johnsoniae-like isolates <ref type="bibr" target="#b10">[11]</ref>. M. luteus, B. natatoria, Fusobacterium and Prevotella spp. have been identified as bridging organisms in biofilms due to their ability to coaggregate with diverse coaggregating partners <ref type="bibr" target="#b17">[18,</ref><ref type="bibr" target="#b34">35,</ref><ref type="bibr" target="#b35">36]</ref>. In the present study, study isolate CH2B displayed high coaggregation indices with 12 of the 19 partner strains, and it is, therefore, not unlikely that it is a possible bridging organism in aquaculture environments.</p><p>Although both CH2B and L. monocytogenes NCTC 4885 attached to the glass slide in the mixed-species flow cell experiment, the high coaggregation index displayed by these two bacterial species was not apparent. The microcolonies of the two species appeared to be distinctly separated from one another on the glass surface. Based on induction experiment data, extracellular molecules in Listeria spp. growth medium supernatants, as well as that of Chryseobacterium sp. isolates CH15 and CH34, and P. aeruginosa increased the adherence of E. meningoseptica isolate CH2B to microtiter plate surfaces more than 2-fold. Quorum sensing signaling molecules within the cell-free supernatants could account for the increased adherence to polystyrene microtiter plates. This might also explain the high coaggregation indices observed with Listeria sp. isolates and the increased, albeit separate, adherence observed for both L. monocytogenes and E. meningoseptica CH2B in the mixed-species biofilm flow cell experiments. The 37.4% autoaggregation index, and the increased adherence observed for isolate CH2B following exposure to its own cell-free supernatant, suggests a potential role for quorum sensing in autoaggregation and biofilm formation.</p><p>Cell surface components or properties (flagella, pili, adhesin proteins, capsules, and surface charge) influence attachment and coaggregation. Flagella facilitate bacterial motility to specific attachment sites, while changes in cellular physiology affects surface membrane chemistry, surface proteins such as pili and adhesins, synthesis of polysaccharides, and cell aggregation, all of which influence adhesion <ref type="bibr" target="#b36">[37]</ref>. Adhesive bacteria have developed various strategies to scaffold or present their adhesins. These include surface appendages and structures that bear adhesins, i.e., flagella, fimbriae, capsules, outer membranes, loosely attached peripheral components, etc. Adhesins may be proteins, polysaccharides, lipids, or teichoic acids <ref type="bibr" target="#b29">[30]</ref>. The coaggregation interaction is a highly specific process mediated by the recognition of either complementary lectin (sugar-binding proteins)carbohydrate molecules between the aggregating partners <ref type="bibr" target="#b32">[33]</ref>; polysaccharides of capsule or LPS bind to lectins on host-cell surface; protein-protein; hydrophobic moieties of proteins on one cell binding with lipids on another cell; and/or lipid-lipid interactions. Receptors may contain carbohydrate or amino acid residues <ref type="bibr" target="#b29">[30]</ref>.</p><p>In order to investigate the type of adhesin structures present on the E. meningoseptica CH2B surface, inhibition of coaggregation assays were undertaken. Autoaggregation of CH2B cells was inhibited when untreated cells were paired with heat-or protease-treated cells. A similar trend was observed for Acinetobacter calcoaceticus <ref type="bibr" target="#b34">[35]</ref>. Proteinase K treatment inhibited biofilm formation by non-typeable Haemophilus influenzae, as well as rapidly detached preformed biofilms <ref type="bibr" target="#b37">[38]</ref>. Since both heat and protease treatments of E. meningoseptica CH2B resulted in decreased autoaggregation and coaggregation, heat-and protease-sensitive adhesins (lectins) appear to be localized on the E. meningoseptica cell surface. Attachment of heat-and protease-treated E. meningoseptica cells to untreated L. innocua and L. monocytogenes appears to involve different combinations of receptors, since variations were observed in the decreased coaggregation indices (Table <ref type="table" target="#tab_2">3</ref>). Heat-and protease-treatment of Listeria spp. cells resulted in increased coaggregation indices with untreated CH2B cells, indicating the presence of heat-and proteasestable listerial receptor molecules.</p><p>Sugar treatment did not produce a partial or complete inhibition of E. meningoseptica autoaggregation and coaggregation as observed for freshwater/aquatic bacteria <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b34">35,</ref><ref type="bibr" target="#b35">36]</ref> and sewage sludge bacteria <ref type="bibr" target="#b15">[16]</ref>. Since the lectin-saccharide interactions are usually very specific, a wider variety of sugars might have to be assayed to yield a reversal of the coaggregation reactions. However, protein-carbohydrate interactions were not reversed by sugars <ref type="bibr" target="#b15">[16]</ref>. The increased autoaggregation and coaggregation indices with both lactose and galactose were unexpected. This occurred when either isolate CH2B or the listerial cultures were treated with sugars. It might be speculated that the treatment sugars added to the capsular material enclosing isolate CH2B and intensified the adhesive effect and thus coaggregation. While capsule presence may mask potential adhesins such as fimbriae, it may stabilize the adhesion-receptor interaction. The capsule chemical composition, while primarily polysaccharide may also include protein adhesion molecules. Thus the capsule components may also be receptors for lectins on another bacterium <ref type="bibr" target="#b29">[30]</ref>. Thus, in addition to conferring a hydrophilic nature to the cell, the capsule in E. meningoseptica CH2B might play an integral role in the strong adherence ability of this organism.</p><p>Factors affecting coaggregation include: adhesin and receptor density and distribution; hydrophobic character of receptor, adhesin or receptor nearest neighbours; medium composition and pH; and chelating agents <ref type="bibr" target="#b29">[30]</ref>. Coaggregation among aquatic bacteria is mediated by lectin-saccharide interactions, and these aquatic strains often carry multiple adhesins or receptors or a combination of both, which is also a common feature of coaggregating oral bacteria <ref type="bibr" target="#b35">[36]</ref>. Multiple adhesins may also be distributed around the E. meningoseptica cell surface allowing interactions with diverse microorganisms and colonization of diverse substrata. This would allow E. meningoseptica to compete successfully in a microorganism-rich environment.</p><p>The present study has shown that an E. meningoseptica isolate CH2B from tilapia possesses the ability to adhere to abiotic surfaces and form biofilms under various environmental conditions. Hydrodynamic flow in clinical or environmental niches may be more rapid than the rate of multiplication and unattached organisms will be eliminated, thus adhesion confers the important ability to colonise substrata <ref type="bibr" target="#b29">[30]</ref>. E. meningoseptica CH2B was able to coaggregate with bacterial species important from a food and health perspective. Although E. meningoseptica are mostly described as opportunistic pathogens in both veterinary and human infections, the cause for concern arises from their association with pathogens and spoilage organisms causing great economic losses in the aquaculture and food industries and lethal device-or equipment-associated infections in immuno-compromised humans.</p><p>The ability of Elizabethkingia spp. to adhere to biotic and abiotic surfaces and the association with disease requires further study. Quantitative characterization and chemical analysis of the capsular material might provide valuable information regarding the capsule's role in the adherence abilities of E. meningoseptica. Furthermore, an investigation of specific cell-surface molecules mediating strong coaggregation abilities between E. meningoseptica and coaggregating partners may provide valuable information for anti-adhesion therapy which could be applied in aquaculture systems for the eradication of biofilms harbouring pathogenic organisms. The enhanced adherence of E. meningoseptica CH2B induced by cell-free supernatants points to the presence of a quorum sensing system, whose activity might be associated with autoaggregation, biofilm formation and/or the ability to colonise surfaces and initiate infection.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Light microscope image depicting polar attachment (arrow) of Elizabethkingia meningoseptica isolate CH2B biofilm cells to glass slide surface following 48 h of incubation in nutrient-poor (EAOB) medium (× 1000 magnification).</figDesc><graphic coords="7,310.96,502.01,223.12,180.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 3</head><label>3</label><figDesc>Figure 3 Light microscope images depicting Elizabethkingia meningoseptica isolate CH2B cells associated with the glass slide surface as a) microcolonies after 24 h and b) complex biofilm formation following 48 h of incubation in nutrient-rich (TSB) medium, respectively (× 1000 magnification).</figDesc><graphic coords="8,62.30,95.35,224.10,119.54" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 4</head><label>4</label><figDesc>Figure 4 Light microscope image depicting the distinctly separate adherence of Elizabethkingia meningoseptica isolate CH2B microcolonies (A) and Listeria monocytogenes NCTC 4885 cells (B) following 48 h in flow cells containing nutrient-poor (EAOB) medium (× 1000 magnification).</figDesc><graphic coords="8,85.23,517.95,176.72,154.83" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Biofilm formation by Elizabethkingia meningoseptica isolates CH2B and NCTC 10016 T following incubation at room temperature (~21°C) or 37°C, under static or dynamic conditions in nutrient-poor (EAOB) media or nutrient-rich (TSB), respectively</figDesc><table><row><cell>Parameters</cell><cell></cell><cell></cell><cell cols="2">Biofilm formation (OD 595 nm ± SD) a</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">Elizabethkingia meningoseptica</cell><cell></cell><cell>Vibrio mimicus</cell><cell></cell></row><row><cell></cell><cell>CH2B</cell><cell>BF b</cell><cell>NCTC 10016 T</cell><cell>BF b</cell><cell>VIB1</cell><cell>BF b</cell></row><row><cell>21°C EAOB dynamic</cell><cell>0.23 ± 0.02</cell><cell>M</cell><cell>0.07 ± 0.01</cell><cell>N</cell><cell>1.34 ± 0.28</cell><cell>S</cell></row><row><cell>21°C EAOB static</cell><cell>0.31 ± 0.13</cell><cell>M</cell><cell>0.16 ± 0.01</cell><cell>W</cell><cell>1.01 ± 0.18</cell><cell>S</cell></row><row><cell>21°C TSB dynamic</cell><cell>0.44 ± 0.14</cell><cell>S</cell><cell>0.25 ± 0.01</cell><cell>M</cell><cell>0.11 ± 0.00</cell><cell>W</cell></row><row><cell>21°C TSB static</cell><cell>0.56 ± 0.06</cell><cell>S</cell><cell>0.26 ± 0.02</cell><cell>M</cell><cell>0.14 ± 0.07</cell><cell>W</cell></row><row><cell>37°C EAOB dynamic</cell><cell>0.38 ± 0.19</cell><cell>M</cell><cell>0.11 ± 0.07</cell><cell>W</cell><cell>0.30 ± 0.09</cell><cell>W</cell></row><row><cell>37°C EAOB static</cell><cell>0.46 ± 0.35</cell><cell>M</cell><cell>0.27 ± 0.06</cell><cell>M</cell><cell>0.37 ± 0.15</cell><cell>W</cell></row><row><cell>37°C TSB dynamic</cell><cell>0.84 ± 0.17</cell><cell>S</cell><cell>0.36 ± 0.02</cell><cell>S</cell><cell>0.34 ± 0.39</cell><cell>M</cell></row><row><cell>37°C TSB static</cell><cell>0.90 ± 0.07</cell><cell>S</cell><cell>0.42 ± 0.05</cell><cell>S</cell><cell>0.27 ± 0.34</cell><cell>M</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Range of coaggregation indices obtained when partnering Elizabethkingia meningoseptica isolates CH2B and NCTC 10016 T with 19 diverse bacterial partner isolates</figDesc><table><row><cell>Coaggregation partner</cell><cell>Coaggregation</cell><cell>Coaggregation</cell></row><row><cell>strains a</cell><cell>indices (%) b with</cell><cell>indices (%) b with</cell></row><row><cell></cell><cell>CH2B</cell><cell>NCTC 10016 T</cell></row><row><cell>Elizabethkingia</cell><cell>37.4</cell><cell>2.5</cell></row><row><cell>meningoseptica CH2B</cell><cell></cell><cell></cell></row><row><cell>(37.4%)</cell><cell></cell><cell></cell></row><row><cell>Elizabethkingia</cell><cell>2.5</cell><cell>33.1</cell></row><row><cell>meningoseptica NCTC</cell><cell></cell><cell></cell></row><row><cell>10016 T (33.12%)</cell><cell></cell><cell></cell></row><row><cell>Acinetobacter spp.</cell><cell>32.7</cell><cell>37.9</cell></row><row><cell>(25.4%)</cell><cell></cell><cell></cell></row><row><cell>Aeromonas salmonicida</cell><cell>31.6</cell><cell>45.0</cell></row><row><cell>(41.8%)</cell><cell></cell><cell></cell></row><row><cell>Aeromonas hydrophila</cell><cell>18.1</cell><cell>39.6</cell></row><row><cell>(28.3%)</cell><cell></cell><cell></cell></row><row><cell>Aeromonas media</cell><cell>38.03</cell><cell>NT c</cell></row><row><cell>(20.3%)</cell><cell></cell><cell></cell></row><row><cell>Aeromonas sobria (27.5%)</cell><cell>27.5</cell><cell>10.6</cell></row><row><cell>Enterococcus faecalis</cell><cell>44.3</cell><cell>6.9</cell></row><row><cell>ATCC 29212 (45.0%)</cell><cell></cell><cell></cell></row><row><cell>Escherichia coli ATCC</cell><cell>39.5</cell><cell>32.3</cell></row><row><cell>25922 (20.8%)</cell><cell></cell><cell></cell></row><row><cell>Flavobacterium</cell><cell></cell><cell></cell></row><row><cell>johnsoniae-like isolates</cell><cell></cell><cell></cell></row><row><cell>YO12 (33.9%)</cell><cell>36.6</cell><cell>42.5</cell></row><row><cell>YO19 (16.1%)</cell><cell>28.9</cell><cell>13.0</cell></row><row><cell>YO51 (13.9%)</cell><cell>25.2</cell><cell>24.0</cell></row><row><cell>YO60 (27.5%)</cell><cell>18.0</cell><cell>38.2</cell></row><row><cell>YO64 (20.1%)</cell><cell>16.7</cell><cell>56.5</cell></row><row><cell>Listeria innocua LMG</cell><cell>77.4</cell><cell>47.7</cell></row><row><cell>13568 (56.2%)</cell><cell></cell><cell></cell></row><row><cell>Listeria monocytogenes</cell><cell>70.4</cell><cell>NT</cell></row><row><cell>NCTC 4885 (28.9%)</cell><cell></cell><cell></cell></row><row><cell>Micrococcus spp. (51.1%)</cell><cell>37.2</cell><cell>75.1</cell></row><row><cell>Pseudomonas aeruginosa</cell><cell>44.1</cell><cell>40.5</cell></row><row><cell>(24.3%)</cell><cell></cell><cell></cell></row><row><cell>Salmonella enterica</cell><cell>46.0</cell><cell>65.1</cell></row><row><cell>serovar Arizonae (71.9%)</cell><cell></cell><cell></cell></row><row><cell>Staphylococcus aureus</cell><cell>82.2</cell><cell>68.9</cell></row><row><cell>ATCC 25923 (76.1%)</cell><cell></cell><cell></cell></row></table><note><p>a For partner strains, autoaggregation indices were determined using assay described by Malik et al.<ref type="bibr" target="#b15">[16]</ref> </p><p>and are indicated within (). b Coaggregation indices represent the means of two independent replicate experiments as described by Malik et al.<ref type="bibr" target="#b15">[16]</ref> </p><p>and Basson et al.<ref type="bibr" target="#b10">[11]</ref></p><p>. c NT refers to not tested.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Reversal and inhibition of autoaggregation and coaggregation following sugar, heat or proteinase K treatment of Elizabethkingia meningoseptica CH2B, L. innocua LMG 13568, and/or L. monocytogenes NCTC 4885</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>3.0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2.8</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2.6</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2.4</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Treatment Untreated</cell><cell cols="3">Untreated innocua L. L. monocytogenes Coaggregation indices (%) a CH2B</cell><cell>Adherence (OD 595 nm )</cell><cell>1.0 1.2 1.4 1.6 1.8 2.0 2.2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>CH2B</cell><cell>37.4</cell><cell>77.3</cell><cell>70.4</cell><cell></cell><cell>0.8</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>50 mM Lactose reversal (p = 0.03)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.4 0.6</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>CH2B</cell><cell>68.7</cell><cell>96.0</cell><cell>89.6</cell><cell></cell><cell>0.2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>L. innocua LMG 13568 L. monocytogenes NCTC 4885 50 mM Galactose reversal (p = 0.07) CH2B L. innocua LMG 13568 L. monocytogenes NCTC 4885</cell><cell>94.5 87.8 56.4 85.0 95.8</cell><cell>--86.2 --</cell><cell>-95.7 ---</cell><cell></cell><cell>0.0</cell><cell>CH2B untreated</cell><cell>Aeromonas hydrophila</cell><cell>Aeromonas salmonicida</cell><cell>Aeromonas sobria</cell><cell>Chryseobacterium sp. CH8</cell><cell>Chryseobacterium sp. CH15</cell><cell>Chryseobacterium sp. CH23</cell><cell>Chryseobacterium sp. CH25</cell><cell>Chryseobacterium sp. CH34</cell><cell>Elizabethkingia meningoseptica CH2B</cell><cell>Escherichia coli ATCC 25922</cell><cell>Edwardsiella tarda ET1</cell><cell>Flavobacterium sp. YO59</cell><cell>Listeria innocua LMG 13568</cell><cell>Listeria monocytogenes NCTC 4885</cell><cell>Myroides odoratus MY1</cell><cell>Pseudomonas aeruginosa Z11</cell><cell>Salmonella enterica serovar Arizonae</cell><cell>Vibrio mimicus VIB1</cell></row><row><cell>Heat inhibition (80°C for 30 min)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Isolates</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(p = 0.08)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>CH2B</cell><cell>20.9</cell><cell>33.5</cell><cell>12.9</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>L. innocua LMG 13568</cell><cell>93.8</cell><cell>-</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>L. monocytogenes NCTC 4885</cell><cell>97.7</cell><cell>-</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Proteinase K inhibition (2 mg/ml)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(p = 0.13)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>CH2B</cell><cell>25.8</cell><cell>38.2</cell><cell>5.8</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>L. innocua LMG 13568</cell><cell>80.4</cell><cell>-</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>L. monocytogenes NCTC 4885</cell><cell>94.6</cell><cell>-</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>a Coaggregation indices represent the means of two independent replicate experiments as described by Malik et al.<ref type="bibr" target="#b15">[16]</ref> </p><p>and Basson et al.<ref type="bibr" target="#b10">[11]</ref></p><p>. Figure 1 Microtiter plate adherence of E. meningoseptica isolate CH2B, following exposure to cell-free spent medium supernatants from selected Gram-negative and Gram-positive bacteria, at room temperature (21°C ± 2°C) under static conditions in nutrient-rich (TSB) medium. Bars represent means ± standard deviations for three independent replicate experiments.</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This work was funded b a <rs type="funder">Women in Science -Thuthuka Program</rs> grant to H.Y.C from the <rs type="funder">National Research Foundation of South Africa</rs> (<rs type="grantNumber">TTK2003032000142</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_WpaUXvV">
+					<idno type="grant-number">TTK2003032000142</idno>
+				</org>
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare that they have no competing interests.</p></div>
+			</div>
+
+
+			<div type="contribution">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Authors' contributions AJ participated in designing the experiments, executing them, and performing data analysis. HYC conceived the study, participated in its design, data analysis and coordination and drafted the manuscript. All authors read and approved the final manuscript.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The genera Chryseobacterium and Elizabethkingia</title>
+		<author>
+			<persName><forename type="first">J-F</forename><surname>Bernardet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hugo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bruun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>; Dworkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Falkow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K-H</forename><surname>Schleifer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stackebrandt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Prokaryotes</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="638" to="676" />
+		</imprint>
+	</monogr>
+	<note>3 edition</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Sepsis caused by Elizabethkingia miricola successfully treated with tigecycline and levofloxacin</title>
+		<author>
+			<persName><forename type="first">O'n</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Gea-Banacloche</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diag Microbiol Infect Dis</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="430" to="432" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Community-acquired osteomyelitis caused by Chryseobacterium meningosepticum: case report and literature review</title>
+		<author>
+			<persName><forename type="first">C-H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W-C</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-H</forename><surname>Chia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L-H</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-C</forename><surname>Chien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A-H</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-W</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diagn Microbiol Infect Dis</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="89" to="93" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Resistance pattern and assessment of phenicol agents&apos; minimum inhibitory concentration in multiple drug resistant Chryseobacterium isolates from fish and aquatic habitats</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Michel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Matte-Tailliez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kerouault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-F</forename><surname>Bernardet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="323" to="332" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Biofilm production, use of indwelling catheters and inappropriate antimicrobial therapy as predictors of fatality in Chryseobacterium meningosepticum bacteraemia</title>
+		<author>
+			<persName><forename type="first">P-Y</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H-L</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-T</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L-H</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-H</forename><surname>Chiu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Antimicrob Agent</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="436" to="440" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A Chryseobacterium meningosepticum outbreak observed in 3 clusters involving both neonatal and non-neonatal pediatric patients</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ceyhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Yıldırım</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tekelı</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yurdakok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Us</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Altun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kutluk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Cengiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gurbuz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Barın</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bagdat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cetınkaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Tuncel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Infect Control</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="453" to="457" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Tabaqchali S: Chryseobacterium (Flavobacterium. meningosepticum outbreak associated with colonization of water taps in a neonatal intensive care unit</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Hoque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Kaufmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hosp Infect</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="188" to="192" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Chryseobacterium meningosepticum: an emerging pathogen among immunocompromised adults: report of 6 cases and literature review</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Bloch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nadarajah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jacobs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med (Baltimore)</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="30" to="41" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Phenotypic and molecular characterisation of fish-borne Flavobacterium johnsoniae-like isolates from aquaculture systems in South Africa</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Flemming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Rawlings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Chenia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Res Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page" from="18" to="30" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Phenotypic and genomic studies of &quot;Cytophaga psychrophila&quot; isolated from diseased rainbow trout (Oncorhynchus mykiss) in France</title>
+		<author>
+			<persName><forename type="first">J-F</forename><surname>Bernardet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kerouault</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Environ Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1796" to="1800" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Evaluation of adherence, hydrophobicity, aggregation characteristics and biofilm development of Flavobacterium johnsoniae-like isolates from South African aquaculture systems</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Basson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Flemming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Chenia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Microb Ecol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Švabić-Vlahović M: A modified microtiter-plate test for quantification of staphylococcal biofilm formation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stepanović</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vuković</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Davić</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Savić</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Microbiol Method</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="175" to="179" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Adherence of bacteria to hydrocarbons: a simple method for measuring cell-surface hydrophobicity</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gutnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rosenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FEMS Microbiol Lett</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="29" to="33" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Cell surface hydrophobicity of sucrose fermenting and nonfermenting Corynebacterium diphtheriae strains evaluated by different methods</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Mattos-Guaraldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lcd</forename><surname>Formiga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Afb</forename><surname>Andrade</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="37" to="42" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Involvement of a sialic acidbinding lectin with hemagglutination and hydrophobicity of Flavobacterium psychrophilum</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Møller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Larsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Madsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Dalsgaard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Environ Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="5275" to="5280" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Coaggregation among nonflocculating bacteria isolated from activated sludge</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Malik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sakamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hanazaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Osawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tochigi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kakii</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Environ Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="6056" to="6063" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Coaggregation between freshwater bacteria within biofilm and planktonic communities</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Rickard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Mcbain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Ledder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Handley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gilbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FEMS Microbiol Lett</title>
+		<imprint>
+			<biblScope unit="volume">220</biblScope>
+			<biblScope unit="page" from="133" to="140" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Coaggregation of oral Bacteroides species with other bacteria: central role in coaggregation bridges and competitions</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Kolenbrander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Holdeman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Infect Immun</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="741" to="746" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Influence of growth environment on coaggregation between freshwater biofilm bacteria</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Rickard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Handley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="1367" to="1373" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Septic arthritis caused by Chryseobacterium meningosepticum in an elbow joint prosthesis</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Stephens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">South Med J</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="74" to="76" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Assessing biofilm formation by Listeria monocytogenes strains</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Harvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Keenan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gilmour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="380" to="392" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Influence of environmental conditions on biofilm formation by Hafnia alvei strains</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vivas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Padilla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Real</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bravo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Grasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Acosta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="150" to="155" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Biofilm-forming capacity, surface hydrophobicity and aggregation characteristics of Myroides odoratus isolated from South African Oreochromis mossambicus fish</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Chenia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="1957" to="1966" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Biofilm formation by avian Escherichia coli in relation to media, source and phylogeny</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Skyberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Siek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Doetkott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Nolan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="548" to="554" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Shear rate moderates community diversity in freshwater biofilms</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Rickard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Mcbain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Stead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gilbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Environ Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="7426" to="7435" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Hydrophobicity adhesion and surface-exposed proteins of gliding bacteria</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Sorongon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Bloodgood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Burchard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Environ Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="3193" to="3199" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Adhesion of the pathogen Flavobacterium psychrophilum to unfertilized eggs of rainbow trout (Oncorhynchus mykiss) and n-hexadecane</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">N</forename><surname>Vatsos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Adams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lett Appl Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="178" to="182" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The role of bacterial cell wall hydrophobicity in adhesion</title>
+		<author>
+			<persName><forename type="first">Mcm</forename><surname>Van Loosdrecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lyklema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Norde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Scraa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ajb</forename><surname>Zehnder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Environ Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1893" to="1897" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Adhesion of Yersinia ruckeri to fish farm materials: influence of cell and material surface properties</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Coquet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cosette</forename><forename type="middle">P</forename><surname>Junter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G-A</forename><surname>Beucher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Saiter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-M</forename><surname>Jouenne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Colloids Surf B: Biointerfaces</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="373" to="378" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ofek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Doyle</surname></persName>
+		</author>
+		<title level="m">Bacterial adhesion to animal cells and tissues</title>
+		<meeting><address><addrLine>Washington, D.C.</addrLine></address></meeting>
+		<imprint>
+			<publisher>ASM Press</publisher>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Encapsulation, slime production and surface hydrophobicity of coagulase-negative staphylococci</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Hogt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dankert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Feien</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FEMS Microbiol Lett</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="211" to="215" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Bacterial coaggregation: an integral process in the development of multi-species biofilms</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Rickard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>High</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Kolenbrander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Handley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="94" to="100" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Coaggregation profiles of the microflora from root surface caries lesions</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Samaranayake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H-K</forename><surname>Yip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Oral Biol</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="23" to="32" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Oral microbial communities: biofilms interactions and genetic systems</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Kolenbrander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="413" to="437" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Intergeneric coaggregation among drinking water bacteria: evidence of a role for Acinetobacter calcoaceticus as a bridging bacterium</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Simoes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Simoes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Viera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Environ Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="1259" to="1263" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Coaggregation between aquatic bacteria is mediated by specific-growth-phasedependent lectin-saccharide interactions</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Rickard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Leach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Buswell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>High</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Handley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Environ Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="431" to="434" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Biofilm formation and control in food processing facilities</title>
+		<author>
+			<persName><forename type="first">Ran</forename><surname>Chmielewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Frank</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Compr Rev Food Sci Food Saf</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="22" to="32" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Intercellular adhesion and biocide resistance in nontypeable Haemophilus influenzae biofilms</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Izano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Kaplan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Microb Pathog</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="207" to="213" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

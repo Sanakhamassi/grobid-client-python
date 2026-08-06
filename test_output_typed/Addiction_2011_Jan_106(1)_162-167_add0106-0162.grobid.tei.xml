@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The association between use of snus and quit rates for smoking: results from seven Norwegian cross-sectional studiesa dd_3122 162..167</title>
+				<funder>
+					<orgName type="full">Norwegian Directorate of Health</orgName>
+				</funder>
+				<funder ref="#_g9qwfGQ">
+					<orgName type="full">Norwegian Research Council</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Karl</forename><forename type="middle">E</forename><surname>Lund</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Norwegian Institute for Alcohol and Drug Research</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Janne</forename><surname>Scheffels</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Norwegian Institute for Alcohol and Drug Research</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ann</forename><surname>Mcneill</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Epidemiology &amp; Public Health</orgName>
+								<orgName type="institution" key="instit1">Centre for Tobacco Control Studies</orgName>
+								<orgName type="institution" key="instit2">University of Nottingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Norwegian Institute for Alcohol and Drug Research</orgName>
+								<address>
+									<postBox>PO Box 565</postBox>
+									<postCode>0105</postCode>
+									<settlement>Sentrum Oslo</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The association between use of snus and quit rates for smoking: results from seven Norwegian cross-sectional studiesa dd_3122 162..167</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">07E22A177B299B35971F8B35BB8BC756</idno>
+					<idno type="DOI">10.1111/j.1360-0443.2010.03122.x</idno>
+					<note type="submission">Submitted 15 April 2010; initial review completed 27 May 2010; final version accepted 25 June 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:15+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Former smoking</term>
+					<term>harm reduction</term>
+					<term>nicotine</term>
+					<term>public health</term>
+					<term>quit rates</term>
+					<term>smokeless tobacco</term>
+					<term>smoking cessation</term>
+					<term>snus</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Aim Swedish studies have shown that experience of using snus is associated with an increased probability of being a former smoker. We examined whether this result is also found in Norway. Design Seven cross-sectional data sets collected during the period 2003-08. Setting Norway. Participants A total of 10 441 ever (current or former) smokers Measurements Quit ratios for smoking were compared for people with different histories of snus use. Motive for snus use was examined among combination users (snus and cigarettes). Smoking status was examined among snus users. Findings Compared to smokers with no experience of using snus, the quit ratio for smoking was significantly higher for daily snus users in six of seven data sets, significantly higher for former snus users in two of five data sets and significantly lower for occasional snus users in six of seven data sets. Of combination users who used snus daily, 55.3% [confidence interval (CI) 44.7-65.9] reported that their motive for using snus was to quit smoking totally. This motive was reported significantly less often by combination users who used snus occasionally (35.7%, CI 27.3-44.2). Former smokers made up the largest proportion of daily snus users in six of seven data sets. In the remaining data set, that included only the age group 16-20 years, people who had never smoked made up the largest segment of snus users. Conclusions Consistent with Swedish studies, Norwegian data shows that experience of using snus is associated with an increased probability of being a former smoker. In Scandinavia, snus may play a role in quitting smoking but other explanations, such as greater motivation to stop in snus users, cannot be ruled out.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>In the European Union, with Sweden as the only exception, snus-a low-nitrosamine smokeless tobacco product-has been banned since 1992. However, with regard to health, there is disagreement about whether the ban is appropriate. The main argument against the ban, raised by bodies such as the Royal College of Physicians of London <ref type="bibr" target="#b0">[1]</ref> and the European Respiratory Society <ref type="bibr" target="#b1">[2]</ref>, is that the ban deprives smokers who are seriously addicted to nicotine a harm-reducing alternative to cigarettes. In the United States, the American Association of Public Health Physicians <ref type="bibr" target="#b2">[3]</ref> and a series of eminent tobacco researchers are in favour of including snus within the arsenal of harm-reducing nicotine products. Their recommendations are based upon the conviction that use of snus can contribute to cessation of, or a dramatic reduction in, smoking-the most harmful form of nicotine intake.</p><p>However, few randomized controlled trials (RCT) have been carried out to assess the use of snus on smoking cessation. In the absence of experimental studies, observational data have been used to illuminate this issue. In an authoritative report from the European Commission <ref type="bibr" target="#b3">[4]</ref>, it is claimed that trends in the use of tobacco in Norway indicate that the availability of snus cannot have had much influence on the number of smokers. The reason given is that although snus users are greatly over-represented by men, the rate of reduction in smoking for men is not much greater than that for women. The organization Physicians for a Smoke-free Canada <ref type="bibr" target="#b4">[5]</ref> has claimed the same, on the grounds that the reduction in smoking in Norway and Sweden is no greater than in countries such as Canada and Finland, where snus is seldom used.</p><p>This type of comparative analysis of trends in the prevalence of smoking for different genders or different countries can, at best, give only a weak indication of the importance of snus for smoking cessation. In epidemiological research of tobacco behaviour, a more precise measure-the quit ratio-can be used to calculate the proportion of people in a population who have stopped smoking <ref type="bibr" target="#b5">[6]</ref>. Swedish prospective <ref type="bibr" target="#b6">[7]</ref> and retrospective <ref type="bibr" target="#b7">[8]</ref> studies have shown that the quit ratio is higher for smokers who use, or have used, snus than for smokers who have never used snus. We have examined whether this same result is also found in a series of recent Norwegian cross-sectional studies, in which it has been possible to measure the quit ratio for daily smoking. We have also studied which motives people who smoke and use snus (combination users) give for their use of snus.The implications of these results for public health are then discussed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head><p>The quit ratio for smoking is an expression of the number of former daily smokers as a proportion of the total number of people who have ever smoked daily in a population. It is a statistical measure of smoking cessation activity that is recommended for use in tobacco behaviour research <ref type="bibr" target="#b5">[6]</ref>. In order to identify significant differences in quit ratio between different groups of snus users, 95% confidence intervals (CIs) and P-values were calculated. As snus use is a predominantly male phenomenon in Norway, no gender-specific results were presented. In the samples with sufficient females for a test, no interaction by gender was observed with regard to quit ratios for smoking across snus status.</p><p>The Norwegian Institute for Alcohol and Drug Research collect data on risk-related behaviour in the population on a regular basis. Seven studies in the Institute's databank, carried out since 2003, included questions that made it possible to calculate quit ratios for smoking cigarettes across snus use status (daily, occasional, former and never user). Smoking habits were assessed using the question: 'Do you smoke?' (yes, daily/ yes, occasionally/no, not at all). In all seven surveys the definition of former smoking was based upon subjective response to a question presented to current non-smokers at the time of the survey: 'Have you ever smoked daily?' (yes/no). Current and former snus use was assessed using similar questions.</p><p>Study population 1 included 3604 current or former smokers of both genders in the age group 16-74 years. The subjects were identified from a data pool from yearly representative surveys of tobacco behaviour carried out by Statistics Norway (SSB) by telephone for the years 2003-08, and included 7500 respondents in total. The mean response rate for the period was 67%. The material and methods for these surveys have been described previously <ref type="bibr" target="#b8">[9]</ref>. The motives for using snus among dual users of snus and cigarettes in this study were assessed by asking how well-on a scale from 1 (apply fully) to 5 (do not apply at all)-the statements listed in Table <ref type="table" target="#tab_3">4</ref> described their situation. This question was included in the surveys for the period 2005-08. The percentages for those who scored 1 or 2 on the scales are displayed in Table <ref type="table" target="#tab_3">4</ref>. In order to identify significant differences in motives for snus use between daily and occasional snus users, 95% CIs were calculated.</p><p>Study population 2 included 423 current or former smokers of both genders in the age group 16-20 years. This sample was drawn from a national representative survey of tobacco behaviour carried out by telephone by Synovate, Norway in September 2007 among 2415 people. The material and methods have been described previously <ref type="bibr" target="#b10">[10]</ref>.</p><p>Study population 3 included 790 women and men born later than 1970 who were students at Oslo University (UiO) in 2007, and who reported that previously or at the time of the survey they had smoked cigarettes daily. They were identified from a survey of 1655 students with information about use of alcohol, drugs and tobacco. The survey was carried out by a mailed questionnaire by the Foundation for Student Life in Oslo (SIO), in cooperation with the Norwegian Institute for Alcohol and Drug Research (SIRUS). The response rate was 57%. The material and methods have been described previously <ref type="bibr" target="#b11">[11]</ref>.</p><p>Study population 4 included 2018 smokers and former smokers of both genders in the age group 15-91 years in 2007. These people were selected from Synovate, Norway's national representative Norwegian Monitor Survey of 3683 people carried out by home visits. The material and methods have been described previously <ref type="bibr" target="#b12">[12]</ref>.</p><p>Study population 5 included 729 smokers and former smokers of both genders in the age group 21-30 years, selected from a national survey of 2362 people carried out by mailed questionnaire by SIRUS in 2006. The response rate was 42%. The material and methods have been described previously <ref type="bibr" target="#b13">[13]</ref>.</p><p>Study population 6 included 639 smokers and former smokers of both genders in the age group 21-30 years selected from a survey of 2270 young adults in the Norwegian capitol Oslo, carried out by mailed questionnaire by SIRUS in 2006. The response rate was 45%. The material and methods have been described previously <ref type="bibr" target="#b13">[13]</ref>.</p><p>Study population 7 consisted of 2572 male ever smokers aged 20-50 years selected randomly from a national representative web panel. Of those invited to participate, 7170 men (48.6%) responded to an electronic questionnaire. The material and methods have been described previously <ref type="bibr" target="#b14">[14]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Table <ref type="table" target="#tab_0">1</ref> presents information about the seven surveys with 27 955 respondents in total, in which questions about use of tobacco and snus were asked. A total of 10 441 people (both users and non-users of snus) reported that they had either smoked daily previously but had quit (5144) or that they smoked daily at the time of the survey (5207) (Table <ref type="table" target="#tab_1">2</ref>). In the student population in Oslo (study 3), the quit ratio for smoking was 67.4% (95% CI 63.1-71.7). This was significantly higher than in the other samples. The lowest quit ratio of 32.2% (95% CI 27.8-36.7) was observed in the nationally representative sample of young people in the age group 16-20 years (study 2). The quit ratio was 52% in both of the two national representative samples that had the same age and gender distribution as the normal population (Table <ref type="table" target="#tab_1">2</ref>).</p><p>In six of the seven studies the quit ratio for smoking was significantly higher for daily snus users than for people with no experience of using snus (Table <ref type="table" target="#tab_2">3</ref>). The same finding was observed for people who at the time of the study reported that they had used snus previously in five of the six studies, but the differences were significant in only two of the studies. The quit ratio for smoking for people who used snus occasionally was significantly lower than for people who had no experience of snus use in six of seven studies.</p><p>For snus users who also smoked cigarettes on a daily basis, 43.8% of them reported that they used snus to quit smoking, 56.3% to reduce their smoking and 59.1% to replace cigarettes in places where smoking is not allowed (Table <ref type="table" target="#tab_3">4</ref>). All three motives for using snus were more common for smokers who used snus on a daily basis compared to smokers who used snus occasionally, but this was significant only for those reporting using snus to quit smoking: 55.3% daily users (95% CI 44.7-65.9) compared with 35.7% occasional users (95% CI 27.3-44.2).</p><p>In the survey that included only young people in the age group 16-20 years (study 2), 42.8% of daily snus users were without previous smoking experience, while only 17.9% were former smokers (Table <ref type="table" target="#tab_4">5</ref>). In the other six surveys the proportion of snus users who were former smokers formed the largest group among snus users (varying between 34.4 and 42.5% of all snus users). The proportion of snus users who had never smoked cigarettes varied from 18.8 to 31% in the same six surveys. A small minority of snus users (3.1-10.6%) smoked daily, but many more smoked occasionally (16-35%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Snus appeared to play a role in quitting smoking: daily snus use and, to a lesser extent, former snus use, were   associated with being a former smoker across most of the included studies; occasional snus use was less likely to be associated with being a former smoker. However, the results must be interpreted with caution, as with nonrandomized observational studies we cannot exclude the danger of selection bias in the groups that are compared.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Low quit ratio for smoking among people with a low use of snus</head><p>In contrast to Sweden, where nearly all snus users are daily users, almost half of Norwegian snus users use snus only occasionally <ref type="bibr" target="#b15">[15]</ref>. In this group, the quit ratio for smoking was low (Table <ref type="table" target="#tab_2">3</ref>), and the proportion of combination users of snus and cigarettes was accordingly high. A possible interpretation is that occasional snus users have a stable combination use, in which snus is used more as a substitute for cigarettes, for example in the steadily increasing social arenas where cigarette smoking is undesirable. An alternative interpretation of this relationship is that many of these low-frequent snus users at the time of the interview were in an incomplete transition phase of stopping smoking daily, and that they will replace cigarettes with daily use of snus later. A clarification of the two hypotheses requires longitudinal data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The consequences for public health</head><p>Use of snus can damage health in a number of different ways, some serious and some less serious, but systematic literature reviews <ref type="bibr" target="#b3">[4]</ref> and register-based prospective studies <ref type="bibr" target="#b16">[16]</ref> have concluded that snus is much less hazardous than smoking. It is estimated that the reduction in risk by switching from cigarettes to snus is at least 90% <ref type="bibr" target="#b17">[17]</ref>. If snus increases the rate of smoking cessation, what are the consequences for public health if, overall, the use of snus increases? The extent and nature of the impact on public health will depend upon the relative risk hazard of snus and smoking, and the relative uptake and use by smokers and non-smokers.</p><p>To identify the net effect of snus use from a public health perspective is a complicated task. However, the conditions for carrying out this task are best in countries such as Norway and Sweden, using our observational data on the transition between cigarettes and snus.</p><p>In all the studies described here, except the one of people under 20 years of age, people who had quit smoking formed the largest group of snus users. The proportion of snus users who had no previous experience of smoking was less than the proportion of ex-smokers in all the studies, except for the youngest respondents. One frequently reported study <ref type="bibr" target="#b18">[18]</ref> found that 14-25 nonsmokers would have to begin to use snus in order to cancel out the positive health effects from each smoker who transferred from cigarettes to snus. The results from the studies presented here suggest that in Norway, as in Sweden, snus users are more likely to be recruited from smokers than from non-smokers. This supports the hypothesis that availability of snus has more positive effects on public health than negative effects-at least in these two countries.</p><p>A small minority of snus users (3.1-10.6%) smoked daily, while many more smoked occasionally (16-35%). As we lack data about reduced smoking frequency among these combination users-as shown in Sweden <ref type="bibr" target="#b19">[19]</ref>-it is difficult to draw any conclusions about whether this combination use is more or less damaging than the amount of smoking that would have taken place without snus use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Smoking among young snus users</head><p>The picture was different in the survey that included only young people in the age group 16-20 years (survey 2). In this survey as many as 42.8% of snus users had no smoking experience, while only 17.9% were former smokers. This result probably emanates from the fact that the general quit ratio for smoking is very low in such a young age group (Table <ref type="table" target="#tab_1">2</ref>). Thus snus, probably along with medicinal products, is not used as a method for quitting smoking to the same degree among young people as among older established smokers.</p><p>The largest increase in use of snus during the last few years has been among young people <ref type="bibr" target="#b15">[15]</ref>. If almost half these recruits are primary users, as our surveys indicate, there is cause for concern that increased use of snus does not result in harm reduction in this cohort, but increased health risk. Conversely, we might assume that a segment of primary users are young people who would otherwise have begun to smoke if snus had not been available and would therefore have been exposed to a product with greater health risk. Studies have shown that young people who initiate tobacco use through using snus have many of the same predisposing factors as young smokers <ref type="bibr" target="#b20">[20]</ref>, and that this may indicate that the products recruit users from the same segment of the population. Indeed, a longitudinal study from Sweden <ref type="bibr" target="#b21">[21]</ref> has shown that use of snus reduces the risk of starting to smoke among young people, when known predictors for starting to smoke are controlled for. Data from the United States are more inconsistent <ref type="bibr" target="#b22">[22,</ref><ref type="bibr" target="#b23">23]</ref>. At any rate, a large proportion of people must be recruited to be primary users of snus in order to cancel the health benefits for every young person who starts to use snus instead of smoking <ref type="bibr" target="#b18">[18,</ref><ref type="bibr" target="#b24">24]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The problem of measuring quitting activity</head><p>Even assuming that the comparison of the quit ratio for smoking by use of snus gives a much more valid indication of the importance of snus for quitting smoking than gender-specific or country-specific comparisons of the trend in the prevalence of smoking, the quit ratio is still a fairly crude measure of quitting activity <ref type="bibr" target="#b5">[6]</ref>. Although former smoking was defined consistently across these seven studies, our definition did not distinguish between former smokers according to how long ago they had stopped. This is a weakness.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>In Norway, as in Sweden, the quit ratio for daily smoking is higher for daily snus users than for people who have never used snus. People who use snus occasionally have the lowest quit ratio for smoking. Former smokers make up the largest segment of Norwegian snus users, except among the 16-20-year-olds. These results indicate that for many smokers use of snus may represent an exit from cigarette smoking. The larger number of primary snus users in the younger age group may lead to a change in the future composition of snus users according to their previous smoking experience.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Portfolio of studies.</figDesc><table><row><cell>Detailed description of the data</cell><cell>Nadim (2007)</cell><cell></cell><cell>Øverland et al. (2008)</cell><cell>Lund et al. (2008)</cell><cell></cell><cell>Hellevik (2008)</cell><cell></cell><cell>Lund et al. (2007)</cell><cell>Lund et al. (2007)</cell><cell></cell></row><row><cell>Size of the sample</cell><cell>7500</cell><cell></cell><cell>2415</cell><cell>1655</cell><cell></cell><cell>3683</cell><cell></cell><cell>2362</cell><cell>2270</cell><cell></cell></row><row><cell>Characteristics of the sample</cell><cell>Nationally representative women/men</cell><cell>16-74 years</cell><cell>National women/men 16-20 years</cell><cell>Students at University of Oslo born after</cell><cell>1970</cell><cell>Nationally representative women/men</cell><cell>15-91 years</cell><cell>National women/men 21-30 years</cell><cell>Oslo women/men 21-30 years</cell><cell>National men 20-50 years</cell></row><row><cell>Year</cell><cell>2003-08</cell><cell></cell><cell>2007</cell><cell>2006</cell><cell></cell><cell>2007</cell><cell></cell><cell>2006</cell><cell>2006</cell><cell>2007</cell></row><row><cell>Survey carried out on behalf of:</cell><cell>Norwegian Directorate of Health</cell><cell></cell><cell>Norwegian Directorate of Health</cell><cell>SIRUS/SIO</cell><cell></cell><cell>Synnovate</cell><cell></cell><cell>SIRUS</cell><cell>SIRUS</cell><cell>Norwegian Directorate of Health</cell></row><row><cell>Data collector</cell><cell>SSB</cell><cell></cell><cell>Synnovate</cell><cell>SIRUS</cell><cell></cell><cell>Norsk Monitor</cell><cell></cell><cell>SIRUS</cell><cell>SIRUS</cell><cell>SIRUS</cell></row><row><cell>Survey</cell><cell>1</cell><cell></cell><cell>2</cell><cell>3</cell><cell></cell><cell>4</cell><cell></cell><cell>5</cell><cell>6</cell><cell>7</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Number of former and current daily smokers, and quit ratio for daily cigarette smoking in seven Norwegian studies.</figDesc><table><row><cell>Study</cell><cell>Former daily smokers</cell><cell>Current daily smokers</cell><cell>Total</cell><cell>Quit ratio (95% CI)</cell></row><row><cell>1</cell><cell>1870</cell><cell>1734</cell><cell>3604</cell><cell>51.9 (50.3-53.5)</cell></row><row><cell>2</cell><cell>136</cell><cell>287</cell><cell>423</cell><cell>32.2 (27.8-36.7)</cell></row><row><cell>3</cell><cell>296</cell><cell>162</cell><cell>458</cell><cell>67.4 (63.1-71.7)</cell></row><row><cell>4</cell><cell>1041</cell><cell>975</cell><cell>2016</cell><cell>51.6 (49.4-53.8)</cell></row><row><cell>5</cell><cell>318</cell><cell>411</cell><cell>729</cell><cell>43.6 (40.0-47.2)</cell></row><row><cell>6</cell><cell>328</cell><cell>311</cell><cell>639</cell><cell>51.3 (47.4-55.2)</cell></row><row><cell>7</cell><cell>1155</cell><cell>1417</cell><cell>2572</cell><cell>44.9 (43.0-46.8)</cell></row><row><cell>Total</cell><cell>5144</cell><cell>5297</cell><cell>10441</cell><cell></cell></row><row><cell>CI: confidence interval.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Quit ratio (95% Confidence interval) for daily cigarette smoking according to snus use in seven Norwegian surveys. P-values contrasts 'never used'.</figDesc><table><row><cell></cell><cell cols="2">Current status of snus use</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Survey</cell><cell>Daily user</cell><cell>P</cell><cell>Occasional user</cell><cell>P</cell><cell>Former user</cell><cell>P</cell><cell>Never used</cell></row><row><cell>1</cell><cell>80.4 (74.9-85.9)</cell><cell>&lt;0.001</cell><cell>32.0 (25.6-38.4)</cell><cell>&lt;0.001</cell><cell>45.5 (39.9-51.1)</cell><cell>0.033</cell><cell>51.9 (50.1-53.7)</cell></row><row><cell>2</cell><cell>54.8 (45.2-64.9)</cell><cell>&lt;0.001</cell><cell>21.7 (4.9-38.6)</cell><cell>0.895</cell><cell>31.1 (20.6-41.7)</cell><cell>0.178</cell><cell>22.9 (17.4-28.4)</cell></row><row><cell>3</cell><cell>81.1 (68.5-93.7)</cell><cell>0.010</cell><cell>42.7 (32.0-53.4)</cell><cell>0.001</cell><cell>85.7 (75.9-95.5)</cell><cell>&lt;0.001</cell><cell>62.7 (56.9-68.4)</cell></row><row><cell>4</cell><cell>61.6 (53.5-69.7)</cell><cell>0.035</cell><cell>27.6 (19.7-35.5)</cell><cell>&lt;0.001</cell><cell>-</cell><cell>-</cell><cell>52.5 (50.2-54.8)</cell></row><row><cell>5</cell><cell>75.4 (65.2-85.6)</cell><cell>&lt;0.001</cell><cell>21.2 (14.8-27.6)</cell><cell>&lt;0.001</cell><cell>53.9 (42.7-65.1)</cell><cell>0.015</cell><cell>44.9 (40.2-49.6)</cell></row><row><cell>6</cell><cell>89.7 (81.9-97.5)</cell><cell>&lt;0.001</cell><cell>24.4 (17.1-31.8)</cell><cell>&lt;0.001</cell><cell>83.9 (74.3-93.5)</cell><cell>&lt;0.001</cell><cell>50.0 (45.1-54.9)</cell></row><row><cell>7</cell><cell>72.7 (68.2-77.2)</cell><cell>&lt;0.001</cell><cell>17.4 (13.6-21.2)</cell><cell>&lt;0.001</cell><cell>48.8 (44.4-53.2)</cell><cell>0.037</cell><cell>43.3 (40.6-46.0)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Survey 1: Percentage (95% CI) of combination users of snus and cigarettes agreeing with statements concerning motives for snus use.</figDesc><table><row><cell>Daily smokers who</cell><cell>Daily smokers who use</cell><cell>All smokers and</cell></row><row><cell>use snus daily</cell><cell>snus occasionally</cell><cell>snus users</cell></row><row><cell>(n = 85)</cell><cell>(n = 123)</cell><cell>(n = 208)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5</head><label>5</label><figDesc>Smoking status of daily snus users. Percent. Results from seven Norwegian surveys.</figDesc><table><row><cell>Survey</cell><cell>Daily smoker (%)</cell><cell>Occasional smoker (%)</cell><cell>Former smoker (%)</cell><cell>Never smoked (%)</cell><cell>n</cell></row><row><cell>1</cell><cell>10.6</cell><cell>22.2</cell><cell>39.6</cell><cell>27.6</cell><cell>369</cell></row><row><cell>2</cell><cell>14.8</cell><cell>24.5</cell><cell>17.9</cell><cell>42.8</cell><cell>318</cell></row><row><cell>3</cell><cell>8.8</cell><cell>35.0</cell><cell>38.5</cell><cell>18.8</cell><cell>80</cell></row><row><cell>4</cell><cell>10.5</cell><cell>16.0</cell><cell>42.5</cell><cell>31.0</cell><cell>200</cell></row><row><cell>5</cell><cell>7.9</cell><cell>27.0</cell><cell>41.4</cell><cell>23.7</cell><cell>215</cell></row><row><cell>6</cell><cell>3.1</cell><cell>27.6</cell><cell>41.8</cell><cell>27.6</cell><cell>196</cell></row><row><cell>7</cell><cell>9.4</cell><cell>32.1</cell><cell>34.4</cell><cell>24.1</cell><cell>1113</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>© 2010 The Authors, Addiction © 2010 Society for the Study of AddictionAddiction, 106, 162-167</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>SIRUS: Norwegian Institute for Alcohol and Drug Research; SIO: Foundation for Student Life in Oslo; SSB: Statistics Norway.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>Funding for this research has been provided by the <rs type="funder">Norwegian Directorate of Health</rs> and by the <rs type="funder">Norwegian Research Council</rs> project no. <rs type="grantNumber">190443</rs> '<rs type="projectName">Tobacco and the social inequality gap</rs>'.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_g9qwfGQ">
+					<idno type="grant-number">190443</idno>
+					<orgName type="project" subtype="full">Tobacco and the social inequality gap</orgName>
+				</org>
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declarations of interest</head><p>None.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Harm Reduction in Nicotine Addiction. Helping People Who Can&apos;t Quit. A report by the Tobacco Advisory Group of the Royal College of Physicians</title>
+		<imprint>
+			<date type="published" when="2007-10">October 2007</date>
+			<publisher>RCP</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Harm reduction strategies for tobacco smoking: report from an ERS Research Seminar</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Martinet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fagerström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mcneill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Godfrey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep Breath</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="302" to="303" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The Case for Harm Reduction for Control of Tobacco-Related Illness and Death</title>
+		<imprint>
+			<date type="published" when="2008-10-26">26 October 2008</date>
+			<publisher>AAPHP</publisher>
+			<pubPlace>Green Cove Springs, FL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR)</title>
+		<imprint>
+			<date type="published" when="2008-02">February 2008. 2008</date>
+			<publisher>European Commission</publisher>
+			<pubPlace>Brussels</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Health Effects of Smokeless Tobacco Products</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Physicians for a Smoke-free Canada. The Snus Experience</title>
+		<imprint>
+			<date type="published" when="2007-10">October 2007. 2007</date>
+			<publisher>Physicians for a Smoke-free Canada</publisher>
+			<pubPlace>Ottawa, Ontario</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Methods for Evaluating Tobacco Control Policies</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Lyon: IARC/WHO</publisher>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The association of snus and smoking behavior: a cohort analysis of Swedish males in the 1990s</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stenbeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hagquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rosén</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction</title>
+		<imprint>
+			<biblScope unit="volume">1004</biblScope>
+			<biblScope unit="page" from="1579" to="1585" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Role of snus in initiation and cessation of tobacco smoking in Sweden</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ramstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Foulds</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tob Control</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="210" to="214" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nadim</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Reise-Og Ferieundersøkelsen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>Travel-and holiday survey 2006</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<monogr>
+		<title level="m">Statistisk sentralbyrå</title>
+		<meeting><address><addrLine>Oslo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Dokumentasjonsrapport</publisher>
+			<date type="published" when="2007">2007/42. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Relative harm of snus and cigarettes: what do Norwegian adolescents say?</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Øverland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hetland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Aarø</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tob Control</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="422" to="425" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Bruk Av Snus Og Annen Risikoatferd Blant Studenter [Smoking, use of snus and other risk behaviour among university students]</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tefre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Amundsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nordlund</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Røyking</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tidskr nor legeforen</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="1808" to="1811" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Jakten på den norske lykken [On the lookout for the Norwegian happiness]. Norsk monitor 1985-2007</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Hellevik</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Universitetsforlaget</publisher>
+			<pubPlace>Oslo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Rusmiddelbruk blant unge voksne, 21-30 år Resultater fra spørreskjemaundersøkelser 1998</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K Ø</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Skretting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Lund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">SIRUS rapport 8/2007. Oslo: Statens institutt for rusmiddelforskning</title>
+		<imprint>
+			<date type="published" when="2002">2002 og 2006. 2002 and 2006. 2007</date>
+		</imprint>
+	</monogr>
+	<note>Use of drugs among young adults aged 21-30 years. Results from the surveys 1998</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The use of snus for quitting smoking compared with medicinal products</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mcneill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scheffels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nicotine Tob Res</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="817" to="822" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Norwegian Tobacco Statistics 1973-2006. Sirus skrifter no. 3/2007</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lindbak</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<pubPlace>Oslo</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Norwegian Institute for Alcohol and Drug Research</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Tobacco-related disease mortality among men who switched from cigarettes to spit tobacco</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Henley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Connell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Husten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pechacek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Calle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tob Control</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="22" to="28" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The relative risks of a low-nitrosamine smokeless tobacco product compared with smoking cigarettes: estimates of a panel of experts</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Levy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Mumford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Cummings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Gilpin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Giovino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hyland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sweanor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Epidemiol Biomakers Prev</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="2035" to="2042" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Assessment of Swedish snus for tobacco harm reduction: an epidemiological modeling study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Gartner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Vos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Y</forename><surname>Bertram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Wallace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Lim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">369</biblScope>
+			<biblScope unit="page" from="2010" to="2014" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Role of snus (oral moist snuff) in smoking cessation and smoking reduction in Sweden</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gilljam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Galanti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="1183" to="1189" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Health inequalities among adolescents: the impact of academic orientation and parents&apos; education</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E I</forename><surname>Hagquist</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="21" to="26" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The development of tobacco use in adolescence among &apos;snus starters&apos; and &apos;cigarette starters&apos;: an analysis of the Swedish &apos;BROMS&apos; cohort</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Galanti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rosendahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wickholm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nicotine Tob Res</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="315" to="323" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Use of propensity score matching in evaluating smokeless tobacco as a gateway to smoking</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Timberlake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Lakon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nicotine Tob Res</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="455" to="462" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Use of smokeless tobacco is a risk factor for cigarette smoking</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Severson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Forester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Biglan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nicotine Tob Res</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1331" to="1337" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Applying the risk/use equilibrium: use medicinal nicotine now for harm reduction</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Kozlowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Strasser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Giovino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Erickson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Terza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tob Control</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="201" to="203" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

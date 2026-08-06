@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Development of an ecotoxicity QSAR model for the KAshinhou Tool for Ecotoxicity (KATE) system, March 2009 version</title>
+				<funder>
+					<orgName type="full">NIES</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">A</forename><surname>Furuhama</surname></persName>
+							<email>ayako.furuhama@nies.go.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Research Center for Environmental Risk</orgName>
+								<orgName type="institution">National Institute for Environmental Studies (NIES)</orgName>
+								<address>
+									<addrLine>16-2 Onogawa</addrLine>
+									<postCode>305-8506</postCode>
+									<settlement>Tsukuba</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">T</forename><surname>Toida</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Research Center for Environmental Risk</orgName>
+								<orgName type="institution">National Institute for Environmental Studies (NIES)</orgName>
+								<address>
+									<addrLine>16-2 Onogawa</addrLine>
+									<postCode>305-8506</postCode>
+									<settlement>Tsukuba</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">N</forename><surname>Nishikawa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Research Center for Environmental Risk</orgName>
+								<orgName type="institution">National Institute for Environmental Studies (NIES)</orgName>
+								<address>
+									<addrLine>16-2 Onogawa</addrLine>
+									<postCode>305-8506</postCode>
+									<settlement>Tsukuba</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Y</forename><surname>Aoki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Research Center for Environmental Risk</orgName>
+								<orgName type="institution">National Institute for Environmental Studies (NIES)</orgName>
+								<address>
+									<addrLine>16-2 Onogawa</addrLine>
+									<postCode>305-8506</postCode>
+									<settlement>Tsukuba</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Y</forename><surname>Yoshioka</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Education and Welfare Science</orgName>
+								<orgName type="institution">Oita University</orgName>
+								<address>
+									<addrLine>700 Dannoharu</addrLine>
+									<postCode>870-1192</postCode>
+									<settlement>Oita</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><surname>Shiraishi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Research Center for Environmental Risk</orgName>
+								<orgName type="institution">National Institute for Environmental Studies (NIES)</orgName>
+								<address>
+									<addrLine>16-2 Onogawa</addrLine>
+									<postCode>305-8506</postCode>
+									<settlement>Tsukuba</settlement>
+									<country>Japan;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Development of an ecotoxicity QSAR model for the KAshinhou Tool for Ecotoxicity (KATE) system, March 2009 version</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1062-936X print/ 1029-046X online</idno>
+					</monogr>
+					<idno type="MD5">58978625B57B88277A13E81AA07CF4AB</idno>
+					<idno type="DOI">10.1080/1062936X.2010.501815</idno>
+					<note type="submission">Received 18 February 2010; in final form 28 April 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-04T10:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>QSAR</term>
+					<term>ecotoxicity prediction</term>
+					<term>classification</term>
+					<term>chemical substances</term>
+					<term>domain</term>
+					<term>KATE</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The KAshinhou Tool for Ecotoxicity (KATE) system, including ecotoxicity quantitative structure-activity relationship (QSAR) models, was developed by the Japanese National Institute for Environmental Studies (NIES) using the database of aquatic toxicity results gathered by the Japanese Ministry of the Environment and the US EPA fathead minnow database. In this system chemicals can be entered according to their one-dimensional structures and classified by substructure. The QSAR equations for predicting the toxicity of a chemical compound assume a linear correlation between its log P value and its aquatic toxicity. KATE uses a structural domain called C-judgement, defined by the substructures of specified functional groups in the QSAR models. Internal validation by the leaveone-out method confirms that the QSAR equations, with r 2 40.7, RMSE 0.5, and n45, give acceptable q 2 values. Such external validation indicates that a group of chemicals with an in-domain of KATE C-judgements exhibits a lower root mean square error (RMSE). These findings demonstrate that the KATE system has the potential to enable chemicals to be categorised as potential hazards.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Quantitative structure-activity relationships (QSARs) are potential tools for predicting the activity and properties of chemicals, including their physicochemical attributes, health effects, ecotoxicity and biological activity. QSAR models can estimate and predict such activity and can thus be used to categorise chemicals in terms of their potentially hazardous nature. A recent review has demonstrated that acute aquatic toxicity <ref type="bibr" target="#b0">[1]</ref> can be predicted using QSAR and describes the available databases of ecotoxicity data.</p><p>Prediction of toxicity by QSAR does not require lengthy experiments, nor the use of animals, plants or cells. QSAR models have therefore been utilised for the assessment of new and existing chemicals for conformity with regulatory requirements in countries within the Organisation for Economic Co-operation and Development (OECD) <ref type="bibr" target="#b1">[2]</ref>. In Japan, under the Chemical Substances Control Law (CSCL), the Ministry of the Environment (MoE) is responsible for evaluating the adverse effects of chemicals on ecosystems, and uses tests involving aquatic organisms such as Oryzias latipes (fishes) or Daphnia magna (daphnia), in addition to algae data available from the MoE website <ref type="bibr" target="#b2">[3]</ref>. The Japanese National Institute for Environmental Studies (NIES) was established to apply QSAR models to acute ecotoxicity, and has developed a QSAR prediction system using the MoE ecotoxicity database. This system, published in March 2009, is known as the KAshinhou Tool for Ecotoxicity (KATE) <ref type="bibr" target="#b3">[4]</ref>.</p><p>The present paper focuses on the theoretical and methodological aspects of the KATE system, and QSAR equations classified by chemical substructure are introduced. We shall then present the cross-validation ('leave-one-out') results, and the toxicities calculated by KATE, and by alternative systems such as TIssue MEtabolism Simulator (TIMES) <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref> (developed by Zlatarov at the Laboratory of Mathematical Chemistry, Bourgas University, Bulgaria), and by ECOSAR TM <ref type="bibr" target="#b6">[7]</ref> (developed by the US Environmental Protection Agency (EPA)) using the same end-point data set as that in KATE. The validity of KATE will be discussed using the applicability domain, log P, and C-judgements.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Overview of KATE</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.1</head><p>End-point KATE uses experimental data on chemical substances to predict aquatic toxicity. The end-points of interest are the 96-hour median lethal concentration (LC 50 ) in fish after acute toxicity tests, and the 48-hour median effective concentration (EC 50 ) in daphnia obtained after acute immobilisation tests. Training sets for QSAR development were derived from the results of ecotoxicity tests (Oryzias latipes LC 50 and Daphnia magna EC 50 ) obtained by the MoE <ref type="bibr" target="#b2">[3]</ref>, as well as the results of acute toxicity tests from the US EPA fathead minnow (Pimephales promelas) database <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b8">9]</ref>. In the KATE system, the 96-hour LC 50 data for Oryzias latipes and fathead minnow were combined to reinforce the number of reference datasets. The QSAR equations in KATE for the fish and daphnia end-points were designed using 535 and 258 chemicals, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Classification of chemicals</head><p>Chemical substances can be classified according to the substructures that give rise to specific chemical properties (Appendix 1 of the supplementary material which is available on the Supplementary Content tab of the article's online page at <ref type="url" target="http://dx.doi.org/10.1080/">http://dx.doi.org/10.1080/</ref> 1062936X.2010.501815). The rules for daphnia and fish end-points are identical, except for the following five classes: amines aromatic or phenols1, amines aromatic or phenols3, amines aromatic or phenols4, amines aromatic or phenols5, and primary amines. According to KATE, the toxicity of a chemical containing amino functional groups might be different in daphnia from its toxic behaviour in fish.</p><p>Forty-four classes are proposed for each end-point of KATE QSAR models. Table <ref type="table" target="#tab_0">1</ref> shows the QSAR class name, and the detailed class features are listed in Appendix 2 of the supplementary material (available online). The chemicals in the KATE unclassified class were not categorised within any of the rules in Appendix 2. Additional classification rules or fragment definitions are required in further studies to reduce the number of chemicals described as unclassified. It should be noted that the concept of unclassified within KATE does not always include reactive chemicals, and thus differs from the reactive unspecified category in the TIMES software. Ã1 C: an equation is generated by calculated Clog P. N: a member of the Neutral organics class. Note: n, RMSE, r 2 and q 2 denote the number of chemicals in a class, the root mean square error, the squared correlation coefficient, and the leave-one-out version of the squared correlation coefficient, respectively. The log P range shows minimum and maximum log P values.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">Neutral organics</head><p>Neutral organics is an aggregate of the chemicals in defined classes in the KATE system. It comprises the classes: nitriles aliphatic, ketones, alcohols or ethers aliphatic, phosphates, hydrocarbons aliphatic, ethers aliphatic and ethers aromatic. In the OECD Environment Monograph <ref type="bibr" target="#b9">[10]</ref>, neutral organic compounds of minimal toxicity were divided into the groups: aliphatic alcohols, aliphatic ketones, aliphatic ethers and alkoxyethers, aliphatic halogenated hydrocarbons, saturated alkanes and halogenated benzenes. Some of the neutral organics compounds defined in the OECD monograph were categorised differently from those in KATE.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4">QSAR equations</head><p>The QSAR equations in the KATE model express the correlation between the octanol/water partition coefficient (log P) of a compound and its aquatic toxicity, using simple linear regression analysis. Measured log P values were used to derive the QSAR equations, except for the equations labelled C in Tables <ref type="table" target="#tab_0">1</ref> and <ref type="table" target="#tab_1">2</ref>. In cases where experimental log P values were not available, an equation was constructed from the calculated Clog P value obtained by the Daylight toolkit <ref type="bibr" target="#b10">[11]</ref>. The LC 50 and EC 50 values in the equation were expressed in terms of the common logarithm of the inverse of millimoles per litre (mmol L À1 , or mM). The equations and the statistical information obtained are shown in Tables <ref type="table" target="#tab_0">1</ref> and <ref type="table" target="#tab_1">2</ref>. Where there were fewer than three sets of reference data within one class, QSAR prediction could not be performed. In such cases the class name was the only information obtained from KATE, and the label NO-QSAR is indicated in Tables <ref type="table" target="#tab_0">1</ref> and <ref type="table" target="#tab_1">2</ref>. The equation for a class named pyrethroids was not constructed, since the log P values in the reference data were gathered in higher ranges [6.1, 6.5].</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5">Domains in KATE</head><p>KATE offers two 'judgements' to verify whether or not a predicted chemical substance falls within the applicability domain of a QSAR class. The first is the log P judgement, based on the log P range defined by the reference chemical data of the class concerned. This has been categorised as a descriptor domain <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>. The interpolated log P range for each class is listed in Tables <ref type="table" target="#tab_0">1</ref> and <ref type="table" target="#tab_1">2</ref>.</p><p>The second is the C-judgement, which is categorised as a structural domain and is defined by the substructures shown in Appendix 3 of the supplementary material (available online). The substructures are based on functional groups having similar concepts to those used by Schultz et al. <ref type="bibr" target="#b12">[13]</ref>, rather than on atom-centred fragments <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b13">14]</ref>. Schultz et al. applied the structural domain to one QSAR equation for aromatic compounds, and the out-of-domain revealed well-known electrophoric mechanisms in the structural space(s) <ref type="bibr" target="#b12">[13]</ref>. In the KATE system the classification rules (described in Section 2.2) play a role in constructing such structural space(s). The definition of the applicability domain of C-judgement depends on whether all the substructures of the chemical under test are found in reference chemicals in the class, or secondly, whether all substructures in the test chemical are present in reference chemicals in either neutral organics or the class concerned. The first of these definitions is stricter than the second. The reliability of the log P and C-judgements is assessed later in Section 4 (Results and discussion). In the KATE system, the input is simplified molecular input line entry specification (SMILES) and log P (if available) for toxicity prediction, and the output is the calculated toxicity concentration (LC 50 or EC 50 ), the QSAR class found for the predicted chemical, and the domain judgements. If the measured log P of a chemical is not available, the calculated log P according to the SMILES information (KOWWIN or C log P) is adopted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Methods of QSAR validation</head><p>First, leave-one-out cross validations were examined for training sets used in the QSAR equations of KATE. Secondly, external validations were performed using test set compounds not included in the KATE training sets due to lack of measured log P values. The 287 fish 96-hour LC 50 and 98 daphnia 48-hour EC 50 from the Japan MoE, along with the US EPA fathead minnow database, were used for comparison of the calculated toxicity by the KATE software version published in March 2009, TIMES v. 2.25, and ECOSAR v. 0.99 h (1999).</p><p>It is worth mentioning that the end-points of the data calculated by KATE were not identical to those calculated by TIMES and ECOSAR. Fish (mixed with Oryzias latipes and fathead minnow acute toxicity tests) 96-hour LC 50 and daphnia 48-hour EC 50 (KATE), Pimephales promelas 96-hour LC 50 and daphnia 48-hour EC 50 (TIMES), and fish 96-hour LC 50 and daphnia 48-hour LC 50 (ECOSAR) were therefore adopted. The input of KATE and ECOSAR were SMILES strings, and calculated log P by KOWWIN. In TIMES, only the lists of SMILES strings were used as input values, and quantum chemical calculations were performed using MOPAC AM1 Hamiltonian, using the 'precise' option, without taking other conformers into account.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1">Cross validation</head><p>The QSAR equations were validated by the leave-one-out method obtained from the KATE system. The complete list of results is given in Appendix 4 of the supplementary material (available online). The statistical data are displayed in Tables <ref type="table" target="#tab_0">1</ref> and <ref type="table" target="#tab_1">2</ref>. The criterion proposed by Hulzebos and Posthumus <ref type="bibr" target="#b15">[16]</ref> was evaluated, in which the estimations from models should not deviate from the experimental value by a factor of 10 or above. For fish, 575 of the 628 chemicals met the acceptable criteria, and for daphnia 241 of 290 did so. (In this instance the 628 and 290 chemicals involved some degree of duplication.) Using the QSAR equations in the KATE system, more than 80% of chemicals were predicted within a factor of 10. The classes with less than a 0.7 squared correlation coefficient (r 2 50.7), and/or more than 0.5 RMSE, tended to increase the number of chemical substances in the unacceptable group. For example, the fish hydrocarbons aromatic class had 43 reference data, r 2 ¼ 0.826, RMSE ¼ 0.368, and only one unacceptable chemical. In other words, 98% of the chemicals were classed as acceptable. On the other hand, the fish dinitrobenzene class contained 12 reference data, r 2 ¼ 0.331, RMSE ¼ 0.669, and three unacceptable chemicals. In this case, 75% of the chemicals were thus acceptable.</p><p>As shown in Tables <ref type="table" target="#tab_0">1</ref> and <ref type="table" target="#tab_1">2</ref>, each of the classes with r 2 ! 0.7, RMSE 0.5, and n45, e.g., the fish hydrocarbon aromatic class, had a sufficiently high q 2 . Such classes showed QSAR equations similar to those of neutral organics. Thus the toxicity of such classes could be explained mainly by the narcotic effect of the chemicals. However, the daphnia amines aromatic or phenols4 and amines aromatic or phenols5 groups had a larger intercept b in the QSAR equations than neutral organics with a small log P value (see Figure <ref type="figure" target="#fig_0">1</ref>). These classes can be explained in terms of polar narcosis or narcosis II <ref type="bibr" target="#b16">[17]</ref>. Narcosis II is known to be more toxic than baseline toxicity, i.e., than neutral organics, non-polar narcosis, narcosis I, or less inert, as explained by Verhaar et al. <ref type="bibr" target="#b17">[18]</ref>.</p><p>In some cases the q 2 values were much smaller than those of r 2 . QSAR equations based on fewer than six reference data require a greater number of reference chemicals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2">External validation</head><p>Tables <ref type="table" target="#tab_2">3</ref> and <ref type="table" target="#tab_3">4</ref> list the statistical data of the TIMES, ECOSAR, and KATE with or without the applicability domains. The complete results are given in Appendix 5 of the supplementary material. First, we will focus on the TIMES, ECOSAR, and all the KATE results, without considering any applicability domains. In fish, the determination coefficient, r 2 , and RMSE using KATE (r 2 ¼ 0.868 and RMSE ¼ 0.658) were larger and smaller, respectively, than those using TIMES (r 2 ¼ 0.751 and RMSE ¼ 0.935) and than by ECOSAR (r 2 ¼ 0.790 and RMSE ¼ 0.869). For daphnia, RMSE using KATE (0.993) was smaller than that using TIMES (1.404) and ECOSAR (1.364). However, r 2 using KATE (0.662) showed no noticeable advantage over that by TIMES (0.668) or ECOSAR (0.699). Since reference data for the daphnia end-point (258 chemicals) numbered only half of those for fish (535 chemicals), the reference data for each QSAR equation for daphnia would therefore be less satisfactory for predicting toxicity. The addition of reference data and a change in the classification rules can recover the values of the statistical data. Notes:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ã1</head><p>Each chemical is identified by one QSAR class.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ã2</head><p>When a chemical is found to belong to more than one QSAR class, all the estimated data are adopted. If only the name of the class is available, such data are omitted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ã3</head><p>Both in-domain and out-of-domain data for log P and C-judgements are included.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ã4</head><p>In-domain of log P-judgement.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ã5</head><p>In-domain of C-judgement is defined as all substructures of a test chemical being found in reference chemicals in the class.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ã6</head><p>In-domain of C-judgement defined as all substructures of a test chemical being in reference chemicals in either Neutral organics or the class.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ã7</head><p>The number of compounds that can be predicted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ã8</head><p>The total number of the predicted values by using the training sets. Some chemicals belong to more than one class, and thus Predicted is larger than Chemicals. r 2 , RMSE, Under and Over were calculated based on the Predicted number.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ã9</head><p>Fractions (%) of the underestimated chemicals. Underestimation is defined as [calculated log(1/LC 50 ) -measured log(1/LC 50 )]5À1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ã10</head><p>Fractions (%) of the overestimated chemicals. Overestimation is defined as [calculated log(1/LC 50 ) -measured log(1/LC 50 )]41. Notes: As in Table <ref type="table" target="#tab_2">3</ref>.</p><p>A fraction of log(1/LC 50 ) with an underestimation of less than À1 indicated that, compared with KATE, TIMES and ECOSAR tended to underestimate the toxicities of both fish and daphnia. On the other hand, a fraction of log(1/LC 50 ) showing an overestimation of more than 1 indicated that, compared with TIMES, ECOSAR and KATE tended to overestimate toxicity in both fish and daphnia. Considering these underand over-estimation fractions, we find that KATE gives a higher predictive ability in acute Oryzias latipes and Daphnia magna toxicity tests than does TIMES or ECOSAR. If the alert: Out of domain, in TIMES, and the applicable log P range in ECOSAR are considered rigidly, the correlation between measured and calculated toxicity is improved in TIMES and ECOSAR. Secondly, in fish, the RMSE of one of any in-domains was smaller than if domains were not considered. However, the r 2 in-domain of log P showed no particular improvement. For daphnia, r 2 and RMSE for one of any in-domains were larger and smaller, respectively, than those without considering domains. In the present study, either the descriptor and/or structural domains were related to the reduction of RMSE and the fraction of underestimated chemicals, especially if both domains were considered simultaneously. Additionally, the stricter structural domain C(1) (shown in Tables <ref type="table" target="#tab_2">3</ref> and <ref type="table" target="#tab_3">4</ref>) demonstrated better predictive performance than the structural domain C(2). The systematic study of the domain based on the atom-centred fragment (ACF) approach by Kuhne et al. <ref type="bibr" target="#b13">[14]</ref> showed that the ACF varied with respect to its size in terms of the path length, and the ACF match mode was specified in terms of degree of strictness. They also demonstrated a clear relationship between predictive performance and the levels of the ACF definition and match mode <ref type="bibr" target="#b13">[14]</ref>. Even though the definition of substructures for the domain are different, the improvement by using C-judgement is similar in concept to that using the ACF approach. Thus, the log P range of the equation and C-judgement are useful for assessing the applicability of the QSAR results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Summary</head><p>We have reported on the KATE system, encompassing a full list of classifications of the QSAR equations and KATE validations. In the KATE system chemicals are classified by their substructure. The QSAR equations express the correlation between log P and log(1/LC 50 ) or log(1/EC 50 ) of a chemical by simple linear regression analyses. The classes of QSAR equations are characterised by fragments of chemicals, except for the neutral organics class. The descriptor and structure domains, log P and C-judgements, in KATE were also introduced.</p><p>The cross-validation of the KATE system showed that QSAR equations with higher r 2 and lower RMSE with n45 gave a reliably higher q 2 than the other QSAR equations in KATE, meaning they had better predictive ability. A comparison of KATE, TIMES, and ECOSAR revealed that KATE was more accurate, due to end-point dependence. The use of log P and the C-judgement improved the statistical data. Thus the KATE system is a powerful tool for predicting acute toxicity in Oryzias latipes and Daphnia magna when the log P and C-judgement can be confirmed. Also, KATE has the potential to be useful in risk assessment.</p><p>The next topics in QSAR development will be to consider the reactivity of chemicals, and to include multi-regression analysis. The quantum chemical parameters, such as partial charges, are candidates for additional descriptors. Other ways of significantly increasing the reliability of toxicity prediction will be to improve the classification of the substructures, increase the reference data in a QSAR equation, and to refine the C-judgement.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. The correlation between log P and the measured toxicity values of chemicals used in KATE as a daphnia end-point. The dotted-dashed, dashed and bold lines are the QSAR equations of amines aromatic or phenols4, amines aromatic or phenols5, and neutral organics, respectively.</figDesc><graphic coords="7,138.44,60.77,216.34,159.82" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>QSARs for fish acute toxicity estimated by the equation: log(1/LC 50 [mM]) ¼ a Ã log P þ b.</figDesc><table><row><cell>Class name</cell><cell>a, b</cell><cell>n</cell><cell>RMSE</cell><cell>r 2 , q 2</cell><cell>log P range</cell><cell>Ã1</cell></row><row><cell>Hydrocarbons aromatic</cell><cell cols="2">0.630, À0.883 43</cell><cell>0.368</cell><cell>0.826, 0.803</cell><cell>[0.60, 5.17]</cell><cell></cell></row><row><cell>Dinitrobenzenes</cell><cell>0.568, 0.551</cell><cell>12</cell><cell>0.669</cell><cell>0.331, 0.170</cell><cell>[0.56, 3.60]</cell><cell></cell></row><row><cell>Nitrobenzenes</cell><cell>0.678, À0.693</cell><cell>9</cell><cell>0.300</cell><cell>0.875, 0.760</cell><cell>[0.82, 5.10]</cell><cell></cell></row><row><cell>Amines aromatic or phenols1</cell><cell>À0.005, 2.671</cell><cell>7</cell><cell>0.354</cell><cell cols="2">0.001, 0.887 [À0.30, 4.47]</cell><cell></cell></row><row><cell>Amines aromatic or phenols2</cell><cell>0.012, 1.863</cell><cell>7</cell><cell>0.307</cell><cell>0.003, 0.737</cell><cell>[3.67, 8.47]</cell><cell>C</cell></row><row><cell>Amines aromatic or phenols3</cell><cell>0.214, 0.945</cell><cell>16</cell><cell>0.305</cell><cell>0.272, 0.106</cell><cell>[0.15, 3.68]</cell><cell></cell></row><row><cell>Amines aromatic or phenols4</cell><cell cols="2">0.725, À0.779 56</cell><cell>0.321</cell><cell>0.900, 0.890</cell><cell>[0.51, 7.54]</cell><cell></cell></row><row><cell>Amines aromatic or phenols5</cell><cell cols="2">0.544, À0.612 22</cell><cell>0.324</cell><cell>0.661, 0.600</cell><cell>[0.35, 3.50]</cell><cell></cell></row><row><cell>Primary amines</cell><cell cols="2">0.529, À0.622 23</cell><cell>0.406</cell><cell cols="2">0.803, 0.741 [À2.04, 3.60]</cell><cell></cell></row><row><cell>Secondary and tertiary amines</cell><cell cols="2">0.592, À0.595 10</cell><cell>0.512</cell><cell cols="3">0.731, 0.605 [À1.43, 2.79] C</cell></row><row><cell>Hydrazines</cell><cell>0.417, 1.832</cell><cell>4</cell><cell>0.413</cell><cell cols="2">0.884, 0.639 [À1.68, 4.70]</cell><cell></cell></row><row><cell>Amides and imides</cell><cell cols="2">0.746, À1.026 17</cell><cell>0.601</cell><cell cols="2">0.696, 0.607 [À0.48, 3.80]</cell><cell></cell></row><row><cell>Esters aliphatic</cell><cell cols="2">0.638, À0.600 13</cell><cell>0.393</cell><cell>0.722, 0.651</cell><cell>[0.18, 3.65]</cell><cell></cell></row><row><cell>Esters aromatic</cell><cell>0.513, À0.157</cell><cell>9</cell><cell>0.253</cell><cell>0.856, 0.790</cell><cell>[1.94, 5.53]</cell><cell></cell></row><row><cell>Aldehydes</cell><cell>0.484, 0.279</cell><cell>15</cell><cell>0.557</cell><cell cols="2">0.272, 0.111 [À0.34, 2.47]</cell><cell></cell></row><row><cell>Acids</cell><cell>0.728, À1.652</cell><cell>9</cell><cell>0.355</cell><cell>0.816, 0.667</cell><cell>[0.33, 4.20]</cell><cell></cell></row><row><cell>Acids acrylic</cell><cell>0.122, 0.045</cell><cell>3</cell><cell>0.039</cell><cell>0.607, 0.271</cell><cell>[0.35, 1.33]</cell><cell></cell></row><row><cell>Conjugated systems1</cell><cell>0.753, 2.084</cell><cell>4</cell><cell>1.012</cell><cell cols="2">0.463, 0.111 [À1.11, 2.20]</cell><cell></cell></row><row><cell>Conjugated systems2</cell><cell>0.436, 0.901</cell><cell>17</cell><cell>1.007</cell><cell cols="2">0.264, 0.066 [À0.38, 4.10]</cell><cell></cell></row><row><cell>Thiols aromatic</cell><cell>NO-QSAR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Thiols aliphatic</cell><cell>0.371, 0.732</cell><cell>4</cell><cell>0.291</cell><cell cols="3">0.910, 0.633 [À0.17, 6.12] C</cell></row><row><cell>Sulfides</cell><cell>0.753, À1.336</cell><cell>8</cell><cell>0.259</cell><cell>0.699, 0.573</cell><cell>[2.46, 4.16]</cell><cell>C</cell></row><row><cell>Disulfides</cell><cell>0.386, 0.845</cell><cell>6</cell><cell>0.666</cell><cell>0.210, 0.012</cell><cell>[1.74, 4.44]</cell><cell>C</cell></row><row><cell>Carbamates</cell><cell>0.004, 1.894</cell><cell>11</cell><cell>0.519</cell><cell cols="2">0.000, 0.645 [À0.47, 4.60]</cell><cell></cell></row><row><cell>Pyrethroids</cell><cell>NO-QSAR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Acrylates</cell><cell>0.158, 1.498</cell><cell>6</cell><cell>0.155</cell><cell cols="2">0.474, 0.022 [À0.21, 2.36]</cell><cell></cell></row><row><cell>Methacrylates</cell><cell>0.465, À0.031</cell><cell>6</cell><cell>0.417</cell><cell>0.657, 0.293</cell><cell>[0.47, 4.54]</cell><cell></cell></row><row><cell>Epoxides</cell><cell>0.323, 1.055</cell><cell>4</cell><cell>0.272</cell><cell>0.755, 0.283</cell><cell>[0.08, 3.98]</cell><cell>C</cell></row><row><cell>Barbitals or thiols other</cell><cell>1.583, À2.560</cell><cell>4</cell><cell>0.291</cell><cell>0.657, 0.927</cell><cell>[1.47, 2.10]</cell><cell></cell></row><row><cell>Esters phosphate</cell><cell cols="2">0.691, À0.111 11</cell><cell>0.856</cell><cell>0.389, 0.175</cell><cell>[2.23, 5.33]</cell><cell></cell></row><row><cell>N or P cations</cell><cell>0.274, 0.956</cell><cell>9</cell><cell>0.579</cell><cell cols="3">0.791, 0.628 [À8.36, 6.69] C</cell></row><row><cell>Halides1</cell><cell>0.254, 1.325</cell><cell>6</cell><cell>0.971</cell><cell>0.112, 0.078</cell><cell>[0.45, 4.50]</cell><cell></cell></row><row><cell>Halides2</cell><cell>0.824, À0.318</cell><cell>8</cell><cell>0.560</cell><cell cols="2">0.879, 0.810 [À0.06, 5.04]</cell><cell></cell></row><row><cell>Halides3</cell><cell cols="2">0.783, À1.291 42</cell><cell>0.263</cell><cell>0.879, 0.868</cell><cell>[1.25, 4.89]</cell><cell></cell></row><row><cell>Metals</cell><cell>NO-QSAR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nitriles aliphatic</cell><cell>0.839, À1.154</cell><cell>6</cell><cell>0.254</cell><cell cols="3">0.938, 0.901 [À0.34, 3.12] N</cell></row><row><cell>Ketones</cell><cell cols="2">0.864, À1.602 21</cell><cell>0.345</cell><cell cols="3">0.891, 0.867 [À0.24, 4.09] N</cell></row><row><cell>Alcohols or ethers aliphatic</cell><cell cols="2">0.853, À1.958 23</cell><cell>0.321</cell><cell cols="3">0.950, 0.924 [À0.77, 5.82] N</cell></row><row><cell>Phosphates</cell><cell>0.891, À1.926</cell><cell>3</cell><cell>0.257</cell><cell>0.865, 0.485</cell><cell>[2.83, 4.59]</cell><cell>N</cell></row><row><cell>Hydrocarbons aliphatic</cell><cell cols="2">0.753, À1.286 15</cell><cell>0.289</cell><cell>0.824, 0.785</cell><cell>[2.42, 5.56]</cell><cell>N</cell></row><row><cell>Ethers aliphatic</cell><cell cols="2">0.749, À1.806 11</cell><cell>0.190</cell><cell cols="3">0.972, 0.962 [À0.54, 4.25] N</cell></row><row><cell>Ethers aromatic</cell><cell cols="2">0.870, À1.466 10</cell><cell>0.233</cell><cell>0.922, 0.892</cell><cell>[1.16, 4.21]</cell><cell>N</cell></row><row><cell>Neutral organics</cell><cell cols="2">0.842, À1.674 88</cell><cell>0.384</cell><cell cols="2">0.924, 0.919 [À0.77, 5.82]</cell><cell></cell></row><row><cell>Unclassified</cell><cell cols="2">0.744, À0.898 25</cell><cell>0.714</cell><cell cols="2">0.712, 0.660 [À1.35, 5.50]</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>QSARs for the daphnia acute toxicity estimated by the equation: log(1/EC 50 [mM]) ¼ a Ã log P þ b.an equation is generated by the calculated Clog P. N: a member of the Neutral organics class. Note. n, RMSE, r 2 , and q 2 denote the number of chemicals in a class, the root mean square error, the squared correlation coefficient, and the leave-one-out version of the squared correlation coefficient, respectively. The log P range shows minimum and maximum log P values.2.6 KATE system softwareThe KATE software was first made available to the public in January 2008. An updated version of KATE, including standalone personal computer and internet versions, was released in March 2009. The standalone version, called 'KATE on PAS', and the internet version, called 'KATE on NET', adopted the KOWWIN TM<ref type="bibr" target="#b14">[15]</ref> of the US EPA, and Clog P<ref type="bibr" target="#b10">[11]</ref> estimated by the Daylight system, respectively, to estimate the calculated log P. Except for the treatment of calculated log P values, KATE on PAS and KATE on NET use the same classification algorithm, fragment identification by tree structure (FITS), developed by Yoshioka.</figDesc><table><row><cell>Class name</cell><cell>a, b</cell><cell>n</cell><cell>RMSE</cell><cell>r 2 , q 2</cell><cell>log P range</cell><cell>Ã1</cell></row><row><cell>Hydrocarbons aromatic</cell><cell cols="2">0.607, À0.414 26</cell><cell>0.351</cell><cell>0.808, 0.762</cell><cell>[0.65, 5.17]</cell><cell></cell></row><row><cell>Dinitrobenzenes</cell><cell>0.408, 0.632</cell><cell>5</cell><cell>0.561</cell><cell>0.343, 0.090</cell><cell>[0.56, 3.60]</cell><cell></cell></row><row><cell>Nitrobenzenes</cell><cell>0.547, À0.164</cell><cell>4</cell><cell>0.238</cell><cell>0.915, 0.675</cell><cell>[1.17, 5.10]</cell><cell></cell></row><row><cell>Amines aromatic or phenols1</cell><cell>0.085, 2.441</cell><cell>7</cell><cell>0.443</cell><cell cols="2">0.057, 0.375 [À0.33, 3.41]</cell><cell></cell></row><row><cell>Amines aromatic or phenols2</cell><cell>0.097, 1.152</cell><cell>6</cell><cell>0.277</cell><cell>0.239, 0.031</cell><cell>[3.67, 8.47]</cell><cell>C</cell></row><row><cell>Amines aromatic or phenols3</cell><cell>0.132, 1.748</cell><cell>16</cell><cell>0.406</cell><cell>0.119, 0.018</cell><cell>[0.04, 3.91]</cell><cell></cell></row><row><cell>Amines aromatic or phenols4</cell><cell cols="2">0.576, À0.042 28</cell><cell>0.297</cell><cell>0.838, 0.814</cell><cell>[1.32, 6.06]</cell><cell></cell></row><row><cell>Amines aromatic or phenols5</cell><cell>0.552, 0.114</cell><cell>12</cell><cell>0.260</cell><cell>0.802, 0.728</cell><cell>[1.18, 3.91]</cell><cell></cell></row><row><cell>Primary amines</cell><cell>0.189, À0.059</cell><cell>4</cell><cell>0.248</cell><cell cols="2">0.390, 0.095 [À1.31, 1.49]</cell><cell></cell></row><row><cell>Secondary and tertiary amines</cell><cell>0.133, 0.200</cell><cell>4</cell><cell>0.150</cell><cell cols="2">0.517, 0.040 [À1.50, 1.45]</cell><cell></cell></row><row><cell>Hydrazines</cell><cell>0.190, 1.987</cell><cell>5</cell><cell>0.289</cell><cell cols="3">0.766, 0.360 [À2.46, 4.70] C</cell></row><row><cell>Amides and imides</cell><cell>0.212, 0.585</cell><cell>8</cell><cell>0.593</cell><cell>0.151, 0.135</cell><cell>[0.23, 3.80]</cell><cell></cell></row><row><cell>Esters aliphatic</cell><cell>0.666, À0.819</cell><cell>6</cell><cell>0.324</cell><cell>0.927, 0.762</cell><cell>[0.25, 5.41]</cell><cell></cell></row><row><cell>Esters aromatic</cell><cell>0.459, À0.417</cell><cell>3</cell><cell>0.010</cell><cell>1.000, 0.998</cell><cell>[1.60, 4.72]</cell><cell></cell></row><row><cell>Aldehydes</cell><cell>0.521, 0.295</cell><cell>5</cell><cell>0.555</cell><cell>0.616, 0.084</cell><cell>[0.42, 4.47]</cell><cell>C</cell></row><row><cell>Acids</cell><cell>0.222, À0.113</cell><cell>7</cell><cell>0.644</cell><cell>0.133, 0.298</cell><cell>[0.08, 4.20]</cell><cell></cell></row><row><cell>Acids acrylic</cell><cell>0.057, 0.248</cell><cell>3</cell><cell>0.143</cell><cell>0.025, 0.947</cell><cell>[0.35, 1.33]</cell><cell></cell></row><row><cell>Conjugated systems1</cell><cell>0.630, 1.393</cell><cell>5</cell><cell>0.321</cell><cell cols="3">0.957, 0.916 [À1.76, 4.65] C</cell></row><row><cell>Conjugated systems2</cell><cell>0.213, 0.906</cell><cell>11</cell><cell>0.775</cell><cell>0.097, 0.047</cell><cell>[0.17, 3.70]</cell><cell></cell></row><row><cell>Thiols aromatic</cell><cell>NO-QSAR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Thiols aliphatic</cell><cell>0.427, 1.410</cell><cell>4</cell><cell>0.786</cell><cell cols="3">0.647, 0.049 [À0.17, 6.12] C</cell></row><row><cell>Sulfides</cell><cell>NO-QSAR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Disulfides</cell><cell>1.041, À0.724</cell><cell>3</cell><cell>0.480</cell><cell>0.865, 0.635</cell><cell>[1.74, 4.44]</cell><cell>C</cell></row><row><cell>Carbamates</cell><cell>0.046, 2.991</cell><cell>4</cell><cell>0.688</cell><cell>0.008, 0.523</cell><cell>[0.94, 4.60]</cell><cell></cell></row><row><cell>Pyrethroids</cell><cell>NO-QSAR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Acrylates</cell><cell>0.003, 1.401</cell><cell>4</cell><cell>0.069</cell><cell cols="2">0.002, 0.646 [À0.21, 2.36]</cell><cell></cell></row><row><cell>Methacrylates</cell><cell>0.461, À0.422</cell><cell>5</cell><cell>0.301</cell><cell>0.824, 0.653</cell><cell>[0.47, 4.54]</cell><cell></cell></row><row><cell>Epoxides</cell><cell>0.486, 0.589</cell><cell>4</cell><cell>0.341</cell><cell>0.817, 0.598</cell><cell>[0.08, 3.98]</cell><cell>C</cell></row><row><cell>Barbitals or thiols other</cell><cell>NO-QSAR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Esters phosphate</cell><cell>2.133, À2.376</cell><cell>3</cell><cell>1.477</cell><cell>0.204, 0.526</cell><cell>[3.08, 3.88]</cell><cell></cell></row><row><cell>N or P cations</cell><cell>NO-QSAR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Halides1</cell><cell>À0.665, 4.825</cell><cell>3</cell><cell>0.350</cell><cell>0.800, 0.998</cell><cell>[2.09, 4.50]</cell><cell></cell></row><row><cell>Halides2</cell><cell>0.880, À0.317</cell><cell>4</cell><cell>0.552</cell><cell>0.860, 0.494</cell><cell>[1.10, 5.04]</cell><cell></cell></row><row><cell>Halides3</cell><cell cols="2">0.826, À1.008 24</cell><cell>0.237</cell><cell>0.901, 0.883</cell><cell>[1.47, 4.73]</cell><cell></cell></row><row><cell>Metals</cell><cell>NO-QSAR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nitriles aliphatic</cell><cell>NO-QSAR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>N</cell></row><row><cell>Ketones</cell><cell>NO-QSAR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>N</cell></row><row><cell>Alcohols or ethers aliphatic</cell><cell>0.641, À1.053</cell><cell>6</cell><cell>0.214</cell><cell>0.958, 0.923</cell><cell>[1.10, 5.82]</cell><cell>N</cell></row><row><cell>Phosphates</cell><cell>0.579, À0.634</cell><cell>3</cell><cell>0.103</cell><cell>0.983, 0.922</cell><cell>[1.44, 4.59]</cell><cell>N</cell></row><row><cell>Hydrocarbons aliphatic</cell><cell cols="2">0.660, À0.555 10</cell><cell>0.268</cell><cell>0.891, 0.797</cell><cell>[2.42, 6.54]</cell><cell>N</cell></row><row><cell>Ethers aliphatic</cell><cell>NO-QSAR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>N</cell></row><row><cell>Ethers aromatic</cell><cell>0.492, 0.285</cell><cell>4</cell><cell>0.437</cell><cell>0.406, 0.088</cell><cell>[2.16, 4.21]</cell><cell>N</cell></row><row><cell>Neutral organics</cell><cell cols="2">0.696, À0.870 26</cell><cell>0.418</cell><cell>0.857, 0.835</cell><cell>[0.68, 6.54]</cell><cell></cell></row><row><cell>Unclassified</cell><cell>0.537, 0.078</cell><cell>12</cell><cell>1.097</cell><cell cols="2">0.475, 0.287 [À1.02, 5.50]</cell><cell></cell></row></table><note><p>Ã1 C:</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Statistical information comparing measured and calculated fish log(1/LC 50 [mM]) of 287 test set compounds. The complete results are shown in Appendix 5-1.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">KATE Ã2</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>log P Ã4</cell><cell>log P Ã4</cell></row><row><cell></cell><cell cols="2">TIMES Ã1 ECOSAR Ã2</cell><cell>All Ã3</cell><cell cols="3">log P Ã4 C(1) Ã5 C(2) Ã6</cell><cell>C(1) Ã5</cell><cell>C(2) Ã6</cell></row><row><cell>Chemicals Ã7</cell><cell>274</cell><cell>242</cell><cell>274</cell><cell>207</cell><cell>152</cell><cell>192</cell><cell>111</cell><cell>144</cell></row><row><cell>Predicted Ã8</cell><cell>274</cell><cell>259</cell><cell>318</cell><cell>252</cell><cell>187</cell><cell>233</cell><cell>145</cell><cell>179</cell></row><row><cell>r 2</cell><cell>0.751</cell><cell>0.790</cell><cell>0.868</cell><cell>0.833</cell><cell>0.901</cell><cell>0.890</cell><cell>0.886</cell><cell>0.866</cell></row><row><cell>RMSE</cell><cell>0.935</cell><cell>0.869</cell><cell>0.685</cell><cell>0.641</cell><cell>0.644</cell><cell>0.655</cell><cell>0.588</cell><cell>0.617</cell></row><row><cell>Under Ã9 [%]</cell><cell>11.3</cell><cell>10.0</cell><cell>4.7</cell><cell>5.2</cell><cell>5.3</cell><cell>5.6</cell><cell>2.8</cell><cell>3.9</cell></row><row><cell>Over Ã10 [%]</cell><cell>5.1</cell><cell>8.1</cell><cell>7.2</cell><cell>6.7</cell><cell>8.0</cell><cell>6.9</cell><cell>8.3</cell><cell>7.3</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Statistical information between measured and calculated Daphnia log(1/EC 50 [mM]) for 98 test set compounds. The complete results are shown in Appendix 5-2.Ã4 C(1) Ã5 C(2) Ã6 log P Ã4 C(1) Ã5 log P Ã4 C(2)Ã6   </figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>KATE Ã2</cell><cell></cell><cell></cell></row><row><cell cols="5">TIMES Ã1 ECOSAR Ã2 all Ã3 log P Chemicals Ã7 93 82 94 58</cell><cell>43</cell><cell>55</cell><cell>25</cell><cell>33</cell></row><row><cell>Predicted Ã8</cell><cell>93</cell><cell>85</cell><cell>102</cell><cell>66</cell><cell>46</cell><cell>61</cell><cell>31</cell><cell>39</cell></row><row><cell>r 2</cell><cell>0.668</cell><cell>0.699</cell><cell cols="4">0.662 0.732 0.793 0.686</cell><cell>0.807</cell><cell>0.801</cell></row><row><cell>RMSE</cell><cell>1.404</cell><cell>1.364</cell><cell cols="4">0.993 0.784 0.799 0.968</cell><cell>0.639</cell><cell>0.689</cell></row><row><cell cols="2">Under Ã9 [%] 21.5</cell><cell>14.1</cell><cell>9.8</cell><cell>1.5</cell><cell>6.5</cell><cell>8.2</cell><cell>0.0</cell><cell>0.0</cell></row><row><cell cols="2">Over Ã10 [%] 11.8</cell><cell>18.8</cell><cell>14.7</cell><cell>15.2</cell><cell>6.5</cell><cell>11.5</cell><cell>6.5</cell><cell>10.3</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>KATE was researched and developed by the <rs type="institution">Research Center for Environmental Risk</rs> at the <rs type="funder">NIES</rs>, under contract to the Japanese MoE between 2004 and 2008. We also wish to thank the <rs type="institution">US EPA</rs> for permission to use KOWWIN in KATE on PAS, the standalone version of the KATE system. We are grateful to <rs type="person">Mr K. Hasunuma</rs> and <rs type="person">Ms K. Sugiyama</rs> for their support and encouragement with the KATE publication.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Review of (quantitative) structure-activity relationships for acute aquatic toxicity</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">I</forename><surname>Netzeva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pavan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Worth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">QSAR Comb. Sci</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="77" to="90" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Report on the regulatory uses and applications in OECD member countries of (quantitative) structure-activity relationship [(Q)SAR] models in the assessment of new and existing chemicals</title>
+	</analytic>
+	<monogr>
+		<title level="j">Environment Health and Safety Publications Series on Testing and Assessment</title>
+		<imprint>
+			<biblScope unit="issue">58</biblScope>
+			<date type="published" when="2006">2006</date>
+			<publisher>OECD</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Japan ecotoxicity tests data</title>
+		<author>
+			<persName><surname>Moe</surname></persName>
+		</author>
+		<ptr target="http://www.env.go.jp/chemi/sesaku/02e.pdf" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Copyright (C) 2008-2009 Ministry of the Environment, Government of Japan, all rights reserved. It is cautioned that these QSAR results may not be used as ecotoxicity test results required for MoE submissions in compliance with the CSCL</title>
+		<author>
+			<persName><surname>Kate</surname></persName>
+		</author>
+		<ptr target="http://kate.nies.go.jp" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A systematic approach to simulating metabolism in computational toxicology. I. The TIMES heuristic modelling framework</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">G</forename><surname>Mekenyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Dimitrov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Pavlov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Veith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Pharm. Des</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1273" to="1293" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Global modeling of narcotic chemicals: Ciliate and fish toxicity</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Dimitrov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">G</forename><surname>Mekenyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Sinks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Schultz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">THEOCHEM</title>
+		<imprint>
+			<biblScope unit="volume">622</biblScope>
+			<biblScope unit="page" from="63" to="70" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S</forename><surname>Epa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ecosar</forename><surname>Tm</surname></persName>
+		</author>
+		<ptr target="http://www.epa.gov/oppt/newchems/tools/ecosartechfinal.pdf" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Us Epa</surname></persName>
+		</author>
+		<ptr target="http://www.epa.gov/med/Prods_Pubs/fathead_minnow.htm" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Predicting modes of toxic action from chemical structure: Acute toxicity in the fathead minnow</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Russom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Bradbury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Broderius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Hammermeister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Drummond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Toxicol. Chem</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="948" to="967" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>Pimephales promelas</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Report of the OECD Workshop on quantitative structure activity relationships (QSARs) in aquatic effects assessment</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="volume">58</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<monogr>
+		<title level="m" type="main">The underlying program, CLOG P, is copyrighted by</title>
+		<ptr target="http://www.daylight.com/dayhtml/doc/clogP/index.html" />
+		<imprint>
+			<publisher>Pomona College and BioByte, Inc</publisher>
+			<pubPlace>of Claremont, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A stepwise approach for defining the applicability domain of SAR and QSAR models</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dimitrov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dimitrova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pavlov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dimitrova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Patlewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Niemela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Mekenyan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Inf. Model</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="839" to="849" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Assessing applicability domains of toxicological QSARs: Definition, confidence in predicted values, and the role of mechanisms of action</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Schultz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hewitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">I</forename><surname>Netzeva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T D</forename><surname>Cronin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">QSAR Comb. Sci</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="238" to="254" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Chemical domain of QSAR models from atom-centered fragments</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kuhne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">U</forename><surname>Ebert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schuurmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Inf. Model</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="2660" to="2669" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Kowwin</forename><surname>Us Epa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tm</surname></persName>
+		</author>
+		<ptr target="http://www.epa.gov/opptintr/exposure/pubs/episuite.htm" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">SARs: Gatekeepers against risk on chemicals?</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Hulzebos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Posthumus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SAR QSAR Environ. Res</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="285" to="316" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Rules for distinguishing toxicants that cause Type-I and Type-II Narcosis syndromes</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Veith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Broderius</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Health Perspect</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="207" to="211" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Classifying environmental pollutants: 1. Structure-activity relationships for prediction of aquatic toxicity</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J M</forename><surname>Verhaar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Vanleeuwen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L M</forename><surname>Hermens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chemosphere</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="471" to="491" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

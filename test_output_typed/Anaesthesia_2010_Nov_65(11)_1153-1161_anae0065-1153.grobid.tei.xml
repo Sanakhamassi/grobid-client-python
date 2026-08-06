@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Blood transfusion and the anaesthetist: management of massive haemorrhage</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Blood transfusion and the anaesthetist: management of massive haemorrhage</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7E4869F80FF009E10765D6023BD7AC8F</idno>
+					<idno type="DOI">10.1111/j.1365-2044.2010.06538.x</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:09+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This is a consensus document produced by expert members of a Working Party established by the Association of Anaesthetists of Great Britain and Ireland (AAGBI). It has been seen and approved by the Council of the AAGBI.</p><p>The AAGBI acknowledges the contribution received from the British Committee for Standards in Haematology Transfusion Task Force and the Appropriate Use of Blood Group. Summary 1. Hospitals must have a major haemorrhage protocol in place and this should include clinical, laboratory and logistic responses. 2. Immediate control of obvious bleeding is of paramount importance (pressure, tourniquet, haemostatic dressings). 3. The major haemorrhage protocol must be mobilised immediately when a massive haemorrhage situation is declared. 4. A fibrinogen &lt; 1 g.l )1 or a prothrombin time (PT)   and activated partial thromboplastin time (aPTT) of &gt; 1.5 times normal represents established haemostatic failure and is predictive of microvascular bleeding.</p><p>Early infusion of fresh frozen plasma (FFP; 15 ml.kg )1 ) should be used to prevent this occurring if a senior clinician anticipates a massive haemorrhage. 5. Established coagulopathy will require more than 15 ml.kg )1 of FFP to correct. The most effective way to achieve fibrinogen replacement rapidly is by giving fibrinogen concentrate or cryoprecipitate if fibrinogen is unavailable.</p><p>6. 1:1:1 red cell:FFP:platelet regimens, as used by the military, are reserved for the most severely traumatised patients. 7. A minimum target platelet count of 75 • 10 9 .l )1 is appropriate in this clinical situation. 8. Group-specific blood can be issued without performing an antibody screen because patients will have minimal circulating antibodies. O negative blood should only be used if blood is needed immediately. 9. In hospitals where the need to treat massive haemorrhage is frequent, the use of locally developed shock packs may be helpful. 10. Standard venous thromboprophylaxis should be commenced as soon as possible after haemostasis has been secured as patients develop a prothrombotic state following massive haemorrhage.</p><p>Re-use of this article is permitted in accordance with the Creative Commons Deed, Attribution 2.5, which does not permit commercial exploitation.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>There are an increasing number of severely injured patients who present to hospital each year. Trauma is the leading cause of death in all ages from 1 to 44 years. Haemorrhagic shock accounts for 80% of deaths in the operating theatre and up to 50% of deaths in the first 24 h after injury. Only 16% of major emergency departments in the UK use a massive haemorrhage guideline <ref type="bibr" target="#b0">[1]</ref>.</p><p>The management of massive haemorrhage is usually only one component of the management of a critically unwell patient. These guidelines are intended to supplement current resuscitation guidelines and are specifically directed at improving management of massive haemorrhage <ref type="bibr" target="#b1">[2]</ref>. The guidance is intended to provide a better understanding of the priorities in specific situations. Effective teamwork and communication are an essential part of this process.</p><p>Definitions of massive haemorrhage vary and have limited value. The Working Party suggests that the nature of the injury will usually alert the anaesthetist to the probability of massive haemorrhage and can be arbitrarily considered as a situation where 1-1.5 blood volumes may need to be infused either acutely or within a 24-h period.</p><p>The formulation of guidance in the style of previous AAGBI guidelines has been difficult in such a rapidly changing area. The grade of evidence has not been mentioned within the text, but the editing of the final draft and Working Party membership have been cross-checked with other recently published documents. The Working Party believes that at the current time, its advice is consistent with recently published European guidelines and the availability of current evidence <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref>.</p><p>It is envisaged that the website version of this document will be updated at least annually and earlier if an addendum or correction is deemed urgent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Organisational aspects</head><p>Hospitals must have a major haemorrhage protocol in place and this should include clinical, laboratory and logistic responses. Protocols should be adapted to specific clinical areas. It is essential to develop an effective method of triggering the appropriate major haemorrhage protocol.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Roles within a team</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Team leader</head><p>The team leader is the person who declares a massive haemorrhage situation; this is usually the consultant or the most senior doctor at the scene. Their role is to direct and co-ordinate the management of the patient with massive haemorrhage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Communication</head><p>The team leader should appoint a member of the team as communications lead whose sole role is to communicate with the laboratories and other departments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Collection of blood samples, blood and components</head><p>A member of the team should be allocated to convey blood samples, blood and blood components between the laboratory and the clinical area. This role is usually taken by a porter or healthcare support worker who should ideally be in constant radio communication with the team. In their absence, a nurse or doctor should be identified to take on this role.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Securing intravenous and central access</head><p>A member of the team should be identified whose role is to secure intravenous access, either peripherally or centrally. Large-bore 8-Fr. central access is the ideal in adults; in the event of failure, intra-osseous or surgical venous access may be required.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Switchboard</head><p>The switchboard must alert certain key clinical and support people when a massive haemorrhage situation is declared. These include</p><formula xml:id="formula_0">• Hospital Transfusion Laboratory Biomedical Scientist (BMS) or equivalent • Coagulation Biomedical Scientist (BMS) or equivalent • Haematologist on call • ICU senior doctor on site • ICU Nurse in charge • Surgical senior doctor on site • Radiologist on call</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dealing with the patient with massive haemorrhage</head><p>There are both clinical and logistic issues to consider. These include clinical management of the patient, setting processes in place to deliver blood and blood components to the patient, and organisation of emergency interventions to stop the bleeding (surgical or radiological). There are two common scenarios:</p><p>A massively bleeding ⁄ injured ⁄ ill patient en route With warning, resources and personnel can be mobilised to be in position to receive the patient. A brief history can alert the team to the risk of massive bleeding: Immediate actions in dealing with a patient with massive haemorrhage • Control obvious bleeding points (pressure, tourniquet, haemostatic dressings) • Administer high F I O 2 • IV access -largest bore possible including central access • If patient is conscious and talking and a peripheral pulse is present, the blood pressure is adequate.</p><p>• Baseline bloods -full blood count (FBC), prothrombin time (PT), activated partial thomboplastin time (aPTT), Clauss fibrinogen* and cross-match.</p><p>• If available, undertake near-patient testing e.g.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>thromboelastography (TEG) or thromboelastometry (ROTEM).</head><p>• Fluid resuscitation -in the massive haemorrhage patient, this means warmed blood and blood components. In terms of time of availability, blood group O is the quickest, followed by group specific, then crossmatched blood.</p><p>• Actively warm the patient and all transfused fluids.</p><p>• Next steps: rapid access to imaging (ultrasound, radiography, CT), appropriate use of focused assessment with sonography for trauma scanning and ⁄ or early whole body CT if the patient is sufficiently stable, or surgery and further component therapy.</p><p>• Alert theatre team about the need for cell salvage autotransfusion. *A derived fibrinogen is likely to be misleading and should not be used.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ongoing assessment</head><p>• Look at injury patterns • Look for obvious blood loss (on clothes, on the floor, in drains) • Look for indications of internal blood loss • Assess physiology (skin colour, heart rate, blood pressure, capillary refill, conscious level) Some patients compensate well despite significant blood loss. A rapid clinical assessment will give very strong indications of those at risk. It is important to restore organ perfusion, but it is not necessary to achieve a normal blood pressure at this stage <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Further management</head><p>Once control of bleeding is achieved, aggressive attempts should be made to normalise blood pressure, acid-base status and temperature, but vasopressors should be avoided. Active warming is required. Coagulopathy should be anticipated and, if possible, prevented. If present, it should be treated aggressively (see Dealing with coagulation problems).</p><p>Surgery must be considered early. However, surgery may have to be interrupted and limited to 'damage control'. Once bleeding has been controlled, abnormal physiology can be corrected <ref type="bibr">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref>.</p><p>Following treatment for massive haemorrhage, the patient should be admitted to a critical care area for monitoring and observation, and monitoring of coagulation, haemoglobin and blood gases, together with wound drain assessment to identify overt or covert bleeding.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Venous thromboprophylaxis</head><p>Standard venous thromboprophylaxis should be commenced as soon as possible after bleeding has been controlled, as patients rapidly develop a prothrombotic state. Temporary inferior vena cava filtration may be necessary.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dealing with coagulation problems</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Haemostatic defects in massive haemorrhage</head><p>The haemostatic defect in massive haemorrhage will vary, depending on the amount and cause of bleeding and underlying patient-related factors. It is likely to evolve rapidly. Patient management should be guided by laboratory results and near-patient testing, but led by the clinical scenario.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dilutional coagulopathy</head><p>All patients being treated for massive haemorrhage are at risk of dilutional coagulopathy leading to reduced platelets, fibrinogen and other coagulation factors. This occurs if volume replacement is with red cells, crystalloid and plasma expanders, and insufficient infusion of fresh frozen plasma (FFP) and platelets. Dilutional coagulopathy should be prevented by early infusion of FFP.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consumptive coagulopathy</head><p>Some patients with massive haemorrhage are also at risk of a consumptive coagulopathy and are liable to develop haemostatic failure without significant dilution. Consumption is commonly seen in obstetric haemorrhage, particularly associated with placental abruption and amniotic fluid embolus, in patients on cardiopulmonary bypass (CPB), following massive trauma especially involving head injury, and in the context of sepsis.</p><p>Activation of anticoagulant pathways is associated with massive trauma and patients may have haemostatic compromise without abnormal coagulation tests <ref type="bibr" target="#b11">[12]</ref>.</p><p>Platelet dysfunction is associated with CPB, renal disease and anti-platelet medication.</p><p>Hyperfibrinolysis is particularly associated with obstetric haemorrhage, CPB and liver surgery.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Anticoagulant drugs</head><p>In the context of massive haemorrhage, warfarin should be reversed with a prothrombin complex concentrate (PCC) and intravenous vitamin K (5-10 mg). The dose is dependent on the international normalised ratio (INR) (see Table <ref type="table" target="#tab_0">1</ref>).</p><p>Unfractionated heparin can be reversed with protamine (1 mg protamine reverses 100 u heparin). Excess protamine induces a coagulopathy. Usual reversal is by infusing either 25 or 50 mg of intravenous protamine.</p><p>Low molecular weight heparin can be partially reversed with protamine.</p><p>Direct thrombin and factor Xa inhibitors e.g. fondaparinux, dabigatran and rivaroxaban cannot be reversed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aspirin and P2Y12 antagonists</head><p>Patients taking aspirin have a low risk of increased bleeding, whilst those on P2Y12 antagonists have a higher risk. The anti-platelet effect of aspirin can be reversed by platelet transfusion, but the effect of the P2Y12 antagonist, clopidogrel, is only partially reversed by platelets.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inherited bleeding disorders</head><p>It is very likely that patients with an inherited bleeding disorder will be registered with a haemophilia centre and urgent advice should be sought if they present with massive haemorrhage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Liver disease</head><p>Liver disease is associated with decreased production of coagulation factors, natural anticoagulants and the production of dysfunctional fibrinogen (dysfibrinogenaemia). It should be anticipated that these patients will develop a clinically significant dilutional coagulopathy and haemostatic failure with bleeds less than one blood volume.</p><p>Interpretation of laboratory tests A fibrinogen &lt; 1 g.l )1 or a PT and aPTT &gt; 1.5 times normal represents an established haemostatic failure and is predictive of microvascular bleeding. Early infusion of FFP should be used to prevent this occurring if a senior clinician anticipates a massive haemorrhage.</p><p>Clauss fibrinogen is an easily available test and should be specifically requested if not part of the routine coagulation screen. The fibrinogen level is more sensitive than the PT and aPTT to a developing dilutional or consumptive coagulopathy. Levels below 1 g.l )1 , in the context of massive haemorrhage, are usually insufficient, and emerging evidence suggests that a level above 1.5 g.l )1 is required. Higher levels are likely to improve haemostasis further.</p><p>A platelet count below 50 • 10 9 .l )1 is strongly associated with haemostatic compromise and microvascular bleeding in a patient being treated for massive haemorrhage. A minimum target platelet count of 75 • 10 9 .l )1 is appropriate in this clinical situation.</p><p>The PT is an insensitive test for haemostatic compromise and a relatively normal result should not necessarily reassure the clinician. It is common practice to correct to PT to within 1.5 of normal; however, this may not be an appropriate target in many situations <ref type="bibr" target="#b12">[13]</ref>.</p><p>An INR is not an appropriate test in massive haemorrhage because it is standardised for warfarin control, and results may be misleading in the context of dilutional and consumptive coagulopathies and liver disease.</p><p>The aPTT is commonly used to guide blood product replacement but, as with the PT, correcting to 1.5 times normal is not necessarily an appropriate strategy because haemostatic failure may already be significant at this level. The aPTT should be maintained below 1.5 times normal as the minimum target.</p><p>If whole blood point of care testing is used, a protocol for blood product usage based on thromboelastogram (TEG ⁄ ROTEM) results should be agreed in advance.</p><p>Haemostatic tests and FBC should be repeated at least every hour if bleeding is ongoing, so that trends may be observed and adequacy of replacement therapy documented. Widespread microvascular oozing is a clinical marker of haemostatic failure irrespective of blood tests and should be treated aggressively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Management of haemostasis</head><p>The coagulopathy during massive haemorrhage is likely to evolve rapidly and regular clinical review and blood tests are required. It is important to anticipate and prevent haemostatic failure, but if haemostatic failure has occurred, standard regimens (e.g. FFP 15 ml.kg )1 ) can be predicted to be inadequate and larger volumes of FFP are likely to be required.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prevention of coagulopathy</head><p>Emerging evidence supports the early use of FFP to prevent dilutional coagulopathy. If an experienced clinician anticipates a blood loss of one blood volume, FFP should be infused to prevent coagulopathy. While FFP 15 ml.kg )1 is appropriate for uncomplicated cases, increased volumes of FFP will be needed if a consumptive Blood transfusion and the anaesthetist: management of massive haemorrhage coagulopathy is likely or the patient has underlying liver disease.</p><p>A minimum target platelet count of 75 • 10 9 .l )1 is appropriate in this clinical situation.</p><p>1:1:1 red cell:FFP:platelet regimens, as used by the military, are reserved for the most severely traumatised patient and are not routinely recommended <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b14">15]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment of haemostatic failure</head><p>In the context of massive haemorrhage, patients with widespread microvascular oozing or with coagulation tests that demonstrate inadequate haemostasis (fibrinogen &lt; 1 g.l )1 or PT ⁄ aPTT &gt; 1.5 above normal), should be given FFP in doses likely to correct the coagulation factor deficiencies. This will require more than 15 ml.kg )1 , and at least 30 ml.kg )1 would be a reasonable first-line response <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref>.</p><p>Platelets should be maintained at at least 75 • 10 9 .l )1 <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b17">18]</ref>.</p><p>Although it is often recommended that hypofibrinogenaemia unresponsive to FFP be treated with cryoprecipitate, treatment may be associated with delays because of thawing and transportation.</p><p>Fibrinogen replacement can be achieved much more rapidly and predictably with fibrinogen concentrate (no requirement for thawing as for cryoprecipitate) given at a dose of 30-60 mg.kg )1 . This product is not currently licensed in the UK and must be given on a named patient basis. Fibrinogen concentrate is licensed in many European countries to treat both congenital and acquired hypofibrinogenaemia <ref type="bibr" target="#b18">[19]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hyperfibrinolysis</head><p>Intravenous tranexamic acid should be used in clinical situations where increased fibrinolysis can be anticipated. Support for its use has strengthened recently with the positive report of its use in traumatic haemorrhage <ref type="bibr" target="#b19">[20]</ref> (see Other interventions on pharmacological management of massive haemorrhage).</p><p>Hypocalcaemia and hypomagnesaemia are often associated with massively transfused patients and will need monitoring and correction. rFVIIa This drug has been used for treatment of massive haemorrhage unresponsive to conventional therapy. Recent review of data has highlighted the risk of arterial thrombotic complications and the specification of product characteristics now states: 'Safety and efficacy of NovoSeven (rFVIIa) have not been established outside the approved indications and therefore NovoSeven should not be used'. Where centres decide to use this therapy, local protocols must be agreed in advance.</p><p>rFVIIa is usually given with tranexamic acid and is not as efficacious if the patient has a low fibrinogen.</p><p>Some centres use PCC (concentrated factors II, VII, IX and X) in certain clinical situations such as liver disease and post-CPB; local protocols must be agreed in advance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Logistics of blood supply</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Identification</head><p>Positive patient identification is essential at all stages of the blood transfusion process and a patient should have two identification bands in situ. The healthcare professional administering the blood component must perform the final administrative check for every component given. All persons involved in the administration of blood must be trained and certificated in accordance with national standards.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Standard issue</head><p>Pre-transfusion procedures are designed to determine the patient's ABO and Rhesus D (RhD) status, to detect red cell antibodies that could haemolyse transfused cells and confirm compatibility with each of the units of red cells to be transfused. Red cell selection may be based on a serological cross-match or electronic issue. Standard issue of red cells may take approximately 45 min.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Emergency issue</head><p>Group O RhD negative is the blood group of choice for transfusion of red cells in an emergency where the clinical need is immediate. However, overdependence on group O RhD negative red cells may have an adverse impact on local and national blood stock management and it is considered acceptable to give O RhD positive red cells to male patients. Hospitals should avoid the need for elective transfusion of group O RhD negative red cells to non-O RhD negative recipients. Clinical staff should endeavour to provide immediate blood samples for grouping in order to allow the use of group specific blood.</p><p>In the emergency situation, blood can be issued following identification of group without knowing the result of an antibody screen -'group specific blood'. Grouping can be performed in about 10 min, not including transfer time, and group specific blood can be issued. This of course is a higher risk strategy and depends on the urgency for blood. In massive bleeding, patients will have minimal circulating antibodies, so will usually accept group specific blood without reaction. If the patient survives, antibodies may develop at a later stage.</p><p>Women who are RhD negative and of childbearing age, who are resuscitated with Rh D positive blood or platelets, can develop immune anti-D, which can cause haemolytic disease of the newborn in subsequent pregnancies. To prevent this, a combination of exchange transfusion and anti-D can be administered, on the advice of a haematologist, within 72 h of the transfusion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blood storage and transfer</head><p>Cold chain requirements are essential under European Law. Blood should be transfused within 4 h of leaving a controlled environment. Blood issued cannot be returned to stock if out of a controlled temperature and monitored fridge for longer than 30 min. If blood is issued within a correctly packed and validated transport box, the blood should be placed back in a blood fridge normally within 2 h, providing the box is unopened. Blood transfusion laboratory staff will then assess the acceptability of blood for return to stock. Only in exceptional circumstances should blood components be transferred with a patient between hospital trusts or health boards.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Traceability</head><p>It is a statutory requirement that the fate of all blood components must be accounted for. These records must be held for 30 years. Staff must be familiar with local protocols for recording blood use in clinical notes and for informing the hospital transfusion laboratory.</p><p>The hospital transfusion committee is the ideal forum to allow cross-specialty discussions about protocols and organisation for dealing with massive haemorrhage. Audit of previous instances allows a refinement of response to ensure efficient and timely treatment. This level of organisation can only be arranged at a local level.</p><p>Stock management of labile components when there is unpredictable demand is a challenge. Large stock-holding is associated with wastage, whereas insufficient stocks may lead to clinical disaster.</p><p>Most hospitals rely on rapid re-supply of platelets from the Blood Service rather than holding stocks. Anaesthetists need to be aware of local arrangements and the normal time interval for obtaining platelets in an emergency.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blood shortages</head><p>National demand for blood components may exceed supply. National blood shortage plans will be activated in the event of red cell and platelet shortages. Guidance is given for the prioritisation of patient groups during shortage. The transfusion support during massive haemorrhage is a priority. However, it is expected that all efforts be made to stop the bleeding and reduce the need for donor blood. The use of cell salvage is encouraged in all cases of massive haemorrhage (Further information is available in Blood Transfusion and the Anaesthetist -Intraoperative Cell Salvage. AAGBI: <ref type="url" target="http://www.aagbi">http://www.aagbi</ref>. org/publications/guidelines/docs/cell%20_salvage_2009_ amended.pdf).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blood components</head><p>This section advises on the appropriate use of blood components during massive haemorrhage (see Dealing with coagulation problems). This advice is required because red cell concentrates do not contain coagulation factors or platelets.</p><p>Patients with massive haemorrhage may require all blood components. Blood may be required not just at the time of resuscitation, but also during initial and repeat surgery. The benefits of timely and appropriate transfusion support in this situation outweigh the potential risks of transfusion and may reduce total exposure to blood components.</p><p>(Further information is available in Blood Transfusion and the Anaesthetist -Blood Component Therapy. AAGBI: <ref type="url" target="http://www.aagbi.org/publications/guidelines/docs/">http://www.aagbi.org/publications/guidelines/docs/</ref> bloodtransfusion06.pdf).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Paediatric components</head><p>A comprehensive guideline for neonatal and paediatric transfusion together with a recent update statement is available at <ref type="url" target="http://www.bcshguidelines.com/">http://www.bcshguidelines.com/</ref>. Useful principles are: minimise and stop blood loss; minimise donor exposure; and use paediatric components where readily available (See Table <ref type="table" target="#tab_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Equipment to aid transfusion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Giving sets, filters and pressure infusion</head><p>All blood components should be administered using a blood component administration set, which incorporates a 170-200 lm filter.</p><p>There is no current need to use any sort of additional filter in massive haemorrhage when using allogeneic product, as pre-storage leucodepletion has rendered this process unnecessary. If red cell salvage is being used, a 40-lm filter may still be indicated e.g. if small bone fragments contaminate the surgical field.</p><p>Although a special platelet giving set is ideally used for platelet transfusion, it is unnecessary in massive haemorrhage. The important issue is to administer platelets via a clean 170-200 lm giving set (see below), as one that has previously been used for red cells may cause the platelets to stick to the red cells and therefore reduce the effective transfused platelet dose.</p><p>The use of an adequate warming device is recommended in massively bleeding patients and this equipment needs to be available in all emergency rooms and theatre suites, allowing adequate warming of administered blood at high infusion rates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Infusion devices</head><p>• Only blood component administration sets that are compatible with the infusion device should be used (check manufacturers' recommendations). Infusion devices should be regularly maintained and any adverse outcome as a result of using an infusion device to transfuse red cells should be reported to the Medical Devices section of the Medicines and Healthcare products Regulatory Agency (MHRA).</p><p>• Administration sets used with infusion devices should incorporate an integral mesh filter (170-200 lm).</p><p>• The pre-administration checking procedure should include a check of the device and device settings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Infusion rate devices</head><p>• Either gravity or electronic infusion devices may be used for the administration of blood and blood components. Infusion devices allow a precise infusion rate to be specified.</p><p>• Rapid infusion devices may be used when large volumes have to be infused quickly, as in massive haemorrhage. These typically have a range of 6-30 l.h )1 and usually incorporate a blood-warming device.</p><p>• Infusion devices should only be used if the manufacturer verifies them as safe for this purpose and they are CE-marked.</p><p>• The volume delivered should be monitored regularly throughout the infusion to ensure that the expected volume is delivered at the required rate.</p><p>Pressure devices • External pressure devices make it possible to administer a unit of red cells within a few minutes. They should only be used in an emergency situation together with a large-gauge venous access cannula or device.</p><p>• External pressure devices should:</p><p>• Exert pressure evenly over the entire bag;</p><p>• Have a gauge to measure the pressure;</p><p>• Not exceed 300 mmHg of pressure;</p><p>• Be monitored at all times when in use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blood warmers</head><p>• In all adults undergoing elective or emergency surgery (including surgery for trauma) under general or regional anaesthesia, 'intravenous fluids (500 ml or more) and blood components should be warmed to 37 °C' <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b21">22]</ref>. The greatest benefit is from the controlled warming of red cells (stored at 4 °C) rather than platelets (stored at 22 ± 2 °C) or FFP ⁄ cryoprecipitate (thawed to 37 °C) [23]. Of note, there is no evidence to suggest that infusion of platelets or FFP through a blood warmer is harmful.</p><p>• In most other clinical situations where there is concern, it is sufficient to allow blood to rise to ambient temperature before transfusion. Special consideration should be given when rapidly transfusing large volumes to neonates, children, elderly patients and patients susceptible to cardiac dysfunction.</p><p>• Blood should only be warmed using approved, specifically designed and regularly maintained blood warming equipment with a visible thermometer and audible warning. Settings should be monitored regularly throughout the transfusion.</p><p>• Blood components should never be warmed using improvisations, such as putting the pack in warm water, in a microwave or on a radiator.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Other interventions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacological management options Antifibrinolytics</head><p>Fibrinolysis is the process whereby established fibrin clot is broken down. This can occur in an accelerated fashion, destabilising effective coagulation in many clinical situations associated with massive haemorrhage, including multiple trauma, obstetric haemorrhage and major organ surgery (e.g. cardiothoracic, liver) including transplantation surgery. Accelerated fibrinolysis can be identified by laboratory assay of d-dimers or fibrin degradation products, or by use of coagulation monitors such as TEG or ROTEM. It is accepted that not all hospitals can provide either the hardware or expertise to interpret TEG and ROTEM.</p><p>Antifibrinolytic drugs, such as tranexamic acid, have been used to reverse established fibrinolysis in the setting of massive blood transfusion.</p><p>Whilst systematic reviews fail to demonstrate evidence from randomised controlled trials to support the routine use of antifibrinolytic agents in managing massive haemorrhage, they are considered effective if accelerated fibrinolysis is identified.</p><p>Tranexamic acid inhibits plasminogen activation, and at high concentration inhibits plasmin. The recent CRASH-2 trial supports its use at a loading dose of 1 g over 10 min followed by 1 g over 8 h <ref type="bibr" target="#b19">[20]</ref>. There are few adverse events or side effects associated with tranexamic acid use in the setting of massive haemorrhage <ref type="bibr" target="#b19">[20]</ref>. Repeat doses should be used with caution in patients with renal impairment, as the drug is predominantly excreted unchanged by the kidneys. It is contraindicated in patients with subarachnoid haemorrhage, as anecdotal experience suggests that cerebral oedema and cerebral infarction may occur.</p><p>Aprotinin is a serine protease inhibitor, inhibiting trypsin, chymotrypsin, plasmin and kallikrein. It has been used to reduce blood loss associated with accelerated fibrinolysis in major surgery (e.g. cardiothoracic surgery, liver transplantation). Recently, there have been concerns about the safety of aprotinin. Anaphylaxis occurs at a rate of 1:200 in first-time use. A study performed in cardiac surgery patients reported in 2006 showed that there was indeed a risk of acute renal failure, myocardial infarction and heart failure, as well as stroke and encephalopathy <ref type="bibr" target="#b23">[24]</ref>. As a result of this, and other follow-up work, the MHRA recommends that aprotinin should only be used when the likely benefits outweigh any risks to individual patients. As a result, use of aprotinin is now limited to highly specialised surgical situations, e.g. cardiac and liver transplantation, and is used on a named patient basis only.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Factor concentrates</head><p>Coagulation factor concentrates may be required for patients with inherited bleeding disorders such as haemophilia or von Willebrand disease. They should only be used under the guidance of a haemophilia centre. (For recombinant factor VIIa, prothrombin complex concentrate and fibrinogen concentrate, see Dealing with coagulation problems).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Non-pharmacological management options</head><p>Radiologically aided arterial embolisation These techniques are becoming more widespread and successful cessation of bleeding can be achieved with embolisation of bleeding arteries following angiographic imaging. The suitability of such manoeuvres needs to be assessed in each individual case and will also depend on availability of an interventional radiologist. The technique can be remarkably effective and may eliminate the need for surgical intervention, particularly in major obstetric haemorrhage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cell salvage</head><p>The use of intra-operative cell salvage can be very effective at both reducing demand on allogeneic supplies and providing a readily available red cell supply in massive haemorrhage. National Institute of Health and Clinical Excellence (NICE) guidelines have also supported its use where large blood loss is experienced in obstetric haemorrhage and complex urological surgery such as radical prostatectomy. The indications for cell salvage are detailed in Blood Transfusion and the Anaesthetist -Intra-operative Cell Salvage (<ref type="url" target="http://www.aagbi.org/">http://www.aagbi.org/</ref> publications/guidelines/docs/cell%20_salvage_2009_ amended.pdf).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>•</head><figDesc>History of trauma (blunt or penetrating) • Obstetric patient • Major surgery (neurosurgery, spinal, cardiac, liver surgery) • Underlying medical condition affecting coagulation Presentation of a patient with minimal or no notice This is the common scenario in the accident and emergency department. Here, the immediate concern is hands-on management of the patient: • Stop any external bleeding • Assess the patient and treat • Trigger massive haemorrhage protocol • Move to the next appropriate level of care Blood transfusion and the anaesthetist: management of massive haemorrhage</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Possible regimen for prothrombin complex concentrate (PCC).</figDesc><table><row><cell>INR</cell><cell>Dose of PCC; u.kg )1</cell></row><row><cell>2-3.9</cell><cell>25</cell></row><row><cell>4-5.9</cell><cell>35</cell></row><row><cell>&gt; 6</cell><cell>50</cell></row><row><cell>INR, international normalised ratio.</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Blood component volumes and rates of administration for infants and children. Blood transfusion and the anaesthetist: management of massive haemorrhage Anaesthesia, 2010, 65, pages 1153-1161 . .....................................................................................................................................................................................................................</figDesc><table><row><cell>Component</cell><cell>Volume</cell></row><row><cell>Red cell</cell><cell>Vol (ml) = desired Hb rise (g.dl )1 ) • wt (kg) • 3</cell></row><row><cell>concentrates</cell><cell></cell></row><row><cell>Platelets</cell><cell>Children &lt; 15 kg (10-20 ml.kg )1 )</cell></row><row><cell></cell><cell>Children &gt; 15 kg (1 adult bag)</cell></row><row><cell>FFP (MB treated)</cell><cell>10-20 ml.kg )1</cell></row><row><cell>Cryoprecipitate</cell><cell>5-10 ml.kg )1 (usually max 10 units -approx</cell></row><row><cell></cell><cell>300 ml)</cell></row><row><cell cols="2">Vol, volume; Hb, haemoglobin; FFP, fresh frozen plasma; MB,</cell></row><row><cell>methylene blue.</cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Ó 2010 The Authors Anaesthesia Ó 2010 The Association of Anaesthetists of Great Britain and Ireland</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Ó 2010 The Authors</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Anaesthesia Ó 2010 The Association of Anaesthetists of Great Britain and Ireland</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Assessing the potential for major trauma transfusion guidelines in the UK</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Westerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Davey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Porter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Emergency Medicine Journal</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="134" to="135" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Guidelines on the management of massive blood loss</title>
+		<author>
+			<persName><surname>Bcsh Guideline</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Stainsby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Maclennan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Isaac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Hamilton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Haematology</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="534" to="641" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Management of bleeding following major trauma: an updated European Guideline</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rossaint</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bouillon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Cerny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Critical Care</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">52</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Transfusion therapy in hemorrhagic shock</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Nunez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Cotton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Critical Care</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="536" to="541" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Transfusion strategies in postinjury coagulopathy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Stahel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Schreier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Flierl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Kashuk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Anesthesiology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="289" to="298" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Airway management and initial resuscitation of the trauma patient</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Diez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Varon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Critical Care</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="542" to="547" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Battlefield resuscitation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dawes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rhys</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">O</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Critical Care</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="527" to="535" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">ABC to «C» ABC: redefining the military trauma paradigm</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hodgetts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Mahoney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Byers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Q</forename><surname>Russell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Emergency Medicine Journal</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="745" to="746" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Damage control resuscitation: the need for specific blood products to treat the coagulopathy of trauma</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Holcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Hoyt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transfusion</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="685" to="686" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Acute coagulopathy of trauma: hypoperfusion induces systemic anticoagulation and hyperfibrinolysis</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Brohi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Ganter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Infection and Critical Care</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="1211" to="1217" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Journal Trauma-Injury</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Acute traumatic coagulopathy</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Brohi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Infection and Critical Care</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="1127" to="1130" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Journal Trauma-Injury</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Early coagulopathy in multiple injury: an analysis from the German Trauma Registry on 8724 patients</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Wolberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">H</forename><surname>Nieng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Monroe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Trauma</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="1221" to="1228" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The prevalence of abnormal results of conventional coagulation tests on admission to a trauma center</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Lindell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Stansbury</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transfusion</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="34" to="39" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Emerging therapies in traumatic hemorrhage control</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Sambasivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Schreiber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Critical Care</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="560" to="568" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Giving plasma at a 1:1 ratio with red cells in resuscitation: who might benefit?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Dutton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Holcomb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transfusion</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1763" to="1765" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<title level="m" type="main">The evidence-based use of FFP and cryoprecipitate for abnormalities of coagulation tests and clinical coagulopathy</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Stanworth</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>American Society of Hematology Education Program</publisher>
+			<biblScope unit="page" from="179" to="185" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Efficacy of standard dose and 30ml ⁄ kg fresh frozen plasma in correcting laboratory parameters of haemostasis in critically ill patients</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Saayman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Paulus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Haematology</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="69" to="73" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Proactive administration of platelets and plasma for patients with a ruptured abdominal aortic aneurysm: evaluating a change in transfusion practice</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Johansson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stensbelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rosenburg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transfusion</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="593" to="598" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Effect of fibrinogen on reversal of dilutional coagulopathy: a porcine model</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Krismer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Klinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Anaesthesia</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="172" to="177" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">CRASH-2 trial collaborators. Effects of tranexamic acid on death, vascular occlusive events, and blood transfusion in trauma patients with significant haemorrhage (CRASH-2): a randomised, placebo-controlled trial</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="page" from="23" to="32" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The effect of temperature and pH on the activity of factor VIIa: implications for the efficacy of high-dose factor VIIa in hypothermic and acidotic patients</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">H</forename><surname>Meng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Wolberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Monroe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hoffman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Trauma</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="886" to="891" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Effect of hypothermia on the coagulation cascade</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Rohrer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Natale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Critical Care Medicine</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1402" to="1405" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">23 National Institute for Health and Clinical Excellence (National Collaborating Centre for Nursing and Supportive Care)</title>
+	</analytic>
+	<monogr>
+		<title level="j">NICE Clinical Guideline</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<date type="published" when="2008">2008</date>
+			<pubPlace>London, UK</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>National Institute for Health and Clinical Excellence</orgName>
+		</respStmt>
+	</monogr>
+	<note>Inadvertent perioperative hypothermia. The management of inadvertent perioperative hypothermia in adults</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The risk associated with aprotinin in cardiac surgery</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Mangano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">C</forename><surname>Tudor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dietzel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="353" to="365" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

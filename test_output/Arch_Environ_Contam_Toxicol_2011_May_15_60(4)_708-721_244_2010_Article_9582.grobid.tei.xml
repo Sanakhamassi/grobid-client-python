@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Variability in the Dynamics of Mortality and Immobility Responses of Freshwater Arthropods Exposed to Chlorpyrifos</title>
+				<funder>
+					<orgName type="full">Syngenta</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Wageningen University and Alterra</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Environment Canada</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2010-08-15">15 August 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Mascha</forename><forename type="middle">N</forename><surname>Rubach</surname></persName>
+							<email>mrubach@fastmail.com</email>
+						</author>
+						<author>
+							<persName><forename type="first">Steven</forename><forename type="middle">J H</forename><surname>Crum</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Paul</forename><forename type="middle">J</forename><surname>Van Den Brink</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Á</forename><forename type="middle">S J H</forename><surname>Crum</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Aquatic Ecology and Water Quality Management</orgName>
+								<orgName type="institution">Wageningen University and Research Centre</orgName>
+								<address>
+									<postBox>P.O. Box 47</postBox>
+									<postCode>6700AA</postCode>
+									<settlement>Wageningen</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Wageningen University and Research Centre</orgName>
+								<address>
+									<postBox>P.O. Box 47</postBox>
+									<postCode>6700AA</postCode>
+									<settlement>Wageningen</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Variability in the Dynamics of Mortality and Immobility Responses of Freshwater Arthropods Exposed to Chlorpyrifos</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-08-15">15 August 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">318AF7DA489DF615EE014F653263E2C7</idno>
+					<idno type="DOI">10.1007/s00244-010-9582-6</idno>
+					<note type="submission">Received: 26 February 2010 / Accepted: 19 July 2010 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-04T10:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Abstract</head><p>The species sensitivity distribution (SSD) concept is an important probabilistic tool for environmental risk assessment (ERA) and accounts for differences in species sensitivity to different chemicals. The SSD model assumes that the sensitivity of the species included is randomly distributed. If this assumption is violated, indicator values, such as the 50% hazardous concentration, can potentially change dramatically. Fundamental research, however, has discovered and described specific mechanisms and factors influencing toxicity and sensitivity for several model species and chemical combinations. Further knowledge on how these mechanisms and factors relate to toxicologic standard end points would be beneficial for ERA. For instance, little is known about how the processes of toxicity relate to the dynamics of standard toxicity end points and how these may vary across species. In this article, we discuss the relevance of immobilization and mortality as end points for effects of the organophosphate insecticide chlorpyrifos on 14 freshwater arthropods in the context of ERA. For this, we compared the differences in response dynamics during 96 h of exposure with the two end points across species using dose response models and SSDs. The investigated freshwater arthropods vary less in their immobility than in their mortality response. However, differences in observed immobility and mortality were surprisingly large for some species even after 96 h of exposure. As expected immobility was consistently the more sensitive end point and less variable across the tested species and may therefore be considered as the relevant end point for population of SSDs and ERA, although an immobile animal may still potentially recover. This is even more relevant because an immobile animal is unlikely to survive for long periods under field conditions. This and other such considerations relevant to the decision-making process for a particular end point are discussed.</p><p>Decades of ecotoxicologic testing have repeatedly showed large differences in the response of species toward toxicants, but they have not resulted in the identification of a ''most sensitive species'' <ref type="bibr" target="#b5">(Cairns 1986)</ref>, which is now widely accepted as nonexistent, although some indications for generally more sensitive groups exist <ref type="bibr" target="#b7">(Dwyer et al. 2005)</ref>. Across chemicals, it is primarily the mode and mechanism of action of a toxicant that determines an organism's response to exposure <ref type="bibr" target="#b26">(Thurston et al. 1985;</ref><ref type="bibr" target="#b9">Escher and Hermens 2002;</ref><ref type="bibr" target="#b11">Jager et al. 2007</ref>), but even for a single toxic compound, large differences in species sensitivity have been found <ref type="bibr" target="#b22">(Rubach et al. 2010)</ref>. Differences in sensitivity across species are a source of uncertainty for the process of ERA. In the lowest tier of ERA, this uncertainty is often accounted for by using safety factors to derive threshold values for acceptable environmental concentrations <ref type="bibr" target="#b28">(Van Leeuwen and Vermeire 2007)</ref>. Despite their importance to the improvement of risk assessment, surprisingly little is known about the underlying mechanisms driving differences in sensitivity. Hence, most higher tier interspecies extrapolations are performed using probabilistic approaches such as the species sensitivity distribution (SSD) concept <ref type="bibr" target="#b20">(Posthuma et al. 2002)</ref> or by performing multispecies tests. It is well known that differences in uptake and elimination of a compound into the body or organs cause differences in sensitivity, and these can be decreased when risk assessment is based on internal concentrations <ref type="bibr" target="#b17">(McCarty and Mackay 1993)</ref>. In addition, numerous studies have indicated that differences in sensitivity can also be explained by physiologic factors, such as differences in target enzyme constitution, detoxification or compensation abilities, e.g., <ref type="bibr" target="#b10">(Heckmann et al. 2008)</ref>. In this context, the comparison of toxic effects measured with different end points in bioassays can hold useful information for ERA when interpreted with regard to the processes of toxicity, such as toxicokinetics and toxicodynamics. For instance, time dependency of toxicity and differences in the toxicity response for different end points indicate that major differences in the processes of toxicity exist across species <ref type="bibr" target="#b30">(Verhaar et al. 1999)</ref>. Although suitable methods, such as time-to-event analysis <ref type="bibr" target="#b19">(Newman and McCloskey 1996)</ref>, time-independent sensitivity values <ref type="bibr" target="#b16">(Mayer et al. 2002)</ref>, and the dynamic energy budget theory <ref type="bibr" target="#b12">(Kooijman and Bedaux 1996)</ref> have been developed, dynamics of effects have been largely ignored in ERA. Often lethal and effective concentration values for different time points are treated equally without distinction, both for practical reasons and for lack of more specific data. The consequences of this ignorance are difficult to estimate at this point but may lead to arbitrary conclusions. For instance, for an organophosphorous compound, such as chlorpyrifos, which affects the nervous system but does not lead to immediate mortality, large differences in effect end points could exist between species, which is also relevant to risk assessment of time-variable exposure scenarios. Despite widespread activities to establish sublethal end points in risk assessment not only for chronic but also for acute toxicity, the literature lacks publications discussing the relevance of particular end points for the ERA of pesticides <ref type="bibr" target="#b3">(Baas et al. 2010)</ref>. The only exception are endocrine disruptors, for which the debate for the most relevant end point has developed further <ref type="bibr" target="#b21">(Rhind 2009)</ref>.</p><p>This study aimed to evaluate how well two end points, mortality and immobility, reflect the toxicity of the organophosphorous insecticide chlorpyrifos in a variety of freshwater arthropods in terms of their effect dynamics and their variability across species. Experimental data were collected by means of 96-h toxicity tests with a range of exposure concentrations. These data were used to calculate both 50%-effective and lethal concentrations (L(E)C 50 s) with which SSDs per investigated time point and end point were populated. The influence of end point choice on risk indicators, such as L(E)C 50 s and the 5% hazardous concentration (HC 5 ) is discussed. Furthermore, we discuss the context in which toxicity information on different end points can improve understanding of differences in toxic processes among investigated species and how this can lead to more mechanism-based risk assessment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Chemicals and Stock Solution</head><p>For the 96-h toxicity experiments, chlorpyrifos (O,O-diethyl O-3,5,6-trichloro-2-pyridyl phosphorothioate, 99% purity, CAS 2921-88-20, lot no. 51205) purchased from Dr. Ehrenstorfer GmbH (Augsburg, Germany) was used. To avoid the use of a solvent carrier, aqueous solutions of chlorpyrifos were prepared using the principle of generator columns <ref type="bibr" target="#b6">(Devoe et al. 1981)</ref> as described in the supporting information of <ref type="bibr">(Rubach et al. in press)</ref>. The effluent of the generator column delivered a stable concentration of parental chlorpyrifos of approximately 1250 lg/l. Before use, each such obtained stock solution was measured by liquid-liquid extraction of subsamples with n-hexane, followed by gas chromatography (GC) and electron capture detection (ECD) to determine its exact concentration of chlorpyrifos, and dosing schemes were subsequently adapted.</p><p>Gas Chromatography GC of aqueous stock solutions and test concentrations for the 96-h short-term toxicity testing was performed with an Agilent 6890 N GC equipped with a micro EC detector and 7683 Series B Injector (Agilent Technologies, Inc., Santa Clara, CA, USA). The injection volume was 3 ll at a temperature of 250°C with a split ratio of 10. As stationary phase, a DB5 medium-bore column of 30-m length and with a 0.32-mm internal diameter was used, whereas the mobile phase was created with a constant flow of 3.1 ml helium/min. The oven temperature was set to 200°C in isotherm mode. The temperature of the ECD was 300°C, and N 2 was used as make-up gas with a flow of 30 ml/min. The retention time of chlorpyrifos using this method was 3.8 min. For each test a specific limit of detection (LOD) was calculated (Table <ref type="table">1</ref>) due to differences in the sample extraction on the basis of the detection limit of the apparatus (0.1 lg/l) and the highest respective concentration factor used for the lower concentration levels per species.</p><p>Test Species and Test Media The 14 freshwater arthropod species used in the present study and their origin, life stage, and sampling date are listed in Table <ref type="table">1</ref>. Species identity was determined by trained staff according to established protocols using 6 to 10 individuals subsampled from the catch. Most species were collected at the experimental field station of Alterra, ''The Sinderhoeve'' (Renkum, The Netherlands), where they were sampled from untreated cosms, ditches, and storage systems, but Molanna angustata originated from</p><p>Table 1 Test species and methodologic details of 96-h toxicity tests (including LODs) Order Species Life stage Origin a Sampling date Test system b Intended concentration (lg/l) Measured concentration (lg/l) Replication (n) No. of animals/ replicate LOD (lg/l) Anisoptera A. imperator Larva c A 01.03.2007 ***** c 0.9; 1.9; 4; 8.4; 17.6 0.8; 1.6; 3.5; 7.3; 14.3 2 5 0.05 Isopoda A. aquaticus Adult B 06.12.2006 **** g 0.2; 0.5; 1.2; 2.7; 6.2 0.2; 0.6; 1.3; 2.9; 6.1 3 10 0.01 Diptera C. obscuripes Larva A, B 02.02.2007 **** 0.2; 0.5; 1; 2; 4.2 0.3; 0.9; 1.7; 3.3; 3.9 3 10 0.05 Diptera C. dipterum Larva A, B 23.04.2007 **** g 0.03; 0.07; 0.17; 0.41; 1 0.04; 0.06; 0.12; 0.3; 0.8 3 10 0.01 Cladocera D. magna Neonate d C 27.11.2006 * 0.01; 0.03; 0.1; 0.3; 1; 3 0.01; 0.03; 0.1; 0.3; 0.9; 2.5 4 5 0.01 Amphipoda G. pulex Adult A, B 24.11.2006 ***** c,g 0.02; 0.05; 0.11; 0.25; 0.6 0.02; 0.04; 0.1; 0.24; 0.4 2 9 0.01 Trichoptera M. angustata Larva D 09.08.2007 ** g 0.1; 0.4; 1.6; 6.4; 25.6 0.3; 0.5; 1.9; 7.3; 29.1 3 5 0.01 Decapoda N. denticulata Adult/juvenile C 12.09.2008 ***g 5; 13.3; 35.1; 93.1; 246; 653 5; 11.7; 34.2; 88.1; 228; 735 4 5 0.04 Heteroptera N. maculata Adult B 11.09.2008 *** c 1; 2.7; 7.29; 19.7; 53.1 0.8; 2.1; 6.8; 15.6; 50.2 4 5 0.04 Lepidoptera P. stratiotata Larva B 17.06.2007 ** g 0.2; 0.9; 4.1; 18; 82 0.4; 2.6; 5; 16; 23 2 5 0.05 Heteroptera P. minutissima Adult/nymph A, B 01.03.2007 **** 0.9; 1.9; 4; 8.4; 17.6 0.8; 1.8; 3.8; 8.9; 13.5 3 5 0.05 Decapoda Procambarus spec. Juvenile C 20.07.2007 **** g 0.2; 0.9; 4.1; 18.2; 82 0.4; 0.9; 3.2; 14.1; 107 3 5 0.05 Decapoda Procambarus spec. Adult C 20.07.2007 *****c,g 5; 10; 20; 40; 80 4; 7; 16; 30; 42 2 4 0.05 Heteroptera R. linearis e Adult B, E 01.03.2007 ***** c 3.3; 6.5; 13; 26; 52 NA 2 5 NA Megaloptera S. lutaria Larva A 03.08.2007 * g 0.2; 1; 5; 25; 125; 625 0.3; 1; 5; 27; 65; 327 the field and Daphnia magna, Procambarus spec. and Neocaridina denticulata sinensis were cultured at Alterra as reported in the supporting information <ref type="bibr">(Rubach et al. in press)</ref>. Procambarus spec., here tested in both adult and juvenile stages, is better known as the ''Marmorkrebs'' (marbled crayfish), a parthenogenetic freshwater crayfish species belonging to the Cambaridae showing only female phenotypes, at least under culture conditions <ref type="bibr" target="#b25">(Scholtz et al. 2003;</ref><ref type="bibr" target="#b32">Vogt et al. 2004;</ref><ref type="bibr" target="#b15">Martin et al. 2007</ref>). In a recent study, this species has been used in an ecotoxicologic test <ref type="bibr" target="#b31">(Vogt 2007)</ref>. The species N. denticulata sinensis var. red is a tropical shrimp, also called the ''sherry red shrimp,'' and although particularly popular with hobby aquarists, it has rarely been employed in ecotoxicology as a test species. All test animals, including the cultured species, were transferred into 0.45-lm membrane pressure filtered and 24-h aerated water pumped from the groundwater horizon of The Sinderhoeve and supplied with appropriate food to acclimatize to the test medium for at least 3 days before testing. The same water was used to prepare either the test media or inter dilutions by spiking and homogenizing the filtered and aerated water with the adapted volumes of stock solution after the exact concentration of chlorpyrifos in the stock solution had been determined.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity Experiments</head><p>To address differences in sensitivity and species-specific requirements, such as prevention of cannibalism, the specific test design of toxicity experiments varied slightly among tested species (Table <ref type="table">1</ref>). Cannibalistic species were either tested in 4.2-l aquaria divided into the necessary number of compartments with inlets of stainless steel gauze, singly in 100-ml screw cap glass beakers or in 600-ml borosilicate beakers, which were divided into four compartments with stainless steel gauze. Expected noncannibalistic species were either tested in 250-ml SCHOTT flasks, 1.5-l WECK beakers, or 600-ml borosilicate beakers. When required for a particular species, these test systems were provided with stainless steel hook-shaped gauze pieces to provide a structural element. To maintain constant temperature, the aquaria, the WECK beakers, and the 600-ml beakers were kept in a water bath, whereas the 100-ml screw-cap glasses, the 250-ml SCHOTT flasks, and the aquaria (for one experiment (Procambarus spec. adults]) were kept in an incubator cabinet (Sanyo MIR 552). All experiments were performed at the same light-todark regime (16:8 h) with an average light intensity of 13 lmol Á s -1 Á m -2 (minimum to maximum 10.5 to 15.5 lmol Á s -1 Á m -2 ). However, species known to be stressed by light were shaded using aluminium foil to decrease stress. The experiments were performed at a temperature of 17°C ± 3°C, an average pH of 7.61 ± 0.41 (measured with electrode pH 323B/set, WTW, Germany), and an average dissolved oxygen level of 8.8 ± 1.8 mg/l (measured with electrode Oxi330/set, WTW, Germany). These parameters were measured at 0, 48, and 96 h in at least one replicate per treatment. To decrease the losses of chlorpyrifos through evaporation, the test vessels were covered with parafilm or cling foil during exposure. However, if atmospheric breathers were tested, beakers were only covered with nylon gauze to prevent escape of the organisms. All experiments were run in a static exposure regime with initial peak dosage at the start of the experiment. After insertion of the test animals (t = 0) with appropriate forceps or low-volume pipettes, water samples were taken from the test systems to determine the measured nominal concentrations. The water samples were extracted with n-hexane (99% pure) in graduated glass tubes by horizontal shaking for 3 min, subsequent layer separation for 10 min, after which approximately 1 ml of the upper (n-hexane) layer was transferred into amber GC vials and capped using lids with Teflon-lined septa. Samples were stored at -20°C until GC-ECD analysis. Water samples were taken after 0.5 (= 0), 48, and 96 h of application of chlorpyrifos. The intended and verified concentrations (t = 0) are listed in Table <ref type="table">1</ref> together with the replication of treatments, number of test animals per replicate, and test system used.</p><p>Investigated end points of toxicity in each test were mortality and immobilization at 24, 48, 72, and 96 h of exposure. At these time points, the number of dead and immobile animals were counted in each replicate. For every species, clear criteria were set beforehand to distinguish between immobilization and death. In detail, test animals showing abnormal movement (paralyzed limbs, inability to walk, missing reflexes) compared with control animals after repeated agitation with forceps were classified as immobile. Subsequently, if immobile animals did not show any visible movement within 30 s after repeated agitation, they were classified as dead. To distinguish between death and immobility, immobile specimens of some species (Asellus aquaticus, Chaoborus obscuripes, Cloeon dipterum, D. magna, G. pulex, M. angustata, N. denticulata, Parapoynx stratiotata, Plea minutissima, and Sialis lutaria) were investigated using a binocular microscope, whereas the other species were controlled for effects macroscopically. D. magna was classified in the second step as dead if no heartbeat could be detected within 30 s. Ranatra linearis was classified as dead if no movement was detected after removing it from the water and putting it back upside down on the water surface, because mobile animals immediately turned themselves back, and immobile specimens would show at least limb movements in this position.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>For analysis of the effect data, first the total number of dead and immobile animals was calculated per replicate and observation time point, and dead animals were also counted as immobile. All subsequent calculations were performed on basis of the measured initial concentrations of each single replicate (for rationale see later text). The total number of dead and immobile animals per replicate, together with the initial number of test animals, was used to calculate EC 50s and LC 50 s, respectively. The calculation of EC 50 and LC 50 values was performed for every end point and every observation time by means of log-logistic regression using the software GenStat 11th edition (Lawes Agricultural Trust 2009, VSN International Ltd., Oxford, UK) and Equation <ref type="formula">1</ref>, with y being the fraction of dead or affected test animals (dimensionless), conc being the applied dose in lg/l on basis of the measured concentrations at t = 0, and the parameters a being ln EC 50 , b being slope in l/lg, and c being fraction of background effect, all of which were fitted:</p><formula xml:id="formula_0">yðconcÞ ¼ c þ 1 À c 1 þ e ÀbÁðln concÀaÞ</formula><p>For both mortality and immobility of species exposed to chlorpyrifos, SSDs <ref type="bibr" target="#b20">(Posthuma et al. 2002)</ref> were constructed per observation time point. For this the E T X 2.0 program <ref type="bibr">(Van Vlaardingen et al. 2004</ref>) was used, which fits a log-normal model to the data. For each SSD, the geometric mean of the log-transformed toxicity data (log HC 50 SSD data), their SD (r' SSD data), and 95% confidence interval (CI SSD data) were used as indicator and uncertainty measures for the variation in sensitivity observed <ref type="bibr" target="#b0">(Aldenberg and Jaworska 2000)</ref>. Furthermore, the median 5% and 50% hazardous concentrations (HC 5 and HC 50 ) and their confidence limits were calculated. The goodness-of-fit was tested using three different tests for normality: the Anderson-Darling-test, the Kolmogorov-Smirnoff test, and the Cramer van Mises test.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exposure</head><p>A prerequisite for the correct interpretation of effects of chemicals on biota is the confirmation of intended exposure regimes in experimental studies. Table 1 lists the measured concentrations of chlorpyrifos at the start of the experiments. The intended concentrations were well achieved with an average coefficient of determination of 0.97 ± 0.04, average slope = 0.86 ± 0.22, and average intercept = -0.55 ± 2.77 for linear regression across all experiments of intended and measured concentrations at t = 0. As expected, during the course of the experiment, the measured concentrations of chlorpyrifos in most of the test media decreased (Table <ref type="table" target="#tab_0">2</ref>). The experiments with the different species, however, showed differences in dissipation of chlorpyrifos ranging from 55.2% to 111.7% remaining after 48 h exposure and 21.9% to 120.7% remaining after 96 h of exposure (Table <ref type="table" target="#tab_0">2</ref>). Although no consistent pattern could be found when comparing species or treatments, the interplay of factors, such as animal size, bioconcentration, evaporation, and degradation, could explain these differences. For further calculation of L(E)C 50 values and SSDs, the initial concentrations in the static systems were used because of the short test duration and the relatively long organism recovery time shown for organophosphates <ref type="bibr" target="#b2">(Ashauer et al. 2007)</ref>.</p><p>In general, concentrations of chlorpyrifos in control replicates were lower than the respective LODs, but occasionally chlorpyrifos was measured in single control samples (C. obscuripes, D. magna, N. denticulata, P. stratiotata, Procambarus spec. juveniles, and S. lutaria), which explains the high variability in the intercept reported previously. These exceptions are related to cross-contamination of controls with chlorpyrifos due to its high volatility and associated contamination routes, especially when experiments with high-exposure concentrations were performed. In all the controls showing cross-contaminations, immobilization or mortality was \ 10% and therefore tolerated in the presented study. In the experiment with M. angustata, all control replicates were contaminated on average with 0.143 lg/l chlorpyrifos, and immobility was induced in one to two control animals per replicate (20% to 40%), leading indirectly to cannibalism. As a result, control mortality and increased mortality in the lower concentrations was observed during the experiment. Cannibalism was also observed at the lower concentrations, but not in the intermediate and high concentrations, where no mortality but full immobilisation was induced in all test animals and thus prevented cannibalism. Due to a current lack of data on the effects of chlorpyrifos for this species, it was decided rather to correct the total number of immobile or dead animals for further analysis instead of excluding the species. The data correction was performed by setting both concentrations of the contaminated control replicates and the induced immobility/mortality at 24 h in the first two treatments to zero.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effects on Mortality and Immobility</head><p>Effects of chlorpyrifos induced in a range of freshwater arthropods by short-term exposure in simple laboratory test systems are presented as concentration response relations for mortality and immobility (Tables <ref type="table">3</ref> and <ref type="table">4</ref>). Respective concentration-response parameters are reported (according to Equation <ref type="formula">1</ref>) next to L(E)C 50 values and their confidence limits. At least the highest test concentrations of chlorpyrifos induced 100% immobility within the 96-h exposure in all species except in C. dipterum, where 93% of all test animals were immobile at the end of the experiment. In P. stratiotata, all initial test animals in the highest concentration were immobile at 72 h of exposure, but subsequent recovery occurred, resulting in 70% immobilization at the end of the experiment. In contrast, at least the highest concentrations induced 100% mortality only in 6 of the 14 experiments (Anax imperator, G. pulex, P. minutissima, Procambarus spec. adults and juveniles, and R. linearis), and for some species no mortality (S. lutaria, M. angustata) or low mortality (A. aquaticus) was observed within the time of exposure, even at the highest concentrations. For the remaining 5 species, we found between 70% and 87% mortality (C. obscuripes, C. dipterum, D. magna, N. denticulata, Notonecta maculata, and P. stratiotata) at their respective highest concentrations. Figure <ref type="figure" target="#fig_1">1</ref> illustrates that for some species the differences between lethal and sublethal effect concentrations are substantial independent of time, whereas others show a relatively good match.</p><p>The observed effects on mortality and immobilisation for the tested species is in the range reported in literature, which is up to 3 to 4 orders of magnitude for both lethal and sublethal effects for up to 96 h <ref type="bibr" target="#b29">(Van Wijngaarden et al. 1993;</ref><ref type="bibr" target="#b13">Maltby et al. 2005;</ref><ref type="bibr" target="#b22">Rubach et al. 2010)</ref>. In addition, L(E)C 50 values for particular species agree well with previous findings, with the exception of C. obscuripes, for which an LC 50 22 times higher (6.6 lg/l, 96-h exposure) was previously determined <ref type="bibr" target="#b29">(Van Wijngaarden et al. 1993</ref>). These investigators also observed differences in the concentrations inducing mortality and immobility for some arthropod taxa (A. aquaticus, Proasellus coxalis, G. pulex, C. dipterum, C. horaria, and C. obscuripes) and, again, no mortality was induced within 96 h of exposure for A. aquaticus and also Caenis horaria in their study. Although the experiments of <ref type="bibr" target="#b29">Van Wijngaarden et al. (1993)</ref> were either performed in flow-through or semistatic test systems and therefore under constant exposure, the congruence of results with our study shows that for chlorpyrifos exposures up to 96 h the initial (peak) concentrations are equally representative for effects induced within this period of time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dynamics of Effects and Their Variability</head><p>As expected, the effects of chlorpyrifos on both mortality and immobility increase in time in all tested species, which can be seen from the overall decrease in L(E)C 50 values (Fig. <ref type="figure" target="#fig_2">2</ref> and Tables <ref type="table">3</ref>, <ref type="table">4</ref>). Chlorpyifos mainly acts on the nervous system by inhibiting the enzyme acetylcholinesterase, leading to a synaptic block and therefore inhibiting Taken from <ref type="bibr">(Rubach et al. in press)</ref> electric signal transmission. This first leads to sublethal intoxication symptoms, and subsequent death is likely caused by final respiratory failure <ref type="bibr" target="#b8">(Eaton et al. 2008)</ref>. Hence, as expected, observations of immobility consistently resulted in lower EC 50 values in time compared with their respective LC 50 values, although the difference between these end points decreased during the course of the experiment, especially for D. magna, for which the LC 50 /EC 50 ratios decreased from 128.6 to 4.75 in 72 h (Fig. <ref type="figure" target="#fig_2">2</ref>). In general, it is logical that the effect concentrations for immobility and mortality will converge to the same value with time; however, it is evident that this does not occur with the same speed for all the tested species (Fig. <ref type="figure" target="#fig_2">2</ref>). For some species, the differences between LC 50 and EC 50 even stayed relatively constant within the 96 h of test duration. However, for the species A. imperator, C. dipterum, G. pulex, Procambarus spec., and R. linearis, a good match between effective and lethal concentrations was observed right from the start of the experiments (estimated LC 50 /EC 50 ratios approximately 1; see also Figs. <ref type="figure" target="#fig_1">1</ref> and <ref type="figure" target="#fig_2">2</ref>). In contrast, for a third group of species (N. denticulata, N. maculata, and P. stratiotata), the difference between EC 50 and LC 50 values for a particular species does not necessarily change in time (LC 50 /EC 50 ratios were constantly approximately 2, 2, and 9, respectively). In addition, the extent to which LC 50 and EC 50 values differ for certain time points seems rather speciesspecific, especially for S. lutaria and M. angustata, in which no significant incipient mortality was induced by the applied concentrations but in which immobility was induced at quite low concentrations (Fig. <ref type="figure" target="#fig_2">2</ref>). This is interesting in the sense that these species-specific differences in incipient mortality or immobility can be either due to differences in toxicokinetics and/or toxicodynamics. For instance, on one hand, S. lutaria, M. angustata, and A. aquaticus could have the ability to either decrease or regulate uptake and/or elimination of chlorpyrifos, to biotransform chlorpyrifos slower to the chlorpyrifos-oxon, or to detoxify the latter quickly and therefore delay incipient mortality significantly, all of which would relate to differences in toxicokinetics. In contrast, differences in the species responses might be caused by other processes pertaining to toxicodynamcis, e.g., differences in the interaction of chlorpyrifos and acetylcholinesterase (target enzyme) or in the ability to compensate or repair damage. For details on toxicokinetics and toxicodynamics see <ref type="bibr" target="#b1">Ashauer et al. (2006)</ref>. <ref type="bibr">Rubach et al. (in press</ref>) measured uptake and elimination kinetics of 14 C-labeled chlorpyrifos in the same species and indicated that B38% of the variation in sensitivity (EC 50 , immobilisation in 48 h, same data) may be explainable by uptake and B28% by elimination kinetics. Interestingly, S. lutaria, A. aquaticus, and M. angustata, which responded with a remarkable concentration difference between incipient immobility and mortality in this study, show high bioconcentration factors (9625, 3242, and 5331 lg/kg ww , respectively). Because their uptake rates are moderate to high, and because immobility is effectively induced at much lower concentrations, differences in uptake itself can be excluded. More likely are differences in biotransformation rates (either bioactivation or detoxification) or a highly efficient compensatory gene-regulation ability. The most insensitive of the investigated species, N. denticulata, shows high uptake and high elimination rates and therefore a moderate bioconcentration, which partly explains its insensitivity.</p><p>Clearly, the extent of variation in observed sensitivity to chlorpyrifos across species highly depends on the end point under consideration, which is already evident from the concentration-response relations but also from the SSDs shown in Fig. <ref type="figure">3</ref>. The SSDs also indicate by the ''left shift'' of both mortality and immobilisation that effects increase in time. The slopes of the SSDs for immobility do not seem to be significantly different; however, the variability increases slightly in time, as indicated by an increase in r' (Table <ref type="table" target="#tab_1">5</ref>). Nevertheless, the CIs of the SSD (Table <ref type="table" target="#tab_1">5</ref>) show a strong overlap; therefore, this trend cannot be confirmed reliably, and species variation in immobilisation might still be relatively constant in time. The variation in mortality is generally much higher and also relatively constant in time (r', Table <ref type="table" target="#tab_1">5</ref>) until 72 h of exposure, after which a sharp increase in species variability was observed. This is evident from the high r' (Table <ref type="table" target="#tab_1">5</ref>) and low slope of the SSD for 96 h, but only if all available species are included in the SSDs (Fig. <ref type="figure">3</ref>). This impact on the slope is an artefact caused by the species selection and the close-to-zero mortality in A. aquaticus, M. angustata, and S. lutaria, for which no LC 50 could be calculated and which were thus  The species M. angustata is not shown because only 24-and 48h observations were available, and no mortality was observed not included in the SSDs for exposure times B96 h. If these insensitive species (with high LC 50 values) had been included for all time points, the slopes of these mortality SSDs would have been similar in time or even lower than the one for 96 h of exposure, and r' would have indicated an even bigger variation. Therefore, the variability in immobility is generally lower than for mortality; however, both are relatively stable in time if based on the same selection of species. The ratio of HC 50 (mortality)/HC 50 (immobility) derived from Table <ref type="table" target="#tab_1">5</ref> decreases slowly in time (2.9, 2.4, 2.1, 2.0) when based on the same species selection; similarly, if all 14 species are included in the 96h mortality SSD this ratio is 4.4. This shows that strong differences in time-dependent toxicity exist between species and that the SSD can only account for this if species selection is restricted to similarly reacting groups.</p><p>Choice of End Point for ERA Until now, from the perspective of individual sensitivity response, the presented data support the assumption that immobility is the better end point when investigating a neurotoxic substance, such as chlorpyrifos, because paralysis is the first visible symptom, and a species-specific time lag until incipient mortality was found for several species. In addition, also from a population sustainability viewpoint, immobility is almost just as relevant as mortality.</p><p>Where on one hand, mortality is unilateral in the sense that a dead specimen cannot become alive again, any immobile or otherwise sublethally affected specimen may become mobile again and thus be able to contribute to a population's sustainability. In contrast, an immobile specimen is likely going to be outcompeted, starved, drifted, or predated quickly under field conditions and also more prone to multiple stress regimes. However, when the risk assessment is based on SSDs rather than on safety factors, including only data based on immobility, illogically does not always yield the most conservative threshold but may deliver a more confident estimate of the HC 5 due to less variation in the species selection. Steep SSDs with higher confidence, as calculated here for immobility, will deliver less conservative HC 5</p><p>0.1 1000 10000 72h 24h 48h 72h 0.0 0.0 0.2 0.2 0.4 0.4 0.6 0.6 0.8 0.8 1.0 1.0 1000 1000 EC50, immobility data [µg/L] EC50, immobility data [µg/L] 0.1 1000 10000 72h 24h 48h 72h 0.0 0.0 0.0 0.2 0.2 0.2 0.4 0.4 0.4 0.6 0.6 0.6 0.8 0.8 0.8 1.0 1.0 1.0 0.001 0.001 0.001 0.01 0.01 0.01 0.1 1 1 0.00 0.001 1 .0 .0 0 1 0 1 .1 .1 0 0 1 1 0 10 00 00 1 1 1 0 0 0 10000 0 00000 00000 1 1 1 1 1 0 10 10 00 00 1 1 100 1000 10000 100000 100000 100000 LC50 data [µg/L] LC50 data [µg/L] LC50 data [µg/L] Potentially Affected Fraction Potentially Affected Fraction Potentially Affected Fraction Potentially Affected Fraction Potentially Affected Fraction Potentially Affected Fraction 24h 24h 24h 24h 48h 48h 48h 48h 72h 72h 96h 96h 96h 96h 96h 96h 96h 96h 24h 48h 72h 24h 48h 72h <ref type="table">96h 96h 96h 96h</ref> Fig. <ref type="figure">3</ref> SSDs for freshwater arthropod species under 24-, 48-, 72-, and 96-h exposure to chlorpyrifos constructed from observations of immobility (upper panel) and mortality (lower panel). For mortality, SSDs were calculated from 24 to 96 h using the same closed data set (minimum number) of species (k = 11, empty symbols) and for 96 h using the maximum number of species available (k = 14, filled symbols) to illustrate the influence of species selection. In Table <ref type="table" target="#tab_1">5</ref>, the SSD indicator values and statistical details are given values than shallower SSDs, such as shown here for mortality after 96 h of exposure. This is especially the case if the lower end of the curve shows a bad fit with the data (as the 96-h mortality SSD for all species in Fig. <ref type="figure">3</ref>). Such SSDs can, however, be excluded using goodness-of-fit measures, especially the Anderson-Darling test, which is sensitive for the quality of fit in the lower concentration range <ref type="bibr">(Van Vlaardingen et al. 2004)</ref>. All presented SSDs passed the three performed goodness-of-fit tests with p \ 0.001, except for the 96-h mortality SSD with all species included, which did not pass the Anderson-Darling and the Cramer van Mises tests (both p \ 0.1). The lower confidence limit of the HC 5 (LLHC5) derived from an SSD may serve as a protective threshold in higher-tier risk assessment <ref type="bibr" target="#b14">(Maltby et al. 2009;</ref><ref type="bibr" target="#b4">Brock et al. 2010)</ref>. This value can differ substantially between different observation times and different end points (see Table <ref type="table" target="#tab_1">5</ref>) depending on the species selection. Although in general a rather conservative threshold, the protectiveness of the LLHC5 highly depends on the incipient time of the effect, the end point included (which correlates to the incipient of effects), the extent to which the species included in the SSD vary in their sensitivity, and other quality criteria as reviewed in <ref type="bibr" target="#b4">Brock et al. (2010)</ref>. Our results show that the most confident estimates can be derived with an SSD when immobility after sufficient time of exposure is chosen as an end point for the SSD. Herewith, if these ''quality criteria'' are addressed, the convolution caused by inclusion of insensitive species does not touch the usefulness of the SDD as a tool for ERA, especially if the most sensitive group for one chemical is well represented in the SSD <ref type="bibr" target="#b27">(Van Den Brink et al. 2006</ref>); however, it also clearly shows that an SSD does not necessarily represent the true existing variation in sensitivity.</p><p>Other end points, in addition to mortality and immobility, describing population sustainability, such as reproduction, can be derived from chronic testing but cannot be deduced from short-term tests. To derive a good and conservative proxy for population sustainability, another sublethal end point such as postexposure feeding inhibition should be considered for short-term testing <ref type="bibr" target="#b18">(McWilliam and Baird 2002;</ref><ref type="bibr" target="#b24">Satapornvanit et al. 2009</ref>). If a specimen is not able to feed within a given time period, e.g., 24 h after the end of a short-term exposure, it is rather unlikely that it is able to contribute to the population's sustainability. This, however, is yet far from being taken into account in current risk-assessment practices. Another problematic issue for the selection and definition of an appropriate end point for ERA when comparing effects on species are the criteria that must be set for this particular end point. For instance, in this study, transparent species could be observed for heartbeat and thus had a good criterion by which to distinguish death from immobility. Nontransparent and highly-sclerotised species, however, do not provide such clear-cut criteria to determine clinical death. In the present study, the end point criteria for each species were rather well defined, thus minimizing such described difficulties.</p><p>To improve ERA, the identification of the best end point for assessing the risk of a certain group of chemicals must be based on its exposure scenario, its functional relevance for the mode or mechanism of action, its toxicity in time or on other previous knowledge, and the ecologic consequences of a given end point.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The presented data set demonstrates that freshwater arthropod species can be highly variable in their dynamic response toward a particular stressor. What exactly causes these differences in sensitivity within such a narrow group of taxa in response to chlorpyrifos, an insecticide designed to affect this particular test group, remains mostly unclear. Hypothetically, the differences in effects among tested species are partly related to differences in bioconcentration, but biotransformation and/or differences in the amount of internally caused damage and/or differences in their abilities to recover or repair the induced damage must also play a major role. However, clear mechanistic explanations remain open, considering the current lack of knowledge on how these processes differ in the tested arthropods. Furthermore, presented findings illustrate the importance of considering an appropriate end point for a protective risk assessment based on knowledge about the mode of action of a particular group of compounds. In general, but surely for neurotoxic compounds, such as organophosphates, immobilization in favour of mortality may be the appropriate end point to use for further risk assessment. Mortality and/or immobility, however, might not be the appropriate end points for other nonneurotoxic compounds, such as growth or molting inhibitors, endocrine disruptors and mutagenic or genotoxic substances. For other modes of action, the most relevant end points for further ecologic risk assessment still need to be defined on basis of the function(s) affected by the mode of action and the relevance of these function(s) in a field scenario. The test-length of short-term toxicity tests for some of those types of compounds is not sufficient, but more realistic approximations of acute risks may be derived from shortterm tests if a postexposure feeding assay is performed after a 96-h exposure. However, sublethal effects are sometimes reversible, meaning that recovery even on individual level is possible. In ERA, probabilistic approaches, such as the SSD, provide useful tools to derive protective threshold values; however they do not necessarily account for true variation in sensitivity. Compared with the mechanistic effect models described, these tools are not based on the processes of toxicity, and, therefore, extrapolation of information from one chemical to the other is difficult. Future research may be able to relate certain species characteristics to these processes and also to modeof-action-specific sensitivity and thus provide a more mechanistic understanding on which to base and evaluate ERA.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>a</head><figDesc>Origin of test animals: A = Sinderhoeve ditches, B = Sinderhoeve cosms, C = culture at Alterra laboratories, D = Lake Groene Hoevel (sandy oligotrophic), Wijchen, The Netherlands, E = Sinderhoeve storage basin b Test system: * 100-ml screw-cap glass vials; ** 250-ml SCHOTT flasks; *** 600-ml beaker; **** 1.5-l WECK beaker; ***** aquaria; g = stainless steel gauze for structure, of parasitic mites were removed 1 week before start of the experiment</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Measured LC 50 versus EC 50 values of chlorpyrifos estimated for 14 species freshwater arthropods under constant exposure for 24, 48, 72, and 96 h. If zero/low mortality was observed in the experiments, no LC 50 value was calculated; numbers in the plot indicate which substitute value was used</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2</head><label>2</label><figDesc>Fig.2Dynamics of 50% lethal and effective concentrations for each species. Filled symbols and solid lines represent mortality (LC 50 ), and empty symbols and dashed lines represent immobility (EC 50 ). Grey symbols show the surrogate values for no or low observed mortality as shown in Fig.1. The species M. angustata is not shown because only 24-and 48h observations were available, and no mortality was observed</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2</head><label>2</label><figDesc>Dissipation of chlorpyrifos in test media during the course of the experiment relative to initially measured concentrations</figDesc><table><row><cell></cell><cell cols="3">Remaining chlorpyrifos after 48 and 96 h of exposure</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">A: Second highest treatment</cell><cell></cell><cell cols="2">B: Highest treatment</cell><cell></cell></row><row><cell>Species</cell><cell>0 h (lg/l)</cell><cell>48 h (%)</cell><cell>96 h (%)</cell><cell>0 h (lg/l)</cell><cell>48 h (%)</cell><cell>96 h (%)</cell></row><row><cell>A. imperator</cell><cell>7.3</cell><cell>88.5</cell><cell>Empty</cell><cell>14.3</cell><cell>81.1</cell><cell>Empty</cell></row><row><cell>A. aquaticus</cell><cell>2.9</cell><cell>70.1</cell><cell>40.4</cell><cell>6.1</cell><cell>67.4</cell><cell>38.9</cell></row><row><cell>C. obscuripes</cell><cell>3.3</cell><cell>81.6</cell><cell>37</cell><cell>3.9</cell><cell>75.7</cell><cell>74.4</cell></row><row><cell>C. dipterum</cell><cell>0.3</cell><cell>95.2</cell><cell>92.4</cell><cell>0.8</cell><cell>96.6</cell><cell>87.4</cell></row><row><cell>D. magna</cell><cell>0.9</cell><cell>84.3</cell><cell>62.3</cell><cell>2.5</cell><cell>86.7</cell><cell>64.5</cell></row><row><cell>G. pulex</cell><cell>0.24</cell><cell>60.8</cell><cell>22</cell><cell>0.4</cell><cell>72.3</cell><cell>57.8</cell></row><row><cell>M. angustata</cell><cell>7.3</cell><cell>87.5</cell><cell>63.2</cell><cell>29.1</cell><cell>69.4</cell><cell>51.7</cell></row><row><cell>Neocaridinia denticulata</cell><cell>228</cell><cell>55.4</cell><cell>39.5</cell><cell>735</cell><cell>58</cell><cell>34.9</cell></row><row><cell>N. maculata</cell><cell>15.6</cell><cell>76.2</cell><cell>63.3</cell><cell>50.2</cell><cell>80.7</cell><cell>40.5</cell></row><row><cell>P. stratiotata</cell><cell>16</cell><cell>70.1</cell><cell>52.4</cell><cell>23</cell><cell>111</cell><cell>49.4</cell></row><row><cell>P. minutissima</cell><cell>8.9</cell><cell>86.9</cell><cell>82.8</cell><cell>13.5</cell><cell>111.7</cell><cell>120.7</cell></row><row><cell>Procambarus spec. (adults)</cell><cell>30</cell><cell>85.1</cell><cell>21.9</cell><cell>42</cell><cell>71.4</cell><cell>Empty</cell></row><row><cell>Procambarus spec. (juveniles)</cell><cell>3.2 a</cell><cell>85.3</cell><cell>49.8</cell><cell>14.1 a</cell><cell>Empty</cell><cell>Empty</cell></row><row><cell>R. linearis</cell><cell>NA</cell><cell>NA</cell><cell>NA</cell><cell>NA</cell><cell>NA</cell><cell>NA</cell></row><row><cell>S. lutaria</cell><cell>65</cell><cell>80.3</cell><cell>70</cell><cell>327</cell><cell>78.1</cell><cell>65.8</cell></row><row><cell>NA not available (samples were lost)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>a Highest treatment (107 lg/l) induced 100% mortality (denoted 'empty') after 24 h in this species; therefore in A the third highest and in B the second highest treatment are shown</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 5</head><label>5</label><figDesc>SSD characteristics a HC 5 and HC 50 denote the 5% or 50% hazardous concentration; log HC 50 is the geometric mean of the log SSD data; r 0 denotes the SD of the log SSD data; CI denotes 95% CI of the log SSD data</figDesc><table><row><cell>Outcome</cell><cell>SSD characteristic</cell><cell cols="4">24 h 48 h 72 h 96 h b</cell></row><row><cell cols="2">Immobility n (no. of species)</cell><cell>15</cell><cell>15</cell><cell>14</cell><cell>14</cell></row><row><cell></cell><cell cols="5">Log HC 50 (SSD data) 0.827 0.501 0.333 0.155</cell></row><row><cell></cell><cell>r 0 (SSD data)</cell><cell cols="4">0.678 0.766 0.806 0.834</cell></row><row><cell></cell><cell>CI (SSD data)</cell><cell cols="4">0.343 0.388 0.423 0.437</cell></row><row><cell></cell><cell>HC 5 (lg/l)</cell><cell cols="4">0.49 0.16 0.09 0.06</cell></row><row><cell></cell><cell>Lower CI</cell><cell cols="4">0.12 0.03 0.02 0.01</cell></row><row><cell></cell><cell>Upper CI</cell><cell cols="4">1.18 0.44 0.28 0.17</cell></row><row><cell></cell><cell>HC 50 (lg/l)</cell><cell cols="4">6.71 3.17 2.15 1.43</cell></row><row><cell></cell><cell>Lower CI</cell><cell cols="4">3.30 1.42 0.90 0.58</cell></row><row><cell></cell><cell>Upper CI</cell><cell cols="4">13.66 7.07 5.19 3.54</cell></row><row><cell cols="2">Mortality n (no. of species)</cell><cell>11</cell><cell>11</cell><cell>11</cell><cell>14/11</cell></row><row><cell></cell><cell cols="5">Log HC 50 (SSD data) 1.287 0.917 0.607 0.794/0.45</cell></row><row><cell></cell><cell>r 0 (SSD data)</cell><cell cols="4">0.99 0.879 0.923 1.345/</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.983</cell></row><row><cell></cell><cell>CI (SSD data)</cell><cell cols="4">0.587 0.519 0.545 0.705/</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.581</cell></row><row><cell></cell><cell>HC 5 (lg/l)</cell><cell cols="4">0.40 0.21 0.17 0.03/0.06</cell></row><row><cell></cell><cell>Lower CI</cell><cell cols="4">0.03 0.02 0.02 0.002/</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.005</cell></row><row><cell></cell><cell>Upper CI</cell><cell cols="4">1.19 0.84 0.55 0.21/0.27</cell></row><row><cell></cell><cell>HC 50 (lg/l)</cell><cell cols="4">19.38 7.57 4.61 6.23/2.82</cell></row><row><cell></cell><cell>Lower CI</cell><cell cols="4">5.55 2.39 1.74 1.44/0.98</cell></row><row><cell></cell><cell>Upper CI</cell><cell cols="4">67.70 24.02 12.18 26.99/9.7</cell></row></table><note><p>a b For the 96-h mortality data, two SSDs were calculated, maximized and minimized data set, for comparison</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgments This work was financially supported by <rs type="funder">Wageningen University and Alterra</rs>, <rs type="funder">Syngenta</rs>, and <rs type="funder">Environment Canada</rs>, and the authors thank <rs type="person">Donald Baird</rs> and <rs type="person">Steve Maund</rs> for useful discussions. The authors also are indebted to <rs type="person">Maria Caldeira</rs>, <rs type="person">John Deneer</rs>, and <rs type="person">Michalis Papageorgiou</rs> for technical assistance and <rs type="person">Ivo Roessink</rs> and <rs type="person">Dick Belgers</rs> for help with the collection and culturing of test species. <rs type="person">Theo Brock</rs> provided helpful comments on an earlier version of the manuscript, and <rs type="person">Andrea Downing</rs> corrected the English. We also want to thank two anonymous reviewers, whose comments largely improved the manuscript.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Uncertainty of the hazardous concentration and fraction affected for normal species sensitivity distributions</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Aldenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Jaworska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecotoxicol Environ Saf</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Predicting effects on aquatic organisms from fluctuating or pulsed exposure to pesticides</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ashauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Boxall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Toxicol Chem</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1899" to="1912" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Modeling combined effects of pulsed exposure to carbaryl and chlorpyrifos on Gammarus pulex</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ashauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aba</forename><surname>Boxall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="5535" to="5541" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Understanding toxicity as processes in time</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kooijman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci Total Environ</title>
+		<imprint>
+			<biblScope unit="volume">408</biblScope>
+			<biblScope unit="page" from="3735" to="3739" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Linking aquatic exposure and effects -Risk assessment of pesticides</title>
+		<author>
+			<persName><forename type="first">Tcm</forename><surname>Brock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alix</forename><forename type="middle">A</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Capri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gottesbu ¨ren Bff</surname></persName>
+		</author>
+		<editor>Heimbach F et al</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>SETAC Press</publisher>
+			<biblScope unit="page" from="60" to="80" />
+			<pubPlace>Pensacola, FL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The myth of the most sensitive species</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cairns</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioscience</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="670" to="672" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Generator columns and highpressure liquid chromatography for determining aqueous solubilities and actanol-water partition-coefficients of hydrdrophobic substances</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Devoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Wasik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Res Natl Bur Stand</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="361" to="366" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Assessing contaminant sensitivity of endangered and threatened aquatic species: Part I. Acute toxicity of five chemicals</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Dwyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Sappington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Buckler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Bridges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">E</forename><surname>Greer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Environ Contam Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="143" to="154" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Review of the toxicology of chlorpyrifos with an emphasis on human exposure and neurodevelopment</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Eaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Daroff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Autrup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bridges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Buffler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Costa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crit Rev Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="1" to="125" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Modes of action in ecotoxicology: their role in body burdens, species sensitivity, QSARs, and mixture effects</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Escher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jlm</forename><surname>Hermens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="4201" to="4217" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Systems biology meets stress ecology: linking molecular and organismal stress responses in Daphnia magna</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Heckmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Sibly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Connon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Hooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Hutchinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Maund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Biol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">40</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Novel view on predicting acute toxicity: decomposing toxicity data in species vulnerability and chemical potency</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Posthuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>De Zwart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>De Meent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecotoxicol Environ Saf</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="311" to="322" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The analysis of aquatic toxicology data</title>
+		<author>
+			<persName><forename type="first">Salm</forename><surname>Kooijman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jjm</forename><surname>Bedaux</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>VU University Press</publisher>
+			<pubPlace>Amsterdam, The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Insecticide species sensitivity distributions: importance of test species selection and relevance to aquatic ecosystems</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Maltby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Blake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tcm</forename><surname>Brock</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Van Den</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Brink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Toxicol Chem</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="379" to="388" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Fungicide risk assessment for aquatic ecosystems: importance of interspecific variation, toxic mode of action, and exposure regime</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Maltby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tcm</forename><surname>Brock</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Van Den</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Brink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="7556" to="7563" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The parthenogenetic Marmorkrebs (marbled crayfish) produces genetically uniform offspring</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kohlmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Scholtz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Naturwissenschaften</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="843" to="846" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Time-concentration-effect models in predicting chronic toxicity from acute toxicity data</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Ellersieck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Krause</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Buckler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Risk assessment with time to event models</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Crane</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Newman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Chapman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Fenlon</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Lewis, Boca Raton, FL</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="39" to="67" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Enhancing ecotoxicological modeling and assessment</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Mccarty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mackay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1719" to="1728" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Postexposure feeding depression: a new toxicity endpoint for use in laboratory studies with Daphnia magna</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Mcwilliam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Baird</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Toxicol Chem</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1198" to="1205" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Time-to-event analyses of ecotoxicity data</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Mccloskey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecotoxicology</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="187" to="196" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Species sensitivity distributions in ecotoxicology</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Posthuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Suter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Traas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<pubPlace>Lewis, Boca Raton, FL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Anthropogenic pollutants: a threat to ecosystem sustainability?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Rhind</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philos Trans R Soc Lond B Biol Sci</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="page" from="3391" to="3401" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A new method for ranking mode-specific sensitivity of freshwater arthropods to insecticides and its relationship to biological traits</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Rubach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Van Den Brink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Toxicol Chem</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="476" to="487" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Toxicokinetic variation in 15 freshwater arthropod species exposed to the insecticide chlorpyrifos</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Rubach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ashauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Maund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Baird</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/etc.273</idno>
+		<ptr target="http://www3.interscience.wiley.com/cgi-bin/fulltext/123489257/PDFSTART" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ Toxicol Chem</title>
+		<imprint/>
+	</monogr>
+	<note>in press Van den Brink PJ</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Laboratory toxicity test and post-exposure feeding inhibition using the giant freshwater prawn Macrobrachium rosenbergii</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Satapornvanit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Little</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chemosphere</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="1209" to="1215" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Ecology: parthenogenesis in an outsider crayfish</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Scholtz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Braband</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tolley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Reimann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mittmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lukhaup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">421</biblScope>
+			<biblScope unit="page">806</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Comparative toxicity of ten organic chemicals to ten common aquatic species</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Thurston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Gilfoil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Meyn</forename><surname>El</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Water Res</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1145" to="1155" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Predictive value of species sensitivity distributions for effects of herbicides in freshwater ecosystems</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Van Den Brink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Blake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tcm</forename><surname>Brock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Maltby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Ecol Risk Assess</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="645" to="674" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">¯Normal distribution based hazardous concentration and fraction affected</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Van Leeuwen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Vermeire</surname></persName>
+		</author>
+		<idno>ETX2.0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">RVIM</title>
+		<imprint>
+			<date type="published" when="2004">2007. 2004</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Doordrecht, The Netherlands Van Vlaardingen P, Traas TP, Aldenberg; Bilthoven, The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Risk assessment of chemicals: an introduction, 2nd edn</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Acute toxicity of chlorpyrifos to fish, a newt, and aquatic invertebrates</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van Wijngaarden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Leeuwangh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wgh</forename><surname>Lucassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Romijn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ronday</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Velde</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull Environ Contam Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="716" to="723" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">An LC50 vs time model for the aquatic toxicity of reactive and receptor-mediated compounds. Consequences for bioconcentration kinetics and risk assessment</title>
+		<author>
+			<persName><forename type="first">Hjm</forename><surname>Verhaar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Legierse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kchm</forename><surname>Seinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hermens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jlm</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="758" to="763" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Exposure of the eggs to 17alpha-methyl testosterone reduced hatching success and growth and elicited teratogenic effects in postembryonic life stages of crayfish</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vogt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="291" to="296" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Life stages and reproductive components of the marmorkrebs (marbled crayfish), the first parthenogenetic decapod Crustacean</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vogt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tolley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Scholtz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Morphol</title>
+		<imprint>
+			<biblScope unit="volume">261</biblScope>
+			<biblScope unit="page" from="286" to="311" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

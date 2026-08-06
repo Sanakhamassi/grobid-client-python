@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">High-performance liquid chromatography separation and intact mass analysis of detergent-solubilized integral membrane proteins</title>
+				<funder>
+					<orgName type="full">Genome Canada</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Swedish Agency for Innovation Systems</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Ontario Ministry for Research and Innovation</orgName>
+				</funder>
+				<funder ref="#_8yTVV6Y">
+					<orgName type="full">Canadian Institutes for Health Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Novartis Research Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">GlaxoSmithKline</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Karolinska Institute</orgName>
+				</funder>
+				<funder ref="#_fV2gHQb">
+					<orgName type="full">Wellcome Trust</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Swedish Foundation for Strategic Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Canadian Foundation for Innovation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Knut and Alice Wallenberg Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Merck and Co., Inc.</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Ontario Innovation Trust</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Georgina</forename><surname>Berridge</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rod</forename><surname>Chalk</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Nazzareno</forename><forename type="middle">D '</forename><surname>Avanzo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Liang</forename><surname>Dong</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Declan</forename><surname>Doyle</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jung-In</forename><surname>Kim</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Xiaobing</forename><surname>Xia</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Nicola</forename><surname>Burgess-Brown</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Antonio</forename><surname>Deriso</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Elisabeth</forename><forename type="middle">Paula</forename><surname>Carpenter</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Opher</forename><surname>Gileadi</surname></persName>
+							<email>opher.gileadi@sgc.ox.ac.uk.</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Structural Genomics Consortium</orgName>
+								<orgName type="institution" key="instit1">University of Oxford</orgName>
+								<orgName type="institution" key="instit2">ORCRB</orgName>
+								<address>
+									<addrLine>Roosevelt Drive</addrLine>
+									<postCode>OX3 7DQ</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Cell Biology and Physiology</orgName>
+								<orgName type="institution">Washington University School of Medicine</orgName>
+								<address>
+									<addrLine>660 S. Euclid Avenue</addrLine>
+									<postCode>63110</postCode>
+									<settlement>St. Louis</settlement>
+									<region>MO</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">School of Biochemistry and Immunology</orgName>
+								<orgName type="institution">Trinity College</orgName>
+								<address>
+									<settlement>Dublin 2</settlement>
+									<country key="IE">Ireland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Institute of Molecular Biology and Biophysics</orgName>
+								<orgName type="institution">ETH Zürich</orgName>
+								<address>
+									<postCode>HPK D14.3 8093</postCode>
+									<settlement>Zürich</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Biochemistry</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<addrLine>South Parks Road</addrLine>
+									<postCode>OX1 3QU</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">High-performance liquid chromatography separation and intact mass analysis of detergent-solubilized integral membrane proteins</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2C95A160CAC604FAD73506FD11FE053F</idno>
+					<note type="submission">Sponsored Document Sponsored Document Sponsored Document Sponsored Document</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:08+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Integral membrane protein</term>
+					<term>HPLC</term>
+					<term>Electrospray ionization mass spectrometry</term>
+					<term>Methanol</term>
+					<term>Detergent</term>
+					<term>Intact mass analysis</term>
+					<term>LC-MS</term>
+					<term>Isocratic elution</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We have developed a method for intact mass analysis of detergent-solubilized and purified integral membrane proteins using liquid chromatography-mass spectrometry (LC-MS) with methanol as the organic mobile phase. Membrane proteins and detergents are separated chromatographically during the isocratic stage of the gradient profile from a 150-mm C3 reversedphase column. The mass accuracy is comparable to standard methods employed for soluble proteins; the sensitivity is 10-fold lower, requiring 0.2-5 μg of protein. The method is also compatible with our standard LC-MS method used for intact mass analysis of soluble proteins and may therefore be applied on a multiuser instrument or in a high-throughput environment.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Integral membrane proteins represent approximately 25% of the human proteome and are of crucial biological importance in regulating the composition of the cell and the extracellular environment, membrane potential, metabolism, cell structure, and signaling pathways. As a result of their position as the gateway to cells, they are also the targets for many drugs, in fact more than 50% of commercially available small molecule drugs target membrane proteins such as G-protein-coupled receptors, ion channels, transporters, other receptors, and enzymes <ref type="bibr" target="#b0">[1]</ref>. Despite the importance of membrane proteins in biology and pharmacology, to date only 246 crystal structures exist for membrane proteins <ref type="bibr" target="#b1">[2]</ref> in comparison to over 50,000 for soluble proteins, and only 14 of those structures are of human integral membrane proteins. The difficulties in expression, extraction, and isolation of homogeneous membrane proteins of high quality and quantity for crystallization trials have been well documented <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. Analysis of the proteins produced is also difficult. In particular, SDS-PAGE <ref type="foot" target="#foot_0">5</ref> provides very poor estimates of the molecular mass of membrane proteins.</p><p>Intact mass analysis by MS has proved to be an invaluable method for routine protein identification and quality assessment in the high-throughput production of soluble proteins for crystallography <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>. Published LC-MS techniques exist for intact mass analysis of integral membrane proteins using nonstandard mobile and stationary phases (for example, Refs. <ref type="bibr" target="#b7">[7]</ref><ref type="bibr" target="#b8">[8]</ref><ref type="bibr" target="#b9">[9]</ref><ref type="bibr" target="#b10">[10]</ref>). These methods are not easily adapted to routine mass spectrometric analyses and have not been widely adopted. We have developed a simple and robust LC-MS method for routinely determining accurate mass to within 1.0 Da of the calculated mass for integral membrane proteins, with a sensitivity ∼10-fold lower than our existing methods for soluble proteins. This fast and convenient method does not require pretreatment or protein precipitation for removal of detergents. Moreover, the method may be used interchangeably with soluble protein analysis on the same LC-MS instrument.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reagents</head><p>LC-MS grade reagents were purchased from Fluka (Sigma-Aldrich, UK). Detergents were purchased from Anatrace (Maumee, OH, USA). All other reagents were analytical grade purchased from Sigma-Aldrich.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cloning and expression of integral membrane proteins</head><p>Proteins from a variety of membrane protein families, including channels, transporters, and enzymes, were expressed in bacterial, yeast, or baculovirus-infected insect cell cultures using a variety of expression vectors and cell lines. All proteins examined were expressed as fusions to oligohistidine or FLAG tags. The proteins were extracted from whole cells or from membrane preparations using detergents, and were purified by immobilized metal affinity chromatography (IMAC) or M2 anti-FLAG agarose affinity purification as appropriate. The protein was further separated from contaminants using gel filtration chromatography, using a gel filtration buffer (typically 10-20 mM HEPES or Tris, pH 7.5, 150 mM NaCl or KCl, 0-10% glycerol, ±DTT) in the presence of appropriate detergent and in one instance (SCD; stearoyl-CoA desaturase) the addition of a known lipid mix. Where noted, the purification tag was cleaved using TEV protease. In some cases, the purified proteins were finally concentrated using either 50-or 100-kDa molecular weight cutoff Centricon (Millipore, Watford, UK) concentrator to between 0.1 and 6 mg/ml.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Chromatography</head><p>Reversed-phase chromatography was performed in-line prior to mass spectrometry using an Agilent 1100 HPLC system. Protein was diluted (between 5-fold and 20-fold in different experiments) with a solution of 1% formic acid to an injection volume of 10 μl and loaded on to a 4.6 mm internal diameter Zorbax 300SB-C3 column with column length of 50, 150, or 200 mm. Effective column length was extended by serial attachment of 50-and 150-mm columns. The solvent system used consisted of 0.1% formic acid in ultrahigh purity water (Millipore) (solvent A) and 0.1% formic acid in methanol (solvent B). The details of chromatography varied in different experiments as indicated in parentheses. Proteins were injected at initial conditions of 95% A and 5% B and a flow rate of 0.5 ml/min. After 1 min at 5% B, an initial linear gradient from 5% B to 95% B was applied, for 7 min (2-13 min). Elution then proceeded isocratically at 95% B for 10 min (3-15 min) before applying a second linear gradient from 95% B to 5% B over 2 min. Equilibration at 5% B for 2-4 min returned the system to the initial conditions (the times were varied in different experiments, as indicated in the figures). Chromatography was performed in a column oven set to 40 °C. The total amount of protein loaded varied from 0.2 to 6.0 μg.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mass spectrometry</head><p>Protein intact mass was determined using an MSD-ToF electrospray ionization orthogonal time-of-flight mass spectrometer (Agilent). The instrument was configured with the standard ESI source and operated in positive-ion mode. The ion source was operated with the capillary voltage at 4000 V, nebulizer pressure at 50 psig, drying gas at 350 °C, and drying gas flow rate at 10 L/min. The instrument ion optic voltages were as follows: fragmentor 250 V, skimmer 60 V, and octopole RF 250 V. These parameters are identical to our standard methods for intact mass measurement of soluble proteins.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analysis</head><p>Data analysis was performed using the MassHunter Qualitative Analysis Version B.01.03 Build 1.3.157.0 (Agilent) software. Individual LC scans were inspected and selected manually based on signal to noise and on the presence of a characteristic protein ionization series with at least five charge states. Varying numbers of scans were combined depending on the width of the chromatographic peak. Deconvolution was performed between 200 m/z and 3500 m/z, using peaks with a ratio of signal to noise greater than 30:1. The mass range for deconvolution was 10,000-100,000 Da and the step mass was 1 Da. Average mass was calculated at 90% of the peak height using a minimum of five consecutive charge states and a minimum "protein fit" score of 8. The technique used was to "walk" through the total ion chromatogram (TIC) one scan at a time, searching each individual m/z spectrum for a characteristic protein-like multiple ionization envelope. The initial walk through was used to determine the chromatographic characteristics of the detergent and to eliminate those regions where detergent is presumed to have caused detector saturation. Those spectra found to include a protein ionization envelope were combined and deconvoluted. Typically membrane proteins elute directly prior to or directly after the detergent, and are often coelute with some associated detergent. The ionization of the detergent species may then mask the protein ionization. When this was noted, axis zoom was used to clearly visualize the protein ionization spectrum, and only an area between the detergent species was used for deconvolution. Deconvolution of the m/z spectrum to neutral charge state was achieved using the set parameters described. The deconvoluted mass was compared with the theoretical mass derived from the DNA sequence of the expression construct for each protein. Where significant discrepancies between observed and theoretical mass occurred, these differences in mass were compared with expected mass changes for known modifications in the Unimod database (<ref type="url" target="http://www.unimod.org">http://www.unimod.org</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tryptic digestion and phosphorylation mapping</head><p>The identity of proteins in solution or in gel bands excised following SDS-PAGE was confirmed by tryptic digestion and tandem MS (LC-MS/MS). SDS-PAGE gel bands were excised as 1 × 4-mm slices using a gel cutting tip (GeneCatcher, Web Scientific) and stored in 10% MeOH at 4 °C. Prior to digestion, the methanol solution was removed and replaced with 100% acetonitrile for 2-5 min. The solution was then removed and replaced with 100 μl of 100 mM NH 4 HCO 3 (pH 8.0). For digestion of proteins in solution, an aliquot (&lt;30 μl) of the protein was added directly to 100 μl of 100 mM NH 4 HCO 3 . For phosphopeptide analysis, 30 μl of protein (0.5 mg/ml) in solution was diluted to 100 μl with 100 mM NH 4 HCO 3 (pH 8.0). In all cases, 1 μl of 1 M dithiothreitol was added and incubated at 56 °C for 40 min. Four microliters of 1 M iodoacetamide was then added and the reaction incubated at ambient temperature in the dark for 20 min. A further 1 μl of 1 M dithiothrietol, 200 μl of 100 mM NH 4 HCO 3 , and 1 μl of trypsin solution (sequencing grade, Sigma Cat. No. T 6567, 1 mg/ml in 0.01 M HCl) was then added. Tryptic digestion proceeded at 37 °C for 16 h and was terminated by the addition of 3 μl of formic acid. LC-MS/MS was performed using a Dionex U3000 nano HPLC coupled to a Bruker Esquire HCT ion trap mass spectrometer. The amount of 1-5 μl of tryptic digest was loaded on to a 200 μm i.d. × 5 cm PS-DVB monolith column (Pepswift, Dionex Corp.) A linear gradient of 0% B to 15% B was developed over 5 min, followed by a second linear gradient from 15% B to 40% B over 2 min. The column was washed at 90% for 2 min and then equilibrated at 0% B for a further 6 min. Solvent A was 2% (v/v) acetonitrile, 0.1% formic acid in water, solvent B was 80% acetonitrile, 0.1% formic acid. The flow rate was 2.5 μl/min. The mass spectrometer was operated in positive ion, standard enhanced mode with a scan rate of 8100 m/z/s and a scan range of 250-1800 m/z. The trap accumulation time was 200 ms and the accumulation target was 200,000 counts. Data-dependent peptide fragmentation was performed in Auto MSMS mode.</p><p>Phosphorylation mapping of protein KCNJ12 was performed as follows: phosphopeptide enrichment and tandem mass spectrometry were performed using the same instrumentation as for general peptide MS/MS. A total of 75 μl of KCNJ12 tryptic digest was loaded sequentially on to a 300 μm i.d. × 2-mm TiO 2 precolumn (5-μm particle size, Titanshphere, GL-Sciences, Japan) followed by a linear gradient of 0% B, 10% C to 90% B, 10% C over 14 min to elute nonphosphorylated peptides. Solvent A was 2% (v/v) acetonitrile, 0.1% formic acid in water, solvent B was 80% acetonitrile, 0.1% formic acid, and solvent C was 100% formic acid, with a flow rate of 3 μl/min. Phosphopeptides were eluted from the precolumn by injection of 5 μl of ammonium hydroxide solution (28% NH 3 ) from a sealed vial, and eluted isocratically in 100% solvent (A). Eluted phosphopeptides were passed directly to the electrospray source without further chromatography. Mass spectrometer parameters were as described above. Compound extraction and peptide deconvolution were performed using the DA data analysis program (Bruker Daltonik). Database searching was performed using the Mascot 2.2.04 search algorithm (Matrix Science) with the following search parameters: charge states +2, +3; MS tolerance 1.5 Da; MSMS tolerance 0.5 Da; UniProt/SwissProt database without taxonomic restrictions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of methanol as mobile phase B</head><p>Initial attempts to obtain intact mass for membrane proteins by LC-MS using our standard protocols for soluble proteins were unsuccessful. We found, however, that by replacing the organic acetonitrile phase with methanol we could record an accurate intact mass for the potassium channel KCNJ12 <ref type="bibr" target="#b11">[11]</ref> (Fig. <ref type="figure" target="#fig_0">1</ref>). A complex total ion current pattern appeared late in the chromatogram; a careful analysis of individual spectra was used to resolve specific features within this region of the chromatogram. The first major component appeared to be TEV protease (chromatogram region 1 in Fig. <ref type="figure" target="#fig_0">1A</ref>, elution time between 8.7 and 9.0 min); the presence of TEV protease was verified by deconvolution (data not shown). There followed a short peak of the detergent Cymal-6 (the major component of regions 2 and 3, elution time between 9.106 and 9.160 min), and then a dip in the TIC which appears to be detector saturation between 9.232 and 9.341. Between 10.409 and 10.698 min (region 4) another protein envelope was observed (Fig. <ref type="figure" target="#fig_0">1B</ref> and <ref type="figure">C</ref>). The deconvoluted mass spectrum shows one peak at 38738.6 Da, which corresponds to the accurate mass of the KCNJ12 protein after TEV cleavage (Fig. <ref type="figure" target="#fig_0">1D</ref>). However, the most prominent peak indicates a mass of 38817.4 Da. The mass difference of +78.8 Da suggests a phosphorylation. This was later confirmed by tryptic digest and phosphopeptide analysis, mapping the phosphorylation site to either Thr-353 or Ser-354 (data not shown). Phosphorylation of KCNJ12 at Thr-353 was suggested previously <ref type="bibr" target="#b12">[12]</ref> based on site-directed mutagenesis.</p><p>These results indicated that accurate mass analysis of membrane proteins was feasible. The key seemed to be the use of methanol as the mobile phase, and the careful search of multiple individual spectra for a characteristic protein ionization envelope. However, the analyses were not easy to reproduce with KCNJ12 or with other proteins (the initial success may have been associated with some unusual properties of a particular protein batch, e.g., purity or detergent:protein ratio). Furthermore, the elution of protein peaks after the isocratic segment of the chromatogram indicated that there was scope for optimization of the chromatographic procedure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of extended methanol gradient elution</head><p>Examination of the total ion chromatograms from the analyses of KCNJ12 (Fig. <ref type="figure" target="#fig_0">1</ref>) and a second membrane protein HVCN1 (data not shown) clearly showed that elution of both proteins and detergent occurs toward the end or after the 3 min 95% methanol isocratic section. We attempted three modifications of the chromatographic protocol: shortening the initial gradient, extending the length of the isocratic section at 95% B, and using longer columns.</p><p>The elution protocol was modified by shortening the initial gradient to 2 min (1.2 CV) rather than 6 min and extending the 95% methanol isocratic section to 7 min (4.2 CV). This method was applied to KCNJ12 (Fig. <ref type="figure" target="#fig_1">2A</ref>) and SCD (Fig. <ref type="figure" target="#fig_1">2B</ref>). This new LC-MS method was shown to be more reliable and able to separate membrane proteins from detergent. This separation occurred entirely over the isocratic section. Elution of salts was observed during the initial gradient phase. Step elution in 95% methanol plus 0.1% formic acid was attempted but proved unsuccessful (data not shown) as the detergent and protein eluted over a narrow section of the TIC and detector saturation was still observed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of column length</head><p>As another route to improve the chromatographic separation of membrane proteins and detergents we tested longer C-3 columns (150 and 200 mm versus 50 mm). The initial methanol gradient was developed over 7 min (1.4 CV and 1.05 CV for the 150-and 200-mm columns, respectively) and the 95% methanol isocratic section was extended to 10 min (2 CV and 1.5 CV, respectively). Overall, this improved the chromatographic separation as shown for SCD (Fig. <ref type="figure" target="#fig_1">2C</ref> and <ref type="figure">D</ref>). Two other proteins, HVCN1 and ZMPSTE24, also showed improved separation on the longer columns (data not shown). The different species of detergent were also separable using the longer column and the extended isocratic stage (Table <ref type="table" target="#tab_0">1</ref>). Further extension to 200 mm also proved beneficial and increased the separation of the free detergent from the protein without detector saturation. Furthermore, we observed the separation of excess free lipids from protein isolated in the presence of detergent and lipid species (Fig. <ref type="figure" target="#fig_3">4</ref>).</p><p>The details of the chromatograms vary between samples. Although we generally find that free detergents elute early, followed by proteins, and then other contaminants, the details of elution times, peak shape, and size vary between different samples. It is crucial, therefore, to carefully scan the m/z spectra throughout the chromatogram to identify the region containing data on protein m/z.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mass accuracy and sensitivity</head><p>Using methanol gradient elution and one of the three chromatographic protocols outlined above we obtained LC-MS data and intact mass values for seven integral membrane proteins from five distinct families, purified in the presence of six different detergents. The choice of detergent was dependent on the protein purification, rather than as a parameter for LC-MS. The observed masses compared with theoretical mass for each protein, using data from 28 separate measurements, are shown in Table <ref type="table">2</ref>. In all cases where the mass difference (ΔM) was ⩾2 Da, a plausible interpretation could be provided: most often, the removal of the initiator methionine <ref type="bibr" target="#b13">[13]</ref>, with an occasional acetylation or carboxylation. These enzymatic posttranslational modifications are commonly observed for the expression systems used (Refs. <ref type="bibr" target="#b14">[14]</ref><ref type="bibr" target="#b15">[15]</ref><ref type="bibr" target="#b16">[16]</ref> and unpublished observations). Taking these presumed posttranslational modifications into account, the mean mass accuracy for proteins ranging in size from 34 to 67 kDa was ±2 Da and comparable to that observed for soluble proteins using standard methods. Since the predicted mass and identity of each protein was known in advance, in all cases the mass accuracy was deemed sufficient to confirm the identity and integrity of the analyzed protein, as well as providing a tentative identification of modification states.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Detergents and protein-detergent association</head><p>In addition to accurate mass spectra for integral membrane proteins, it was possible to obtain spectra for free detergent species in the solution and to identify detergent species which appear to be noncovalently associated with the membrane protein. Fig. <ref type="figure" target="#fig_2">3</ref> shows an example of protein-associated detergent molecules. The deconvoluted mass spectrum of the ATP binding cassette protein ABCB10 shows a mass of 67117.37 Da, which we interpret as the predicted mass after methionine removal and acetylation. Three additional peaks match the protein mass plus 1, 2, or 3 molecules of dodecyl maltoside, the detergent used in purification. In addition to protein-associated detergents, free detergents and lipids are clearly seen in m/z spectra: for example, the peaks of DDM in Fig. <ref type="figure" target="#fig_2">3B</ref>, of Cymal-6 in Fig. <ref type="figure" target="#fig_0">1B</ref>, and of lipids (DOPC, dioleoylphosphatidylcholine) in Fig. <ref type="figure" target="#fig_3">4B</ref>. Note that the detergent peaks often dominate the m/z spectrum (as in Fig. <ref type="figure" target="#fig_2">3B</ref>), making the protein spectrum hard to detect in a casual inspection. Table <ref type="table" target="#tab_0">1</ref> lists the ions we observed in spectra of detergentcontaining samples. These data can be useful in monitoring the efficiency of detergent exchange; it is very important to verify that the LC column is completely washed of detergent residues, as these tend to persist and appear in subsequent samples.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations and practical considerations</head><p>The largest protein for which we obtained mass spectra was of 67 kDa; attempts to analyze significantly larger proteins (140-250 kDa) failed. This is commonly observed with soluble proteins, although the size limitation is unlikely to be absolute. Similarly, we have obtained experimental masses of proteins purified in some detergents (DM, DDM, Cymal-6, FC14, FC16, OG ± cholesterol hemisuccinate), but not with other detergents, including LDAO and C18E8.</p><p>The concentrations of the protein and the detergent are also important for success. Protein samples as low as 0.27 μg could be analyzed, although more typically 1-5 μg was required (protein concentrations above 0.2 mg/ml have been successful). Many detergents are concentrated along with the protein in standard centrifugal concentrators, even when 100-kDa cutoff membranes are used. The high detergent concentrations, often &gt;0.5%, suppress the protein signal. One possible way to alleviate this problem is to purify the protein by gel filtration in a buffer containing no more than three times the critical micelle concentration of the protein, then take a sample of the highest concentration fraction from the gel filtration for LC-MS analysis, avoiding the accumulation of detergents in a spin concentrator.</p><p>Finally, the purity of the protein is an important factor; because of the complexity of the protein-detergent spectra it is difficult to deconvolute mixed or heterogeneously degraded proteins. However, in cases where the spectra are exceptionally clean, we have been able to resolve separate proteins in a mixed ion population (Fig. <ref type="figure" target="#fig_4">5</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Protein confirmation by tryptic peptide analysis</head><p>As an alternative method of protein identification we have applied tryptic digest followed by tandem MS on an ion trap. The procedures were the same as those used for soluble proteins. This analysis could be applied to purified proteins as well as isolated gel bands from impure preparations. A summary of MS/MS data obtained for the proteins described in this work is shown in Table <ref type="table" target="#tab_1">3</ref>. The peptide coverage is low, typically limited to the hydrophilic regions of an integral membrane protein. MS/MS results are often sufficient for unequivocal identification of the protein, and are particularly useful in identification of gel bands from intermediate stages of purification. However, peptide data very rarely confirm the integrity of the protein and its posttranslational modification status. Intact mass and tryptic digest MS/MS are best viewed as complementary analytical techniques.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Accurate determination of the intact mass of proteins is an important tool in protein analysis. Whether purifying naturally expressed or recombinant proteins, knowledge of the intact mass can establish the identity of the protein as well as its integrity, and provide data on protein modifications. To achieve this, the analysis should be reproducible, of high mass accuracy, and (ideally) using standardized methods that allow routine application in a busy MS facility. Such capabilities have long existed for soluble proteins, and have been used as a major tool for identification and quality assurance in a high-throughput protein production <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>.</p><p>There is a general perception that membrane proteins are incompatible with intact mass analysis by standard LC-MS. We have attempted to apply our standard LC-MS methods to integral membrane proteins, using acetonitrile as the mobile phase, but failed to produce protein mass spectra. There are several processes which may be contributing to the difficulties in membrane protein MS:</p><formula xml:id="formula_0">(i)</formula><p>Proteins may precipitate during the chromatography phase.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(ii)</head><p>Proteins may bind tightly to the HPLC stationary phase and thus fail to elute.</p><p>(iii) Detergents may undergo preferential ionization and thereby suppress ionization of the associated membrane protein.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(iv)</head><p>The proteins may remain associated with heterogeneous amounts of detergents.</p><p>Detergents are known to cause signal suppression and instrument contamination in LC-MS analysis and their use is often avoided. Previous reports have accomplished mass determination of membrane proteins by a number of approaches. Treatment of the samples prior to chromatography to remove detergents followed by direct infusion in formic acid or using a specialized LC setup enabled accurate mass analysis of bacteriorhodopsin and spinach thylakoid membrane proteins D1 and D2 <ref type="bibr" target="#b9">[9,</ref><ref type="bibr" target="#b10">10,</ref><ref type="bibr" target="#b17">17]</ref>. Cadene and Chait <ref type="bibr" target="#b7">[7]</ref> and Takayama et al. <ref type="bibr" target="#b8">[8]</ref> demonstrated MALDI-MS analysis of integral membrane proteins with useful though rather lower mass accuracy. When the objective is to analyze multisubunit or protein-detergent complexes, direct infusion MS has been the method of choice <ref type="bibr" target="#b18">[18]</ref><ref type="bibr" target="#b19">[19]</ref><ref type="bibr" target="#b20">[20]</ref><ref type="bibr" target="#b21">[21]</ref>. In particular Barrera et al. <ref type="bibr" target="#b19">[19]</ref> have shown that gas-phase ionization occurs for proteindetergent complexes in the native state, and that dissociation of these complexes can be initiated by manipulation of the collision cell voltages. The mass accuracy has been sufficient to determine the gas-phase interactions taking place, but unit mass accuracy, necessary for confirmation of sequence, has not been shown. The specially modified m/z range instruments used in this work appear to be limited to a resolution of only 3000 <ref type="bibr" target="#b22">[22]</ref>.</p><p>To our knowledge, neither LC-electrospray-ionization nor MALDI methods have been widely adopted. When faced with the challenge of integral membrane protein analysis most laboratories have chosen a "bottom-up" approach by LC-MSMS analysis of tryptic peptides (reviewed in Ref. <ref type="bibr" target="#b23">[23]</ref>).</p><p>The initial observation of this study was prompted by a global shortage of acetonitrile, which led us to test the use of methanol as the organic phase for LC-MS of soluble proteins. Slightly longer retention times and peak broadening were observed for soluble proteins, but there was no loss in sensitivity or mass accuracy. In addition we found that there was considerably less carryover of proteins between sequential samples, which substantially improved our throughput for soluble proteins. We have therefore adopted methanol as the organic phase of choice for all our LC-MS analyses.</p><p>Application of methanol-based elution enabled us initially to measure the intact mass of the integral membrane protein KCNJ12. The difficulty of reproducing the initial result, and the appearance of the protein spectrum at the end of the programmed gradient indicated that the chromatographic method could be optimized. Because of practical considerations (the availability of limited quantities of a variety of proteins), we did not perform an exhaustive optimization for every protein, but the large number of analyses and the consistent results for a diverse set of membrane proteins indicate that the methods are robust and widely applicable. We can summarize the conclusions and resulting guidelines as follows:</p><p>(1) Chromatography using a short gradient from 5 to 95% methanol (in 0.1% formic acid), followed by a prolonged isocratic segment in 95% methanol/0.1% formic acid, provides effective separation of membrane proteins from detergents and other buffer components.</p><p>(2) Prolonging the isocratic segment, using longer columns, or a combination of both can improve the separation.</p><p>(3) To fully utilize the chromatographic separation, m/z spectra should be scanned individually to identify the segments with the best protein ionization signal. Even then, the protein spectrum may be dwarfed by the more abundant free detergent ions, so the spectra should be scrutinized carefully for weak signals.</p><p>Results of experiments not discussed in detail indicate that optimization of the chromatographic separation has a greater impact than varying the MS parameters on our instrument.</p><p>The errors in protein mass determination seem to be less than 2 Da, after taking into account plausible interpretations of larger mass differences. This accuracy allows us to make precise predictions as to the source of observed differences, which can then be tested by other means (for example, we have performed phosphopeptide mapping in one instance, but other methods such as N-terminal sequencing may be applied where appropriate).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(5)</head><p>The ratio of protein to detergent and the amount of protein are important determinants of success; samples for analysis should be taken from steps in the purification protocol that generate high protein-detergent ratios. In particular, concentrating protein-detergent mixes using centrifugal ultrafiltration often leads to excessive levels of detergent. The nature of the protein is also important: in addition to an apparent size limitation (&gt;67 kDa), there are marked differences in the quality and signal to noise of spectra of different proteins (e.g., Figs. 1B, 3B and 4C). It is not easy at this stage to define the precise characteristics of protein samples that correlate with successful mass spectra; such generalizations may become possible with the accumulation of a larger data set.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(6)</head><p>The nature and homogeneity of the detergent are important. Maltosides and glucosides (such as DM, DDM), FC14, FC16, and Cymal-6 work well, whereas C12E8 C12E10, LDAO, Tween 20, and Triton X100 do not.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(7)</head><p>The ionized proteins are almost completely stripped of bound detergent, although a variable fraction of ion complexes may contain 1-5 bound detergent molecules.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(8)</head><p>Mass spectra from different regions of the chromatogram also provide valuable information on detergents and lipids, both free and protein-associated. Special care should be taken to avoid the effects of sample carryover, which are particularly pronounced with hydrophobic analytes.</p><p>In summary, we present a robust and widely applicable method for LC-MS analysis of the intact mass of integral membrane proteins. Unit mass accuracy allows identification of these proteins and their probable modifications. The method can be easily integrated in routine operation of an instrument used for both soluble and membrane proteins. Although we have not tested this, it is conceivable that the sensitivity may be improved by using narrow-bore or smaller columns. We expect that future extension of the method to analysis of more problematic proteins can be based on further optimization of the liquid chromatography step, including the use of alternative solvent systems or columns. Berridge et al. Page 11 Published as: Anal Biochem. 2011 March 15; 410(2): 272-280. Sponsored Document Sponsored Document Sponsored Document Berridge et al. Page 12 Published as: Anal Biochem. 2011 March 15; 410(2): 272-280. Berridge et al. Page 13 Published as: Anal Biochem. 2011 March 15; 410(2): 272-280. Sponsored Document Sponsored Document Sponsored Document  Intact mass analysis of a mixed population of proteins. A mixture of the membrane protein KCNJ12, the soluble TEV protease used to cleave the fusion tag, and the membrane protein HVCN1, which occurred as a contaminant from an earlier analysis on the same LC column. Table 2</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sponsored Document</head><p>Summary of MS results for seven proteins analyzed.  The results shown present the best data obtained for each protein.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Protein</head><p>Published as: Anal Biochem. 2011 March 15; 410(2): 272-280.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig.1. Chromatogram and mass spectra of purified KCNJ12. (A) Total ion current (TIC) elution profile for KCNJ12 purified in the detergent Cymal-6, eluted with methanol. Dotted line: methanol concentration. Solid line: TIC (arbitrary units). The gray rectangles denote regions of the chromatogram (regions 1-4) referred to in the text. (B) m/z spectrum of region 4; combination of detergent signals (Cymal 6) and a protein-like spectrum. Inset: m/z spectrum of regions 2 + 3, identified as Cymal-6. (C) m/z spectrum of region 4, enlarged segment of the spectrum shown in (B), showing a typical protein ion series. (D) Mass spectrum of KCNJ12 after deconvolution.</figDesc><graphic coords="11,289.63,61.00,92.74,56.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig.2. Optimization of gradient and column lengths. (A) KCNJ12 elution profile: 50-mm column, 12 min gradient, detergent, Cymal-6. (B) SCD elution profile: 50-mm column, 16 min gradient/isocratic, detergent, DDM. (C) SCD elution profile: 150-mm column 22 min gradient/isocratic, detergent, DDM. (D) SCD elution profile: 200-mm column, 40 min gradient/isocratic, detergent, DM + lipids.</figDesc><graphic coords="12,289.60,61.00,92.79,57.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig.3. Detection of stripped protein and detergent adducts. (A) TIC elution profile of ABCB10. (B) m/z spectrum of region 2 of the chromatogram. The free detergent ions dominate the spectrum, dwarfing the protein ionization signal. (C) m/z spectrum of region 2, magnified segment of figure (B). (D) Deconvoluted mass spectrum of region 2 of the chromatogram, showing the accurate intact mass, as well as adducts with 1, 2, and 3 detergent molecules.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc>Fig.4. Detection of protein and lipids. (A) TIC elution profile of SCD purified in the presence of a lipid/detergent mix. (B) Chromatogram region 4 of the chromatogram: ionization of lipid species (regions 2 and 3 contain detergents and contaminants; not shown). (C) m/z spectrum of region 1, illustrating the separation of the protein from the lipids and detergents. Note that protein spectra are rarely as clean as this; compare Fig. 3B. (D) Deconvoluted mass spectrum.</figDesc><graphic coords="14,289.56,61.00,92.88,53.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 5 .</head><label>5</label><figDesc>Fig.5.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><figDesc>was provided in the detergents listed. M pred: average mass predicted from the sequence. M obs: result of MS analysis. ΔM is M obs -M pred. The mass error is the difference between M obs and the predicted mass of the modified protein. SD is the standard deviation of n independent determinations.Published as: Anal Biochem. 2011 March 15; 410(2): 272-280.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Abbreviated names and observed ionized species of detergents.</figDesc><table><row><cell>Sponsored Document</cell></row><row><cell>Sponsored Document</cell></row><row><cell>Sponsored Document</cell></row></table><note><p>Berridge et al. Page 15 Published as: Anal Biochem. 2011 March 15; 410(2): 272-280. Published as: Anal Biochem. 2011 March 15; 410(2): 272-280.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Tryptic digest analysis of membrane proteins.</figDesc><table><row><cell>Protein</cell><cell cols="3">MOWSE score Coverage (%) Number of peptides</cell></row><row><cell>SCD</cell><cell>159</cell><cell>13</cell><cell>4</cell></row><row><cell>KCNJ12</cell><cell>375</cell><cell>33</cell><cell>19</cell></row><row><cell>HVCN1</cell><cell>336</cell><cell>30</cell><cell>7</cell></row><row><cell>ABCB10</cell><cell>1437</cell><cell>44</cell><cell>30</cell></row><row><cell cols="2">ZMPSTE24 670</cell><cell>33</cell><cell>18</cell></row><row><cell>CH25H</cell><cell>144</cell><cell>13</cell><cell>6</cell></row><row><cell>SLC22A18</cell><cell>189</cell><cell>15</cell><cell>6</cell></row><row><cell>SC4MOLA</cell><cell>NA</cell><cell>NA</cell><cell>NA</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_0"><p>Abbreviations used: SDS-PAGE, sodium dodecyl sulfate-polyacrylamide gel electrophoresis; LC, liquid chromatography; MS/MS, tandem mass spectrometry; TIC, total ion current; TEV, tobacco etch virus; CV, column volume. Abbreviated detergent names are listed in Table1; genes are identified by HUGO designations.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Published as: Anal Biochem. 2011 March 15; 410(2): 272-280.Sponsored DocumentSponsored DocumentSponsored Document</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Published as: Anal Biochem. 2011 March 15; 410(2): 272-280.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We thank <rs type="person">William Greenland</rs> (<rs type="affiliation">Agilent Technologies</rs>) for valuable help with data analysis and interpretation and <rs type="person">Richard Callaghan</rs> for freely supplying membrane proteins for method development. The <rs type="institution" subtype="infrastructure">Structural Genomics Consortium</rs> is a registered charity (No. <rs type="grantNumber">1097737</rs>) funded by the <rs type="funder">Canadian Institutes for Health Research</rs>, the <rs type="funder">Canadian Foundation for Innovation</rs>, <rs type="funder">Genome Canada</rs> through the <rs type="institution">Ontario Genomics Institute</rs>, <rs type="funder">GlaxoSmithKline</rs>, <rs type="funder">Karolinska Institute</rs>, the <rs type="funder">Knut and Alice Wallenberg Foundation</rs>, the <rs type="funder">Ontario Innovation Trust</rs>, the <rs type="funder">Ontario Ministry for Research and Innovation</rs>, <rs type="funder">Merck and Co., Inc.</rs>, the <rs type="funder">Novartis Research Foundation</rs>, the <rs type="funder">Swedish Agency for Innovation Systems</rs>, the <rs type="funder">Swedish Foundation for Strategic Research</rs>, and the <rs type="funder">Wellcome Trust</rs>. Berridge et al. Page 10 Published as: Anal Biochem. 2011 March 15; 410(2): <rs type="grantNumber">272-280</rs>.</p></div>
+<div><head>Sponsored Document</head><p>Sponsored Document Sponsored Document</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_8yTVV6Y">
+					<idno type="grant-number">1097737</idno>
+				</org>
+				<org type="funding" xml:id="_fV2gHQb">
+					<idno type="grant-number">272-280</idno>
+				</org>
+			</listOrg>
+
+			<listOrg type="infrastructure">
+				<org type="infrastructure">					<orgName type="extracted">Structural Genomics Consortium</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">R.The druggable genomeNat</title>
+		<author>
+			<persName><forename type="middle">L</forename><surname>Hopkinsa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Groomc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Drug Discov</title>
+		<imprint>
+			<biblScope unit="page">1200272773012209152</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Biophysical dissection of membrane proteinsNature459200934434619458709</title>
+		<author>
+			<persName><forename type="middle">H</forename><surname>Whites</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Overcoming the challenges of membrane protein crystallographyCurr</title>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Carpentere</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Beisk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">D</forename><surname>Camerona</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iwatas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Opin. Struct. Biol</title>
+		<imprint>
+			<date>18200858158618674618</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">High-throughput expression and purification of membrane proteinsJ</title>
+		<author>
+			<persName><surname>Manciaf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lovej</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Struct. Biol</title>
+		<imprint>
+			<biblScope unit="page">1722010859320394823</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Graslund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nordlund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weigelt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Hallberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Gileadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Knapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Oppermann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Arrowsmith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dhe-Paganon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Savchenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vincentelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cambillau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Terwilliger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Hung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Waldo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Peleg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Albeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Unger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Dym</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prilusky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Sussman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Lesley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Joachimiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Collart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Dementieva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Donnelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Eschenfeldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Stols</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Burley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Emtage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Sauder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Luz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gheyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Atwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Almo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Bonanno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Swaminathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Studier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Chance</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Acton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Inouye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Janjua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shastry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Montelione</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Stuart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Owens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Daenke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schutz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Heinemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yokoyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bussow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Gunsalus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Methods</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="135" to="146" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Protein production and purification</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Savitskyp</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Brayj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">D</forename><surname>Cooperc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">D</forename><surname>Marsdenb</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mahajanp</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Burgess-Brownn</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">High-throughput production of human proteins for crystallization: the SGC experienceJ. Struct</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gileadio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol</title>
+		<imprint>
+			<biblScope unit="page">172201031320541610</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<monogr>
+		<title level="m" type="main">A robust, detergent-friendly method for mass spectrometric analysis of integral membrane proteinsAnal</title>
+		<author>
+			<persName><forename type="first">Cadenem</forename><forename type="middle">T</forename><surname>Chaitb</surname></persName>
+		</author>
+		<idno>Chem.7220005655565811101244</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">High-level expression, single-step immunoaffinity purification and characterization of human tetraspanin membrane protein CD81</title>
+		<author>
+			<persName><surname>Takayamah</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Chelikanip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">J</forename><surname>Reevesp</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zhangs</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Khoranah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<date>32008e231418523555</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">HPLC and mass spectrometry of intrinsic membrane proteinsMethods</title>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Whiteleggej</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Biol</title>
+		<imprint>
+			<biblScope unit="page">251200432334014704455</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Electrospray-ionization mass spectrometry of intact intrinsic membrane proteinsProtein Sci</title>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Whiteleggej</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">B</forename><surname>Gundersenc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">F</forename><surname>Faullk</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">71998142314309655347</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Expression and purification of recombinant human inward rectifier K + (KCNJ) channels in Saccharomyces cerevisiaeProtein Expr</title>
+		<author>
+			<persName><surname>D'avanzon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">W L</forename><surname>Chengw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">B</forename><surname>Xiax</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dongl</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Savitskyp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">G</forename><surname>Nicholsc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Doyled</surname></persName>
+		</author>
+		<idno>Purif.71201011512120064617</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Human cardiac inwardly-rectifying K + channel Kir(2.1b) is inhibited by direct protein kinase C-dependent regulation in human isolated cardiomyocytes and in an expression systemCirculation10620021493149912234954</title>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Karlec</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zitrone</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zhangw</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wendt-Nordahlg</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kathofers</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thomasd</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gutb</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Scholze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">F</forename><surname>Vahlc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Katush</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kiehnj</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<monogr>
+		<title level="m" type="main">M.Specificity of cotranslational amino-terminal processing of proteins in yeastBiochemistry261987824282463327521</title>
+		<author>
+			<persName><forename type="middle">Elliottr C</forename><surname>Huangs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">S</forename><surname>Liup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">K</forename><surname>Kodurir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">L</forename><surname>Weickmannj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">H</forename><surname>Leej</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">C</forename><surname>Blairl</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ghosh-Dastidarp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Bradshawr</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bryank</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Combined top-down and bottom-up proteomics identifies a phosphorylation site in stem-loopbinding proteins that contributes to high-affinity RNA bindingProc</title>
+		<author>
+			<persName><forename type="middle">H</forename><surname>Borchersc</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thaparr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">V</forename><surname>Petrotchenkoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Torresm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Speirj</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Easterlingm</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dominskiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">F</forename><surname>Marzluffw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Natl. Acad. Sci</title>
+		<imprint>
+			<date>10320063094309916492733</date>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Methionine or not methionine at the beginning of a proteinBioEssays3198527313024631</title>
+		<author>
+			<persName><surname>Shermanf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">W</forename><surname>Stewartj</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tsunasawas</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Amino-terminal processing of mutant forms of yeast iso-1cytochrome c. The specificities of methionine aminopeptidase and acetyltransferaseJ</title>
+		<author>
+			<persName><surname>Tsunasawas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">W</forename><surname>Stewartj</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Shermanf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. Chem</title>
+		<imprint>
+			<biblScope unit="page">2601985538253912985590</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Proteomics on fulllength membrane proteins using mass spectrometryBiochemistry3920004237424210757971</title>
+		<author>
+			<persName><surname>Le Coutrej</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Whiteleggej</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Grossa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Turke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">M</forename><surname>Wrighte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">R</forename><surname>Kabackh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">F</forename><surname>Faullk</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<monogr>
+		<title level="m" type="main">V.Micelles protect membrane complexes from solution to vacuumScience321200824324618556516</title>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Barreran</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Di Bartolon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">J</forename><surname>Boothp</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Robinsonc</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Mass spectrometry of membrane transporters reveals subunit stoichiometry and interactionsNat</title>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Barreran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">C</forename><surname>Isaacsons</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zhoum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">N</forename><surname>Bavrov</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Welcha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Schaedlert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Seegerm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">N</forename><surname>Miguelr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">M</forename><surname>Korkho Vv</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">W</forename><surname>Van Veenh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Venterh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">R</forename><surname>Walmsleya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">G</forename><surname>Tatec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">V</forename><surname>Robinsonc</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">6200958558719578383</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Defining topological features of membrane proteins by nanoelectrospray ionisation mass spectrometryRapid Commun</title>
+		<author>
+			<persName><forename type="middle">N</forename><surname>Jonesl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A</forename><surname>Baldwins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">J</forename><surname>Hendersonp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">E</forename><surname>Ashcrofta</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Mass Spectrom</publisher>
+			<biblScope unit="page">24201027628420058234</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">R.MacB ABC transporter is a dimer whose ATPase activity and macrolide-binding capacity are regulated by the membrane fusion protein MacAJ</title>
+		<author>
+			<persName><forename type="first">Linh</forename><forename type="middle">T N</forename><surname>Bavrov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">P</forename><surname>Barreran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">M</forename><surname>Frankishh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Velamakannis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">W</forename><surname>Van Veenh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">V</forename><surname>Robinsonc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">I</forename><surname>Borges-Walmsleym</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Walmsleya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. Chem</title>
+		<imprint>
+			<biblScope unit="page">28420091145115418955484</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Protein complexes gain momentumCurr</title>
+		<author>
+			<persName><surname>Sobottf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">V</forename><surname>Robinsonc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Opin. Struct. Biol</title>
+		<imprint>
+			<biblScope unit="page">12200272973412504676</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">R.3rd.The application of mass spectrometry to membrane proteomicsNat</title>
+		<author>
+			<persName><forename type="middle">C</forename><surname>Wuc</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Yatesj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biotechnol</title>
+		<imprint>
+			<biblScope unit="page">21200326226712610573</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

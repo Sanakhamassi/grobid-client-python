@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Sensitivity of Local Dynamic Stability of Over-Ground Walking to Balance Impairment Due to Galvanic Vestibular Stimulation</title>
+				<funder>
+					<orgName type="full">Biomet Nederland</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Netherlands Organization for Scientific Research (NWO)</orgName>
+				</funder>
+				<funder ref="#_f3MxSWf">
+					<orgName type="full">TOP-NIG</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-01-11">11 January 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Lizeth</forename><forename type="middle">H</forename><surname>Sloot</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Human Movement Sciences</orgName>
+								<orgName type="institution" key="instit1">Research Institute MOVE</orgName>
+								<orgName type="institution" key="instit2">VU University Amsterdam</orgName>
+								<address>
+									<addrLine>Van der Boechorststraat 9</addrLine>
+									<postCode>1081 BT</postCode>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kimberley</forename><forename type="middle">S</forename><surname>Van Schooten</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Human Movement Sciences</orgName>
+								<orgName type="institution" key="instit1">Research Institute MOVE</orgName>
+								<orgName type="institution" key="instit2">VU University Amsterdam</orgName>
+								<address>
+									<addrLine>Van der Boechorststraat 9</addrLine>
+									<postCode>1081 BT</postCode>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sjoerd</forename><forename type="middle">M</forename><surname>Bruijn</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Human Movement Sciences</orgName>
+								<orgName type="institution" key="instit1">Research Institute MOVE</orgName>
+								<orgName type="institution" key="instit2">VU University Amsterdam</orgName>
+								<address>
+									<addrLine>Van der Boechorststraat 9</addrLine>
+									<postCode>1081 BT</postCode>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Herman</forename><surname>Kingma</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="institution">University Hospital Maastricht</orgName>
+								<address>
+									<settlement>Maastricht</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mirjam</forename><surname>Pijnappels</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Human Movement Sciences</orgName>
+								<orgName type="institution" key="instit1">Research Institute MOVE</orgName>
+								<orgName type="institution" key="instit2">VU University Amsterdam</orgName>
+								<address>
+									<addrLine>Van der Boechorststraat 9</addrLine>
+									<postCode>1081 BT</postCode>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jaap</forename><forename type="middle">H</forename><surname>Van Diee</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Human Movement Sciences</orgName>
+								<orgName type="institution" key="instit1">Research Institute MOVE</orgName>
+								<orgName type="institution" key="instit2">VU University Amsterdam</orgName>
+								<address>
+									<addrLine>Van der Boechorststraat 9</addrLine>
+									<postCode>1081 BT</postCode>
+									<settlement>Amsterdam</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Sensitivity of Local Dynamic Stability of Over-Ground Walking to Balance Impairment Due to Galvanic Vestibular Stimulation</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-01-11">11 January 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D791C109F6A3DF8E448A65454FF61AEA</idno>
+					<idno type="DOI">10.1007/s10439-010-0240-y</idno>
+					<note type="submission">Received 27 July 2010; accepted 23 December 2010;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:13+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Galvanic vestibular stimulation</term>
+					<term>Gait stability</term>
+					<term>Lyapunov exponents</term>
+					<term>Nonlinear dynamics</term>
+					<term>Accidental falls</term>
+					<term>Local dynamic stability</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Impaired balance control during gait can be detected by local dynamic stability measures. For clinical applications, the use of a treadmill may be limiting. Therefore, the aim of this study was to test sensitivity of these stability measures collected during short episodes of over-ground walking by comparing normal to impaired balance control. Galvanic vestibular stimulation (GVS) was used to impair balance control in 12 healthy adults, while walking up and down a 10 m hallway. Trunk kinematics, collected by an inertial sensor, were divided into episodes of one stroll along the hallway. Local dynamic stability was quantified using short-term Lyapunov exponents (k s ), and subjected to a bootstrap analysis to determine the effects of number of episodes analysed on precision and sensitivity of the measure. k s increased from 0.50 ± 0.06 to 0.56 ± 0.08 (p = 0.0045) when walking with GVS. With increasing number of episodes, coefficients of variation decreased from 10 ± 1.3% to 5 ± 0.7% and the number of p values &gt;0.05 from 42 to 3.5%, indicating that both precision of estimates of k s and sensitivity to the effect of GVS increased. k s calculated over multiple episodes of over-ground walking appears to be a suitable measure to calculate local dynamic stability on group level.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Recently, there has been a growing interest in quantifying gait stability using a method based on nonlinear time series analysis, i.e., local dynamic stability. <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref> Local dynamic stability is defined by ''maximum finite-time Lyapunov exponents'', which describe how the system's states respond to very small perturbations continuously in real time. <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b27">28</ref> It has been suggested that dynamic stability of gait can be of clinical use, <ref type="bibr" target="#b29">30</ref> specifically in identifying elderly at risk of falling, since it was shown to differentiate between older adults with and without a history of falls. <ref type="bibr" target="#b23">24</ref> Precise estimation of Lyapunov exponents theoretically requires at least 10 n data points, with n being the dimension of the attractor, and improves with the number of ''cycles'' captured by those data points. <ref type="bibr" target="#b27">28</ref> In a recent study, we showed that for human gait data, limited increases in precision were obtained when using data series longer than 150 strides (sampled at 50 samples/s). <ref type="bibr" target="#b5">6</ref> A convenient method of continuously collecting data over many successive strides is to use a treadmill. Unfortunately, such large number of strides may not be feasible for frail elderly or patient populations and treadmills are relatively expensive instruments. Recently it was shown that inertial sensor data can be used as an alternative to optoelectronic data for calculation of Lyapunov exponents of trunk kinematics during gait. <ref type="bibr" target="#b4">5</ref> This would allow for data collection in the typical clinical setting where gait is assessed on a short walkway. Using inertial sensor data collected during over-ground walking, where speed can not be controlled exactly and where the Lyapunov exponent is calculated over multiple short episodes, would make this measure more applicable, e.g., to diagnose elderly at risk of falling. However, it is unknown if this would compromise the precision of the measure and its ability to detect impaired balance control (sensitivity). In addition, although statistical precision of estimates will by definition increase monotonically with sample size (i.e., more episodes), the magnitude of the increase in Address correspondence to Jaap H. van Diee¨n, Research Institute MOVE, Faculty of Human Movement Sciences, VU University Amsterdam, Van der Boechorststraat 9, 1081 BT Amsterdam, The Netherlands. Electronic mail: j.vandieen@fbw.vu.nl precision cannot be predicted in a straightforward manner, such as in sampling from a normally distributed population, because consecutive episodes may not represent independent samples. Sensitivity of local dynamic stability measures estimated from multiple short episodes of over-ground walking at preferred walking speed can be investigated by comparing normal to impaired balance control. Balance control can be impaired in young adults by randomly varying galvanic vestibular stimulation (GVS). Specifically, the firing rates of the vestibular afferents are decreased or increased by the anodal and cathodal currents of GVS, 2 resulting in an observable, adjustable sway in the lateral direction during walking. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b15">16</ref> It is shown that in subjects facing forward, bipolar binaural stochastic GVS leads to coherent stochastic mediolateral postural sway. <ref type="bibr" target="#b25">26</ref> Therefore, stochastic GVS is suggested to quantitatively and qualitatively model instability of vestibular origin. <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b28">29</ref> Recently, it was shown that local dynamic stability measures can detect the impairment of balance control induced by GVS during treadmill walking at several walking speeds, including preferred walking speed, in young adults. <ref type="bibr" target="#b32">33</ref> The present study used bootstrap analyses to quantify the increase in precision of estimates of local dynamic stability as a function of number of episodes used for analysis. In addition, we tested the hypothesis that GVS would cause a decrease in local dynamic stability in over-ground walking. Finally, we quantified the effect of number of episodes analyzed on sensitivity to the GVS-induced balance impairment at the group and individual level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects</head><p>Ten subjects (7 males and 3 females; mean age 23 ± 2.6 years; height 1.8 ± 0.1 m; and mass 76.3 ± 12.5 kg) participated in the study. Exclusion criteria were any orthopedic or neurological disorders, or other injuries that could interfere with gait. Alcohol consumption was prohibited for 24 h prior to testing. Subjects filled in a medical intake form and signed informed consent. The protocol was approved by the Local Ethical Committee.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials</head><p>Portable wireless inertial sensor nodes (Xsens, Xsens Technology, Enschede, The Netherlands), which include 3D gyroscopes and accelerometers, were attached at the back of the trunk over the spine at the level of T6. Data-acquisition (50 samples/s) was done with MT Manager (version 1.5.0, Xsens Technology, Enschede, The Netherlands), and analyses were performed using MATLAB (version 7.5, The MathWorks BV, Natick, MA, USA).</p><p>To apply GVS, flexible, carbon electrodes were attached with electroconductive adhesive gel (Tac Gel TM ) over the mastoid bones. GVS was applied binaurally and bipolarly to each subject by a computer controlled galvanic stimulator (IDEE, Maastricht University, Maastricht, The Netherlands). To prevent adaptation, the galvanic stimulus was composed of a linear summation of sinusoids with five different frequencies (0.02, 0.07, 0.11, 0.30, and 0.50 Hz), all starting at a phase of 0 degrees and each having a maximum amplitude of 0.6 mA. This pseudo-random stimulus had a maximum amplitude of about 2.2 mA, irrespective of the electrical conductivity of the skin and temporal bone.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure</head><p>Prior to the measurement, the reaction of subjects to GVS was tested, although no negative psychological or mental side effects are known from literature, <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b18">19</ref> following which the subjects were familiarized with the sensation of GVS for about 20 s. Some subjects reported a slightly dizzy feeling or a weak stinging under the electrodes. The dizziness disappeared after a few seconds and the stinging was remedied by reattaching the electrode.</p><p>Measurements were performed during over-ground walking at preferred walking speed, walking up and down an approximately 3 m wide and 10 m long hallway. Each trial, both with and without GVS, lasted 3 min and included on average 20 turns. Participants were instructed to look straight ahead, since GVS induces a body sway lateral to the orientation of the head, regardless of the body orientation. <ref type="bibr" target="#b33">34</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pre-processing</head><p>For each trial, time series of 9000 samples (3 min) were obtained. These data were analyzed without filtering, because of the complications associated with applying linear filters to nonlinear signals. <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12</ref> For each subject, the data were divided into episodes, each episode representing a one-way stroll of 7 strides along the hallway without a turn. The walking speed was calculated for each episode, based on the known walking distance and time elapsed between turns. To exclude the influence of data series length on local dynamic stability measures, <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b14">15</ref> for each episode a fixed number of 7 continuous strides was time normalized by shape-preserving piecewise cubic interpolation to 350 total samples, i.e., an average of 50 points per cycle.</p><p>Note that this implied almost no creation or reduction of data points given a sampling rate of 50 samples/s and an average stride time of 1.08 s.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quantifying Local Dynamic Stability</head><p>The calculation of maximum Lyapunov exponents to qualify local dynamic stability requires constructing a states space from measured data. Although several studies used five-dimensional state spaces, <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b14">15</ref> based on embedding reconstruction methods <ref type="bibr" target="#b30">31</ref> we preferred a biomechanical state space consisting of 12 dimensions. This 12D state space was reconstructed from the 3D angular velocities along with the 3D linear accelerations of the trunk and their time-delayed copies. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b17">18</ref> A standard time delay of 12 samples was used for the time-delayed copies, which roughly corresponds to the derivatives. This approach was first proposed by Kang and Dingwell, <ref type="bibr" target="#b19">20</ref> who reasoned that a 3D free body has a total of 12 state variables (i.e., 3D positions, velocities, orientations, and angular velocities). Recently, it was shown that such an approach yielded results closest to the expected value for a known system, and was most sensitive to differences between conditions. <ref type="bibr" target="#b16">17</ref> Maximum Lyapunov exponents represent the exponential rate of divergence from nearest neighbor points on adjacent trajectories in the reconstructed state space, and thus the response to small local perturbations of the system. <ref type="bibr" target="#b10">11</ref> Positive exponents indicate local dynamic instability, with larger exponents demonstrating an increased sensitivity to local perturbations, <ref type="bibr" target="#b10">11</ref> while values &lt;0 indicate local dynamic stability.</p><p>To calculate maximum Lyapunov exponents, Euclidian distances between neighboring trajectories in state space were computed as a function of time and averaged over all original pairs of initial nearest neighbors. The short-term Lyapunov exponent (k s ) was calculated from the slopes of linear fits to the first 0-0.5 stride of the log of these divergence curves, rather than to 0-1 stride, since the divergence curve has been found to be nonlinear after about 75 samples (Fig. <ref type="figure" target="#fig_0">1</ref>). <ref type="bibr" target="#b6">7</ref> In addition, a recent study has demonstrated that k s based on a single step was related to the probability of falling in a passive dynamic walking model and could therefore be successfully used to predict stability. <ref type="bibr" target="#b7">8</ref> It should be noted that the region where the slope was fitted may not be fully linear, and the exponent found may thus not be a ''true'' Lyapunov exponent. However, it still provides a well-defined metric for estimating the sensitivity of human walking to small intrinsic perturbations. <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b20">21</ref> In addition, this k s (i.e., calculated from 0 to 0.5 strides) has been shown to discriminate fall prone elderly from elderly without a history of falling. <ref type="bibr" target="#b23">24</ref> Bootstrapping A bootstrapping procedure <ref type="bibr" target="#b3">4</ref> was used to assess the statistical precision of k s as a function of number of episodes. Bootstrap analysis can be used for statistical inferences without requiring assumptions on distribution of the data. For introductory texts see Zhu. <ref type="bibr" target="#b34">35</ref> In addition, bootstrap analysis can be used to support decision making on sample size (Efron and Tibshirani <ref type="bibr" target="#b13">14</ref> ), as has been done for biomechanical variables previously (e.g., van Diee¨n et al. <ref type="bibr" target="#b31">32</ref> ; Bruijn et al. <ref type="bibr" target="#b5">6</ref> ). These previous applications usually considered nested bootstrap analyses which allow inferences on effects of for example number of subjects measured as well as number of measurements per subject. In the present study bootstrap analyses were performed 'within subjects', since our main focus was on clinical application. First, k s was calculated for each subject and for each of the 16 episodes of 7 strides per condition. Next, for every subject, a sample of a number (n) of randomly selected episodes was drawn (with n ranging from 3 to 12) for both conditions. A maximum sample size of n = 12 out of 16 episodes was used, to avoid too much overlap between the bootstrap samples and thus an overestimate of the statistical precision. This procedure was repeated 1000 times for every n.</p><p>To express statistical precision of the estimate of k s , the coefficient of variation (COV), defined as the standard deviation over the 1000 samples normalized to the mean was calculated for each sample of n episodes.</p><p>To examine the sensitivity of k s to GVS-induced balance impairment as a function of number of episodes at group level, a paired t test was performed over sample means of all subjects between the two conditions. In addition, for each individual subject, an unpaired t test between the two samples (one normal walking selection of n episodes, and one GVS selection of n episodes) was performed, to quantify sensitivity at the individual level. Finally, both for the individual and group level comparisons, the percentage of the 1000 t test results with p values above 0.05 was calculated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>All subjects produced the required 16 episodes of 7 strides. The mean walking speed was 1.31 m/s (SD 0.25) when walking with GVS and 1.35 m/s (SD 0.26) without GVS. In addition, the mean standard deviations between episodes within subjects were 0.080 (SD 0.024) with GVS and 0.083 (SD 0.020) without GVS. No significant difference between the two conditions was found for either the mean walking speed (p = 0.149) or the within-subject standard deviation (p = 0.768).</p><p>Averaged over all 16 episodes, k s was higher for walking with GVS compared to walking without GVS for most of the subjects (Fig. <ref type="figure" target="#fig_1">2</ref>). At the group level, k s significantly increased from a mean of 0.50 (SD 0.06) during normal walking to a mean of 0.56 (SD 0.08) when walking with GVS (p = 0.0045), indicating a decreased local dynamic stability when walking with GVS.</p><p>Although GVS affected k s at the group level, this effect was less apparent at the individual level. Whereas walking with GVS showed higher values for most subjects when averaged over all 16 episodes, a substantial variation of k s over episodes existed within each subject for both conditions (see for an example Fig. <ref type="figure" target="#fig_2">3</ref>).</p><p>Therefore, the effect of averaging k s over a varying number of episodes for each subject on the precision was examined by a bootstrapping procedure. As expected, the COVs decreased monotonically with an increasing number of episodes (Fig. <ref type="figure" target="#fig_3">4</ref>). For walking with GVS, the COV decreased from 10% (SD 1.3) when using 3 episodes to 5% (SD 0.7) for 12 episodes. Without GVS, the decrease was from 11% (SD 3.1) to 5% (SD 1.4). The increase in precision above 11 episodes was limited.</p><p>In addition, the effect of averaging k s over a varying number of episodes on the sensitivity was studied. At the group level, a clear decrease in number of p values &gt;0.05, indicating an increase in sensitivity, with increasing number of episodes was found (Fig. <ref type="figure" target="#fig_4">5</ref>) with   percentages of p values &gt;0.05 decreasing from 42.0% when using 3 episodes to 3.5% for 12 episodes.</p><p>However, on the individual level, the effect of increasing number of episodes on sensitivity varied strongly (Fig. <ref type="figure" target="#fig_5">6</ref>). Five subjects showed less than 20% improvement in sensitivity to GVS when using 12 episodes compared to 3 episodes, whereas the other five subjects showed improvements of 27% up to 78%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>In search for methods that would allow the use of the maximum Lyapunov exponent as a measure of balance impairments in clinical situations, we studied the effects of different numbers of short episodes of over-ground walking data on the precision and sensitivity of k s . We found a significant effect of GVS on k s at group level, with higher values when GVS was applied, indicating that k s was able to detect the imposed balance impairment during over-ground walking. However, this effect was less apparent at the individual level. This might be due to the fact that our healthy young subjects responded differently to GVS, but our statistical design was not aimed to evaluate individual responses to GVS. Nevertheless, we showed that averaging over a larger numbers of episodes led to a considerable increase in precision, leading to sufficient sensitivity at the group level but not at the individual level.</p><p>Walking speed influences local dynamic stability of walking. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b14">15</ref> However, no significant differences in mean walking speed or within-subject variance of speed were found in this study between the two conditions. Therefore, the differences in local dynamic stability found between the two conditions are most likely not the result of variation in walking speed between trials, although speed fluctuations within episodes could not be determined.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Multiple Episodes</head><p>Various studies have described the influence of time series length and the number of strides on maximum Lyapunov exponents and have suggested that trial lengths of 150 strides or more are needed for precise estimates of the Lyapunov exponent. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b20">21</ref> However, these large numbers of strides are required when one single trial is measured, and both Bruijn et al. <ref type="bibr" target="#b5">6</ref> and Kang and Dingwell <ref type="bibr" target="#b20">21</ref> have suggested that measuring several trials may increase precision. The decrease of COV and p values &gt;0.05 with an increasing number of episodes found in the current study indicate that precision and sensitivity can be improved by using multiple episodes, instead of using large numbers of consecutive strides. It should be noted that perhaps not the ''true'' Lyapunov exponent is found, since the region where the slope was fitted may not have been fully linear. However, the used k s proved sensitive to small intrinsic perturbations <ref type="bibr" target="#b9">10</ref> and able to discriminate fall prone elderly from healthy elderly. <ref type="bibr" target="#b23">24</ref> A large range of mean k s values (k S = 0.06-3) has been reported in literature. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b12">13</ref> The mean values found in the current study were approximately k s = 0.60 and fall within the same range, but are small compared with most of the reported values of k s previously mentioned. The relative low values may be explained by the small number of strides used in the calculations: nearest neighbors that lay far apart cannot diverge far and in longer data series the nearest  neighbor will tend to be closer. <ref type="bibr" target="#b5">6</ref> In addition, different definitions of the state space, timescales used for the calculation of k s , or number of embedding dimensions may lead to different values of k s . <ref type="bibr" target="#b16">17</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Effect of GVS on Local Dynamic Stability</head><p>The effect of GVS on k s found in the current study is in agreement with expectations, since GVS is known to cause instabilities in the mediolateral direction. <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b33">34</ref> The same direction also appears affected by aging, <ref type="bibr" target="#b26">27</ref> suggesting a similarity between the effects of GVS and of aging on balance control. In addition, the effects of both GVS and aging include higher values of k s . <ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b32">33</ref> According to the literature, the estimated differences in k s between older and young adults are within the range of Dk s = 10-50%. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref> When comparing fall prone and healthy elderly, the estimated difference is Dk s = 10-20%. <ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b23">24</ref> In the current study and the previously mentioned study of van Schooten et al., <ref type="bibr" target="#b32">33</ref> the mean difference due to the effect of GVS was Dk s = 10%. Although walking speed and conditions (treadmill and over-ground walking) varied in the above-mentioned studies, <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b14">15</ref> this suggests that instabilities induced by GVS are probably smaller than those induced by aging and that age-related effects are even more likely to be detected by maximum Lyapunov exponents.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implications of the Current Study</head><p>The purpose of the study was to find a clinically applicable method to detect balance impairments using local dynamic stability measures. The results showed that an increase in precision of k s may be gained by measuring multiple short trials during normal overground walking. Therefore, no additional equipment is needed to study walking stability in a clinical setting and limitations caused by low endurance of patients can partially be overcome by using multiple short walking trials. Moreover, the measure can be assessed with a single inertial sensor on the trunk, which is portable, small, reasonably cheap, and straightforward to utilize, since it does not have to be aligned with a global coordinate system. <ref type="bibr" target="#b4">5</ref> However, the resulting precision and sensitivity of k s at 12 episodes was still insufficient to detect the effect of GVS in each individual subject. Nevertheless, since the effect of GVS on gait stability appeared relatively small compared to reported effects of aging and pathology, sensitivity to age-related or pathological balance impairments merits further study.</p><p>Overall, the presented effect of using multiple episodes on the precision and sensitivity of k s suggests that this measure is suitable for scientific purposes involving group level analysis. However, future studies should address the sensitivity of local dynamic stability of gait to differences in fall risk among older adults.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FIGURE 1 .</head><label>1</label><figDesc>FIGURE 1. Examples of divergence curves and the corresponding short-term Lyapunov exponents (k s ), for walking with GVS (dashed line) and without GVS (dashed-dotted line).</figDesc><graphic coords="3,314.95,53.01,221.28,174.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>FIGURE 2 .</head><label>2</label><figDesc>FIGURE 2. Scatter plot of the short-term Lyapunov exponents (k s ) for each subject, averaged over all 12 episodes for the conditions with and without GVS. Error bars represent the standard deviation and the diagonal line is the identity line.</figDesc><graphic coords="4,57.91,486.53,221.28,175.56" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>FIGURE 3 .</head><label>3</label><figDesc>FIGURE 3. Variation of the short-term Lyapunov exponents (k s ) calculated for different episodes of one typical subject.</figDesc><graphic coords="4,315.01,251.68,221.16,173.58" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>FIGURE 4 .</head><label>4</label><figDesc>FIGURE 4. The coefficient of variation over 1000 estimates of the short-term Lyapunov exponent for different numbers of episodes averaged over all subjects for both walking with (asterisk) and without (triangle) GVS. Error bars represent standard error.</figDesc><graphic coords="4,315.01,477.26,221.16,175.86" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>FIGURE 5 .</head><label>5</label><figDesc>FIGURE 5. Bootstrapping results at group level of the percentage of p values &gt;0.05 (paired t test), comparing walking with and without GVS, for the different numbers of episodes.</figDesc><graphic coords="5,57.97,53.01,221.16,177.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>FIGURE 6 .</head><label>6</label><figDesc>FIGURE 6. Individual bootstrapping results of the percentage of p values &gt;0.05 (unpaired t test), comparing walking with and without GVS, for the different numbers of episodes.</figDesc><graphic coords="5,57.97,298.50,221.16,177.30" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>0090-6964/11/0500-1563/0 Ó 2011 The Author(s). This article is published with open access at Springerlink.com</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p>The authors acknowledge Warner ten Kate for the support and trial versions of the inertial sensors and <rs type="person">Josien van der Noort</rs> for assistance with the inertial sensors. <rs type="person">Mirjam Pijnappels</rs> and Kim van Schooten were financially supported by a <rs type="funder">TOP-NIG</rs> grant (#<rs type="grantNumber">91209021</rs>) from The <rs type="funder">Netherlands Organization for Scientific Research (NWO)</rs>. <rs type="person">Sjoerd Bruijn</rs> was partly funded by a grant from <rs type="funder">Biomet Nederland</rs>.</p></div>
+<div><head>OPEN ACCESS</head><p>This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_f3MxSWf">
+					<idno type="grant-number">91209021</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A kinematic comparison of overground and treadmill walking</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Alton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Baldey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Caplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Morrissey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Biomech</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="434" to="440" />
+			<date type="published" when="1998">1998</date>
+			<pubPlace>Bristol, Avon</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Background on methods of stimulation in galvanic-induced body sway in young healthy adults</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G T</forename><surname>Balter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Stokroos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Jong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bouwmans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Der Laan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kingma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Otolaryngol</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="262" to="271" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Magnitude effects of galvanic vestibular stimulation on the trajectory of human gait</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Bent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Mcfadyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">F</forename><surname>Merkley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Inglis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurosci. Lett</title>
+		<imprint>
+			<biblScope unit="volume">279</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="157" to="160" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Pulling cost-effectiveness analysis up by its bootstraps: a non-parametric approach to confidence interval estimation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Briggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Wonderling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Z</forename><surname>Mooney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Econ</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="327" to="340" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Estimates of stability measures using data from non aligned inertial sensors</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Bruijn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Haeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Van Diee¨n</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R T</forename><surname>Ten Kate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">G</forename><surname>Meijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Beek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Biomed. Eng</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2588" to="2593" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Statistical precision and sensitivity of measures of dynamic gait stability</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Bruijn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Van Diee¨n</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">G</forename><surname>Meijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Beek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Neurosci. Methods</title>
+		<imprint>
+			<biblScope unit="volume">178</biblScope>
+			<biblScope unit="page" from="327" to="333" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Is slow walking more stable?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Bruijn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Van Dieen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">G</forename><surname>Meijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Beek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biomech</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1506" to="1512" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The validity of stability measures: a modelling approach</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Bruijn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J J</forename><surname>Bregman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">G</forename><surname>Meijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Beek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Van Dieen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">16th US National Congress on Theoretical and Applied Mechanics</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>University Park, Pennsylvania, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Nonlinear dynamics indicates aging affects variability during gait</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">H</forename><surname>Buzzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Stergiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Kurz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Hageman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Heidel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Biomech</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="435" to="443" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Nonlinear time series analysis of normal and pathological human walking</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Dingwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Cusomano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chaos</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="848" to="863" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Differences between local and orbital dynamic stability during human walking</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Dingwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Kang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biomech. Eng</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="586" to="593" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Kinematic variability and local dynamic stability of upper body motions when walking at different speeds</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Dingwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Marin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biomech</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="444" to="452" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Local dynamic stability versus kinematic variability of continuous overground and treadmill walking</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Dingwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Cusumano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Cavanagh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sternad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biomech. Eng</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="32" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Bootstrap methods for standard errors, confidence intervals, and other measures of statistical accuracy</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Efron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibshirani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat. Sci</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="54" to="77" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The influence of gait speed on local dynamic stability of walking</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>England</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Granata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gait Posture</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="172" to="178" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Effects of galvanic vestibular stimulation during human walking</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Fitzpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wardman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Physiol</title>
+		<imprint>
+			<biblScope unit="volume">517</biblScope>
+			<biblScope unit="page" from="931" to="939" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>Pt 3</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Comparison of different state space definitions for local dynamic stability analyses</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Gates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Dingwell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biomech</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1345" to="1349" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Dynamic stability differences in fall-prone and healthy adults</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Granata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Lockhart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electromyogr. Kinesiol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="172" to="178" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Differential effects of vestibular stimulation on walking and running</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Strupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dieterich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Brandt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroreport</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1745" to="1748" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A direct comparison of local dynamic stability during unperturbed standing and walking</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Dingwell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp. Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="35" to="48" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Intra-session reliability of local dynamical stability of walking</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Dingwell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gait Posture</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="286" to="290" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Effects of walking speed, strength and range of motion on gait stability in healthy older adults</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Dingwell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biomech</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="2899" to="2905" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Dynamic stability of superior vs. inferior segments during walking in young and older adults</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Dingwell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gait Posture</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="260" to="263" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Differentiating fall-prone and healthy adults using local dynamic stability</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Lockhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ergonomics</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="1860" to="1872" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Modeling postural instability with Galvanic vestibular stimulation</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Macdougall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Curthoys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">O</forename><surname>Black</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp. Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="208" to="220" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The effects of stochastic galvanic vestibular stimulation on human postural sway</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Pavlik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Inglis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lauk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Oddsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Collins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp. Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="273" to="280" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Lateral stability and falls in older people</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Mille</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exerc. Sport Sci. Rev</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="182" to="187" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b27">
+	<analytic>
+		<title level="a" type="main">A practical method for calculating largest Lyapunov exponents from small data sets</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rosenstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>De Luca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. D</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="117" to="134" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Enhancing human balance control with galvanic vestibular stimulation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Scinicariello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Inglis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Collins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. Cybern</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="475" to="480" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Local dynamic stability of amputees wearing a torsion adapter compared to a rigid adapter during straight-line and turning gait</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Segal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Orendurff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Czerniecki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Shofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Klute</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biomech</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="2798" to="2803" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Detecting strange attractors in turbulence</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Takens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Dynamical Systems and Turbulence</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Rand</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L.-S</forename><surname>Young</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Warwick; Berlin/Heidelberg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1980">1980. 1981</date>
+			<biblScope unit="page" from="366" to="381" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Precision of estimates of mean and peak spinal loads in lifting</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Van Dieen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hoozemans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Van Der Beek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mullender</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biomech</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="979" to="982" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Van Schooten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Sloot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Bruijn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kingma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">G</forename><surname>Meijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pijnappels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Van Dieen</surname></persName>
+		</author>
+		<title level="m">Sensitivity of trunk variability and stability measures to balance impairments induced by Galvanic Vestibular Stimulation during gait</title>
+		<imprint/>
+	</monogr>
+	<note>submitted</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b33">
+	<analytic>
+		<title level="a" type="main">What does galvanic vestibular stimulation stimulate?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wardman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Fitzpatrick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Exp. Med. Biol</title>
+		<imprint>
+			<biblScope unit="volume">508</biblScope>
+			<biblScope unit="page" from="119" to="128" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Making bootstrap statistical inferences: a tutorial</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Res. Q. Exerc. Sport</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="44" to="55" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

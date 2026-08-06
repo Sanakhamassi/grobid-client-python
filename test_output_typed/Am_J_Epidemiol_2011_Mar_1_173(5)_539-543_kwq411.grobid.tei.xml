@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Prenatal Application of the Individualized Fetal Growth Reference</title>
+				<funder>
+					<orgName type="full">Intramural Research Program of the Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-01-20">January 20, 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>Dr</roleName><forename type="first">Jun</forename><surname>Zhang</surname></persName>
+							<email>zhangj@mail.nih.gov</email>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">National Institute of Child Health and Human Development</orgName>
+								<orgName type="institution" key="instit2">National Institutes of Health</orgName>
+								<address>
+									<addrLine>Room 7B03</addrLine>
+									<postCode>6100 20892</postCode>
+									<settlement>Building Bethesda</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">National Institute of Child Health and Human Development</orgName>
+								<orgName type="institution" key="instit2">National Institutes of Health</orgName>
+								<address>
+									<addrLine>Room 7B03</addrLine>
+									<postCode>6100 20892</postCode>
+									<settlement>Building Bethesda</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rafael</forename><surname>Mikolajczyk</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">National Institute of Child Health and Human Development</orgName>
+								<orgName type="institution" key="instit2">National Institutes of Health</orgName>
+								<address>
+									<addrLine>Room 7B03</addrLine>
+									<postCode>6100 20892</postCode>
+									<settlement>Building Bethesda</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jaceteshwar</forename><surname>Grewal</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">National Institute of Child Health and Human Development</orgName>
+								<orgName type="institution" key="instit2">National Institutes of Health</orgName>
+								<address>
+									<addrLine>Room 7B03</addrLine>
+									<postCode>6100 20892</postCode>
+									<settlement>Building Bethesda</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gila</forename><surname>Neta</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">National Institute of Child Health and Human Development</orgName>
+								<orgName type="institution" key="instit2">National Institutes of Health</orgName>
+								<address>
+									<addrLine>Room 7B03</addrLine>
+									<postCode>6100 20892</postCode>
+									<settlement>Building Bethesda</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mark</forename><surname>Klebanoff</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">National Institute of Child Health and Human Development</orgName>
+								<orgName type="institution" key="instit2">National Institutes of Health</orgName>
+								<address>
+									<addrLine>Room 7B03</addrLine>
+									<postCode>6100 20892</postCode>
+									<settlement>Building Bethesda</settlement>
+									<region>MD</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Prenatal Application of the Individualized Fetal Growth Reference</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-01-20">January 20, 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2FA5D5C32F5420AEF19639CC3485A840</idno>
+					<idno type="DOI">10.1093/aje/kwq411</idno>
+					<note type="submission">Initially submitted June 21, 2010; accepted for publication October 27, 2010.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.3-SNAPSHOT" ident="GROBID" when="2026-08-06T10:04+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">f91f218</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>fetal growth retardation</term>
+					<term>infant, small for gestational age</term>
+					<term>perinatal mortality Abbreviations: CI, confidence interval</term>
+					<term>LMP, last menstrual period</term>
+					<term>RADIUS, Routine Antenatal Diagnostic Imaging with Ultrasound</term>
+					<term>SGA, small for gestational age</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The individualized reference for defining small for gestational age (SGA) at birth has gained popularity in recent years. However, its utility on fetal assessment has not been evaluated. The authors compare an individualized with an ultrasound reference in predicting poor perinatal outcomes. Data from a large clinical trial in predominantly white US women (1987)(1988)(1989)(1990)(1991) with singleton pregnancies (n ¼ 9,526) were used. The individualized reference classified fewer SGA fetuses than the ultrasound reference, but the risks of adverse outcomes were similar between fetuses classified by both references. The risk increased substantially only when the percentiles fell below the 5th percentile (likelihood ratio positive at birth ¼ 2.68 (95% confidence interval (CI): 2.00, 3.58) and 3.13 (95% CI: 2.34, 4.18) for ultrasound and individualized references, respectively). SGA fetuses defined by either the individualized or ultrasound reference alone had risk ratios of adverse outcomes of 1.91 (95% CI: 0.77, 4.77) and 1.18 (95% CI: 0.37, 3.77), respectively, compared with normal fetuses (the difference between these 2 risk ratios, P ¼ 0.71). The authors conclude that neither the ultrasound-based nor the individualized reference does well in predicting adverse perinatal outcomes. The 5th percentile may be a better cutpoint than the 10th percentile in defining SGA.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Defining fetal growth restriction has been a longstanding challenge. Currently, most clinicians and researchers use small for gestational age (SGA) (i.e., the smallest 10% of fetuses or newborns at a given gestational week) as a surrogate for fetal growth restriction <ref type="bibr" target="#b0">(1)</ref>. One of the primary deficiencies of the current definition of fetal growth restriction is that it is based on an absolute fetal size, irrespective of maternal and fetal genetic and physiologic factors. For example, fetuses from a large white mother and a small Asian mother are both assessed by the same criterion, which could deem one fetus to be SGA and the other to be within the normal range, even though what is normal can be expected to differ according to maternal characteristics. As a result, both under-and overdiagnosis of fetal growth restriction may occur, which has significant clinical implications.</p><p>Clinicians and researchers have increasingly recognized that fetal growth should be evaluated according to the extent to which a particular fetus has fulfilled its growth potential for a given maternal and fetal profile (2). Brenner et al. <ref type="bibr" target="#b2">(3)</ref> were the first to advance this notion of an individualized reference, proposing an adjustment for race, sex, and parity when assessing birth weight by gestational age. Gardosi et al. (4) later developed a detailed methodology to automate the procedure that used a fetal weight curve and adjusted for maternal race, parity, pre-or early pregnancy weight and height, and infant's sex. Their methodology continues to gain greater acceptance <ref type="bibr" target="#b4">(5)</ref>.</p><p>Currently, 3 types of SGA references are commonly usedreferences based on birth weight (e.g., by Alexander et al.) <ref type="bibr" target="#b5">(6)</ref>, estimated fetal weight (e.g., by Hadlock et al.) <ref type="bibr" target="#b6">(7)</ref>, and individualized reference (4). The birth weight reference is flawed in early gestation weeks because babies born preterm are often growth restricted. That segment in the birth weight reference has artificially lower percentile limits <ref type="bibr" target="#b7">(8)</ref>; that is, SGA is likely to be underdiagnosed in early gestation. Several past studies found that infants classified by the individualized reference as SGA had a significantly higher overall mortality and morbidity than SGA infants classified by the birth weight reference (9-13). The higher perinatal mortality among infants classified as SGA by the individualized reference is largely due to the inclusion of more preterm births in this group <ref type="bibr" target="#b7">(8,</ref><ref type="bibr" target="#b13">14)</ref>. Given the important deficiency with the birth weight reference in preterm births, researchers are now seeking better references.</p><p>The individualized reference adopts the fetal weight reference as the base but adjusts for other factors <ref type="bibr" target="#b3">(4)</ref>. Some studies of the risk of stillbirth <ref type="bibr" target="#b14">(15)</ref> and neonatal death <ref type="bibr" target="#b15">(16)</ref> have suggested that the advantages of the individualized reference, relative to a simple ultrasound-based fetal weight reference (i.e., without adjustment for maternal or fetal characteristics), are rather limited. It remains unclear whether the individualized reference is superior if perinatal morbidity (instead of mortality) is used as the outcome.</p><p>Although assessment of newborn size at birth is important for pediatric care and research for long-term outcomes, recognizing SGA in utero is as crucial for obstetric care and research on fetal programming. Thus, existing research leaves open the questions about how best to identify SGA fetuses either in utero or at birth that have a higher risk of exhibiting adverse outcomes. No study to our knowledge has evaluated the prenatal utility of individualized reference. Therefore, this paper focuses on the ultrasound estimated fetal weight and compares the fetal weight and individualized references with regard to their ability to predict perinatal outcomes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head><p>The Routine Antenatal Diagnostic Imaging with Ultrasound (RADIUS) trial was a multicenter study of pregnant women at low risk for adverse outcomes. The trial was designed to test the hypothesis that routine screening with standardized ultrasonography on 2 occasions would reduce perinatal morbidity and mortality. A detailed description of the trial is provided elsewhere <ref type="bibr" target="#b16">(17)</ref>. Briefly, from November 1987 to May 1991, pregnant women who were aged 18 years or older, who spoke English, whose last menstrual period (LMP) was known within 1 week, and whose gestational age was less than 18 weeks at recruitment were potentially eligible for the study. The study excluded women who had a previous stillbirth, prior SGA infant, irregular menstrual cycles, discrepancy between uterine size and dates of more than 3 weeks, diabetes, chronic hypertension, or chronic renal disease. In total, the RADIUS trial recruited 15,151 women, including 15,018 singleton pregnancies; 90% of the subjects were white.</p><p>Eligible women were randomly assigned to either the ultrasound screening group or the control group. Women in the former group underwent sonographic examinations at both 15-22 and 31-35 weeks of gestation. All of the study participants, regardless of group, could undergo ultrasonography at any time for medical or obstetric indications, as identified by their physicians. The standardized fetal biometry included biparietal diameter, head circumference, abdominal circumference, and femur length. Women were interviewed at recruitment, and information on demographic characteristics and reproductive history was recorded. Ante-partum, intrapartum, and neonatal information was abstracted from the antenatal medical records and from inpatient hospital records.</p><p>At enrollment, each woman reported the first day of her LMP. We used ultrasound measurements of the first fetal biometry to validate the gestational age, relying on Hadlock's formula <ref type="bibr" target="#b17">(18)</ref> to calculate an ultrasound-based LMP. If the self-reported LMP and ultrasound-based LMP differed by more than 7 days for women prior to 21 weeks of gestation, or by more than 10 days for gestational ages between 21 and 26 weeks, the ultrasound-based LMP was substituted for the self-reported LMP. Gestational age at delivery was calculated according to the corrected LMP. Ultrasound measurements at 30 weeks or later were used to calculate the estimated fetal weight on the basis of head and abdominal circumferences and femur length <ref type="bibr" target="#b18">(19)</ref>.</p><p>We selected women who had an ultrasound examination at 30 weeks of gestation or later because that is when most ultrasound examinations in late gestation were done in this study. A total of 6,787 and 2,027 women had at least 1 ultrasound scan between 30-33 weeks of gestation and at 34 weeks or later, respectively. The sample used in our analysis included a total of 9,526 births delivered at 30 weeks or later (some of them had birth weight, but not estimated fetal weight at 30 weeks or after). All of the subjects had complete information on birth weight, gestational age, maternal race, parity, infant's sex, maternal prepregnancy weight and height, and perinatal morbidity and mortality.</p><p>To define SGA, we applied 2 widely used references to our study population. The first was an ultrasound-based fetal weight reference <ref type="bibr" target="#b6">(7)</ref>, which was created on the basis of a cross-sectional cohort of predominantly low-risk white women in the United Sttates with a normal perinatal outcome. The second was an individualized reference, which adjusted the fetal weight reference for maternal race/ ethnicity, parity, prepregnancy or early pregnancy height and weight, and infant's sex in the US population (<ref type="url" target="http://www.gestation.net">www.  gestation.net</ref>) <ref type="bibr" target="#b19">(20)</ref>. We used the 10th and 5th percentiles in each reference and compared the proportion of infants classified by these references as SGA.</p><p>In the RADIUS trial, the list of adverse perinatal outcomes encompassed the following: fetal death or neonatal death up to 28 days of age, grade IV retinopathy of prematurity, bronchopulmonary dysplasia, mechanical ventilation required for more than 48 hours, necrotizing enterocolitis, intraventricular hemorrhage, subdural or cerebral hemorrhage, neonatal seizure, placement of chest tube, neonatal sepsis, oxygen required for more than 48 hours, birth trauma, or a stay of more than 5 days in a special care nursery. Because of the small number of subjects with severe adverse outcomes, we created a composite outcome that includes any of the above conditions. We compared the incidence of the composite outcome among infants classified by both references and, for each reference, we calculated the likelihood ratio <ref type="bibr" target="#b20">(21)</ref> in predicting the adverse outcome. Finally, because this is a secondary data analysis using deidentified data, an institutional review board exemption was obtained. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Table <ref type="table" target="#tab_0">1</ref> presents the proportions of SGA infants that were based on different reference types. The ultrasound reference classified more SGA infants (&lt;10th percentile): 8% at 30-33 weeks, 13% at 34 weeks, and 11% at birth. The numbers of SGA infants that the individualized reference identified are as follows: 6%, 10%, and 8%, respectively. Table <ref type="table" target="#tab_0">1</ref> also shows that the vast majority of adverse perinatal outcomes occurred in fetuses/infants weighing above the 10th percentile of either reference. The ultrasound and individualized references yielded a very similar incidence of adverse outcomes in SGA infants (&lt;10th percentile overall) (all P &gt; 0.05). The results also suggest that the incidence of adverse outcome is substantially higher only when the weight falls below the 5th percentile. The likelihood ratios indicate that only weight below the 5th percentile may have predictive power for adverse outcomes. These findings are robust even when we separate preterm and term births (results not shown).</p><p>We then examined the association between weight below the 5th percentile, based on the ultrasound and individualized references, and the incidence of adverse outcomes (Table <ref type="table" target="#tab_1">2</ref>). The SGA cases classified by these 2 references overlap considerably (70%-77% of SGA cases). The cases identified by both references had a much higher risk of adverse outcomes than those identified by just 1 of the references and those not classified as SGA cases by either  reference. When estimated fetal weight was considered, subjects classified as SGA only by the individualized reference seem to have a higher risk ratio of adverse outcomes (risk ratio ¼ 1.91, 95% confidence interval (CI): 0.77, 4.77) than those classified as SGA by the ultrasound reference alone (risk ratio ¼ 1.18, 95% CI: 0.37, 3.77). A similar pattern of results was observed for birth weight. However, the differences in corresponding risk ratios were not statistically significant (P ¼ 0.71 and P ¼ 0.23, respectively). Furthermore, because of substantial overlap, the number of extra cases that can be identified by the individualized reference is limited.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Our study, using data from the RADIUS trial, shows that the 5th percentile is a better cutoff point for defining SGA than the 10th percentile with regard to its ability to predict adverse perinatal outcomes. However, even with the 5th percentile, neither the ultrasound nor the individualized reference for SGA has high predictive power. With advanced perinatal care, the majority of infants whose weight is below the 10th percentile survive well without any significant morbidity and mortality. Our study shows that the risk of adverse perinatal outcomes increased meaningfully only after the weight falls below the 5th percentile. This finding raises the question of whether in a contemporary population SGA should be redefined as having a weight below the 5th percentile rather than the traditional 10th percentile.</p><p>It is well established that race, parity, sex, and maternal prepregnancy height and weight influence fetal weight. For example, male fetuses are, on average, 100 g heavier than female fetuses at birth <ref type="bibr" target="#b21">(22)</ref>. The mean birth weight of white infants is approximately 200 g greater than that of black infants <ref type="bibr" target="#b21">(22)</ref>. In principle, therefore, the individualized reference should be able to assign a fetus/infant to a more appropriate weight percentile than a simple ultrasoundbased reference. Fine tuning the weight percentile, however, does not seem to yield substantial gains as far as predicting adverse perinatal outcomes.</p><p>Several reasons may explain this phenomenon. First, the likelihood of being classified by both references as being below the 5th percentiles is high; that is, there is a large overlap. The fine tuning affects mostly the borderline SGA cases. These cases tend to have lower mortality and morbidity than the more severe cases.</p><p>Second, errors in the ultrasound-based estimated fetal weight may have further reduced the potential improvement. These findings are consistent with those of previous studies <ref type="bibr" target="#b14">(15,</ref><ref type="bibr" target="#b15">16)</ref>.</p><p>Third, the correlation between weight percentiles and risk of adverse perinatal outcomes is disappointingly low. Similar to previous studies, the current study found that the vast majority of adverse perinatal outcomes occurred in fetuses/ infants with weights above the 10th percentile (Table <ref type="table" target="#tab_0">1</ref>) <ref type="bibr" target="#b22">(23)</ref>. Conversely, the risk of adverse outcomes increases substantially only when the estimated fetal weight or birth weight is below the 5th percentile in both preterm and term births. Thus, any improvement in percentile assignment of-fered by the individualized reference is further offset by the low correlation between the percentile and adverse outcomes. These deficiencies may explain why the individualized reference does not provide a substantial overall advantage over the simple ultrasound reference in our study.</p><p>One could argue that the conditions included in the perinatal composite outcome are not specific to disorders of fetal growth and that the improved assignment of weight percentiles by the individualized reference may still be important for more subtle and long-term effects, such as child neurodevelopment and adult diseases in later life. Fetal growth restriction is a consequence of many causes and an indicator of compromised fetal status. Thus, fetal growth restriction itself does not necessarily cause adverse perinatal outcomes but is associated with a wide variety of perinatal mortality and morbidity. We selected a number of perinatal outcomes that are clinically important and priority concerns of both obstetricians and neonatologists <ref type="bibr" target="#b23">(24,</ref><ref type="bibr" target="#b24">25)</ref>. Consequently, these outcomes should be the ''gold standard'' in assessing the prenatal utility of these references, even though they may not be good indicators for long-term effects.</p><p>As in previous studies <ref type="bibr" target="#b14">(15,</ref><ref type="bibr" target="#b15">16)</ref>, our study population also has the limitation of being relatively homogeneous-a predominantly white population. It is reasonable to question whether the advantage of the individualized reference mainly reflects in a racially diverse population. Further studies with a diverse population are needed to address this issue. Nonetheless, findings from previous studies and ours suggest that adjusting for other characteristics (namely, maternal height and weight, parity, and sex of the infant) in the individualized reference may not improve the classification as much as previously reported when the individualized reference was compared with a birth weight reference <ref type="bibr" target="#b8">(9)</ref><ref type="bibr" target="#b9">(10)</ref><ref type="bibr" target="#b10">(11)</ref><ref type="bibr" target="#b11">(12)</ref><ref type="bibr" target="#b12">(13)</ref>.</p><p>At the same time, our study has several advantages over existing published research. For one, we used data from a large, carefully conducted prospective trial. More importantly, our study provides the first evidence using ultrasoundbased estimated fetal weight, which is more relevant to obstetric practice than the birth weight data examined in past studies.</p><p>In conclusion, neither the ultrasound nor the individualized references for SGA do well in predicting adverse perinatal outcomes in pregnancies of predominantly white women. Research in a racially diverse population is needed to demonstrate whether the individualized reference has substantial advantages over the simple ultrasound reference. Finally, the 5th percentile may be a better cutpoint than the 10th percentile in defining SGA.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>540</head><figDesc>Zhang et al.Am J Epidemiol 2011;173:539-543</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Classification of Small-for-Gestational-Age Infants by Different Reference Types and Incidence of Perinatal Mortality and Morbidity, UnitedStates, 1987States,  -1991       </figDesc><table><row><cell></cell><cell cols="4">Fetuses/Infants Below Certain Percentiles by Reference Type</cell><cell cols="4">Incidence of Adverse Outcomes</cell><cell></cell><cell cols="2">Predictive Value</cell><cell></cell></row><row><cell></cell><cell cols="2">Ultrasound</cell><cell cols="2">Individualized</cell><cell cols="2">Ultrasound</cell><cell cols="2">Individualized</cell><cell></cell><cell>Ultrasound</cell><cell cols="2">Individualized</cell></row><row><cell></cell><cell>No.</cell><cell>%</cell><cell>No.</cell><cell>%</cell><cell>No.</cell><cell>%</cell><cell>No.</cell><cell>%</cell><cell>LR</cell><cell>95% CI</cell><cell>LR</cell><cell>95% CI</cell></row><row><cell>Estimated fetal</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>weight at</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>30-33 weeks</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(n ¼ 6,787)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&gt;10th percentile</cell><cell>6,268</cell><cell>92</cell><cell>6,370</cell><cell>94</cell><cell>224</cell><cell>3.6</cell><cell>232</cell><cell>3.6</cell><cell>0.93</cell><cell>0.89, 0.98</cell><cell>0.95</cell><cell>0.91, 0.99</cell></row><row><cell>5th-10th</cell><cell>326</cell><cell>5</cell><cell>211</cell><cell>3</cell><cell>14</cell><cell>4.3</cell><cell>5</cell><cell>2.4</cell><cell>1.13</cell><cell>0.67, 1.90</cell><cell>0.61</cell><cell>0.25, 1.47</cell></row><row><cell>percentile</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&lt;5th percentile</cell><cell>193</cell><cell>3</cell><cell>206</cell><cell>3</cell><cell>21</cell><cell>10.9</cell><cell>22</cell><cell>10.7</cell><cell>3.08</cell><cell>1.99, 4.76</cell><cell>3.01</cell><cell>1.97, 4.61</cell></row><row><cell>Estimated fetal</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>weight at 34</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>weeks or later</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(n ¼ 2,027)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&gt;10th percentile</cell><cell>1,764</cell><cell>87</cell><cell>1,823</cell><cell>90</cell><cell>63</cell><cell>3.6</cell><cell>66</cell><cell>3.6</cell><cell>0.98</cell><cell>0.89, 1.08</cell><cell>0.99</cell><cell>0.91, 1.07</cell></row><row><cell>5th-10th</cell><cell>126</cell><cell>6</cell><cell>76</cell><cell>4</cell><cell>6</cell><cell>4.8</cell><cell>3</cell><cell>4.0</cell><cell>1.32</cell><cell>0.60, 2.90</cell><cell>1.08</cell><cell>0.35, 3.36</cell></row><row><cell>percentile</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&lt;5th percentile</cell><cell>137</cell><cell>7</cell><cell>128</cell><cell>6</cell><cell>5</cell><cell>3.7</cell><cell>5</cell><cell>3.9</cell><cell>1.00</cell><cell>0.42, 2.37</cell><cell>1.07</cell><cell>0.45, 2.54</cell></row><row><cell>Birth weight</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(n ¼ 9,526)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&gt;10th percentile</cell><cell>8,454</cell><cell>89</cell><cell>8,737</cell><cell>92</cell><cell>310</cell><cell>3.7</cell><cell>322</cell><cell>3.7</cell><cell>0.90</cell><cell>0.86, 0.95</cell><cell>0.91</cell><cell>0.87, 0.95</cell></row><row><cell>5th-10th</cell><cell>629</cell><cell>6</cell><cell>395</cell><cell>4</cell><cell>31</cell><cell>4.9</cell><cell>18</cell><cell>4.6</cell><cell>1.23</cell><cell>0.87, 1.74</cell><cell>1.13</cell><cell>0.71, 1.79</cell></row><row><cell>percentile</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&lt;5th percentile</cell><cell>443</cell><cell>5</cell><cell>394</cell><cell>4</cell><cell>45</cell><cell>10.2</cell><cell>46</cell><cell>11.7</cell><cell>2.68</cell><cell>2.00, 3.58</cell><cell>3.13</cell><cell>2.34, 4.18</cell></row></table><note><p>Abbreviations: CI, confidence interval; LR, likelihood ratio.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Classification Overlap Between Ultrasound and Individualized Reference Types and Incidence of Adverse Perinatal Outcomes, UnitedStates, 1987States,  -1991       </figDesc><table><row><cell>Weight Below the</cell><cell></cell><cell cols="3">Ultrasound-estimated Fetal Weight at  ‡30 Weeks</cell><cell></cell><cell></cell><cell></cell><cell>Birth Weight</cell></row><row><cell>5th Percentile by</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>No.</cell><cell>%</cell><cell cols="2">Incidence, % RR</cell><cell>95% CI</cell><cell>No.</cell><cell>%</cell><cell>Incidence, % RR</cell><cell>95% CI</cell></row><row><cell cols="3">Neither reference 7,756 95.4</cell><cell>3.6</cell><cell>1.0</cell><cell></cell><cell cols="2">8,989 94.4</cell><cell>3.7</cell><cell>1.0</cell></row><row><cell>Ultrasound</cell><cell cols="2">72 0.9</cell><cell>4.2</cell><cell cols="2">1.18 0.37, 3.77</cell><cell cols="2">130 1.4</cell><cell>3.9</cell><cell>1.04 0.42, 2.55</cell></row><row><cell>reference only</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Individualized</cell><cell cols="2">76 0.9</cell><cell>6.6</cell><cell cols="2">1.91 0.77, 4.77</cell><cell cols="2">94 1.0</cell><cell>7.5</cell><cell>2.09 0.96, 4.54</cell></row><row><cell>reference only</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Both references</cell><cell cols="2">226 2.8</cell><cell>9.7</cell><cell cols="2">2.92 1.85, 4.61</cell><cell cols="2">313 3.3</cell><cell>12.8</cell><cell>3.80 2.68, 5.39</cell></row></table><note><p>Abbreviations: CI, confidence interval; RR, risk ratio.</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p>This study was supported by the <rs type="funder">Intramural Research Program of the Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest: none declared.</head></div>
+			</div>
+
+
+			<div type="contribution">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author affiliations: Epidemiology Branch, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, Maryland (Jun Zhang, Jagteshwar Grewal, Gila Neta, Mark Klebanoff); and Department of Clinical Epidemiology, Bremen Institute for Prevention Research and Social Medicine, Bremen University, Bremen, Germany (Rafael Mikolajczyk).</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted"  xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Defining normal and abnormal fetal growth: promises and challenges</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Merialdi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Platt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">202</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="522" to="528" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Customised antenatal growth charts</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gardosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kalyan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">339</biblScope>
+			<biblScope unit="issue">8788</biblScope>
+			<biblScope unit="page" from="283" to="287" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A standard of fetal growth for the United States of America</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Edelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Hendricks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="555" to="564" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b3">
+	<analytic>
+		<title level="a" type="main">An adjustable fetal weight standard</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gardosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mongelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wilcox</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ultrasound Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="168" to="174" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b4">
+	<analytic>
+		<title level="a" type="main">One size does not fit all</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Resnik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">197</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="221" to="222" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A United States national reference for fetal growth</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Himes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Kaufman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="163" to="168" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b6">
+	<analytic>
+		<title level="a" type="main">In utero analysis of fetal growth: a sonographic weight standard</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Hadlock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Harrist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Martinez-Poyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiology</title>
+		<imprint>
+			<biblScope unit="volume">181</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="129" to="133" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The use of customised versus population-based birthweight standards in predicting perinatal mortality</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Platt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cnattingius</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BJOG</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="474" to="477" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Evaluation of perinatal outcome using individualized growth assessment: comparison with conventional methods</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ariyuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kitao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="36" to="42" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>pt 1</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Perinatal outcome in SGA births defined by customized versus population-based birthweight standards</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Clausson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gardosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Francis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="830" to="834" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Relationship between customised birthweight centiles and neonatal anthropometric features of growth restriction</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Farrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Hardwick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BJOG</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="658" to="662" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Fetal growth potential and pregnancy outcome</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bukowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Perinatol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="51" to="58" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Adverse pregnancy outcome and association with small for gestational age birthweight by customized and population-based percentiles</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gardosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Francis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">201</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">28</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>e1-28.e8</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Small-for-gestationalage infants classified by customized or population birthweight centiles: impact of gestational age at delivery</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Groom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Poppe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>North</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">197</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="239" to="e240" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>e5</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Unadjusted and customised weight centiles in the identification of growth restriction among stillborn infants</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Lyon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Howatson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Khan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BJOG</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1460" to="1463" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Customised birthweight percentiles: does adjusting for maternal characteristics matter?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hutcheon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cnattingius</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BJOG</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1397" to="1404" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Effect of prenatal ultrasound screening on perinatal outcome. RADIUS Study Group</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Ewigman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Crane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Frigoletto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">329</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="821" to="827" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Estimating fetal age: computer-assisted analysis of multiple fetal growth parameters</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Hadlock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Deter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Harrist</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiology</title>
+		<imprint>
+			<biblScope unit="volume">152</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="497" to="501" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Estimation of fetal weight with the use of head, body, and femur measurements-a prospective study</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Hadlock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Harrist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Sharman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="333" to="337" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A customized standard to assess fetal growth in a US population</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gardosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Francis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">201</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">25</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>e1-25.e7</note>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Diagnostic tests 4: likelihood ratios</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Deeks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Altman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">329</biblScope>
+			<biblScope unit="issue">7458</biblScope>
+			<biblScope unit="page" from="168" to="169" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Birth-weight-for-gestational-age patterns by race, sex, and parity in the United States population</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Bowes</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="200" to="208" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Birth weight in relation to morbidity and mortality among newborn infants</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Mcintire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Bloom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Casey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">340</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="1234" to="1238" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Impairment of growth in fetuses destined to deliver preterm</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bukowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Denning</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">185</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="463" to="467" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct status="extracted"  xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Impairment of fetal growth potential and neonatal encephalopathy</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bukowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Burgett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">188</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1011" to="1015" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
