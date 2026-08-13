@@ -14,6 +14,8 @@ would require something scalable too (e.g. done in a separate thread),
 which is not implemented for the moment.
 
 """
+from __future__ import annotations
+
 import os
 import json
 import argparse
@@ -46,7 +48,7 @@ class GrobidClient(ApiClient):
     CONSOLIDATE_CITATIONS_MIN_TIMEOUT = 120
 
     # Default configuration values
-    DEFAULT_CONFIG = {
+    DEFAULT_CONFIG: dict = {
         'grobid_server': 'http://localhost:8070',
         'batch_size': 10,
         'sleep_time': 5,
@@ -208,7 +210,7 @@ class GrobidClient(ApiClient):
                 backup_count = log_config.get('backup_count', 3)
 
                 from logging.handlers import RotatingFileHandler
-                file_handler = RotatingFileHandler(
+                file_handler: logging.Handler = RotatingFileHandler(
                     log_file,
                     maxBytes=max_bytes,
                     backupCount=backup_count
@@ -548,7 +550,7 @@ class GrobidClient(ApiClient):
                         if not os.path.isfile(json_filename_expanded):
                             self.logger.info(f"JSON file {json_filename} does not exist, generating JSON from existing TEI...")
                             try:
-                                converter = TEI2LossyJSONConverter()
+                                converter: Any = TEI2LossyJSONConverter()
                                 json_data = converter.convert_tei_file(filename, stream=False)
 
                                 if json_data:
@@ -583,7 +585,7 @@ class GrobidClient(ApiClient):
 
                     continue
 
-                selected_process = self.process_pdf
+                selected_process: Any = self.process_pdf
                 if service == 'processCitationList':
                     selected_process = self.process_txt
 
