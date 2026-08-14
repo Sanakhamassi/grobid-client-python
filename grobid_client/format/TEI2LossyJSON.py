@@ -4,6 +4,8 @@
 
     Original version: https://github.com/howisonlab/softcite-dataset/blob/master/code/corpus/TEI2LossyJSON.py
 """
+from __future__ import annotations
+
 import logging
 import os
 import uuid
@@ -12,13 +14,13 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 import html
 import re
 from pathlib import Path
-from typing import Dict, Union, BinaryIO, Iterator
+from typing import Any, Dict, Union, BinaryIO, Iterator
 
 import dateparser
 from bs4 import BeautifulSoup, Tag
 
 # Configure module-level logger
-logger = logging.getLogger(__name__)
+logger: logging.Logger = logging.getLogger(__name__)
 logger.propagate = False  # Prevent propagation to avoid duplicate logs
 
 # Only configure basic logging if nothing is set up yet
@@ -35,10 +37,10 @@ class TEI2LossyJSONConverter:
     The class also provides utilities to process a directory of TEI files in parallel and in batches.
     """
 
-    def __init__(self, validate_refs: bool = True):
-        self.validate_refs = validate_refs
+    def __init__(self, validate_refs: bool = True) -> None:
+        self.validate_refs: bool = validate_refs
 
-    def convert_tei_file(self, tei_file: Union[Path, BinaryIO], stream: bool = False):
+    def convert_tei_file(self, tei_file: Union[str, Path, BinaryIO], stream: bool = False) -> Any:
         """Backward-compatible function. If stream=True returns a generator that yields passages (dicts).
         If stream=False returns the full document dict (same shape as original function).
         """
@@ -226,7 +228,7 @@ class TEI2LossyJSONConverter:
 
             return document
 
-    def _extract_comprehensive_reference_data(self, bibl_struct: Tag, index: int) -> Dict:
+    def _extract_comprehensive_reference_data(self, bibl_struct: Tag, index: int) -> dict[str, Any] | None:
         """
         Extract detailed bibliographic information from TEI biblStruct elements.
         Implements comprehensive parsing for all standard TEI bibliographic components.
@@ -241,11 +243,11 @@ class TEI2LossyJSONConverter:
             citation_data['target'] = xml_id
 
         # Initialize containers for different types of content
-        contributor_list = []
-        publication_metadata = {}
-        identifier_collection = {}
-        supplementary_info = []
-        link_references = []
+        contributor_list: list[dict[str, Any]] = []
+        publication_metadata: dict[str, Any] = {}
+        identifier_collection: dict[str, Any] = {}
+        supplementary_info: list[str] = []
+        link_references: list[str] = []
 
         # 1. Process analytic level information (article/conference paper content)
         analytic_section = bibl_struct.find("analytic")
@@ -376,9 +378,9 @@ class TEI2LossyJSONConverter:
 
         return None
 
-    def _extract_contributor_details(self, contributor_element: Tag) -> Dict:
+    def _extract_contributor_details(self, contributor_element: Tag) -> dict[str, Any] | None:
         """Extract detailed information about authors, editors, and other contributors."""
-        contributor_info = {}
+        contributor_info: dict[str, Any] = {}
 
         # Extract name components
         surname_element = contributor_element.find("surname")
@@ -413,7 +415,7 @@ class TEI2LossyJSONConverter:
 
         return contributor_info if contributor_info.get('name') else None
 
-    def _process_identifier_element(self, identifier_element: Tag, identifier_collection: Dict, level: str):
+    def _process_identifier_element(self, identifier_element: Tag, identifier_collection: dict[str, Any], level: str) -> None:
         """Process identifier elements (DOI, ISBN, ISSN, etc.) and organize by type and level."""
         identifier_text = self._clean_text(identifier_element.get_text())
         identifier_type = identifier_element.get("type", "").lower()
@@ -430,13 +432,13 @@ class TEI2LossyJSONConverter:
             else:
                 identifier_collection[level_key]['unknown'] = identifier_text
 
-    def _process_pointer_element(self, pointer_element: Tag, link_references: list):
+    def _process_pointer_element(self, pointer_element: Tag, link_references: list[str]) -> None:
         """Process pointer elements that contain external links."""
         pointer_target = pointer_element.get("target", "").strip()
         if pointer_target:
             link_references.append(pointer_target)
 
-    def _process_imprint_details(self, imprint_element: Tag, publication_metadata: Dict):
+    def _process_imprint_details(self, imprint_element: Tag, publication_metadata: dict[str, Any]) -> None:
         """Extract and process imprint information including publisher, dates, and page ranges."""
 
         # Extract publisher information
@@ -494,9 +496,9 @@ class TEI2LossyJSONConverter:
             elif scope_unit == "chapter":
                 publication_metadata['chapter'] = scope_text
 
-    def _compile_citation_data(self, citation_data: Dict, contributors: list,
-                              publication_metadata: Dict, identifiers: Dict,
-                              supplementary_info: list, links: list):
+    def _compile_citation_data(self, citation_data: dict[str, Any], contributors: list[dict[str, Any]],
+                              publication_metadata: dict[str, Any], identifiers: dict[str, Any],
+                              supplementary_info: list[str], links: list[str]) -> None:
         """Compile all extracted information into the final citation structure."""
         # Process contributors
         if contributors:
@@ -546,7 +548,7 @@ class TEI2LossyJSONConverter:
             else:
                 citation_data['urls'] = links
 
-    def _validate_citation_content(self, citation_data: Dict) -> bool:
+    def _validate_citation_content(self, citation_data: dict[str, Any]) -> bool:
         """Validate that the citation contains meaningful information."""
         # Check for essential bibliographic elements
         essential_elements = ['title', 'authors', 'journal', 'doi', 'isbn', 'issn', 'pmc', 'pmid']
@@ -559,13 +561,13 @@ class TEI2LossyJSONConverter:
 
         return has_essential or has_fallback
 
-    def _extract_person_data(self, person_element: Tag) -> Dict:
+    def _extract_person_data(self, person_element: Tag) -> dict[str, Any] | None:
         """
         Extract person data (author/editor) from TEI persName or author elements.
         Handles various name formats and affiliations.
         """
 
-        person_data = {}
+        person_data: dict[str, Any] = {}
 
         # Try different name extraction methods
         forename = person_element.find("forename")
@@ -691,7 +693,7 @@ class TEI2LossyJSONConverter:
                 head_paragraph = None
 
 
-    def _process_div_with_nested_content(self, div: Tag, passage_level: str, head_paragraph: str = None) -> Iterator[Dict[str, Union[str, Dict[str, str]]]]:
+    def _process_div_with_nested_content(self, div: Tag, passage_level: str, head_paragraph: str | None = None) -> Iterator[Dict[str, Union[str, Dict[str, str]]]]:
         """
         Process a div and its nested content, handling various back section types.
         Supports nested divs for complex back sections like annex with multiple subsections.
@@ -813,7 +815,7 @@ class TEI2LossyJSONConverter:
         if current_head_paragraph is not None:
             head_paragraph = current_head_paragraph
 
-    def process_directory(self, directory: Union[str, Path], pattern: str = "*.tei.xml", parallel: bool = True, workers: int = None) -> Iterator[Dict]:
+    def process_directory(self, directory: Union[str, Path], pattern: str = "*.tei.xml", parallel: bool = True, workers: int | None = None) -> Iterator[Dict]:
         """Process a directory of TEI files and yield converted documents.
         When parallel=True this uses ProcessPoolExecutor to parallelize file-level conversion.
         Each yielded item is a dict with keys: 'path' and 'document' (document may be None on parse error).
@@ -839,7 +841,7 @@ class TEI2LossyJSONConverter:
                 yield {"path": f, "document": doc}
 
 
-def _convert_file_worker(path: str):
+def _convert_file_worker(path: str) -> Any:
     """Worker used by ProcessPoolExecutor. Imports inside function to avoid pickling issues."""
     from bs4 import BeautifulSoup
     # Reuse existing top-level helpers from this module by importing here
@@ -850,7 +852,7 @@ def _convert_file_worker(path: str):
     return converter.convert_tei_file(path, stream=False)
 
 
-def box_to_dict(coord_list):
+def box_to_dict(coord_list: list[str]) -> dict[str, float]:
     """Convert coordinate list to dictionary format."""
     if len(coord_list) >= 4:
         return {
@@ -862,105 +864,141 @@ def box_to_dict(coord_list):
     return {}
 
 
-def get_random_id(prefix=""):
+def get_random_id(prefix: str = "") -> str:
     """Generate a random ID with optional prefix."""
     return f"{prefix}{uuid.uuid4().hex[:8]}"
 
 
 def get_refs_with_offsets(element):
-    """Extract references with their text offsets from an element."""
+    """Extract references with their text offsets from an element.
+    
+    Uses a deterministic character-level index map from raw to cleaned text,
+    so offsets are always exact — no fuzzy search needed.
+    """
     refs = []
 
-    # Apply the same text cleaning as get_formatted_passage
-    def _clean_text(text: str) -> str:
+    def _clean_text(text):
         if not text:
             return ""
         text = re.sub(r'\s+', ' ', text.strip())
-        text = html.unescape(text)
+        # DO NOT call html.unescape(text). BeautifulSoup get_text() already unescapes 
+        # standard XML entities. Calling html.unescape causes aggressive conversion of 
+        # malformed text (e.g., "&ltniss" without semicolon -> "<niss"), which shrinks 
+        # the string and silently breaks all subsequent offsets.
         return text
 
-    # Now extract references with offsets based on the cleaned text
-    def traverse_and_collect(node, current_pos=0):
+    def _build_clean_map(raw_text):
+        """Build cleaned text and a mapping array: raw_map[raw_idx] -> cleaned_idx.
+        
+        Mimics the exact same cleaning as _clean_text:
+          1. strip leading/trailing whitespace
+          2. collapse internal whitespace runs to single space
+        (html.unescape is applied afterwards to the final string)
         """
-        Recursively traverse the DOM tree, building cleaned text content and tracking exact positions.
-        Returns tuple: (text_content, next_position)
-        """
+        n = len(raw_text)
+        raw_map = [0] * (n + 1)
+
+        # Find boundaries for strip()
+        left = 0
+        while left < n and raw_text[left].isspace():
+            left += 1
+        right = n - 1
+        while right >= 0 and raw_text[right].isspace():
+            right -= 1
+
+        if left > right:
+            return "", raw_map
+
+        out_chars = []
+        ci = 0       # current index in cleaned text
+        in_ws = False
+
+        for i in range(n):
+            if i < left or i > right:
+                raw_map[i] = ci
+                continue
+            ch = raw_text[i]
+            if ch.isspace():
+                if not in_ws:
+                    out_chars.append(' ')
+                    raw_map[i] = ci
+                    ci += 1
+                    in_ws = True
+                else:
+                    raw_map[i] = ci
+            else:
+                out_chars.append(ch)
+                raw_map[i] = ci
+                ci += 1
+                in_ws = False
+
+        raw_map[n] = ci
+        return "".join(out_chars), raw_map
+
+    def traverse(node, pos=0):
+        """Walk the DOM tree in document order, collecting raw text positions for refs."""
         if hasattr(node, 'name') and node.name:
-            # This is an element node
             if node.name == "ref" and node.get("type") == "bibr":
-                # Found a reference - get its cleaned text and record its exact position
-                ref_text = _clean_text(node.get_text())
-                if ref_text:  # Only record non-empty references
+                ref_text = node.get_text()
+                if ref_text.strip():
                     refs.append({
                         "type": node.get("type", ""),
                         "target": node.get("target", ""),
-                        "text": ref_text,
-                        "offset_start": current_pos,
-                        "offset_end": current_pos + len(ref_text)
+                        "raw_text": ref_text,
+                        "raw_start": pos,
+                        "raw_end": pos + len(ref_text),
                     })
-                # Return the cleaned reference text and advance position
-                return ref_text, current_pos + len(ref_text)
+                return ref_text, pos + len(ref_text)
             else:
-                # Process children in document order and accumulate their cleaned text
-                text_parts = []
-                pos = current_pos
+                parts = []
                 for child in node.children:
-                    child_text, new_pos = traverse_and_collect(child, pos)
+                    child_text, pos = traverse(child, pos)
                     if child_text is not None:
-                        text_parts.append(child_text)
-                    pos = new_pos
-                return "".join(text_parts), pos
+                        parts.append(child_text)
+                return "".join(parts), pos
         else:
-            # This is a text node (NavigableString) - be more careful with cleaning
-            text_content = str(node)
+            s = str(node)
+            return s, pos + len(s)
 
-            # For text nodes, we need to be more careful about whitespace
-            # Only apply the full cleaning at the end for the complete text
-            return text_content, current_pos + len(text_content)
+    # 1. Collect raw text and raw ref positions
+    raw_text, _ = traverse(element, 0)
 
-    # Build raw text with accurate positions first
-    raw_text, _ = traverse_and_collect(element, 0)
+    # 2. Build the index map
+    cleaned, raw_map = _build_clean_map(raw_text)
 
-    # Now apply the same cleaning as get_formatted_passage to the complete text
-    final_text = _clean_text(raw_text)
-
-    # Adjust all reference offsets to match the cleaned text
+    # 3. Map each ref's raw offsets to cleaned offsets (deterministic, no search)
     final_refs = []
     for ref in refs:
-        # Find the reference text in the cleaned text to get correct offsets
-        ref_text = ref['text']
+        mapped_start = raw_map[ref["raw_start"]]
+        mapped_end   = raw_map[ref["raw_end"]]
+        
+        # Extract the text directly from the cleaned string using the precise offsets.
+        # This absolutely guarantees that struct['text'][start:end] == ref['text'].
+        exact_text = cleaned[mapped_start:mapped_end]
 
-        # The reference text was also cleaned, so we need to find it in the final cleaned text
-        # We can search around the original position to find the correct occurrence
-        search_start = max(0, ref['offset_start'] - 10)  # Look a bit before the original position
-        search_end = min(len(final_text), ref['offset_end'] + 10)  # Look a bit after
-        search_area = final_text[search_start:search_end]
+        # Sometimes a ref is entirely whitespace and gets collapsed to empty string
+        if not exact_text.strip():
+            continue
 
-        # Find the reference in the search area
-        relative_pos = search_area.find(ref_text)
-        if relative_pos != -1:
-            final_start = search_start + relative_pos
-            final_end = final_start + len(ref_text)
-
-            final_refs.append({
-                "type": ref["type"],
-                "target": ref["target"],
-                "text": ref_text,
-                "offset_start": final_start,
-                "offset_end": final_end
-            })
+        final_refs.append({
+            "type": ref["type"],
+            "target": ref["target"],
+            "text": exact_text,
+            "offset_start": mapped_start,
+            "offset_end": mapped_end,
+        })
 
     return final_refs
 
 
-def get_formatted_passage(head_paragraph, head_section, paragraph_id, element):
+def get_formatted_passage(head_paragraph: str | None, head_section: str | None, paragraph_id: str, element: Tag) -> dict[str, Any]:
     """Format a passage (paragraph or sentence) with metadata and references."""
     # Import the clean_text method
     def _clean_text_local(text: str) -> str:
         if not text:
             return ""
         text = re.sub(r'\s+', ' ', text.strip())
-        text = html.unescape(text)
+        # DO NOT call html.unescape(text) here either, to maintain parity and prevent offset corruption.
         return text
 
     text = _clean_text_local(element.get_text())
@@ -984,7 +1022,7 @@ def get_formatted_passage(head_paragraph, head_section, paragraph_id, element):
     return passage
 
 
-def xml_table_to_markdown(table_element):
+def xml_table_to_markdown(table_element: Tag | None) -> str | None:
     """Convert XML table to markdown format."""
     if not table_element:
         return None
@@ -1004,7 +1042,7 @@ def xml_table_to_markdown(table_element):
     return "\n".join(markdown_lines) if markdown_lines else None
 
 
-def xml_table_to_json(table_element):
+def xml_table_to_json(table_element: Tag | None) -> dict[str, Any] | None:
     """Convert XML table to JSON format."""
     if not table_element:
         return None
@@ -1055,6 +1093,7 @@ def xml_table_to_json(table_element):
 
 
 # Backwards compatible top-level function that uses the class
-def convert_tei_file(tei_file: Union[Path, BinaryIO], stream: bool = False):
+def convert_tei_file(tei_file: Union[str, Path, BinaryIO], stream: bool = False) -> Any:
     converter = TEI2LossyJSONConverter()
     return converter.convert_tei_file(tei_file, stream=stream)
+
